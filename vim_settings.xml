@@ -148,11 +148,11 @@
       <file name="$USER_HOME$/development/otonomo/frontend_utils/material/src/Typography/index.tsx" timestamp="1552592957338">
         <mark key="'" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" timestamp="1552722723458">
-        <mark key="[" line="20" column="69" />
-        <mark key="]" line="20" column="75" />
-        <mark key="^" line="20" column="75" />
-        <mark key="." line="20" column="75" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" timestamp="1552723098489">
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="26" column="47" />
+        <mark key="^" line="26" column="47" />
+        <mark key="." line="26" column="47" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scss" timestamp="1540196470427">
         <mark key="[" line="45" column="0" />
@@ -394,13 +394,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Start</text>
+        <text>.</text>
       </register>
       <register name="k" type="4">
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>Start</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>iconelement</text>
@@ -446,7 +446,7 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NoYW5nZWQnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action TsLintFileFixAction</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -494,12 +494,12 @@
         <entry>action EditorSplitLine</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action MoveStatementDown</entry>
-        <entry>action AceAction</entry>
         <entry>action VimWindowSplitVertical</entry>
         <entry>action GotoFile</entry>
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>action TsLintFileFixAction</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
