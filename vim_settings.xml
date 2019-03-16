@@ -148,12 +148,8 @@
       <file name="$USER_HOME$/development/otonomo/frontend_utils/material/src/Typography/index.tsx" timestamp="1552592957338">
         <mark key="'" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" timestamp="1552725636575">
-        <mark key="'" line="21" column="9" />
-        <mark key="[" line="24" column="55" />
-        <mark key="]" line="24" column="55" />
-        <mark key="^" line="23" column="21" />
-        <mark key="." line="24" column="55" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" timestamp="1552727558404">
+        <mark key="[" line="19" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scss" timestamp="1540196470427">
         <mark key="[" line="45" column="0" />
@@ -292,7 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="36" filename="$USER_HOME$/development/otonomo/app_management_ns/src/components/Pages/Main.js" />
       <jump line="16" column="0" filename="$USER_HOME$/development/otonomo/app_management_ns/src/components/Pages/Main.js" />
       <jump line="43" column="8" filename="$USER_HOME$/development/otonomo/app_management_ns/src/components/Pages/Main.js" />
       <jump line="181" column="0" filename="$USER_HOME$/development/otonomo/app_management_ns/src/components/Pages/ListServices.js" />
@@ -392,16 +387,17 @@
       <jump line="54" column="3" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" />
       <jump line="2" column="18" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/route-input.tsx" />
       <jump line="21" column="9" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" />
+      <jump line="32" column="3" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGlubmVyUmVmPXtsYWJlbFJlZn0=</text>
+        <text>&quot;TextField&quot;</text>
       </register>
       <register name="k" type="4">
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlubmVyUmVmPXtsYWJlbFJlZn0=</text>
+        <text>&quot;TextField&quot;</text>
       </register>
       <register name="/" type="4">
         <text>refroot</text>
@@ -410,7 +406,7 @@
         <text encoding="base64">Y29uc3QgQ09MT1JfQUNUSVZFX0JBQ0tHUk9VTkQgPSAnI2YwZjRmNycKY29uc3QgQ09MT1JfSU5BQ1RJVkVfQkFDS0dST1VORCA9ICcjZmFmY2ZjJwpjb25zdCBDT0xPUl9URVhUID0gJyMzNDRFRkYnCmNvbnN0IENPTE9SX0lOQUNUSVZFX1RFWFQgPSAnIzgwOTJBRCcKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3Qgb2Zmc2V0V2lkdGhPZiA9IGdldCgnY3VycmVudC5vZmZzZXRXaWR0aCcsIDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEFjY291bnRDaXJjbGUgLz4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -421,30 +417,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGdldCBmcm9tICdsb2Rhc2gvZnAvZ2V0Jwo=</text>
+        <text encoding="base64">ICAgICAgaWQ9ImlucHV0LXdpdGgtaWNvbi10ZXh0ZmllbGQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2xhc3NOYW1lPXtjbGFzc2VzLm1hcmdpbn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsYWJlbDogc3RyaW5nCg==</text>
+        <text encoding="base64">ICBjb25zdCBsYWJlbFJlZiA9IHVzZVJlZjxIVE1MTGFiZWxFbGVtZW50PihudWxsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBXaXRoIGEgc3RhcnQgYWRvcm5tZW50Cg==</text>
+        <text encoding="base64">ICBjb25zdCBsYWJlbFdpZHRoID0gbGFiZWxSZWYuY3VycmVudCA/IGxhYmVsUmVmLmN1cnJlbnQub2Zmc2V0V2lkdGggOiAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT3ZlcnJpZGVNdWlDb21wb25lbnQgfSBmcm9tICdzcmMvdHlwZXMvdHlwZS1hbGlhc2VzJwo=</text>
+        <text encoding="base64">ICAgICAgPC9Sb290UmVmPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxBY2NvdW50Q2lyY2xlIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgPFJvb3RSZWYgcm9vdFJlZj17bGFiZWxSZWZ9Pgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>interface RouteInputProps {
-  
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3Qgb2Zmc2V0V2lkdGhPZiA9IGdldCgnY3VycmVudC5vZmZzZXRXaWR0aCcsIDApCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TsLintFileFixAction</text>
