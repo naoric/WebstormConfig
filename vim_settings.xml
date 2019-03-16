@@ -148,11 +148,12 @@
       <file name="$USER_HOME$/development/otonomo/frontend_utils/material/src/Typography/index.tsx" timestamp="1552592957338">
         <mark key="'" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" timestamp="1552723098489">
-        <mark key="[" line="16" column="49" />
-        <mark key="]" line="26" column="47" />
-        <mark key="^" line="26" column="47" />
-        <mark key="." line="26" column="47" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" timestamp="1552725636575">
+        <mark key="'" line="21" column="9" />
+        <mark key="[" line="24" column="55" />
+        <mark key="]" line="24" column="55" />
+        <mark key="^" line="23" column="21" />
+        <mark key="." line="24" column="55" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scss" timestamp="1540196470427">
         <mark key="[" line="45" column="0" />
@@ -223,12 +224,12 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/route-input.tsx" timestamp="1552671244346">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/route-input.tsx" timestamp="1552725441380">
         <mark key="'" line="2" column="18" />
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="3" column="24" />
-        <mark key="." line="3" column="24" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="10" column="32" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBoxPopper.tsx" timestamp="1552581733373">
         <mark key="[" line="3" column="2" />
@@ -291,7 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="10" filename="$USER_HOME$/development/otonomo/app_management_ns/src/components/Pages/Main.js" />
       <jump line="66" column="36" filename="$USER_HOME$/development/otonomo/app_management_ns/src/components/Pages/Main.js" />
       <jump line="16" column="0" filename="$USER_HOME$/development/otonomo/app_management_ns/src/components/Pages/Main.js" />
       <jump line="43" column="8" filename="$USER_HOME$/development/otonomo/app_management_ns/src/components/Pages/Main.js" />
@@ -391,25 +391,26 @@
       <jump line="6" column="20" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/demo-components/SelectionWithPopover.tsx" />
       <jump line="54" column="3" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" />
       <jump line="2" column="18" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/route-input.tsx" />
+      <jump line="21" column="9" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IGlubmVyUmVmPXtsYWJlbFJlZn0=</text>
       </register>
       <register name="k" type="4">
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IGlubmVyUmVmPXtsYWJlbFJlZn0=</text>
       </register>
       <register name="/" type="4">
-        <text>iconelement</text>
+        <text>refroot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgQ09MT1JfQUNUSVZFX0JBQ0tHUk9VTkQgPSAnI2YwZjRmNycKY29uc3QgQ09MT1JfSU5BQ1RJVkVfQkFDS0dST1VORCA9ICcjZmFmY2ZjJwpjb25zdCBDT0xPUl9URVhUID0gJyMzNDRFRkYnCmNvbnN0IENPTE9SX0lOQUNUSVZFX1RFWFQgPSAnIzgwOTJBRCcKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsYWJlbDogc3RyaW5nCg==</text>
+        <text encoding="base64">Y29uc3Qgb2Zmc2V0V2lkdGhPZiA9IGdldCgnY3VycmVudC5vZmZzZXRXaWR0aCcsIDApCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -420,45 +421,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBXaXRoIGEgc3RhcnQgYWRvcm5tZW50Cg==</text>
+        <text encoding="base64">aW1wb3J0IGdldCBmcm9tICdsb2Rhc2gvZnAvZ2V0Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT3ZlcnJpZGVNdWlDb21wb25lbnQgfSBmcm9tICdzcmMvdHlwZXMvdHlwZS1hbGlhc2VzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBsYWJlbDogc3RyaW5nCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBXaXRoIGEgc3RhcnQgYWRvcm5tZW50Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHsgT3ZlcnJpZGVNdWlDb21wb25lbnQgfSBmcm9tICdzcmMvdHlwZXMvdHlwZS1hbGlhc2VzJwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIDxBY2NvdW50Q2lyY2xlIC8+Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>interface RouteInputProps {
   
 }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIHt7e3t7e3t9fX19fX19IHsKICAKfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBTcGFjZWRTZWxlY3Rpb25Cb3ggPSB3aXRoU3R5bGVzKHsKICAgIHJvb3Q6IHsKICAgICAgbWFyZ2luOiAxMCwKICAgIH0sCiAgfSkoU2VsZWN0aW9uQm94KQoKICBmdW5jdGlvbiBTZWxlY3Rpb25XaXRoUG9wb3ZlcigpIHsKICAgIGNvbnN0IGRvbVJlZiA9IHVzZVJlZjxIVE1MRWxlbWVudD4obnVsbCkKICAgIGNvbnN0IFtvcGVuLCBzZXRPcGVuXSA9IHVzZVN0YXRlKGZhbHNlKQoKICAgIGNvbnN0IGNsaWNrSGFuZGxlciA9IHVzZUNhbGxiYWNrKCgpID0+IHNldE9wZW4oIW9wZW4pLCBbXSkKCiAgICBjb25zdCBoYW5kbGVDbG9zZSA9IHVzZUNhbGxiYWNrKCgpID0+IHNldE9wZW4oZmFsc2UpLCBbXSkKCiAgICByZXR1cm4gKAogICAgICA8R3JpZCBjb250YWluZXI+CiAgICAgICAgPFJvb3RSZWYgcm9vdFJlZj17ZG9tUmVmfT4KICAgICAgICAgIDxTZWxlY3Rpb25Cb3gKICAgICAgICAgICAgSWNvbkNvbXBvbmVudD17UGx1c0ljb259CiAgICAgICAgICAgIGxhYmVsPSJOZXciCiAgICAgICAgICAgIG9uQ2xpY2s9e2NsaWNrSGFuZGxlcn0KICAgICAgICAgIC8+CiAgICAgICAgPC9Sb290UmVmPgogICAgICAgIDxTZWxlY3Rpb25Cb3hQb3BvdmVyCiAgICAgICAgICBvcGVuPXtvcGVufQogICAgICAgICAgYW5jaG9yRWw9e2RvbVJlZi5jdXJyZW50fQogICAgICAgICAgb25DbG9zZT17aGFuZGxlQ2xvc2V9PgogICAgICAgICAgPFNwYWNlZFNlbGVjdGlvbkJveCBJY29uQ29tcG9uZW50PXtHYXNvbGluZUljb259IGxhYmVsPSJHYXNvbGluZSIgLz4KICAgICAgICAgIDxTcGFjZWRTZWxlY3Rpb25Cb3ggSWNvbkNvbXBvbmVudD17RWxlY3RyaWNJY29ufSBsYWJlbD0iR2Fzb2xpbmUiIC8+CiAgICAgICAgPC9TZWxlY3Rpb25Cb3hQb3BvdmVyPgogICAgICA8L0dyaWQ+CiAgICApCiAgfQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NoYW5nZWQnKQo=</text>
-      </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action TsLintFileFixAction</text>
       </register>
     </registers>
     <search>
-      <last-search>iconelement</last-search>
+      <last-search>refroot</last-search>
       <last-offset />
-      <last-pattern>iconelement</last-pattern>
+      <last-pattern>refroot</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMT0dJTlw+</entry>
         <entry>login</entry>
         <entry>logout</entry>
         <entry>handleLogout</entry>
@@ -478,6 +478,7 @@
         <entry>storybook__react</entry>
         <entry>material</entry>
         <entry>iconelement</entry>
+        <entry>refroot</entry>
       </history-search>
       <history-cmd>
         <entry>action FileStructurePopup</entry>
@@ -490,16 +491,16 @@
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action EditorCloneCaretBelow</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action VimWindowSplitVertical</entry>
         <entry>action GotoFile</entry>
-        <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
-        <entry>action ShowIntentionActions</entry>
-        <entry>action TsLintFileFixAction</entry>
         <entry>action AceAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ShowIntentionActions</entry>
+        <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
+        <entry>action TsLintFileFixAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
