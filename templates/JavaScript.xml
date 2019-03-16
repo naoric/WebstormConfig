@@ -1,0 +1,67 @@
+<templateSet group="JavaScript">
+  <template name="defn" value="define([&quot;$MODULE_REF$&quot;], function($MODULE_VAR$) {&#10;$END$&#10;});" description="Inserts define() expression" toReformat="false" toShortenFQNames="true">
+    <variable name="MODULE_REF" expression="complete()" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="MODULE_VAR" expression="jsDefineParameter(MODULE_REF)" defaultValue="mod" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="dd" value="const { $END$ } = $EXPR$" description="Destructure" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="con" value="const $VAR$ = '$VAL$'" description="Constant" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="capitalizeAndUnderscore(VAL)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="oo" value="|| " description="Or" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="l" value="$PARAMS$ =&gt; $END$" description="lambda" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_CLASS" value="false" />
+    </context>
+  </template>
+  <template name="ss" value="Symbol($ARG$)$END$" description="Symbol" toReformat="false" toShortenFQNames="true">
+    <variable name="ARG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="s" value="() =&gt; $END$" description="empty lambda" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_CLASS" value="false" />
+    </context>
+  </template>
+  <template name="m" value="$METHOD$($ARGS$) {&#10;  $END$&#10;}" description="method" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD" expression="" defaultValue="&quot;method&quot;" alwaysStopAt="true" />
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_CLASS" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="e" value="export $END$" description="export" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ee" value="export default $END$" description="export default" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="x" value="extends $END$" description="extends" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

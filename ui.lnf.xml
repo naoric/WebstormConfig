@@ -1,0 +1,6 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="5" />
+    <option name="FONT_SCALE" value="1.0" />
+  </component>
+</application>

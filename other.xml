@@ -1,0 +1,51 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerAvailableExternally="true" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/n/bin/node" />
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="11.3.0" last-modified="1543999562000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/10.11.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.11.4/bin/node">
+      <version-cache version="8.11.4" last-modified="1534343105000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/n/n/versions/node/8.11.3/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ActionMacroConfigurationPanel.SPLITTER_PROPORTION" value="0.5" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Material Oceanic" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value="log" />
+    <property name="KEYMAP" value="format&#10;save all&#10;save&#10;save format&#10;save, format" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="PLUGIN_FILTER" value="save action&#10;live&#10;file&#10;create file&#10;ace" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="settings sync&#10;keymap&#10;live template&#10;tslint&#10;postfix" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.70493007" />
+    <property name="TrendingPluginsSearchHistory" value="codetools&#10;ai predictive&#10;kite&#10;wallaby&#10;commitizen" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="OCEANIC" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.182" value="11" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/development/otonomo/app_management_ns/src/reducers" />
+    <property name="file.gist.reindex.count" value="137538" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="ideavim.statistics.timestamp" value="1552666686637" />
+    <property name="js.extract.function.global.scope.was.selected" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="settings.code.style.selected.tab.CSS" value="Other" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Imports" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Code Generation" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+</application>
