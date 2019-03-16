@@ -151,12 +151,12 @@
       <file name="$USER_HOME$/development/otonomo/frontend_utils/material/src/Typography/index.tsx" timestamp="1552592957338">
         <mark key="'" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" timestamp="1552745702590">
-        <mark key="'" line="29" column="30" />
-        <mark key="[" line="70" column="13" />
-        <mark key="]" line="70" column="16" />
-        <mark key="." line="70" column="16" />
-        <mark key="^" line="70" column="16" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" timestamp="1552747845050">
+        <mark key="'" line="28" column="30" />
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/styling/jss-helpers.ts" timestamp="1552745391165">
         <mark key="[" line="1" column="19" />
@@ -403,8 +403,8 @@
       <jump line="0" column="12" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/route-input.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>orange</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -413,7 +413,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>orange</text>
       </register>
       <register name="/" type="4">
         <text>styles</text>
@@ -457,7 +457,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSplitLine</text>
+        <text>action TsLintFileFixAction</text>
       </register>
     </registers>
     <search>
@@ -509,8 +509,8 @@
         <entry>action SelectNextOccurrence</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>action EditorDuplicateLines</entry>
-        <entry>action TsLintFileFixAction</entry>
         <entry>action EditorSplitLine</entry>
+        <entry>action TsLintFileFixAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
