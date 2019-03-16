@@ -233,12 +233,12 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/route-input.tsx" timestamp="1552746010406">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/route-input.tsx" timestamp="1552749500151">
         <mark key="'" line="0" column="12" />
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="0" column="41" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="29" />
+        <mark key="^" line="16" column="29" />
+        <mark key="." line="16" column="29" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBoxPopper.tsx" timestamp="1552581733373">
         <mark key="[" line="3" column="2" />
@@ -404,7 +404,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>orange</text>
+        <text>&quot;Start&quot;</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -413,7 +413,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>orange</text>
+        <text>&quot;Start&quot;</text>
       </register>
       <register name="/" type="4">
         <text>styles</text>
@@ -433,28 +433,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8Um91dGVJbnB1dCBsYWJlbD0iRW5kIiBJY29uPXtTdG9wfSAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDw+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlSW5wdXQgbGFiZWw9IlN0YXJ0IiBJY29uPXtGaWJlck1hbnVhbFJlY29yZH0gLz4KICAgICAgPFJvdXRlSW5wdXQgbGFiZWw9IkVuZCIgSWNvbj17U3RvcH0gLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFN0b3AgZnJvbSAnQG1hdGVyaWFsL3VpL2ljb25zL1N0b3AnCg==</text>
+        <text encoding="base64">ICAgIDwvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFN0b3AgZnJvbSAnQG1hdGVyaWFsL3VpL2ljb25zL1N0b3AnCg==</text>
+        <text encoding="base64">ICAgIDw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">J0ZpYmVyTWFudWFsUmVjb3JkJwo=</text>
+        <text encoding="base64">ICAgICAgPFJvdXRlSW5wdXQgbGFiZWw9IlN0YXJ0IiBJY29uPXtGaWJlck1hbnVhbFJlY29yZH0gLz4KICAgICAgPFJvdXRlSW5wdXQgbGFiZWw9IkVuZCIgSWNvbj17U3RvcH0gLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICcmICRub3RjaGVkT3V0bGluZSc6IHsKICAgICAgYm9yZGVyQ29sb3I6ICdwdXJwbGUnLAogICAgfSwK</text>
+        <text encoding="base64">aW1wb3J0IFN0b3AgZnJvbSAnQG1hdGVyaWFsL3VpL2ljb25zL1N0b3AnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFN0b3AgZnJvbSAnQG1hdGVyaWFsL3VpL2ljb25zL1N0b3AnCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TsLintFileFixAction</text>
@@ -495,14 +495,12 @@
         <entry>action MoveStatementUp</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action VimWindowSplitVertical</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>actionlist tslint</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action IntroduceConstant</entry>
-        <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
         <entry>action RenameElement</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action AceAction</entry>
@@ -510,6 +508,8 @@
         <entry>action ShowIntentionActions</entry>
         <entry>action EditorDuplicateLines</entry>
         <entry>action EditorSplitLine</entry>
+        <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
+        <entry>action GotoFile</entry>
         <entry>action TsLintFileFixAction</entry>
       </history-cmd>
       <history-expr />
