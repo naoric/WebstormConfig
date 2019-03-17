@@ -127,11 +127,11 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" timestamp="1552824082241">
-        <mark key="'" line="28" column="30" />
-        <mark key="[" line="62" column="19" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="19" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" timestamp="1552824859286">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="7" column="24" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/styling/jss-helpers.ts" timestamp="1552745391165">
         <mark key="[" line="1" column="19" />
@@ -378,7 +378,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICcmJGZvY3VzJzogewoKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIG91dGxpbmVDb2xvcjogJ3JlZCcsCg==</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -396,7 +396,7 @@
         <text encoding="base64">Y29uc3QgTUFQQk9YX1RPS0VOID0KICAncGsuZXlKMUlqb2lZMjl0Ylc5a2FYUjVkbVZqZEc5eWN5SXNJbUVpT2lKamFtUjNlV0Z2ZDNvd2NUVXdNelJ6Tm1nMWVYSmpZV2x6SW4wLlFFU0lpcmV5Q3V0aWlGT1RsSTR5NXcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICcmJGZvY3VzJzogewoKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIG91dGxpbmVDb2xvcjogJ3JlZCcsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -407,28 +407,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTnVsbGFibGUgfSBmcm9tICd0eXBlcy90eXBlLWFsaWFzZXMnCg==</text>
+        <text encoding="base64">aW1wb3J0IHRoZW1lIGZyb20gJ0BvdG9ub21vL21hdGVyaWFsL2xpYi90aGVtZS90aGVtZScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1lbW9pemUgZnJvbSAnbWVtb2l6ZS1vbmUnCg==</text>
+        <text encoding="base64">ICAgICcmJGZvY3VzJzogewoKICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGdlbmVyYXRlTGluZVN0cmluZyA9IG1lbW9pemUocG9seURlY29kZXIudG9HZW9KU09OKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTnVsbGFibGUgfSBmcm9tICd0eXBlcy90eXBlLWFsaWFzZXMnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBERUZBVUxUX1dJRFRILAo=</text>
+        <text encoding="base64">aW1wb3J0IG1lbW9pemUgZnJvbSAnbWVtb2l6ZS1vbmUnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBERUZBVUxUX1BPU0lUSU9OLAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGdlbmVyYXRlTGluZVN0cmluZyA9IG1lbW9pemUocG9seURlY29kZXIudG9HZW9KU09OKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBERUZBVUxUX0hFSUdIVCwK</text>
+        <text encoding="base64">ICBERUZBVUxUX1dJRFRILAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IERFRkFVTFRfUE9TSVRJT04gPSAK</text>
+        <text encoding="base64">ICBERUZBVUxUX1BPU0lUSU9OLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IERFRkFVTFRfSEVJR0hUID0gJzEwMCUnCg==</text>
+        <text encoding="base64">ICBERUZBVUxUX0hFSUdIVCwK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorSplitLine</text>
