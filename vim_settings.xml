@@ -66,9 +66,6 @@
         <mark key="." line="95" column="53" />
         <mark key="^" line="95" column="53" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" timestamp="1552475330402">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/development/permissions-ui/assets/css/oems.scss" timestamp="1540320563665">
         <mark key="[" line="14" column="31" />
         <mark key="]" line="14" column="32" />
@@ -129,9 +126,6 @@
         <mark key="]" line="4" column="44" />
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="32" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/frontend_utils/material/src/Typography/index.tsx" timestamp="1552592957338">
-        <mark key="'" line="26" column="16" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" timestamp="1552747845050">
         <mark key="'" line="28" column="30" />
@@ -224,6 +218,7 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/frontend_utils/material/src/forms/PasswordTextField.tsx" timestamp="1552822699810" />
       <file name="$USER_HOME$/development/otonomo/app_management_ns/src/environment.js" timestamp="1550242486891">
         <mark key="[" line="15" column="34" />
         <mark key="]" line="15" column="37" />
@@ -437,7 +432,7 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IERFRkFVTFRfV0lEVEggPSAnMTAwJScK</text>
       </register>
       <register name=":" type="4">
-        <text>action TsLintFileFixAction</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -486,11 +481,11 @@
         <entry>action AceAction</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action ExtractMethod</entry>
         <entry>action RenameElement</entry>
         <entry>action TsLintFileFixAction</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
