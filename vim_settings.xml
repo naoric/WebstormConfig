@@ -122,12 +122,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" timestamp="1552845848222">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" timestamp="1552847105740">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="23" />
-        <mark key="^" line="0" column="12" />
+        <mark key="[" line="40" column="34" />
+        <mark key="]" line="40" column="39" />
+        <mark key="." line="40" column="39" />
+        <mark key="^" line="40" column="39" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/car-selection-box.tsx" timestamp="1552671152995">
         <mark key="[" line="6" column="40" />
