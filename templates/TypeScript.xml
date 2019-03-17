@@ -24,4 +24,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="fn" value="function $NAME$($ARGS$) {&#10;  $END$&#10;}" description="function" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
