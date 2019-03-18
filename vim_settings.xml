@@ -171,11 +171,8 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/demo-components/SelectionWithPopover.tsx" timestamp="1552903521308">
-        <mark key="'" line="8" column="20" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/demo-components/SelectionWithPopover.tsx" timestamp="1552918219200">
+        <mark key="'" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/map-config.ts" timestamp="1552776416167">
         <mark key="[" line="8" column="13" />
@@ -333,7 +330,6 @@
       <jump line="5" column="66" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/car-selection-box.tsx" />
       <jump line="40" column="1" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/car-selection-box.tsx" />
       <jump line="39" column="49" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/car-selection-box.tsx" />
-      <jump line="34" column="16" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/demo-components/SelectionWithPopover.tsx" />
       <jump line="29" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/car-selection-box.tsx" />
       <jump line="6" column="20" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/demo-components/SelectionWithPopover.tsx" />
       <jump line="54" column="3" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" />
@@ -397,6 +393,7 @@
       <jump line="62" column="7" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
       <jump line="57" column="42" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
       <jump line="55" column="10" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
+      <jump line="34" column="18" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/demo-components/SelectionWithPopover.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -453,7 +450,7 @@
         <text encoding="base64">ICAgIGNvbG9yOiBOb3RpZmljYXRpb25Db2xvcnMud2FybmluZywK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action TsLintFileFixAction</text>
       </register>
     </registers>
     <search>
@@ -505,8 +502,8 @@
         <entry>action SelectNextOccurrence</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action ShowIntentionActions</entry>
-        <entry>action TsLintFileFixAction</entry>
         <entry>action GotoFile</entry>
+        <entry>action TsLintFileFixAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
