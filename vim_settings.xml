@@ -126,12 +126,6 @@
         <mark key="^" line="70" column="47" />
         <mark key="." line="70" column="39" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/car-selection-box.tsx" timestamp="1552671152995">
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="52" />
-        <mark key="^" line="6" column="52" />
-        <mark key="." line="6" column="52" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/serviceWorker.ts" timestamp="1552775019583">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="19" />
@@ -183,12 +177,11 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="68" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/demo-components/SelectionWithPopover.tsx" timestamp="1552605489602">
-        <mark key="'" line="6" column="20" />
-        <mark key="[" line="46" column="17" />
-        <mark key="]" line="46" column="24" />
-        <mark key="^" line="46" column="24" />
-        <mark key="." line="46" column="24" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/demo-components/SelectionWithPopover.tsx" timestamp="1552903521308">
+        <mark key="'" line="8" column="20" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/map-config.ts" timestamp="1552776416167">
         <mark key="[" line="8" column="13" />
@@ -412,8 +405,8 @@
       <jump line="55" column="10" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PE5vdGlmaWNhdGlvblR5cGU+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -422,7 +415,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PE5vdGlmaWNhdGlvblR5cGU+</text>
+        <text encoding="base64">KiBhcyA=</text>
       </register>
       <register name="/" type="4">
         <text>preset</text>
@@ -431,7 +424,7 @@
         <text encoding="base64">Y29uc3QgTUFQQk9YX1RPS0VOID0KICAncGsuZXlKMUlqb2lZMjl0Ylc5a2FYUjVkbVZqZEc5eWN5SXNJbUVpT2lKamFtUjNlV0Z2ZDNvd2NUVXdNelJ6Tm1nMWVYSmpZV2x6SW4wLlFFU0lpcmV5Q3V0aWlGT1RsSTR5NXcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9zcmMvQXBwLmNzcycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -442,31 +435,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBOb3RpZmljYXRpb25Db2xvcnMuZXJyb3IsCg==</text>
+        <text encoding="base64">Y2FyLmhhc05vQXBwKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBOb3RpZmljYXRpb25Db2xvcnMud2FybmluZywK</text>
+        <text encoding="base64">Q2FyZXRQb3NpdGlvbiA9Q2FyZXRQb3NpdGlvbi5vYmplY3RzLmZpcnN0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBOb3RpZmljYXRpb25Db2xvcnMuaW5mbywK</text>
+        <text encoding="base64">aWYgKGNhcikgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBJY29uLAo=</text>
+        <text encoding="base64">aW1wb3J0ICcuLi9zcmMvQXBwLmNzcycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBJY29uOiBSZWFjdC5Db21wb25lbnRDbGFzcwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PgogICAgICAgIAogICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbG9yOiBOb3RpZmljYXRpb25Db2xvcnMuZXJyb3IsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPEdyaWQ9IiIK</text>
+        <text encoding="base64">ICAgIGNvbG9yOiBOb3RpZmljYXRpb25Db2xvcnMud2FybmluZywK</text>
       </register>
       <register name=":" type="4">
-        <text>action TsLintFileFixAction</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -512,7 +505,6 @@
         <entry>action MoveStatementUp</entry>
         <entry>action EditorCloneCaretBelow</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
         <entry>action EditorDuplicateLines</entry>
@@ -520,6 +512,7 @@
         <entry>action EditorSplitLine</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>action TsLintFileFixAction</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
