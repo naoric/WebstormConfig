@@ -242,11 +242,11 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/store.ts" timestamp="1553091847506">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/store.ts" timestamp="1553092800234">
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="6" />
-        <mark key="^" line="3" column="6" />
-        <mark key="." line="3" column="6" />
+        <mark key="]" line="3" column="45" />
+        <mark key="^" line="3" column="45" />
+        <mark key="." line="3" column="45" />
       </file>
       <file name="$USER_HOME$/development/otonomo/app_management_ns/src/environment.js" timestamp="1550242486891">
         <mark key="[" line="15" column="34" />
@@ -467,7 +467,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action TsLintFileFixAction</text>
       </register>
     </registers>
     <search>
@@ -519,8 +519,8 @@
         <entry>action SelectNextOccurrence</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action ShowIntentionActions</entry>
-        <entry>action TsLintFileFixAction</entry>
         <entry>action GotoFile</entry>
+        <entry>action TsLintFileFixAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
