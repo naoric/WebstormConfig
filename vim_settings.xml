@@ -102,11 +102,10 @@
         <mark key="." line="18" column="6" />
         <mark key="^" line="18" column="6" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/api/api-client.ts" timestamp="1553099513305">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/api/api-client.ts" timestamp="1553100171906">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/apps_platform/clients/otofuel/src/containers/Auth/PrivateRoute.jsx" timestamp="1543319333146">
         <mark key="[" line="36" column="18" />
@@ -256,7 +255,7 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/store.ts" timestamp="1553097827735">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/store.ts" timestamp="1553100196042">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="8" />
         <mark key="." line="3" column="8" />
@@ -421,7 +420,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>axios</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgYXhpb3MgZnJvbSAnYXhpb3MnCgpheGlvcwo=</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -438,8 +437,8 @@
       <register name="0" type="4">
         <text>@jackwilsdon/craco-use-babelrc</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">aW1wb3J0ICogYXMgYXhpb3MgZnJvbSAnYXhpb3MnCgpheGlvcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -450,28 +449,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVjbGFyZSBnbG9iYWwgewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ZGVjbGFyZSBnbG9iYWwgewo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ZGVjbGFyZSAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">aW50ZXJmYWNlIFdpbmRvdyB7CiAgX19SRURVWF9ERVZUT09MU19FWFRFTlNJT05fXzogKCkgPT4gdm9pZAp9</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y29uc3QgYWN0aW9uQ3JlYXRvciA9IHsKICB0eXBlOiAnQUNUSU9OJywKICBwYXlsb2FkOiB7fQp9Cgpjb25zdCBhc3luY0FjdGlvbkNyZWF0b3IgPSAoKSA9PiAoewogIHR5cGU6ICdBQ1RJT04nLAogIHBheWxvYWQ6IFByb21pc2UucmVqZWN0KEVycm9yKQp9KQoKY29uc3QgcmVkdWNlciA9IChzdGF0ZSwgYWN0aW9uKSA9PiB7CiAgc3dpdGNoICgpIHsKICAgIGNhc2UgJ0FDVElPTl9SRUpFQ1RFRCc6CiAgICB7CiAgICAgICdwYXlsb2FkJzogRXJyb3IKICAgICAgJ2Vycm9yJzogdHJ1ZQogICAgfQogICAgY2FzZSAnQUNUSU9OX1BFTkRJTkcnOgogICAgewogICAgICAnZXJyb3InOiBmYWxzZSwKICAgICAgJ2xvYWRpbmcnOiB0cnVlCiAgICB9CiAgfQp9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Y29uc3QgYXN5bmNBY3Rpb25DcmVhdG9yID0gKCkgPT4gKHsKICB0eXBlOiAnQUNUSU9OJywKICBwYXlsb2FkOiBQcm9taXNlLnJlamVjdChFcnJvcikKfSkKCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYWN0aW9uQ3JlYXRvciA9IHsKICB0eXBlOiAnQUNUSU9OJywKICBwYXlsb2FkOiB7fQp9Cgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJAamFja3dpbHNkb24vY3JhY28tdXNlLWJhYmVscmMiOiAiXjEuMC4wIiwK</text>
+        <text encoding="base64">Y29uc3QgYWN0aW9uQ3JlYXRvciA9IHsKICB0eXBlOiAnQUNUSU9OJywKICBwYXlsb2FkOiB7fQp9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>action TsLintFileFixAction</text>
