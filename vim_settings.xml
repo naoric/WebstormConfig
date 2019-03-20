@@ -102,6 +102,12 @@
         <mark key="." line="18" column="6" />
         <mark key="^" line="18" column="6" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/api/api-client.ts" timestamp="1553099513305">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/apps_platform/clients/otofuel/src/containers/Auth/PrivateRoute.jsx" timestamp="1543319333146">
         <mark key="[" line="36" column="18" />
         <mark key="]" line="36" column="30" />
@@ -415,7 +421,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>axios</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -424,7 +430,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>axios</text>
       </register>
       <register name="/" type="4">
         <text>craco</text>
@@ -468,7 +474,7 @@
         <text encoding="base64">ICAgICJAamFja3dpbHNkb24vY3JhY28tdXNlLWJhYmVscmMiOiAiXjEuMC4wIiwK</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowIntentionActions</text>
+        <text>action TsLintFileFixAction</text>
       </register>
     </registers>
     <search>
@@ -520,8 +526,8 @@
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action GotoFile</entry>
-        <entry>action TsLintFileFixAction</entry>
         <entry>action ShowIntentionActions</entry>
+        <entry>action TsLintFileFixAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
