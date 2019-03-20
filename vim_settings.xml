@@ -55,9 +55,10 @@
         <mark key="^" line="16" column="2" />
         <mark key="." line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1553081281429">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="34" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1553083851805">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/development/permissions-ui/assets/css/_base.scss" timestamp="1540207272798">
         <mark key="[" line="4" column="19" />
@@ -191,7 +192,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/craco.config.js" timestamp="1553081218430">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/craco.config.js" timestamp="1553083847179">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -400,8 +401,8 @@
       <jump line="35" column="14" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>@jackwilsdon/craco-use-babelrc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJAamFja3dpbHNkb24vY3JhY28tdXNlLWJhYmVscmMiOiAiXjEuMC4wIiwK</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -419,7 +420,7 @@
         <text>@jackwilsdon/craco-use-babelrc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAamFja3dpbHNkb24vY3JhY28tdXNlLWJhYmVscmMiOiAiXjEuMC4wIiwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -433,25 +434,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgQmFiZWxSY1BsdWdpbiA9IHJlcXVpcmUoJ0BqYWNrd2lsc2Rvbi9jcmFjby11c2UtYmFiZWxyYycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0NyYWNvIGlzIHJ1bm5pbmcnKQo=</text>
+        <text encoding="base64">Y29uc3QgQmFiZWxSY1BsdWdpbiA9IHJlcXVpcmUoJ0BqYWNrd2lsc2Rvbi9jcmFjby11c2UtYmFiZWxyYycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwbHVnaW5zOiBbeyBwbHVnaW46IEJhYmVsUmNQbHVnaW4gfV0sCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0NyYWNvIGlzIHJ1bm5pbmcnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwbHVnaW5zOiBbeyBwbHVnaW46IEJhYmVsUmNQbHVnaW4gfV0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3ZWJwYWNrOiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2FyLmhhc05vQXBwKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q2FyZXRQb3NpdGlvbiA9Q2FyZXRQb3NpdGlvbi5vYmplY3RzLmZpcnN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
