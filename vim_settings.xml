@@ -72,16 +72,16 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1553183814515">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="16" />
-        <mark key="." line="13" column="16" />
-        <mark key="^" line="13" column="16" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1553186482688">
+        <mark key="[" line="5" column="68" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/store.ts" timestamp="1553100196042">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="8" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/store.ts" timestamp="1553186514164">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/deck.gl__core/index.d.ts" timestamp="1553117408367">
@@ -97,11 +97,11 @@
         <mark key="." line="26" column="49" />
         <mark key="^" line="26" column="49" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api.ts" timestamp="1553179526214">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="6" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api.ts" timestamp="1553186534060">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
         <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="6" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" timestamp="1552777341229">
         <mark key="'" line="0" column="0" />
@@ -110,10 +110,10 @@
         <mark key="^" line="76" column="22" />
         <mark key="." line="76" column="52" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/api-actions.ts" timestamp="1553183796887">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/api-actions.ts" timestamp="1553186333598">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/App.tsx" timestamp="1553178592329">
         <mark key="[" line="7" column="0" />
@@ -243,7 +243,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGRpc3BhdGNoQXBpQ2FsbChwYXJhbXM6IEFwaVJlcXVlc3RDb25maWcpIHsKICByZXR1cm4gYXBpSW5zdGFuY2UocGFyYW1zKQp9Cgo=</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -252,7 +252,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text encoding="base64">YXBpSW5zdGFuY2Ug</text>
       </register>
       <register name="/" type="4">
         <text>deckgk</text>
@@ -261,7 +261,7 @@
         <text encoding="base64">ICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsIChhcmc6IFQpID0+IHsKICAgIHJldHVybiB7IHJlcXVlc3Q6IHJlcXVlc3RDb25maWdDcmVhdG9yKGFyZykgfQogIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGRpc3BhdGNoQXBpQ2FsbChwYXJhbXM6IEFwaVJlcXVlc3RDb25maWcpIHsKICByZXR1cm4gYXBpSW5zdGFuY2UocGFyYW1zKQp9Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -271,32 +271,32 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KGFyZzogVCkgPT4gewogICAgcmV0dXJuIHsgcmVxdWVzdDogcmVxdWVzdENvbmZpZ0NyZWF0b3IoYXJnKSB9CiAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHsgcm9vdFNhZ2EgfSBmcm9tICdzcmMvc3RhdGUvc2FnYXMvcm9vdC1zYWdhJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGFwaUVycm9yID0gY3JlYXRlQWN0aW9uKCkK</text>
+        <text encoding="base64">aW50ZXJmYWNlIE1pZ2h0Q29udGFpblJlcXVlc3QgewogIHJlcXVlc3Q/OiBBcGlSZXF1ZXN0Q29uZmlnCn0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcHV0cyB9IGZyb20gJ3V0aWwnCg==</text>
+        <text encoding="base64">ICB5aWVsZCB0YWtlTGF0ZXN0KCcqJywpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGNhbGwoZGlzcGF0Y2hBcGlDYWxsLCBwYXlsb2FkLnJlcXVlc3QpCg==</text>
+        <text encoding="base64">dHlwZSBPcHRpb25hbFJlcXVlc3RBY3Rpb24gPSBBY3Rpb248TWlnaHRDb250YWluUmVxdWVzdD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiogcm9vdFNhZ2EoKSB7CiAgeWllbGQgdGFrZUxhdGVzdCgnKicsIGhhbmRsZUFwaUNhbGwpCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGNhbGwoZGlzcGF0Y2hBcGlDYWxsLCBwYXlsb2FkLnJlcXVlc3QpCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24qIGhhbmRsZUFwaUNhbGwoeyB0eXBlLCBwYXlsb2FkID0ge30gfTogT3B0aW9uYWxSZXF1ZXN0QWN0aW9uKSB7CiAgaWYgKHBheWxvYWQucmVxdWVzdCkgewogICAgY29uc3QgW3N1Y2Nlc3MsIHBlbmRpbmcsIGVycm9yXSA9IHJlcXVlc3RBY3Rpb25OYW1lcyh0eXBlKQogICAgdHJ5IHsKICAgICAgeWllbGQgcHV0KHsgdHlwZTogcGVuZGluZyB9KQogICAgICBjb25zdCByZXN1bHQgPSB5aWVsZCBjYWxsKGRpc3BhdGNoQXBpQ2FsbCwgcGF5bG9hZC5yZXF1ZXN0KQogICAgICB5aWVsZCBwdXQoeyB0eXBlOiBzdWNjZXNzLCBwYXlsb2FkOiByZXN1bHQgfSkKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgaGFuZGxlQXBpRXJyb3IoZXJyb3IsIGUpCiAgICB9CiAgfQp9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGlzcGF0Y2hBcGlDYWxsIH0gZnJvbSAnc3JjL3N0YXRlL2FwaScK</text>
+        <text encoding="base64">ZnVuY3Rpb24qIGhhbmRsZUFwaUVycm9yKHR5cGU6IHN0cmluZywgZTogQXhpb3NFcnJvcikgewogIHlpZWxkIHB1dCh7dHlwZSB9KQp9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXhpb3NSZXF1ZXN0Q29uZmlnIH0gZnJvbSAnYXhpb3MnCg==</text>
+        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiBhcGlBY3Rpb248VD4oCiAgbmFtZTogc3RyaW5nLAogIHJlcXVlc3RDb25maWdDcmVhdG9yOiBDb25maWdDcmVhdG9yPFQ+CikgewogIHJldHVybiBjcmVhdGVBY3Rpb25zKG5hbWUsIHsKICAgIFtuYW1lXTogewogICAgICBTVUNDRVNTOiBub29wLAogICAgICBQRU5ESU5HOiBub29wLAogICAgICBFUlJPUjogbm9vcCwKICAgIH0sCiAgfSkKfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action MoveStatementUp</text>
+        <text>action ShowIntentionActions</text>
       </register>
     </registers>
     <search>
@@ -330,13 +330,11 @@
         <entry>deckgk</entry>
       </history-search>
       <history-cmd>
-        <entry>action IntroduceVariable</entry>
         <entry>action IntroduceConstant</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action ExtractMethod</entry>
         <entry>action EditorCloneCaretBelow</entry>
         <entry>action EditorDuplicateLines</entry>
-        <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
@@ -347,9 +345,11 @@
         <entry>action GotoFile</entry>
         <entry>action AceAction</entry>
         <entry>action MoveStatementDown</entry>
-        <entry>action ShowIntentionActions</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVN0YXRlbWVudFVw</entry>
         <entry>action MoveStatementUp</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
+        <entry>action ShowUsages</entry>
+        <entry>action ShowIntentionActions</entry>
       </history-cmd>
       <history-expr />
       <history-input />
