@@ -72,11 +72,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1553180437839">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="27" />
-        <mark key="." line="6" column="27" />
-        <mark key="^" line="6" column="27" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1553183814515">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="16" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/store.ts" timestamp="1553100196042">
         <mark key="[" line="3" column="8" />
@@ -110,11 +110,10 @@
         <mark key="^" line="76" column="22" />
         <mark key="." line="76" column="52" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/api-actions.ts" timestamp="1553180277291">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="15" column="25" />
-        <mark key="^" line="15" column="25" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/api-actions.ts" timestamp="1553183796887">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/App.tsx" timestamp="1553178592329">
         <mark key="[" line="7" column="0" />
@@ -243,8 +242,8 @@
       <jump line="12" column="48" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AxiosRequestConfig</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -253,7 +252,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>AxiosRequestConfig</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>deckgk</text>
@@ -261,8 +260,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsIChhcmc6IFQpID0+IHsKICAgIHJldHVybiB7IHJlcXVlc3Q6IHJlcXVlc3RDb25maWdDcmVhdG9yKGFyZykgfQogIH0pCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KGFyZzogVCkgPT4gewogICAgcmV0dXJuIHsgcmVxdWVzdDogcmVxdWVzdENvbmZpZ0NyZWF0b3IoYXJnKSB9CiAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -272,32 +271,32 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGFwaUVycm9yID0gY3JlYXRlQWN0aW9uKCkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">KGFyZzogVCkgPT4gewogICAgcmV0dXJuIHsgcmVxdWVzdDogcmVxdWVzdENvbmZpZ0NyZWF0b3IoYXJnKSB9CiAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcHV0cyB9IGZyb20gJ3V0aWwnCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGFwaUVycm9yID0gY3JlYXRlQWN0aW9uKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGNhbGwoZGlzcGF0Y2hBcGlDYWxsLCBwYXlsb2FkLnJlcXVlc3QpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcHV0cyB9IGZyb20gJ3V0aWwnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHlpZWxkIGNhbGwoZGlzcGF0Y2hBcGlDYWxsLCBwYXlsb2FkLnJlcXVlc3QpCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGlzcGF0Y2hBcGlDYWxsIH0gZnJvbSAnc3JjL3N0YXRlL2FwaScK</text>
+        <text encoding="base64">ICAgIHlpZWxkIGNhbGwoZGlzcGF0Y2hBcGlDYWxsLCBwYXlsb2FkLnJlcXVlc3QpCg==</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZGlzcGF0Y2hBcGlDYWxsIH0gZnJvbSAnc3JjL3N0YXRlL2FwaScK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IHsgQXhpb3NSZXF1ZXN0Q29uZmlnIH0gZnJvbSAnYXhpb3MnCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZnVuY3Rpb24qIGhhbmRsZUFwaUNhbGwoewogICAgcGF5bG9hZCA9IHt9LAogIH06IEFjdGlvbjxDb250YWluc1JlcXVlc3Q+KSB7CiAgICBpZiAocGF5bG9hZC5yZXF1ZXN0KSB7CiAgICAgIHlpZWxkIGNhbGwoZGlzcGF0Y2hBcGlDYWxsLCBwYXlsb2FkLnJlcXVlc3QpCiAgICB9CiAgfQ==</text>
-      </register>
       <register name=":" type="4">
-        <text>action ShowIntentionActions</text>
+        <text>action MoveStatementUp</text>
       </register>
     </registers>
     <search>
@@ -331,7 +330,6 @@
         <entry>deckgk</entry>
       </history-search>
       <history-cmd>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action IntroduceConstant</entry>
         <entry>action VimVisualSwapSelections</entry>
@@ -348,9 +346,10 @@
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
         <entry>action AceAction</entry>
-        <entry>action MoveStatementUp</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action ShowIntentionActions</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVN0YXRlbWVudFVw</entry>
+        <entry>action MoveStatementUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
