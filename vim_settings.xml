@@ -45,11 +45,11 @@
         <mark key="." line="26" column="49" />
         <mark key="^" line="26" column="49" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/api-actions.ts" timestamp="1553170821242">
-        <mark key="[" line="4" column="56" />
-        <mark key="]" line="4" column="70" />
-        <mark key="^" line="4" column="70" />
-        <mark key="." line="4" column="70" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/api-actions.ts" timestamp="1553171939918">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="6" />
+        <mark key="^" line="4" column="6" />
+        <mark key="." line="4" column="6" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/.storybook/config.js" timestamp="1552854562749">
         <mark key="[" line="3" column="0" />
@@ -237,8 +237,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/RouteLayer.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y3JlYXRlQWN0aW9uKG5hbWUpCg==</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -256,7 +256,7 @@
         <text>@jackwilsdon/craco-use-babelrc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IERlY2tHTCBmcm9tICdkZWNrLmdsJwo=</text>
+        <text encoding="base64">Y3JlYXRlQWN0aW9uKG5hbWUpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -267,28 +267,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuMTEiLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tZW1vdGlvbiI6ICJeMTAuMC45IiwK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IERlY2tHTCBmcm9tICdkZWNrLmdsJwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuMTEiLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tZW1vdGlvbiI6ICJeMTAuMC45IiwK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">aW1wb3J0IERlY2tHTCBmcm9tICdkZWNrLmdsJwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGVja0dMIH0gZnJvbSAnQGRlY2suZ2wnCg==</text>
+        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IERlY2tHTCBmcm9tICdAZGVjay5nbC9yZWFjdC9kZWNrZ2wnCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRGVja0dMIH0gZnJvbSAnQGRlY2suZ2wnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9KSBhcyBMYXllcgo=</text>
+        <text encoding="base64">aW1wb3J0IERlY2tHTCBmcm9tICdAZGVjay5nbC9yZWFjdC9kZWNrZ2wnCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TsLintFileFixAction</text>
