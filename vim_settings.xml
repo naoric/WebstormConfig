@@ -66,12 +66,9 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/RouteLayer.tsx" timestamp="1553152634743">
-        <mark key="'" line="33" column="29" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/RouteLayer.tsx" timestamp="1553153419597">
+        <mark key="'" line="33" column="9" />
         <mark key="^" line="28" column="12" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" timestamp="1552851465433">
         <mark key="[" line="57" column="49" />
@@ -220,7 +217,6 @@
       <jump line="13" column="7" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" />
       <jump line="12" column="7" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" />
       <jump line="16" column="5" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" />
-      <jump line="15" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/RouteLayer.tsx" />
       <jump line="61" column="38" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
       <jump line="19" column="5" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
       <jump line="5" column="18" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
@@ -228,11 +224,12 @@
       <jump line="266" column="69" filename="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/deck.gl__core/index.d.ts" />
       <jump line="947" column="44" filename="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/deck.gl__core/index.d.ts" />
       <jump line="669" column="22" filename="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/deck.gl__core/index.d.ts" />
-      <jump line="33" column="29" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/RouteLayer.tsx" />
+      <jump line="15" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/RouteLayer.tsx" />
+      <jump line="33" column="9" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/RouteLayer.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IERlY2tHTCBmcm9tICdAZGVjay5nbC9yZWFjdC9kZWNrZ2wnCg==</text>
+        <text encoding="base64">aW1wb3J0IERlY2tHTCBmcm9tICdkZWNrLmdsJwo=</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -241,7 +238,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>as Layer</text>
+        <text>/react</text>
       </register>
       <register name="/" type="4">
         <text>getpicking</text>
@@ -250,7 +247,7 @@
         <text>@jackwilsdon/craco-use-babelrc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IERlY2tHTCBmcm9tICdAZGVjay5nbC9yZWFjdC9kZWNrZ2wnCg==</text>
+        <text encoding="base64">aW1wb3J0IERlY2tHTCBmcm9tICdkZWNrLmdsJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -261,31 +258,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9KSBhcyBMYXllcgo=</text>
+        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IERlY2tHTCwgeyBHZW9Kc29uTGF5ZXIgfSBmcm9tICdkZWNrLmdsJwo=</text>
+        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljb25zdHJ1Y3Rvcihwcm9wczogQ29tcG9zaXRlTGF5ZXJQcm9wcyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRGVja0dMIH0gZnJvbSAnQGRlY2suZ2wnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWV4cG9ydCBkZWZhdWx0IGNsYXNzIENvbXBvc2l0ZUxheWVyIGV4dGVuZHMgTGF5ZXIgewo=</text>
+        <text encoding="base64">aW1wb3J0IERlY2tHTCBmcm9tICdAZGVjay5nbC9yZWFjdC9kZWNrZ2wnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR2VvSnNvbkxheWVyIH0gZnJvbSAnQGRlY2suZ2wvbGF5ZXJzJwo=</text>
+        <text encoding="base64">ICB9KSBhcyBMYXllcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHlwZSBGdW5jdGlvblJldHVybnM8VD4gPSAoLi4uYXJnczogYW55W10pID0+IFQK</text>
+        <text encoding="base64">aW1wb3J0IERlY2tHTCwgeyBHZW9Kc29uTGF5ZXIgfSBmcm9tICdkZWNrLmdsJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3JlYXRlQWN0aW9ucygnZXhwYW5kIHJvdXRlJywgJ2NyZWF0ZSByb3V0ZScpCg==</text>
+        <text encoding="base64">CQljb25zdHJ1Y3Rvcihwcm9wczogQ29tcG9zaXRlTGF5ZXJQcm9wcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWV4cG9ydCBkZWZhdWx0IGNsYXNzIENvbXBvc2l0ZUxheWVyIGV4dGVuZHMgTGF5ZXIgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action TsLintFileFixAction</text>
       </register>
     </registers>
     <search>
@@ -335,10 +332,10 @@
         <entry>action SelectNextOccurrence</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action AceAction</entry>
-        <entry>action ShowIntentionActions</entry>
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
-        <entry>action TsLintFileFixAction</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ShowIntentionActions</entry>
+        <entry>action TsLintFileFixAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
