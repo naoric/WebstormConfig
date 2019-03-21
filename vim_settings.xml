@@ -17,11 +17,12 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1553116800918">
-        <mark key="'" line="5" column="18" />
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="15" />
-        <mark key="." line="19" column="15" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1553154719071">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/tsconfig.json" timestamp="1553096804548">
         <mark key="'" line="9" column="0" />
@@ -126,8 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/car-selection-box.tsx" />
-      <jump line="25" column="17" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/car-selection-box.tsx" />
       <jump line="32" column="9" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/car-selection-box.tsx" />
       <jump line="31" column="17" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/car-selection-box.tsx" />
       <jump line="39" column="2" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBoxPopover.tsx" />
@@ -226,10 +225,12 @@
       <jump line="669" column="22" filename="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/deck.gl__core/index.d.ts" />
       <jump line="15" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/RouteLayer.tsx" />
       <jump line="33" column="9" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/RouteLayer.tsx" />
+      <jump line="17" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
+      <jump line="75" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IERlY2tHTCBmcm9tICdkZWNrLmdsJwo=</text>
+        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuMTEiLAo=</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -241,13 +242,13 @@
         <text>/react</text>
       </register>
       <register name="/" type="4">
-        <text>getpicking</text>
+        <text>deckgk</text>
       </register>
       <register name="0" type="4">
         <text>@jackwilsdon/craco-use-babelrc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IERlY2tHTCBmcm9tICdkZWNrLmdsJwo=</text>
+        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuMTEiLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -258,43 +259,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tZW1vdGlvbiI6ICJeMTAuMC45IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCg==</text>
+        <text encoding="base64">aW1wb3J0IERlY2tHTCBmcm9tICdkZWNrLmdsJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGVja0dMIH0gZnJvbSAnQGRlY2suZ2wnCg==</text>
+        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IERlY2tHTCBmcm9tICdAZGVjay5nbC9yZWFjdC9kZWNrZ2wnCg==</text>
+        <text encoding="base64">ICAvLyBAdHMtaWdub3JlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9KSBhcyBMYXllcgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRGVja0dMIH0gZnJvbSAnQGRlY2suZ2wnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IERlY2tHTCwgeyBHZW9Kc29uTGF5ZXIgfSBmcm9tICdkZWNrLmdsJwo=</text>
+        <text encoding="base64">aW1wb3J0IERlY2tHTCBmcm9tICdAZGVjay5nbC9yZWFjdC9kZWNrZ2wnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljb25zdHJ1Y3Rvcihwcm9wczogQ29tcG9zaXRlTGF5ZXJQcm9wcyk7Cg==</text>
+        <text encoding="base64">ICB9KSBhcyBMYXllcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWV4cG9ydCBkZWZhdWx0IGNsYXNzIENvbXBvc2l0ZUxheWVyIGV4dGVuZHMgTGF5ZXIgewo=</text>
+        <text encoding="base64">aW1wb3J0IERlY2tHTCwgeyBHZW9Kc29uTGF5ZXIgfSBmcm9tICdkZWNrLmdsJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action TsLintFileFixAction</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
-      <last-search>getpicking</last-search>
+      <last-search>deckgk</last-search>
       <last-offset />
-      <last-pattern>getpicking</last-pattern>
+      <last-pattern>deckgk</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>middle</entry>
         <entry encoding="base64">XDxoaXN0b3J5XD4=</entry>
         <entry>awesome</entry>
         <entry>storybook__react</entry>
@@ -314,6 +314,7 @@
         <entry>geojson</entry>
         <entry>layer</entry>
         <entry>getpicking</entry>
+        <entry>deckgk</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -327,15 +328,15 @@
         <entry>action EditorDuplicateLines</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action GotoFile</entry>
         <entry>action RenameElement</entry>
         <entry>action SelectNextOccurrence</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action AceAction</entry>
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>action TsLintFileFixAction</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
