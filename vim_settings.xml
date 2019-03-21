@@ -25,6 +25,12 @@
       <file name="$USER_HOME$/development/otonomo/frontend_utils/material/src/Typography/index.tsx" timestamp="1552832078177">
         <mark key="'" line="90" column="5" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/tsconfig.paths.json" timestamp="1553179556920">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/demo-components/SelectionWithPopover.tsx" timestamp="1552918219200">
         <mark key="'" line="34" column="18" />
       </file>
@@ -35,11 +41,11 @@
         <mark key="^" line="1" column="41" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1553154719071">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
         <mark key="^" line="5" column="22" />
-        <mark key="." line="83" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" timestamp="1553081149563">
         <mark key="'" line="54" column="3" />
@@ -66,10 +72,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1553176359983">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1553180437839">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/store.ts" timestamp="1553100196042">
         <mark key="[" line="3" column="8" />
@@ -90,10 +97,11 @@
         <mark key="." line="26" column="49" />
         <mark key="^" line="26" column="49" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api.ts" timestamp="1553170637325">
-        <mark key="]" line="3" column="41" />
-        <mark key="^" line="3" column="41" />
-        <mark key="." line="3" column="41" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api.ts" timestamp="1553179526214">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" timestamp="1552777341229">
         <mark key="'" line="0" column="0" />
@@ -102,16 +110,17 @@
         <mark key="^" line="76" column="22" />
         <mark key="." line="76" column="52" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/api-actions.ts" timestamp="1553176978639">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/api-actions.ts" timestamp="1553180277291">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/App.tsx" timestamp="1553177146814">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="15" column="16" />
-        <mark key="^" line="15" column="16" />
-        <mark key="." line="15" column="16" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/App.tsx" timestamp="1553178592329">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/.storybook/config.js" timestamp="1552854562749">
         <mark key="[" line="3" column="0" />
@@ -235,7 +244,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dHlwZSBSZXF1ZXN0Q3JlYXRvciA9CiAgfCAoKC4uLmFyZ3M6IGFueVtdKSA9PiBBeGlvc1JlcXVlc3RDb25maWcpCiAgfCBBeGlvc1JlcXVlc3RDb25maWcKCmV4cG9ydCBmdW5jdGlvbiBjcmVhdGVBcGlBY3Rpb24obmFtZTogc3RyaW5nLCByZXF1ZXN0OiBSZXF1ZXN0Q3JlYXRvcikgewogIGlmIChpc0Z1bmN0aW9uKHJlcXVlc3QpKSB7CiAgICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsICguLi5hcmdzOiBhbnlbXSkgPT4gKHsKICAgICAgcmVxdWVzdDogcmVxdWVzdCguLi5hcmdzKSwKICAgIH0pKQogIH0KICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsICgpID0+ICh7CiAgICByZXF1ZXN0LAogIH0pKQp9</text>
+        <text>AxiosRequestConfig</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -244,7 +253,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>AxiosRequestConfig</text>
       </register>
       <register name="/" type="4">
         <text>deckgk</text>
@@ -253,7 +262,7 @@
         <text encoding="base64">ICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsIChhcmc6IFQpID0+IHsKICAgIHJldHVybiB7IHJlcXVlc3Q6IHJlcXVlc3RDb25maWdDcmVhdG9yKGFyZykgfQogIH0pCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">dHlwZSBSZXF1ZXN0Q3JlYXRvciA9CiAgfCAoKC4uLmFyZ3M6IGFueVtdKSA9PiBBeGlvc1JlcXVlc3RDb25maWcpCiAgfCBBeGlvc1JlcXVlc3RDb25maWcKCmV4cG9ydCBmdW5jdGlvbiBjcmVhdGVBcGlBY3Rpb24obmFtZTogc3RyaW5nLCByZXF1ZXN0OiBSZXF1ZXN0Q3JlYXRvcikgewogIGlmIChpc0Z1bmN0aW9uKHJlcXVlc3QpKSB7CiAgICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsICguLi5hcmdzOiBhbnlbXSkgPT4gKHsKICAgICAgcmVxdWVzdDogcmVxdWVzdCguLi5hcmdzKSwKICAgIH0pKQogIH0KICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsICgpID0+ICh7CiAgICByZXF1ZXN0LAogIH0pKQp9</text>
+        <text encoding="base64">KGFyZzogVCkgPT4gewogICAgcmV0dXJuIHsgcmVxdWVzdDogcmVxdWVzdENvbmZpZ0NyZWF0b3IoYXJnKSB9CiAgfQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -264,31 +273,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWN0aW9uVHlwZXIoKQo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGFwaUVycm9yID0gY3JlYXRlQWN0aW9uKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFjdGlvblR5cGVyIGZyb20gJ3JlZHV4LWFjdGlvbnR5cGVyJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgcHV0cyB9IGZyb20gJ3V0aWwnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHlwZSBDb25maWdDcmVhdG9yPFQ+ID0gKGlucHV0OiBUKSA9PiBzdHJpbmcKCg==</text>
+        <text encoding="base64">ICAgIHlpZWxkIGNhbGwoZGlzcGF0Y2hBcGlDYWxsLCBwYXlsb2FkLnJlcXVlc3QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24qIEFwaVNhZ2EoKSB7CiAgeWllbGQgYWxsKCkKfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHlpZWxkIGNhbGwoZGlzcGF0Y2hBcGlDYWxsLCBwYXlsb2FkLnJlcXVlc3QpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZGlzcGF0Y2hBcGlDYWxsIH0gZnJvbSAnc3JjL3N0YXRlL2FwaScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGNyZWF0ZUFwaVNhZ2FIYW5kbGVyPFQ+KAogIGFjdGlvbjogc3RyaW5nLAogIHJlcXVlc3RQYXJhbXM6IENvbmZpZ0NyZWF0b3I8VD4KKSB7CiAgY29uc3QgYWN0aW9uQ3JlYXRvciA9IGNyZWF0ZUFjdGlvbihhY3Rpb24sIChhcmc6IFQpID0+IHsKICAgIHJldHVybiB7IHJlcXVlc3Q6IHJlcXVlc3RQYXJhbXMoYXJnKSB9CiAgfSkKICByZXR1cm4gZnVuY3Rpb24qKCkgewogICAgeWllbGQgdGFrZUV2ZXJ5KGFjdGlvbiwgbm9vcCkKICB9Cn0KCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQXhpb3NSZXF1ZXN0Q29uZmlnIH0gZnJvbSAnYXhpb3MnCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYWxsIH0gZnJvbSAncScK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZnVuY3Rpb24qIGhhbmRsZUFwaUNhbGwoewogICAgcGF5bG9hZCA9IHt9LAogIH06IEFjdGlvbjxDb250YWluc1JlcXVlc3Q+KSB7CiAgICBpZiAocGF5bG9hZC5yZXF1ZXN0KSB7CiAgICAgIHlpZWxkIGNhbGwoZGlzcGF0Y2hBcGlDYWxsLCBwYXlsb2FkLnJlcXVlc3QpCiAgICB9CiAgfQ==</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action ShowIntentionActions</text>
       </register>
     </registers>
     <search>
@@ -327,21 +336,21 @@
         <entry>action IntroduceConstant</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action ExtractMethod</entry>
-        <entry>action MoveStatementDown</entry>
-        <entry>action MoveStatementUp</entry>
         <entry>action EditorCloneCaretBelow</entry>
         <entry>action EditorDuplicateLines</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action AceAction</entry>
-        <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
-        <entry>action TsLintFileFixAction</entry>
-        <entry>action RenameElement</entry>
-        <entry>action EditorSplitLine</entry>
         <entry>action SelectNextOccurrence</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action ShowIntentionActions</entry>
-        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action RenameElement</entry>
+        <entry>action TsLintFileFixAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
+        <entry>action AceAction</entry>
+        <entry>action MoveStatementUp</entry>
+        <entry>action MoveStatementDown</entry>
+        <entry>action ShowIntentionActions</entry>
       </history-cmd>
       <history-expr />
       <history-input />
