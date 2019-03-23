@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" timestamp="1553336541578">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="61" />
+        <mark key="^" line="6" column="61" />
+        <mark key="." line="6" column="61" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/middlewares/middlewares.ts" timestamp="1553106930162">
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="31" />
@@ -30,14 +36,20 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api.ts" timestamp="1553335718777">
+        <mark key="[" line="9" column="55" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/demo-components/SelectionWithPopover.tsx" timestamp="1552918219200">
         <mark key="'" line="34" column="18" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/request-builders.ts" timestamp="1553246391469">
-        <mark key="[" line="3" column="38" />
-        <mark key="]" line="3" column="38" />
-        <mark key="." line="3" column="38" />
-        <mark key="^" line="3" column="38" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/request-builders.ts" timestamp="1553336604106">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="36" />
+        <mark key="." line="18" column="36" />
+        <mark key="^" line="18" column="36" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/window-extension.ts" timestamp="1553096530268">
         <mark key="[" line="1" column="32" />
@@ -52,7 +64,7 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" timestamp="1553330323967">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" timestamp="1553336150035">
         <mark key="'" line="54" column="3" />
         <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="38" />
@@ -131,11 +143,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/root.ts" timestamp="1553106925439">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="2" column="33" />
-        <mark key="." line="2" column="33" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/root.ts" timestamp="1553336466243">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/notification.tsx" timestamp="1552855003666">
         <mark key="[" line="10" column="21" />
@@ -253,7 +265,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgVVBEQVRFX1JPVVRFUyA9ICd1cGRhdGUgcm91dGVzJwo=</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -262,7 +274,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Accident</text>
       </register>
       <register name="/" type="4">
         <text>deckgk</text>
@@ -271,7 +283,7 @@
         <text encoding="base64">ICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsIChhcmc6IFQpID0+IHsKICAgIHJldHVybiB7IHJlcXVlc3Q6IHJlcXVlc3RDb25maWdDcmVhdG9yKGFyZykgfQogIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgVVBEQVRFX1JPVVRFUyA9ICd1cGRhdGUgcm91dGVzJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -282,28 +294,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtb2NrQWRhcHRlci5vbkdldCgpCg==</text>
+        <text encoding="base64">ICAgICAge2lkOiAyLCBuYW1lfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TW9ja0FkYXB0ZXIoKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG1vY2tBZGFwdGVyIGZyb20gJ2F4aW9zLW1vY2stYWRhcHRlcicK</text>
+        <text encoding="base64">ICBtb2NrQWRhcHRlci5vbkdldCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG1vY2tBZGFwdGVyIGZyb20gJ2F4aW9zLW1vY2stYWRhcHRlcicK</text>
+        <text encoding="base64">TW9ja0FkYXB0ZXIoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bW9ja0FkYXB0ZXIub25HZXQK</text>
+        <text encoding="base64">aW1wb3J0IG1vY2tBZGFwdGVyIGZyb20gJ2F4aW9zLW1vY2stYWRhcHRlcicK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IG1vY2tBZGFwdGVyIGZyb20gJ2F4aW9zLW1vY2stYWRhcHRlcicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2F4aW9zLW1vY2stYWRhcHRlcicK</text>
+        <text encoding="base64">bW9ja0FkYXB0ZXIub25HZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT21pdENsYXNzZXMgfSBmcm9tICdzcmMvdHlwZXMvdHlwZS1hbGlhc2VzJwo=</text>
+        <text encoding="base64">aW1wb3J0IG1vY2tBZGFwdGVyIGZyb20gJ2F4aW9zLW1vY2stYWRhcHRlcicK</text>
       </register>
       <register name=":" type="4">
         <text>action TsLintFileFixAction</text>
@@ -344,11 +356,9 @@
         <entry>action VimVisualSwapSelections</entry>
         <entry>action ExtractMethod</entry>
         <entry>action EditorCloneCaretBelow</entry>
-        <entry>action EditorDuplicateLines</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action AceAction</entry>
         <entry>action MoveStatementDown</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVN0YXRlbWVudFVw</entry>
@@ -358,6 +368,8 @@
         <entry>action EditorSplitLine</entry>
         <entry>action RenameElement</entry>
         <entry>action ShowIntentionActions</entry>
+        <entry>action EditorDuplicateLines</entry>
+        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action TsLintFileFixAction</entry>
       </history-cmd>
