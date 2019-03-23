@@ -1,9 +1,5 @@
 <application>
   <component name="PostfixTemplates">
-    <template id="pp@userDefined" key=".pp" provider="builtin.js" language-level="ES5" topmost="true">
-      <conditions />
-      <template name="fakeKey" value="$END$($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
-    </template>
     <template id="fp@userDefined" key=".fp" provider="builtin.js" language-level="ES5" topmost="false">
       <conditions />
       <template name="fakeKey" value="import $EXPR$ from 'lodash/fp/$EXPR$'" description="" toReformat="true" toShortenFQNames="true" />
@@ -12,13 +8,25 @@
       <conditions />
       <template name="fakeKey" value="const { $END$ } = $EXPR$" description="" toReformat="true" toShortenFQNames="true" />
     </template>
+    <template id="pp@userDefined" key=".pp" provider="builtin.js" language-level="ES5" topmost="true">
+      <conditions />
+      <template name="fakeKey" value="$END$($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="mod@userDefined" key=".mod" provider="builtin.ts" topmost="true">
+      <conditions />
+      <template name="fakeKey" value="import $END$ from '$EXPR$'" toReformat="true" toShortenFQNames="true" />
+    </template>
     <template id="fp@userDefined" key=".fp" provider="builtin.ts" topmost="true">
       <conditions />
       <template name="fakeKey" value="import $EXPR$ from 'lodash/fp/$EXPR$'" description="" toReformat="true" toShortenFQNames="true" />
     </template>
     <template id="dd@userDefined" key=".dd" provider="builtin.ts" topmost="true">
       <conditions />
-      <template name="fakeKey" value="const { $END$ } = $EXPR$" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="const { $END$ } = $EXPR$" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="im@userDefined" key=".im" provider="builtin.ts" topmost="true">
+      <conditions />
+      <template name="fakeKey" value="import { $EXPR$ } from '$END$'" toReformat="true" toShortenFQNames="true" />
     </template>
   </component>
   <component name="PostfixTemplatesSettings">

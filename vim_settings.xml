@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" timestamp="1553177063934" />
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/middlewares/middlewares.ts" timestamp="1553106930162">
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="31" />
@@ -53,11 +52,11 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" timestamp="1553081149563">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" timestamp="1553330323967">
         <mark key="'" line="54" column="3" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="38" />
+        <mark key="." line="6" column="38" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/craco.config.js" timestamp="1553083847179">
         <mark key="[" line="0" column="0" />
@@ -116,6 +115,11 @@
         <mark key="^" line="76" column="22" />
         <mark key="." line="76" column="52" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api-mock.ts" timestamp="1553330958253">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/App.tsx" timestamp="1553178592329">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -138,6 +142,11 @@
         <mark key="]" line="10" column="38" />
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/StepButton.tsx" timestamp="1553330338141">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -244,7 +253,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YXBpQWN0aW9uQ3JlYXRvcignYW5vdGhlciBuYW1lJywgKGlkOiBudW1iZXIpID0+IGdldCgndXJsJyArIGlkKSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -253,7 +262,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>deckgk</text>
@@ -262,7 +271,7 @@
         <text encoding="base64">ICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsIChhcmc6IFQpID0+IHsKICAgIHJldHVybiB7IHJlcXVlc3Q6IHJlcXVlc3RDb25maWdDcmVhdG9yKGFyZykgfQogIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBpQWN0aW9uQ3JlYXRvcignYW5vdGhlciBuYW1lJywgKGlkOiBudW1iZXIpID0+IGdldCgndXJsJyArIGlkKSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -273,28 +282,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBpQWN0aW9uQ3JlYXRvcignbmFtZScsIHBvc3QoJ3VybCcsIHsgd2VsY29tZTogJ2ZyaWVuZCcgfSkpCg==</text>
+        <text encoding="base64">ICBtb2NrQWRhcHRlci5vbkdldCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcG9zdCB9IGZyb20gJy4vcmVxdWVzdC1idWlsZGVycycK</text>
+        <text encoding="base64">TW9ja0FkYXB0ZXIoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCByZXF1ZXN0ID0gaXNGdW5jdGlvbihjb25maWdDcmVhdG9yKSA/IGNvbmZpZ0NyZWF0b3IoLi4uYXJncykK</text>
+        <text encoding="base64">aW1wb3J0IG1vY2tBZGFwdGVyIGZyb20gJ2F4aW9zLW1vY2stYWRhcHRlcicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vY2tBZGFwdGVyIGZyb20gJ2F4aW9zLW1vY2stYWRhcHRlcicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVFNUdXBsZVR5cGUgfSBmcm9tICdAYmFiZWwvdHlwZXMnCg==</text>
+        <text encoding="base64">bW9ja0FkYXB0ZXIub25HZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VFNUdXBsZVR5cGUK</text>
+        <text encoding="base64">aW1wb3J0IG1vY2tBZGFwdGVyIGZyb20gJ2F4aW9zLW1vY2stYWRhcHRlcicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25maWdDcmVhdG9yOiA8VD4K</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2F4aW9zLW1vY2stYWRhcHRlcicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dHlwZSBDb25maWdDcmVhdG9yPFQ+ID0gKGlucHV0OiBUKSA9PiBBcGlSZXF1ZXN0Q29uZmlnCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgT21pdENsYXNzZXMgfSBmcm9tICdzcmMvdHlwZXMvdHlwZS1hbGlhc2VzJwo=</text>
       </register>
       <register name=":" type="4">
         <text>action TsLintFileFixAction</text>
