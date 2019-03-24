@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" timestamp="1553336541578">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" timestamp="1553410678507">
         <mark key="[" line="6" column="57" />
         <mark key="]" line="6" column="61" />
         <mark key="^" line="6" column="61" />
@@ -21,14 +21,14 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="8" column="51" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" timestamp="1553410852074">
+        <mark key="[" line="11" column="4" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" timestamp="1552851465433">
         <mark key="[" line="57" column="49" />
         <mark key="]" line="57" column="49" />
         <mark key="." line="57" column="49" />
         <mark key="^" line="65" column="54" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/frontend_utils/material/src/Typography/index.tsx" timestamp="1552832078177">
-        <mark key="'" line="90" column="5" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/tsconfig.paths.json" timestamp="1553179556920">
         <mark key="[" line="4" column="17" />
@@ -41,9 +41,6 @@
         <mark key="]" line="11" column="27" />
         <mark key="^" line="11" column="27" />
         <mark key="." line="11" column="27" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/demo-components/SelectionWithPopover.tsx" timestamp="1552918219200">
-        <mark key="'" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/request-builders.ts" timestamp="1553336604106">
         <mark key="[" line="18" column="36" />
@@ -74,9 +71,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/tsconfig.json" timestamp="1553096804548">
-        <mark key="'" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/window-extension.d.ts" timestamp="1553097885554">
         <mark key="[" line="2" column="38" />
@@ -155,10 +149,11 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/StepButton.tsx" timestamp="1553330338141">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/StepButton.tsx" timestamp="1553410791449">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="63" />
+        <mark key="." line="18" column="63" />
+        <mark key="^" line="18" column="63" />
       </file>
     </filemarks>
     <jumps>
@@ -264,8 +259,8 @@
       <jump line="12" column="48" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgVVBEQVRFX1JPVVRFUyA9ICd1cGRhdGUgcm91dGVzJwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">T21pdENsYXNzZXM8TWF0U3RlcEJ1dHRvblByb3BzPiwKICAgIFdpdGhTdHlsZXM8dHlwZW9mIHN0eWxlcz4=</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -282,8 +277,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsIChhcmc6IFQpID0+IHsKICAgIHJldHVybiB7IHJlcXVlc3Q6IHJlcXVlc3RDb25maWdDcmVhdG9yKGFyZykgfQogIH0pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgVVBEQVRFX1JPVVRFUyA9ICd1cGRhdGUgcm91dGVzJwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">T21pdENsYXNzZXM8TWF0U3RlcEJ1dHRvblByb3BzPiwKICAgIFdpdGhTdHlsZXM8dHlwZW9mIHN0eWxlcz4=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -294,28 +289,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAge2lkOiAyLCBuYW1lfQo=</text>
+        <text encoding="base64">Y29uc3QgVVBEQVRFX1JPVVRFUyA9ICd1cGRhdGUgcm91dGVzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAge2lkOiAyLCBuYW1lfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtb2NrQWRhcHRlci5vbkdldCgpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TW9ja0FkYXB0ZXIoKQo=</text>
+        <text encoding="base64">ICBtb2NrQWRhcHRlci5vbkdldCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1vY2tBZGFwdGVyIGZyb20gJ2F4aW9zLW1vY2stYWRhcHRlcicK</text>
+        <text encoding="base64">TW9ja0FkYXB0ZXIoKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IG1vY2tBZGFwdGVyIGZyb20gJ2F4aW9zLW1vY2stYWRhcHRlcicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9ja0FkYXB0ZXIub25HZXQK</text>
+        <text encoding="base64">aW1wb3J0IG1vY2tBZGFwdGVyIGZyb20gJ2F4aW9zLW1vY2stYWRhcHRlcicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG1vY2tBZGFwdGVyIGZyb20gJ2F4aW9zLW1vY2stYWRhcHRlcicK</text>
+        <text encoding="base64">bW9ja0FkYXB0ZXIub25HZXQK</text>
       </register>
       <register name=":" type="4">
         <text>action TsLintFileFixAction</text>
