@@ -113,6 +113,7 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="/MapBoxComponent.tsx" timestamp="1553440297837" />
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/icons.tsx" timestamp="1553082180138">
         <mark key="'" line="36" column="39" />
         <mark key="[" line="26" column="49" />
@@ -126,27 +127,17 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" timestamp="1552777341229">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" timestamp="1553440306787">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="52" />
-        <mark key="]" line="76" column="52" />
-        <mark key="^" line="76" column="22" />
-        <mark key="." line="76" column="52" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api-mock.ts" timestamp="1553330958253">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="44" column="52" />
+        <mark key="]" line="44" column="52" />
+        <mark key="^" line="44" column="22" />
+        <mark key="." line="44" column="52" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/App.tsx" timestamp="1553417167915">
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/.storybook/config.js" timestamp="1552854562749">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" timestamp="1553420494619">
         <mark key="'" line="0" column="0" />
@@ -173,6 +164,7 @@
         <mark key="." line="18" column="63" />
         <mark key="^" line="18" column="63" />
       </file>
+      <file name="/package-lock.json" timestamp="1553441199418" />
     </filemarks>
     <jumps>
       <jump line="29" column="19" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
@@ -331,7 +323,7 @@
         <text encoding="base64">ICAgIGJhc2VVUkw6ICcnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MoveStatementUp</text>
+        <text>action SelectNextOccurrence</text>
       </register>
     </registers>
     <search>
@@ -369,7 +361,6 @@
         <entry>action VimVisualSwapSelections</entry>
         <entry>action ExtractMethod</entry>
         <entry>action EditorCloneCaretBelow</entry>
-        <entry>action SelectNextOccurrence</entry>
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVN0YXRlbWVudFVw</entry>
@@ -380,11 +371,12 @@
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action MoveStatementUp</entry>
+        <entry>action GotoFile</entry>
+        <entry>action SelectNextOccurrence</entry>
       </history-cmd>
       <history-expr />
       <history-input />
