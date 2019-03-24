@@ -1,36 +1,17 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="meta alt left" />
-    <mouse-shortcut keystroke="button4" />
-  </action>
   <action id="CheckinProject" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
-  <action id="Console.Execute.Multiline" />
-  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
-  <action id="EditorSplitLine" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
-  <action id="Forward">
-    <keyboard-shortcut first-keystroke="meta alt right" />
-    <mouse-shortcut keystroke="button5" />
-  </action>
   <action id="InsertLiveTemplate" />
-  <action id="Macro.Format Optimize Imports">
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
-  <action id="SaveAll" />
-  <action id="ViewSource" />
-  <action id="osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction">
-    <keyboard-shortcut first-keystroke="meta enter" />
-  </action>
 </keymap>
