@@ -40,12 +40,6 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="11" column="27" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/type-aliases.ts" timestamp="1553414812563">
-        <mark key="[" line="17" column="68" />
-        <mark key="]" line="19" column="48" />
-        <mark key="^" line="19" column="48" />
-        <mark key="." line="19" column="48" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/request-builders.ts" timestamp="1553336604106">
         <mark key="[" line="18" column="36" />
         <mark key="]" line="18" column="36" />
@@ -58,13 +52,7 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/Wizard.tsx" timestamp="1553418087857">
-        <mark key="'" line="13" column="14" />
-        <mark key="[" line="75" column="2" />
-        <mark key="]" line="75" column="12" />
-        <mark key="." line="75" column="12" />
-        <mark key="^" line="75" column="12" />
-      </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/Wizard.tsx" timestamp="1553418087857" />
       <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1553154719071">
         <mark key="'" line="85" column="0" />
         <mark key="[" line="85" column="0" />
