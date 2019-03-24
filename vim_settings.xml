@@ -88,10 +88,10 @@
         <mark key="]" line="471" column="16" />
         <mark key="." line="471" column="16" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/window-extension.d.ts" timestamp="1553415011858">
-        <mark key="[" line="4" column="48" />
-        <mark key="]" line="4" column="50" />
-        <mark key="." line="4" column="50" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/window-extension.d.ts" timestamp="1553419735662">
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="41" />
+        <mark key="." line="4" column="41" />
         <mark key="^" line="4" column="50" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1553186482688">
@@ -148,13 +148,20 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" timestamp="1553420494619">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="8" column="38" />
+        <mark key="." line="8" column="38" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/root.ts" timestamp="1553336466243">
         <mark key="[" line="3" column="32" />
         <mark key="]" line="3" column="37" />
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/notification.tsx" timestamp="1552855003666">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/notification.tsx" timestamp="1553420087293">
+        <mark key="'" line="4" column="0" />
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="38" />
         <mark key="^" line="10" column="38" />
@@ -168,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="9" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" />
       <jump line="15" column="22" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
       <jump line="22" column="38" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/button.tsx" />
       <jump line="31" column="64" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" />
@@ -218,7 +224,6 @@
       <jump line="10" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
       <jump line="6" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
       <jump line="23" column="36" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
       <jump line="40" column="83" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
       <jump line="43" column="22" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
       <jump line="45" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
@@ -268,10 +273,12 @@
       <jump line="10" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/Wizard.tsx" />
       <jump line="73" column="4" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/Wizard.tsx" />
       <jump line="13" column="14" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/Wizard.tsx" />
+      <jump line="4" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/notification.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>noop</text>
+        <text>/</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -280,10 +287,10 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>noop</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>deckgk</text>
+        <text>type</text>
       </register>
       <register name="0" type="4">
         <text>__REDUX_DEVTOOLS_EXTENSION_COMPOSE__</text>
@@ -324,19 +331,18 @@
         <text encoding="base64">Y21wLiYmKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action TsLintFileFixAction</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>deckgk</last-search>
+      <last-search>type</last-search>
       <last-offset />
-      <last-pattern>deckgk</last-pattern>
+      <last-pattern>type</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoaXN0b3J5XD4=</entry>
         <entry>awesome</entry>
         <entry>storybook__react</entry>
         <entry>material</entry>
@@ -356,6 +362,7 @@
         <entry>layer</entry>
         <entry>getpicking</entry>
         <entry>deckgk</entry>
+        <entry>type</entry>
       </history-search>
       <history-cmd>
         <entry>action IntroduceConstant</entry>
@@ -371,13 +378,13 @@
         <entry>action ShowUsages</entry>
         <entry>action EditorDuplicateLines</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action TsLintFileFixAction</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
