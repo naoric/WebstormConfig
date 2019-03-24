@@ -32,8 +32,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/otonomo/developer_journey/package.json" timestamp="1553462599579">
-        <mark key="'" line="15" column="22" />
+      <file name="$USER_HOME$/projects/otonomo/developer_journey/package.json" timestamp="1553465458955">
+        <mark key="'" line="85" column="5" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -297,9 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="49" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
-      <jump line="72" column="11" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
-      <jump line="16" column="31" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
       <jump line="17" column="2" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
       <jump line="75" column="22" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
       <jump line="28" column="52" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
@@ -397,6 +394,9 @@
       <jump line="48" column="19" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/mapbox/PositionLabel.tsx" />
       <jump line="51" column="5" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
       <jump line="6" column="32" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/mapbox/PositionLabel.tsx" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/otonomo/developer_journey/package.json" />
+      <jump line="84" column="5" filename="$USER_HOME$/projects/otonomo/developer_journey/package.json" />
+      <jump line="85" column="5" filename="$USER_HOME$/projects/otonomo/developer_journey/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -412,7 +412,7 @@
         <text>&quot;emotion&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>css</text>
+        <text>babel-plugin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsIChhcmc6IFQpID0+IHsKICAgIHJldHVybiB7IHJlcXVlc3Q6IHJlcXVlc3RDb25maWdDcmVhdG9yKGFyZykgfQogIH0pCg==</text>
@@ -455,19 +455,18 @@
         <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
-      <last-search>css</last-search>
+      <last-search>babel-plugin</last-search>
       <last-offset />
-      <last-pattern>css</last-pattern>
+      <last-pattern>babel-plugin</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>styles</entry>
         <entry>width</entry>
         <entry>memoi</entry>
         <entry>polyline</entry>
@@ -487,6 +486,7 @@
         <entry>latest</entry>
         <entry>emotion</entry>
         <entry>css</entry>
+        <entry>babel-plugin</entry>
       </history-search>
       <history-cmd>
         <entry>action ExtractMethod</entry>
@@ -501,7 +501,6 @@
         <entry>action EditorCloneCaretBelow</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action ShowIntentionActions</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action TsLintFileFixAction</entry>
@@ -509,6 +508,7 @@
         <entry>action ShowUsages</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
