@@ -14,4 +14,8 @@
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="Macro.Format and Save">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="SaveAll" />
 </keymap>
