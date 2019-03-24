@@ -68,12 +68,11 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" timestamp="1553438807665">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="6" />
-        <mark key="." line="62" column="6" />
-        <mark key="^" line="62" column="6" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" timestamp="1553442026287">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/craco.config.js" timestamp="1553436548250">
         <mark key="[" line="0" column="0" />
@@ -129,10 +128,6 @@
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" timestamp="1553440306787">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="52" />
-        <mark key="]" line="44" column="52" />
-        <mark key="^" line="44" column="22" />
-        <mark key="." line="44" column="52" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/App.tsx" timestamp="1553417167915">
         <mark key="]" line="2" column="20" />
@@ -144,6 +139,11 @@
         <mark key="[" line="8" column="38" />
         <mark key="]" line="8" column="38" />
         <mark key="." line="8" column="38" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/car-selection-box.tsx" timestamp="1553442046036">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/root.ts" timestamp="1553336466243">
         <mark key="[" line="3" column="32" />
@@ -270,7 +270,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXhwb3J0IA==</text>
+        <text>{</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -279,7 +279,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhwb3J0IA==</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>craco</text>
@@ -288,7 +288,7 @@
         <text>__REDUX_DEVTOOLS_EXTENSION_COMPOSE__</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuMTEiLAo=</text>
+        <text encoding="base64">CmV4cG9ydCBkZWZhdWx0IHdpdGhTdHlsZXMoc3R5bGVzKShTZWxlY3Rpb25Cb3gpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -299,31 +299,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvYmFiZWxfX2NvcmUiOiAiXjcuMS4wIiwK</text>
+        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuMTEiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tZW1vdGlvbiI6ICJeMTAuMC45IiwK</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvYmFiZWxfX2NvcmUiOiAiXjcuMS4wIiwK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tZW1vdGlvbiI6ICJeMTAuMC45IiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tY29uc29sZSI6ICJeMC4yLjEiLAo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tZW1vdGlvbiI6ICJeMTAuMC45IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1sb2FkZXIiOiAiOC4wLjUiLAo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tY29uc29sZSI6ICJeMC4yLjEiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJAYmFiZWwvY29yZSI6ICI3LjIuMiIsCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1sb2FkZXIiOiAiOC4wLjUiLAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICJAYmFiZWwvY29yZSI6ICI3LjIuMiIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJhc2VVUkw6ICcnCg==</text>
+        <text encoding="base64">ICAgICJAYmFiZWwvY29yZSI6ICI3LjIuMiIsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectNextOccurrence</text>
+        <text>action ShowUsages</text>
       </register>
     </registers>
     <search>
@@ -364,7 +364,6 @@
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVN0YXRlbWVudFVw</entry>
-        <entry>action ShowUsages</entry>
         <entry>action EditorDuplicateLines</entry>
         <entry>action RenameElement</entry>
         <entry>action FileStructurePopup</entry>
@@ -377,6 +376,7 @@
         <entry>action MoveStatementUp</entry>
         <entry>action GotoFile</entry>
         <entry>action SelectNextOccurrence</entry>
+        <entry>action ShowUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
