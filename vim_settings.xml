@@ -16,11 +16,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" timestamp="1553429619744">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="15" column="33" />
-        <mark key="^" line="15" column="33" />
-        <mark key="." line="15" column="33" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" timestamp="1553435310086">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="13" column="7" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" timestamp="1552851465433">
         <mark key="[" line="57" column="49" />
@@ -34,11 +34,11 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api.ts" timestamp="1553335718777">
-        <mark key="[" line="9" column="55" />
-        <mark key="]" line="11" column="27" />
-        <mark key="^" line="11" column="27" />
-        <mark key="." line="11" column="27" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api.ts" timestamp="1553434990693">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="21" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/request-builders.ts" timestamp="1553336604106">
         <mark key="[" line="18" column="36" />
@@ -265,8 +265,8 @@
       <jump line="82" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2.1.8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJhc2VVUkw6ICcnCg==</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -284,7 +284,7 @@
         <text>__REDUX_DEVTOOLS_EXTENSION_COMPOSE__</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJldHVybnMgZnJvbSAnbG9kYXNoL2ZwL3JldHVybnMnCg==</text>
+        <text encoding="base64">ICAgIGJhc2VVUkw6ICcnCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -295,31 +295,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gY29uc3QgY21wID0gY29tcG9zZTxXaXphcmQ+KAovLyAgIGNvbm5lY3QoCi8vICAgICBub29wLAovLyAgICAgeyBjcmVhdGVSb3V0ZSB9Ci8vICAgKSwKLy8gICB3aXRoU3R5bGVzKHN0eWxlcykKLy8gKShXaXphcmQpCg==</text>
+        <text encoding="base64">aW1wb3J0IHJldHVybnMgZnJvbSAnbG9kYXNoL2ZwL3JldHVybnMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgd2l0aFN0eWxlcyhzdHlsZXMpKFdpemFyZCkK</text>
+        <text encoding="base64">Ly8gY29uc3QgY21wID0gY29tcG9zZTxXaXphcmQ+KAovLyAgIGNvbm5lY3QoCi8vICAgICBub29wLAovLyAgICAgeyBjcmVhdGVSb3V0ZSB9Ci8vICAgKSwKLy8gICB3aXRoU3R5bGVzKHN0eWxlcykKLy8gKShXaXphcmQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjcmVhdGVSb3V0ZTogdHlwZW9mIGNyZWF0ZVJvdXRlCg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgd2l0aFN0eWxlcyhzdHlsZXMpKFdpemFyZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFN0ZXBXaXphcmQgZnJvbSAnY29tcG9uZW50cy9zdGVwcy9XaXphcmQnCg==</text>
+        <text encoding="base64">ICBjcmVhdGVSb3V0ZTogdHlwZW9mIGNyZWF0ZVJvdXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFN0ZXBXaXphcmQgLz4K</text>
+        <text encoding="base64">aW1wb3J0IFN0ZXBXaXphcmQgZnJvbSAnY29tcG9uZW50cy9zdGVwcy9XaXphcmQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhYSgpIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFN0ZXBXaXphcmQgLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhYSgpIHt9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y21wLiYmKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorSplitLine</text>
       </register>
     </registers>
     <search>
@@ -369,10 +369,10 @@
         <entry>action FileStructurePopup</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action ShowIntentionActions</entry>
-        <entry>action EditorSplitLine</entry>
-        <entry>action TsLintFileFixAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action TsLintFileFixAction</entry>
+        <entry>action EditorSplitLine</entry>
       </history-cmd>
       <history-expr />
       <history-input />
