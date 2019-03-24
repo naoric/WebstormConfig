@@ -28,6 +28,9 @@
         <mark key="." line="57" column="49" />
         <mark key="^" line="65" column="54" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/frontend_utils/material/src/Typography/index.tsx" timestamp="1552832078177">
+        <mark key="'" line="90" column="5" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/tsconfig.paths.json" timestamp="1553179556920">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="19" />
@@ -39,6 +42,12 @@
         <mark key="]" line="7" column="21" />
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/type-aliases.ts" timestamp="1553437519676">
+        <mark key="'" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/demo-components/SelectionWithPopover.tsx" timestamp="1552918219200">
+        <mark key="'" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/request-builders.ts" timestamp="1553336604106">
         <mark key="[" line="18" column="36" />
@@ -53,23 +62,25 @@
         <mark key="^" line="1" column="41" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/Wizard.tsx" timestamp="1553418087857" />
-      <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1553434033021">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="27" column="26" />
-        <mark key="^" line="27" column="26" />
-        <mark key="." line="27" column="26" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1553437143980">
+        <mark key="'" line="52" column="12" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" timestamp="1553336150035">
-        <mark key="'" line="54" column="3" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" timestamp="1553437542038">
+        <mark key="'" line="26" column="9" />
         <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/craco.config.js" timestamp="1553083847179">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/craco.config.js" timestamp="1553436548250">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/tsconfig.json" timestamp="1553096804548">
+        <mark key="'" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/node_modules/redux/index.d.ts" timestamp="1553416219837">
         <mark key="[" line="471" column="16" />
@@ -163,15 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="64" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" />
-      <jump line="69" column="30" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" />
-      <jump line="4" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" />
-      <jump line="3" column="28" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" />
-      <jump line="22" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" />
-      <jump line="20" column="23" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" />
-      <jump line="32" column="30" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" />
-      <jump line="12" column="3" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/route-input.tsx" />
       <jump line="0" column="12" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/route-input.tsx" />
       <jump line="12" column="17" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
       <jump line="29" column="19" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
@@ -219,19 +221,15 @@
       <jump line="57" column="42" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
       <jump line="55" column="10" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
       <jump line="34" column="18" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/demo-components/SelectionWithPopover.tsx" />
-      <jump line="34" column="13" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
       <jump line="36" column="33" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
       <jump line="55" column="12" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
       <jump line="8" column="18" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
-      <jump line="35" column="14" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
       <jump line="9" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/tsconfig.json" />
       <jump line="4" column="64" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" />
       <jump line="11" column="63" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" />
       <jump line="13" column="7" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" />
       <jump line="12" column="7" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" />
       <jump line="16" column="5" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" />
-      <jump line="61" column="38" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
-      <jump line="19" column="5" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
       <jump line="5" column="18" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
       <jump line="1761" column="12" filename="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/deck.gl__core/index.d.ts" />
       <jump line="266" column="69" filename="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/deck.gl__core/index.d.ts" />
@@ -239,7 +237,6 @@
       <jump line="669" column="22" filename="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/deck.gl__core/index.d.ts" />
       <jump line="15" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/RouteLayer.tsx" />
       <jump line="33" column="9" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/RouteLayer.tsx" />
-      <jump line="17" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
       <jump line="75" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
       <jump line="9" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/RouteLayer.tsx" />
       <jump line="12" column="48" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" />
@@ -263,10 +260,24 @@
       <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
       <jump line="12" column="28" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
       <jump line="82" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
+      <jump line="58" column="38" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
+      <jump line="73" column="5" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
+      <jump line="70" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
+      <jump line="17" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
+      <jump line="53" column="12" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
+      <jump line="61" column="12" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
+      <jump line="69" column="5" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
+      <jump line="19" column="5" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
+      <jump line="35" column="12" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
+      <jump line="33" column="14" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
+      <jump line="34" column="33" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
+      <jump line="52" column="12" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
+      <jump line="11" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/types/type-aliases.ts" />
+      <jump line="26" column="9" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJhc2VVUkw6ICcnCg==</text>
+        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuMTEiLAo=</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -278,13 +289,13 @@
         <text>2.1.8</text>
       </register>
       <register name="/" type="4">
-        <text>react-sc</text>
+        <text>craco</text>
       </register>
       <register name="0" type="4">
         <text>__REDUX_DEVTOOLS_EXTENSION_COMPOSE__</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhc2VVUkw6ICcnCg==</text>
+        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuMTEiLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -295,44 +306,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJldHVybnMgZnJvbSAnbG9kYXNoL2ZwL3JldHVybnMnCg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvYmFiZWxfX2NvcmUiOiAiXjcuMS4wIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gY29uc3QgY21wID0gY29tcG9zZTxXaXphcmQ+KAovLyAgIGNvbm5lY3QoCi8vICAgICBub29wLAovLyAgICAgeyBjcmVhdGVSb3V0ZSB9Ci8vICAgKSwKLy8gICB3aXRoU3R5bGVzKHN0eWxlcykKLy8gKShXaXphcmQpCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tZW1vdGlvbiI6ICJeMTAuMC45IiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgd2l0aFN0eWxlcyhzdHlsZXMpKFdpemFyZCkK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tZW1vdGlvbiI6ICJeMTAuMC45IiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjcmVhdGVSb3V0ZTogdHlwZW9mIGNyZWF0ZVJvdXRlCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tY29uc29sZSI6ICJeMC4yLjEiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFN0ZXBXaXphcmQgZnJvbSAnY29tcG9uZW50cy9zdGVwcy9XaXphcmQnCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1sb2FkZXIiOiAiOC4wLjUiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFN0ZXBXaXphcmQgLz4K</text>
+        <text encoding="base64">ICAgICJAYmFiZWwvY29yZSI6ICI3LjIuMiIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhYSgpIHt9Cg==</text>
+        <text encoding="base64">ICAgICJAYmFiZWwvY29yZSI6ICI3LjIuMiIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhc2VVUkw6ICcnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSplitLine</text>
+        <text>action TsLintFileFixAction</text>
       </register>
     </registers>
     <search>
-      <last-search>react-sc</last-search>
+      <last-search>craco</last-search>
       <last-offset />
-      <last-pattern>react-sc</last-pattern>
+      <last-pattern>craco</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>storybook__react</entry>
-        <entry>material</entry>
         <entry>iconelement</entry>
         <entry>refroot</entry>
         <entry>tslint</entry>
@@ -341,7 +350,6 @@
         <entry>memoi</entry>
         <entry>polyline</entry>
         <entry>preset</entry>
-        <entry>craco</entry>
         <entry>deck</entry>
         <entry>sourcelayer</entry>
         <entry>geojsonlayer</entry>
@@ -351,6 +359,9 @@
         <entry>deckgk</entry>
         <entry>type</entry>
         <entry>react-sc</entry>
+        <entry>babel</entry>
+        <entry>lodash</entry>
+        <entry>craco</entry>
       </history-search>
       <history-cmd>
         <entry>action IntroduceConstant</entry>
@@ -369,10 +380,10 @@
         <entry>action FileStructurePopup</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action ShowIntentionActions</entry>
+        <entry>action EditorSplitLine</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action EditorSplitLine</entry>
       </history-cmd>
       <history-expr />
       <history-input />
