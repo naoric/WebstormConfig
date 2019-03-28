@@ -186,18 +186,25 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/EventStep.tsx" timestamp="1553783592149">
-        <mark key="'" line="13" column="20" />
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
-        <mark key="^" line="15" column="16" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/EventStep.tsx" timestamp="1553783746313">
+        <mark key="'" line="11" column="2" />
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="16" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/request-builders.ts" timestamp="1553246391469">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="3" column="38" />
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="38" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" timestamp="1553786021517">
+        <mark key="'" line="29" column="2" />
+        <mark key="[" line="29" column="36" />
+        <mark key="]" line="29" column="45" />
+        <mark key="^" line="29" column="45" />
+        <mark key="." line="29" column="45" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/craco.config.js" timestamp="1553083847179">
         <mark key="[" line="0" column="0" />
@@ -304,13 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="22" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
-      <jump line="28" column="52" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
-      <jump line="39" column="31" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
-      <jump line="38" column="24" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
-      <jump line="3" column="42" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
-      <jump line="90" column="5" filename="$USER_HOME$/development/otonomo/frontend_utils/material/src/Typography/index.tsx" />
       <jump line="44" column="19" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
       <jump line="37" column="9" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
       <jump line="4" column="20" filename="$USER_HOME$/development/otonomo/developer_journey/craco.config.js" />
@@ -403,11 +403,18 @@
       <jump line="8" column="0" filename="$USER_HOME$/projects/otonomo/developer_journey/package.json" />
       <jump line="84" column="5" filename="$USER_HOME$/projects/otonomo/developer_journey/package.json" />
       <jump line="85" column="5" filename="$USER_HOME$/projects/otonomo/developer_journey/package.json" />
-      <jump line="13" column="20" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/EventStep.tsx" />
+      <jump line="61" column="48" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/EventStep.tsx" />
+      <jump line="13" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/EventStep.tsx" />
+      <jump line="11" column="2" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/EventStep.tsx" />
+      <jump line="28" column="6" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" />
+      <jump line="29" column="65" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" />
+      <jump line="33" column="60" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" />
+      <jump line="35" column="14" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" />
+      <jump line="30" column="2" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;emotion&quot;</text>
+        <text>K</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -416,16 +423,16 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;emotion&quot;</text>
+        <text>K</text>
       </register>
       <register name="/" type="4">
-        <text>babel-plugin</text>
+        <text encoding="base64">XDxzdHlsZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsIChhcmc6IFQpID0+IHsKICAgIHJldHVybiB7IHJlcXVlc3Q6IHJlcXVlc3RDb25maWdDcmVhdG9yKGFyZykgfQogIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqIEBqc3gganN4ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -439,44 +446,51 @@
         <text encoding="base64">LyoqIEBqc3gganN4ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsganN4IH0gZnJvbSAnQGVtb3Rpb24vY29yZScK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">LyoqIEBqc3gganN4ICovCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHsganN4IH0gZnJvbSAnQGVtb3Rpb24vY29yZScK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyoqIEBqc3gganN4ICovCg==</text>
+      </register>
+      <register name="6" type="4">
         <text>css={css`
           display: flex;
         `}</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">LyoqIEBqc3gganN4ICovCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHsganN4IH0gZnJvbSAnQGVtb3Rpb24vY29yZScK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
-      </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorCloneCaretBelow</text>
       </register>
     </registers>
     <search>
-      <last-search>babel-plugin</last-search>
+      <last-search encoding="base64">XDxzdHlsZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>babel-plugin</last-pattern>
+      <last-pattern encoding="base64">XDxzdHlsZXNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
+      </history-search>
       <history-cmd>
         <entry>action TsLintFileFixAction</entry>
+        <entry>action RenameElement</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action MoveStatementDown</entry>
+        <entry>action MoveStatementUp</entry>
+        <entry>action EditorCloneCaretBelow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -529,6 +543,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift meta pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
