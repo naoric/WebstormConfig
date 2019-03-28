@@ -1,6 +1,6 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="Optimize, Reformat and Save">
+    <macro name="Format and Save">
       <action id="OptimizeImports" />
       <action id="ReformatWithPrettierAction" />
       <action id="SaveAll" />
