@@ -189,6 +189,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/EventStep.tsx" timestamp="1553778459775">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/demo-components/SelectionWithPopover.tsx" timestamp="1552918219200">
         <mark key="'" line="34" column="18" />
       </file>
@@ -386,7 +392,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>Accident sdlk;f;sdl ks;dlfksd; lk;s;sadkfsadlkf;sdl kf;lsdkfsdlkf slad;sldkflskadf sd;ldfkjg,dfmng;dfng;ldkfgdfkgldfkg;dfkgldfkjgkdfgskjhbfskjdbf</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -395,7 +401,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Accident sdlk;f;sdl ks;dlfksd; lk;s;sadkfsadlkf;sdl kf;lsdkfsdlkf slad;sldkflskadf sd;ldfkjg,dfmng;dfng;ldkfgdfkgldfkg;dfkgldfkjgkdfgskjhbfskjdbf</text>
       </register>
       <register name="/" type="4">
         <text>align</text>
@@ -457,7 +463,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectNextOccurrence</text>
+        <text>action ShowUsages</text>
       </register>
     </registers>
     <search>
@@ -504,13 +510,13 @@
         <entry>action VimVisualSwapSelections</entry>
         <entry>action ExtractMethod</entry>
         <entry>action ShowIntentionActions</entry>
-        <entry>action ShowUsages</entry>
         <entry>action AceAction</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action SelectNextOccurrence</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action ShowUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
