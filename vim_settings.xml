@@ -141,6 +141,11 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" timestamp="1554053638245">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/App.tsx" timestamp="1553461077114">
         <mark key="'" line="12" column="39" />
         <mark key="[" line="6" column="47" />
@@ -385,8 +390,8 @@
       <jump line="85" column="5" filename="$USER_HOME$/projects/otonomo/developer_journey/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;emotion&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9TbGlkZT4K</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -404,7 +409,7 @@
         <text encoding="base64">ICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsIChhcmc6IFQpID0+IHsKICAgIHJldHVybiB7IHJlcXVlc3Q6IHJlcXVlc3RDb25maWdDcmVhdG9yKGFyZykgfQogIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqIEBqc3gganN4ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9TbGlkZT4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -415,33 +420,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqIEBqc3gganN4ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFNsaWRlIGRpcmVjdGlvbj0icmlnaHQiIGluPXt3aXRoUG9wdXB9IG1vdW50T25FbnRlciB1bm1vdW50T25FeGl0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsganN4IH0gZnJvbSAnQGVtb3Rpb24vY29yZScK</text>
+        <text encoding="base64">LyoqIEBqc3gganN4ICovCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">LyoqIEBqc3gganN4ICovCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>css={css`
-          display: flex;
-        `}</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsganN4IH0gZnJvbSAnQGVtb3Rpb24vY29yZScK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">LyoqIEBqc3gganN4ICovCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsganN4IH0gZnJvbSAnQGVtb3Rpb24vY29yZScK</text>
+      <register name="7" type="4">
+        <text>css={css`
+          display: flex;
+        `}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqIEBqc3gganN4ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
+        <text encoding="base64">aW1wb3J0IHsganN4IH0gZnJvbSAnQGVtb3Rpb24vY29yZScK</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -493,8 +498,8 @@
         <entry>action SelectNextOccurrence</entry>
         <entry>action ShowUsages</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
