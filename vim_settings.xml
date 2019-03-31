@@ -91,12 +91,12 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogItemPane.tsx" timestamp="1554021953579">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogItemPane.tsx" timestamp="1554021963718">
         <mark key="'" line="8" column="24" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="53" />
-        <mark key="^" line="4" column="53" />
-        <mark key="." line="4" column="53" />
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="44" />
+        <mark key="^" line="18" column="44" />
+        <mark key="." line="18" column="44" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/window-extension.d.ts" timestamp="1553097885554">
         <mark key="[" line="2" column="38" />
