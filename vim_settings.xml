@@ -17,12 +17,11 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="49" column="19" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" timestamp="1554036862421">
-        <mark key="'" line="65" column="8" />
-        <mark key="[" line="65" column="9" />
-        <mark key="]" line="65" column="18" />
-        <mark key="^" line="65" column="18" />
-        <mark key="." line="65" column="18" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" timestamp="1554038211335">
+        <mark key="[" line="63" column="26" />
+        <mark key="]" line="63" column="26" />
+        <mark key="^" line="66" column="18" />
+        <mark key="." line="63" column="26" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/actions/api-actions.ts" timestamp="1553459945984">
         <mark key="[" line="1" column="37" />
@@ -157,12 +156,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" timestamp="1554030342651">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" timestamp="1554037779668">
         <mark key="'" line="3" column="25" />
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="23" />
-        <mark key="^" line="13" column="54" />
-        <mark key="." line="13" column="23" />
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="14" />
+        <mark key="^" line="17" column="14" />
+        <mark key="." line="17" column="14" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/store.ts" timestamp="1553460020084">
         <mark key="[" line="2" column="26" />
@@ -451,8 +450,8 @@
       <jump line="65" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBsb2dJdGVtPzogQ2FyRXZlbnQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -461,7 +460,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>{ x: 300, y: 0 }</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>classnames</text>
@@ -470,7 +469,7 @@
         <text encoding="base64">ICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsIChhcmc6IFQpID0+IHsKICAgIHJldHVybiB7IHJlcXVlc3Q6IHJlcXVlc3RDb25maWdDcmVhdG9yKGFyZykgfQogIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsb2dJdGVtPzogQ2FyRXZlbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAge2NoaWxkcmVufQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -481,28 +480,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2xhc3NOYW1lPXtjbih7IGhpZGRlbjogIW9wZW4gfSl9Cg==</text>
+        <text encoding="base64">ICAgICAgICB7bG9nSXRlbSAmJiAoCiAgICAgICAgICA8TG9nSXRlbVBhbmUgcG9zaXRpb249e3RoaXMuc3RhdGUubG9nSXRlbVBvc2l0aW9ufSBvcGVuPgogICAgICAgICAgICA8UGFwZXI+e3BvcHVwKCl9PC9QYXBlcj4KICAgICAgICAgIDwvTG9nSXRlbVBhbmU+CiAgICAgICAgKX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvcGVuID0gZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICB7bG9nSXRlbSAmJiAoCiAgICAgICAgICA8TG9nSXRlbVBhbmUgcG9zaXRpb249e3RoaXMuc3RhdGUubG9nSXRlbVBvc2l0aW9ufSBvcGVuPgogICAgICAgICAgICA8UGFwZXI+e3BvcHVwKCl9PC9QYXBlcj4KICAgICAgICAgIDwvTG9nSXRlbVBhbmU+CiAgICAgICAgKX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L1Jvb3RSZWY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICA8Um9vdFJlZiByb290UmVmPXt0aGlzLml0ZW1QYW5lUmVmfT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLml0ZW1QYW5lUmVmLmN1cnJlbnQpIHsK</text>
+        <text encoding="base64">ICAgICAgbG9nSXRlbT17ewogICAgICAgIGRlc2NyaXB0aW9uOiAnU29tZSBDYXIgRXZlbnQnLAogICAgICAgIGlkOiAnZGZraicsCiAgICAgICAgaWNvbjogJ2RmZGRmJywKICAgICAgICBuYW1lOiAnU29tZSBOYW1lJywKICAgICAgfX0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2dJdGVtPzogQ2FyRXZlbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRVcGRhdGUoCiAgICBwcmV2UHJvcHM6IFJlYWRvbmx5PFNpbXVsYXRpb25TaWRlQmFyUHJvcHM+LAogICAgcHJldlN0YXRlOiBSZWFkb25seTx7fT4sCiAgICBzbmFwc2hvdD86IGFueQogICk6IHZvaWQgewogIH0K</text>
+        <text encoding="base64">ICAgICAgY2xhc3NOYW1lPXtjbih7IGhpZGRlbjogIW9wZW4gfSl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvcGVuID0gZmFsc2UsCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TsLintFileFixAction</text>
@@ -536,10 +535,11 @@
         <entry>action AceAction</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action RenameElement</entry>
-        <entry>action ShowIntentionActions</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVN0YXRlbWVudFVw</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action MoveStatementUp</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
+        <entry>action ShowIntentionActions</entry>
         <entry>action TsLintFileFixAction</entry>
       </history-cmd>
       <history-expr />
