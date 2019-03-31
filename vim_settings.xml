@@ -17,12 +17,12 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="49" column="19" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" timestamp="1554021632103">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" timestamp="1554026127355">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="35" column="23" />
-        <mark key="]" line="35" column="30" />
-        <mark key="^" line="35" column="30" />
-        <mark key="." line="35" column="30" />
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="35" column="33" />
+        <mark key="^" line="35" column="33" />
+        <mark key="." line="35" column="33" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/actions/api-actions.ts" timestamp="1553459945984">
         <mark key="[" line="1" column="37" />
@@ -91,12 +91,12 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogItemPane.tsx" timestamp="1554021963718">
-        <mark key="'" line="8" column="24" />
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="18" column="44" />
-        <mark key="^" line="18" column="44" />
-        <mark key="." line="18" column="44" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogItemPane.tsx" timestamp="1554026145171">
+        <mark key="'" line="11" column="2" />
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/window-extension.d.ts" timestamp="1553097885554">
         <mark key="[" line="2" column="38" />
@@ -336,7 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
       <jump line="75" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
       <jump line="9" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/RouteLayer.tsx" />
       <jump line="12" column="48" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" />
@@ -436,10 +435,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
       <jump line="1" column="19" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogItemPane.tsx" />
       <jump line="18" column="24" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogItemPane.tsx" />
+      <jump line="12" column="2" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogItemPane.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFN0eWxlcyB9IGZyb20gJ0BtYXRlcmlhbC11aS9zdHlsZXMnCg==</text>
+      <register name="&quot;" type="4">
+        <text>Welcome</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -448,7 +448,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>Welcome</text>
       </register>
       <register name="/" type="4">
         <text>jss</text>
