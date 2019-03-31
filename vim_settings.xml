@@ -141,10 +141,11 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" timestamp="1554053638245">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" timestamp="1554056888205">
+        <mark key="[" line="96" column="38" />
+        <mark key="]" line="16" column="44" />
+        <mark key="^" line="16" column="44" />
+        <mark key="." line="16" column="44" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/App.tsx" timestamp="1553461077114">
         <mark key="'" line="12" column="39" />
@@ -288,7 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="2" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
       <jump line="75" column="22" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
       <jump line="28" column="52" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
@@ -388,10 +388,11 @@
       <jump line="8" column="0" filename="$USER_HOME$/projects/otonomo/developer_journey/package.json" />
       <jump line="84" column="5" filename="$USER_HOME$/projects/otonomo/developer_journey/package.json" />
       <jump line="85" column="5" filename="$USER_HOME$/projects/otonomo/developer_journey/package.json" />
+      <jump line="41" column="9" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9TbGlkZT4K</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -400,16 +401,16 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;emotion&quot;</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>babel-plugin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsIChhcmc6IFQpID0+IHsKICAgIHJldHVybiB7IHJlcXVlc3Q6IHJlcXVlc3RDb25maWdDcmVhdG9yKGFyZykgfQogIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEdyaWQgY29udGFpbmVyIGl0ZW0gc20gY2xhc3Nlcz17eyBpdGVtOiBjbGFzc2VzLnBvcHVwIH19PgogICAgICAgICAgICAgIDxQYXBlciBjbGFzc2VzPXt7IHJvb3Q6IGNsYXNzZXMucG9wdXBQYXBlciB9fT57cG9wdXAoKX08L1BhcGVyPgogICAgICAgICAgICA8L0dyaWQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9TbGlkZT4K</text>
+        <text encoding="base64">ICAgIHpJbmRleDogMjAsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -420,33 +421,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFNsaWRlIGRpcmVjdGlvbj0icmlnaHQiIGluPXt3aXRoUG9wdXB9IG1vdW50T25FbnRlciB1bm1vdW50T25FeGl0Pgo=</text>
+        <text encoding="base64">ICAgIG9wYWNpdHk6IDEsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqIEBqc3gganN4ICovCg==</text>
+        <text encoding="base64">ICAgIG9wYWNpdHk6IDAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqIEBqc3gganN4ICovCg==</text>
+        <text encoding="base64">ICByZWY/OiBSZWZPYmplY3Q8YW55Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsganN4IH0gZnJvbSAnQGVtb3Rpb24vY29yZScK</text>
+        <text encoding="base64">ICByZWYsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqIEBqc3gganN4ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9BbmltYXRlZEV4cGFuc2lvbj4K</text>
       </register>
-      <register name="7" type="4">
-        <text>css={css`
-          display: flex;
-        `}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9TbGlkZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqIEBqc3gganN4ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFNsaWRlIGRpcmVjdGlvbj0icmlnaHQiIGluPXt3aXRoUG9wdXB9IG1vdW50T25FbnRlciB1bm1vdW50T25FeGl0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsganN4IH0gZnJvbSAnQGVtb3Rpb24vY29yZScK</text>
+        <text encoding="base64">LyoqIEBqc3gganN4ICovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action TsLintFileFixAction</text>
       </register>
     </registers>
     <search>
@@ -494,12 +493,12 @@
         <entry>action ShowIntentionActions</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
-        <entry>action TsLintFileFixAction</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action ShowUsages</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
+        <entry>action TsLintFileFixAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
