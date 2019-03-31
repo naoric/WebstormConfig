@@ -42,12 +42,6 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/index.tsx" timestamp="1553801843457">
-        <mark key="[" line="5" column="46" />
-        <mark key="]" line="6" column="8" />
-        <mark key="^" line="6" column="8" />
-        <mark key="." line="6" column="8" />
-      </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/.storybook/config.js" timestamp="1553459110787">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -68,9 +62,9 @@
       <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1553802540016">
         <mark key="'" line="5" column="15" />
         <mark key="[" line="20" column="32" />
-        <mark key="]" line="86" column="0" />
+        <mark key="]" line="85" column="0" />
         <mark key="^" line="5" column="22" />
-        <mark key="." line="86" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/api/api.ts" timestamp="1553459976508">
         <mark key="[" line="1" column="34" />
@@ -211,13 +205,6 @@
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" timestamp="1553800189370">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/craco.config.js" timestamp="1553083847179">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -306,7 +293,7 @@
         <mark key="'" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/wizard/Wizard.tsx" timestamp="1553800900290">
-        <mark key="'" line="78" column="12" />
+        <mark key="'" line="81" column="12" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" timestamp="1552777341229">
         <mark key="'" line="0" column="0" />
@@ -316,7 +303,6 @@
         <mark key="." line="76" column="52" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/App.tsx" timestamp="1553801825795">
-        <mark key="[" line="13" column="22" />
         <mark key="]" line="16" column="4" />
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
