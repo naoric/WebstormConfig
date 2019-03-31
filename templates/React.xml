@@ -40,4 +40,12 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="ddp" value="{ $END$ }: $PROP_TYPE$" description="Destructure Props Argument" toReformat="false" toShortenFQNames="true">
+    <variable name="PROP_TYPE" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_CLASS" value="false" />
+    </context>
+  </template>
 </templateSet>
