@@ -5,4 +5,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="mat" value="import $COMP$ from '@material-ui/core/$COMP$'$END$" description="Import Material Component" toReformat="false" toShortenFQNames="true">
+    <variable name="COMP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
