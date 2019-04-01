@@ -20,11 +20,9 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/wizard/StepButton.tsx" timestamp="1554097115555">
-        <mark key="[" line="3" column="74" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="18" column="87" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/wizard/StepButton.tsx" timestamp="1554098829612">
+        <mark key="'" line="0" column="5" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/Notification/Notification.tsx" timestamp="1553464256071">
         <mark key="[" line="0" column="0" />
@@ -225,6 +223,12 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/theme/theme.d.ts" timestamp="1554098768006">
+        <mark key="'" line="0" column="32" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/tsconfig.json" timestamp="1553459430576">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -300,9 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
-      <jump line="23" column="36" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
       <jump line="40" column="83" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
       <jump line="43" column="22" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
       <jump line="45" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
@@ -400,10 +401,13 @@
       <jump line="49" column="19" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
       <jump line="12" column="6" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
       <jump line="13" column="33" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
+      <jump line="0" column="9" filename="$USER_HOME$/projects/otonomo/developer_journey/src/theme/theme.d.ts" />
+      <jump line="2" column="32" filename="$USER_HOME$/projects/otonomo/developer_journey/src/theme/theme.d.ts" />
+      <jump line="17" column="5" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/wizard/StepButton.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHtUaGVtZX0gZnJvbSAnQG1hdGVyaWFsLXVpL3N0eWxlcycKCg==</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -412,16 +416,16 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>container_base_width</text>
+        <text encoding="base64">XDxwbGF5Z3JvdW5kLXRoZW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEdyaWQgY29udGFpbmVyIGl0ZW0gc20gY2xhc3Nlcz17eyBpdGVtOiBjbGFzc2VzLnBvcHVwIH19PgogICAgICAgICAgICAgIDxQYXBlciBjbGFzc2VzPXt7IHJvb3Q6IGNsYXNzZXMucG9wdXBQYXBlciB9fT57cG9wdXAoKX08L1BhcGVyPgogICAgICAgICAgICA8L0dyaWQ+Cg==</text>
+        <text encoding="base64">ICBpbnRlcmZhY2UgVGhlbWUgewogICAgY29sb3JzOiBDb2xvck9wdGlvbnMKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPEdyaWQgY29udGFpbmVyIGl0ZW0gc20gY2xhc3Nlcz17eyBpdGVtOiBjbGFzc2VzLnBvcHVwIH19PiovfQogICAgICAgICAgICB7LyogIDxQYXBlciBjbGFzc2VzPXt7IHJvb3Q6IGNsYXNzZXMucG9wdXBQYXBlciB9fT57cG9wdXAoKX08L1BhcGVyPiovfQogICAgICAgICAgICB7Lyo8L0dyaWQ+Ki99Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtUaGVtZX0gZnJvbSAnQG1hdGVyaWFsLXVpL3N0eWxlcycKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -432,44 +436,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyTGVmdDogYDFweCBzb2xpZCBncmF5YCwK</text>
+        <text encoding="base64">aW1wb3J0IFRoZW1lIGZyb20gJ0BtYXRlcmlhbC11aS9zdHlsZXMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L1BhcGVyPgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU3R5bGVSdWxlcyB9IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL3N0eWxlcy93aXRoU3R5bGVzJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8UGFwZXIgZWxldmF0aW9uPXsxfSBzcXVhcmUgY2xhc3Nlcz17eyByb290OiBjbGFzc2VzLnBvcHVwUGFwZXIgfX0+Cg==</text>
+        <text encoding="base64">aW1wb3J0IFN0eWxlUnVsZXMgZnJvbSAnQG1hdGVyaWFsLXVpL3N0eWxlcy9TdHlsZVJ1bGVzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvcHVwUGFwZXI6IHsKICAgICAgZmxleDogMSwKICAgIH0sCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAnQG1hdGVyaWFsLXVpL3N0eWxlcy90aGVtZScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzcXVhcmUK</text>
+        <text encoding="base64">aW1wb3J0IHsgVGhlbWUgfSBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9zdHlsZXMnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogJ25vbmUnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvcmRlckxlZnQ6ICdzb2xpZCAxcHggZ3JheScsCg==</text>
+        <text encoding="base64">aW1wb3J0IFRoZW1lIGZyb20gJ0BtYXRlcmlhbC11aS9zdHlsZXMvVGhlbWUnCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIG9wYWNpdHk6IDAsCiAgICB0cmFuc2l0aW9uOiB7IG9wYWNpdHk6IHsgZHVyYXRpb246IDAgfSB9LA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlU3R5bGVzLCBUaGVtZSwgd2l0aFN0eWxlcyB9IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL3N0eWxlcycK</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>container_base_width</last-search>
+      <last-search encoding="base64">XDxwbGF5Z3JvdW5kLXRoZW1lXD4=</last-search>
       <last-offset />
-      <last-pattern>container_base_width</last-pattern>
+      <last-pattern encoding="base64">XDxwbGF5Z3JvdW5kLXRoZW1lXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>polyline</entry>
-        <entry>preset</entry>
         <entry>craco</entry>
         <entry>deck</entry>
         <entry>sourcelayer</entry>
@@ -488,6 +490,8 @@
         <entry>babel-plugin</entry>
         <entry>duration</entry>
         <entry>container_base_width</entry>
+        <entry encoding="base64">XDxUaGVtZVw+</entry>
+        <entry encoding="base64">XDxwbGF5Z3JvdW5kLXRoZW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ExtractMethod</entry>
@@ -496,7 +500,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVN0YXRlbWVudFVw</entry>
         <entry>action EditorUp</entry>
         <entry>action EditorCloneCaretBelow</entry>
-        <entry>action ShowIntentionActions</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action SelectNextOccurrence</entry>
@@ -508,8 +511,9 @@
         <entry>action MoveStatementDown</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action ShowIntentionActions</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
