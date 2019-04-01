@@ -80,4 +80,12 @@
     <variable name="PATH" expression="complete()" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="ll" value="($PARAMS$: $TYPE$) =&gt; $END$" description="lambda with parentheses" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_CLASS" value="false" />
+    </context>
+  </template>
 </templateSet>
