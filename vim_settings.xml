@@ -68,6 +68,12 @@
         <mark key="." line="1" column="35" />
         <mark key="^" line="1" column="35" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/tsconfig.json" timestamp="1554187525481">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="5" />
+        <mark key="^" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1553460011343">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="26" />
