@@ -87,7 +87,13 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/App.css" timestamp="1554219290459" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/App.css" timestamp="1554224432410">
+        <mark key="'" line="33" column="28" />
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="33" column="29" />
+        <mark key="." line="33" column="15" />
+        <mark key="^" line="36" column="5" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogItemPane.tsx" timestamp="1554040734870">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="12" column="0" />
@@ -376,12 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="9" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/mapbox/RouteLayer.tsx" />
-      <jump line="10" column="21" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/mapbox/RouteLayer.tsx" />
-      <jump line="79" column="0" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
-      <jump line="5" column="27" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/SelectionBox/CarSelectionBox.tsx" />
-      <jump line="3" column="59" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/wizard/WizardLabel.tsx" />
-      <jump line="5" column="73" filename="$USER_HOME$/projects/otonomo/developer_journey/src/stories/car-selection-box.tsx" />
       <jump line="12" column="39" filename="$USER_HOME$/projects/otonomo/developer_journey/src/App.tsx" />
       <jump line="15" column="22" filename="$USER_HOME$/projects/otonomo/developer_journey/package.json" />
       <jump line="88" column="30" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/SelectionBox/SelectionBox.tsx" />
@@ -476,10 +476,16 @@
       <jump line="22" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" />
       <jump line="67" column="6" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
       <jump line="47" column="2" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
+      <jump line="4" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/App.css" />
+      <jump line="2" column="30" filename="$USER_HOME$/development/otonomo/developer_journey/src/App.css" />
+      <jump line="9" column="30" filename="$USER_HOME$/development/otonomo/developer_journey/src/App.css" />
+      <jump line="16" column="30" filename="$USER_HOME$/development/otonomo/developer_journey/src/App.css" />
+      <jump line="23" column="30" filename="$USER_HOME$/development/otonomo/developer_journey/src/App.css" />
+      <jump line="33" column="28" filename="$USER_HOME$/development/otonomo/developer_journey/src/App.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICdBcHAuY3NzJwo=</text>
+      <register name="&quot;" type="4">
+        <text>''</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -488,7 +494,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text>logitem</text>
@@ -497,39 +503,34 @@
         <text encoding="base64">ICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsIChhcmc6IFQpID0+IHsKICAgIHJldHVybiB7IHJlcXVlc3Q6IHJlcXVlc3RDb25maWdDcmVhdG9yKGFyZykgfQogIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdBcHAuY3NzJwo=</text>
+        <text encoding="base64">aHRtbCwKYm9keSB7CiAgZm9udC1mYW1pbHk6ICdTdWlzc2VOZXVlSW50bCcsICdIZWx2ZXRpY2EnLCBzYW5zLXNlcmlmOwp9Cg==</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="73" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-        </keys>
+        <text>&quot;&quot;di'&quot;&quot;da'&quot;&quot;P`[</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgV2VsY29tZSB0byB0aGUgZHJhd2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9nSXRlbT17ewogICAgICAgIGljb246ICcnLAogICAgICAgIGlkOiAzMzMsCiAgICAgICAgZGVzY3JpcHRpb246ICcnLAogICAgICAgIG5hbWU6ICcnLAogICAgICB9fT4K</text>
+        <text encoding="base64">QGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6IOKAmFN1aXNzZU5ldWVJbnRs4oCZOwogIHNyYzogdXJsKOKAmWh0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9kZXYtb3Rvbm9tby1tZWRpYS9tZWRpYS9lbWFpbC9mb250cy9TdWlzc2VJbnRsLVJlZ3VsYXIub3RmJykKICBmb3JtYXQo4oCYb3Rm4oCZKTsKICBmb250LXdlaWdodDogNDAwOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKfQoKQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6IOKAmFN1aXNzZU5ldWVJbnRs4oCZOwogIHNyYzogdXJsKOKAmGh0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9kZXYtb3Rvbm9tby1tZWRpYS9tZWRpYS9lbWFpbC9mb250cy8vU3Vpc3NlSW50bC1TZW1pQm9sZC5vdGbigJkpCiAgICBmb3JtYXQo4oCYb3RmIOKAmSk7CiAgZm9udC13ZWlnaHQ6IDcwMDsKICBmb250LXN0eWxlOiBub3JtYWw7Cn0KCkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiDigJhTdWlzc2VOZXVlSW50bCDigJk7CiAgc3JjOiB1cmwo4oCYaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Rldi1vdG9ub21vLW1lZGlhL21lZGlhL2VtYWlsL2ZvbnRzLy9TdWlzc2VJbnRsLUxpZ2h0Lm90ZuKAmSkKICAgIGZvcm1hdCjigJhvdGbigJkpOwogIGZvbnQtd2VpZ2h0OiAzMDA7CiAgZm9udC1zdHlsZTogbm9ybWFsOwp9CgpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTog4oCYU3Vpc3NlTmV1ZUludGzigJk7CiAgc3JjOiB1cmwoJ2h0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9kZXYtb3Rvbm9tby1tZWRpYS9tZWRpYS9lbWFpbC9mb250cy8vU3Vpc3NlSW50bC1MaWdodEl0YWxpYy5vdGYnKQogICAgZm9ybWF0KOKAmG90ZuKAmSk7CiAgZm9udC13ZWlnaHQ6IDMwMDsKICBmb250LXN0eWxlOiBpdGFsaWM7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmV0dXJucyB9IGZyb20gJ3R5cGVzL3R5cGUtYWxpYXNlcycK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmV0dXJucyB9IGZyb20gJy4uLy4uL3R5cGVzL3R5cGUtYWxpYXNlcycK</text>
+        <text encoding="base64">aHRtbCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2dJdGVtPzogQ2FyRXZlbnQK</text>
+        <text encoding="base64">Ym9keSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbG9nSXRlbSwK</text>
+        <text encoding="base64">ICBmb250LWZhbWlseTog4oCYU3Vpc3NlTmV1ZUludGzigJksIOKAmEhlbHZldGljYeKAmSwgc2Fucy1zZXJpZjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0YW50KCkK</text>
+        <text encoding="base64">aW1wb3J0ICdBcHAuY3NzJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAncmVhY3QnCg==</text>
+        <text encoding="base64">ICAgICAgV2VsY29tZSB0byB0aGUgZHJhd2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>action TsLintFileFixAction</text>
