@@ -178,12 +178,12 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" timestamp="1554229107044">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" timestamp="1554231136969">
         <mark key="'" line="8" column="31" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="13" column="5" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="40" column="19" />
+        <mark key="]" line="40" column="19" />
+        <mark key="." line="40" column="19" />
+        <mark key="^" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/notification.tsx" timestamp="1552855003666">
         <mark key="[" line="10" column="21" />
@@ -468,8 +468,8 @@
       <jump line="13" column="31" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc3BhY2luZz17MTZ9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -478,16 +478,16 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>('otf</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICByZXR1cm4gY3JlYXRlQWN0aW9uKG5hbWUsIChhcmc6IFQpID0+IHsKICAgIHJldHVybiB7IHJlcXVlc3Q6IHJlcXVlc3RDb25maWdDcmVhdG9yKGFyZykgfQogIH0pCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGNvbnRhaW5lciBhbGlnbkl0ZW1zPSJjZW50ZXIi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3BhY2luZz17MTZ9Cg==</text>
+        <text encoding="base64">ICAgICAgdGV4dEFsaWduOiAnY2VudGVyJywK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -514,31 +514,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWxpZ25Db250ZW50PSJjZW50ZXIiCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZzogMjAsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWxpZ25Db250ZW50PSJzcGFjZS1iZXR3ZWVuIgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgc3BhY2luZz17MTZ9Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYWxpZ25Db250ZW50PSJzcGFjZS1hcm91bmQiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGl0ZW06IHsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZzogMjIsCg==</text>
+        <text encoding="base64">ICAgICAgc3BhY2luZz17MTZ9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYWxpZ25Db250ZW50PSJjZW50ZXIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgV2l0aFN0eWxlcyB9IGZyb20gJ0BtYXRlcmlhbC11aS9zdHlsZXMnCg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogMjAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgV2l0aFN0eWxlcyB9IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL3N0eWxlcy93aXRoU3R5bGVzJwo=</text>
+        <text encoding="base64">ICAgICAgYWxpZ25Db250ZW50PSJzcGFjZS1iZXR3ZWVuIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicateLines</text>
+        <text>action TsLintFileFixAction</text>
       </register>
     </registers>
     <search>
@@ -584,9 +584,9 @@
         <entry>action GotoDeclaration</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>action AceAction</entry>
-        <entry>action TsLintFileFixAction</entry>
         <entry>action GotoFile</entry>
         <entry>action EditorDuplicateLines</entry>
+        <entry>action TsLintFileFixAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
