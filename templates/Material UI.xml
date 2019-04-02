@@ -17,4 +17,16 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="gi" value="&lt;Grid item$ATTR$&gt;&#10;  $END$&#10;&lt;/Grid&gt;" description="Grid item" toReformat="false" toShortenFQNames="true">
+    <variable name="ATTR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="gc" value="&lt;Grid container$ATTR$&gt;&#10;  $END$&#10;&lt;/Grid&gt;" description="Grid container" toReformat="false" toShortenFQNames="true">
+    <variable name="ATTR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
