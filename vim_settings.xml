@@ -141,11 +141,12 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/icons.tsx" timestamp="1554277855052">
-        <mark key="'" line="35" column="41" />
-        <mark key="]" line="38" column="10" />
-        <mark key="^" line="38" column="10" />
-        <mark key="." line="38" column="10" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/icons.tsx" timestamp="1554280333861">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="69" column="42" />
+        <mark key="]" line="69" column="47" />
+        <mark key="." line="69" column="47" />
+        <mark key="^" line="69" column="47" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/wizard/WizardLabel.tsx" timestamp="1553459931150">
         <mark key="'" line="3" column="59" />
@@ -154,11 +155,10 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/.storybook/config.js" timestamp="1554219752548">
-        <mark key="[" line="6" column="61" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="15" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/.storybook/config.js" timestamp="1554279696351">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" timestamp="1554218159610">
         <mark key="[" line="16" column="0" />
@@ -365,8 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="5" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/Notification/Notification.tsx" />
-      <jump line="6" column="32" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/mapbox/PositionLabel.tsx" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/otonomo/developer_journey/package.json" />
       <jump line="84" column="5" filename="$USER_HOME$/projects/otonomo/developer_journey/package.json" />
       <jump line="85" column="5" filename="$USER_HOME$/projects/otonomo/developer_journey/package.json" />
@@ -465,10 +463,12 @@
       <jump line="49" column="47" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/icons.tsx" />
       <jump line="26" column="33" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/icons.tsx" />
       <jump line="40" column="41" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/icons.tsx" />
+      <jump line="57" column="20" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/icons.tsx" />
+      <jump line="31" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/icons.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>uiSvg</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -477,16 +477,16 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>uiSvg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHcmlkXD4=</text>
+        <text>babel-plugin-require-context</text>
       </register>
       <register name="0" type="4">
         <text>'assets/svg/attributes'</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmNvbnN0</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc3QgdWlTdmcgPSBnZXRVaVN2Z3MoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -513,37 +513,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBzdmdzID0gY3R4Cg==</text>
+        <text encoding="base64">Y29uc3QgYXR0cmlidXRlc1N2Z01vZGVscyA9IGdldEF0dHJpYnV0ZVN2Z3MoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBjdHggPSBjdHgK</text>
+        <text encoding="base64">Y29uc3QgZ2V0VWlTdmdzID0gKCkgPT4gewogIHJldHVybiB1aVN2Z3MKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBzdmdzID0gZ2V0QWxsU3ZnTW9kdWxlcygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGV4dEFsaWduOiAnY2VudGVyJywK</text>
+        <text encoding="base64">ICAgIC5rZXlzKCkKICAgIC5tYXAoayA9PiBrLnJlcGxhY2UoJy4vJywgJycpKQogICAgLm1hcChrID0+IHJlcXVpcmUoYGFzc2V0cy9zdmcvdWkvJHtrfWApKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc3BhY2luZz17MTZ9Cg==</text>
+        <text encoding="base64">Y29uc3QgZ2V0QXR0cmlidXRlU3ZncyA9ICgpID0+IHsKICByZXR1cm4gYXR0cmlidXRlc1N2Z3MKfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWxpZ25Db250ZW50PSJzcGFjZS1hcm91bmQiCg==</text>
+        <text encoding="base64">ICAgIC5rZXlzKCkKICAgIC5tYXAoayA9PiBrLnJlcGxhY2UoJy4vJywgJycpKQogICAgLm1hcChrID0+IHJlcXVpcmUoYGFzc2V0cy9zdmcvYXR0cmlidXRlcy8ke2t9YCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICBjb25zdCBzdmcgPQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGl0ZW06IHsK</text>
+        <text encoding="base64">ICBjb25zdCBzdmdzPSAK</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action VimMotionScrollHalfPageDown</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHcmlkXD4=</last-search>
+      <last-search>babel-plugin-require-context</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHcmlkXD4=</last-pattern>
+      <last-pattern>babel-plugin-require-context</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -566,6 +566,7 @@
         <entry>otf</entry>
         <entry>('otf</entry>
         <entry encoding="base64">XDxHcmlkXD4=</entry>
+        <entry>babel-plugin-require-context</entry>
       </history-search>
       <history-cmd>
         <entry>action MoveStatementDown</entry>
@@ -577,16 +578,17 @@
         <entry>action MoveStatementUp</entry>
         <entry>action EditorCloneCaretBelow</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action ShowIntentionActions</entry>
         <entry>action AceAction</entry>
         <entry>action EditorDuplicateLines</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action TsLintFileFixAction</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action RenameElement</entry>
+        <entry>action TsLintFileFixAction</entry>
+        <entry>action ShowIntentionActions</entry>
+        <entry>action GotoFile</entry>
+        <entry>action VimMotionScrollHalfPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
