@@ -115,4 +115,11 @@
       <option name="JS_CLASS" value="false" />
     </context>
   </template>
+  <template name="v" value="$KEY$: $VAL$" description="Key with type" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="KEY" expression="" defaultValue="&quot;key&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
