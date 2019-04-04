@@ -1,5 +1,13 @@
 <application>
   <component name="TemplateSettings">
     <defaultShortcut shortcut="SPACE" />
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="props" />
+        </TemplateKey>
+      </list>
+    </option>
   </component>
 </application>

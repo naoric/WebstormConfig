@@ -1,6 +1,9 @@
 <templateSet group="React">
-  <template name="props" value="this.props.$END$" description="Access component's props" toReformat="false" toShortenFQNames="true">
-    <context />
+  <template name="p" value="this.props.$END$" description="Access component's props" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
   </template>
   <template name="state" value="this.state.$END$" description="Access component's state" toReformat="false" toShortenFQNames="true">
     <context />
@@ -59,6 +62,12 @@
     <variable name="Component" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="rfc" value="import React from 'react'&#10;&#10;interface $TM_FILENAME_BASE$Props {&#10;  &#10;}&#10;&#10;function $TM_FILENAME_BASE$({}: $TM_FILENAME_BASE$Props) {&#10; $END$&#10;}&#10;&#10;export default $TM_FILENAME_BASE$" description="React Function Component" toReformat="true" toShortenFQNames="true">
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
