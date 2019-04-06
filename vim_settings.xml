@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/DetailsPane.tsx" timestamp="1554140004902">
+      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/DetailsPane.tsx" timestamp="1554558725991">
         <mark key="'" line="4" column="12" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="25" column="14" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1553154719071">
         <mark key="'" line="85" column="0" />
@@ -32,13 +36,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="58" />
-      </file>
-      <file name="$USER_HOME$/projects/otonomo/developer_journey/package.json" timestamp="1554542956961">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="25" column="24" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/stories/car-selection-box.tsx" timestamp="1553460051135">
         <mark key="'" line="3" column="73" />
@@ -182,11 +179,17 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/theme/playground-theme.ts" timestamp="1554138039317">
+      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/theme/playground-theme.ts" timestamp="1554559234988">
         <mark key="[" line="30" column="13" />
         <mark key="]" line="30" column="26" />
         <mark key="^" line="30" column="26" />
         <mark key="." line="30" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" timestamp="1554559049602">
+        <mark key="[" line="65" column="1" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/wizard/StepComponent.tsx" timestamp="1553459884429">
         <mark key="[" line="2" column="23" />
@@ -226,6 +229,12 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" timestamp="1554559022181">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="59" column="24" />
+        <mark key="." line="59" column="24" />
+        <mark key="^" line="59" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/App.tsx" timestamp="1554136566698">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -256,6 +265,13 @@
         <mark key="]" line="3" column="38" />
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusDetailsPane.tsx" timestamp="1554560666926">
+        <mark key="'" line="19" column="31" />
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="17" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/root.ts" timestamp="1553106925439">
         <mark key="[" line="0" column="0" />
@@ -316,9 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
-      <jump line="69" column="0" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
-      <jump line="23" column="0" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
       <jump line="20" column="0" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
       <jump line="112" column="0" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
@@ -416,10 +429,13 @@
       <jump line="68" column="11" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
       <jump line="28" column="12" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/DetailsPane.tsx" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/otonomo/developer_journey/package.json" />
+      <jump line="38" column="34" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusDetailsPane.tsx" />
+      <jump line="34" column="33" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusDetailsPane.tsx" />
+      <jump line="15" column="31" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusDetailsPane.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>latest</text>
+        <text>'0.8125rem'</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -428,7 +444,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>latest</text>
+        <text>'0.8125rem'</text>
       </register>
       <register name="/" type="4">
         <text>latest</text>
@@ -437,7 +453,7 @@
         <text encoding="base64">ICBJY29uQ29tcG9uZW50LAogIGxhYmVsID0gJycsCiAgc3ViVGl0bGUgPSAnJywKICBjaGVja2VkID0gZmFsc2UsCiAgZGVzY3JpcHRpb24gPSAnJywKICB3aWR0aCA9IDE2MCwKICBoZWlnaHQgPSAxMzAsCiAgLi4uYmFzZUJ1dHRvblByb3Bz</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHwgc3RyaW5nCiAgICB8IFN0eWxlUnVsZXMKICAgIHwgU3R5bGVSdWxlc0NhbGxiYWNrPFBsYXlncm91bmRUaGVtZSwgYW55PiA9IHN0cmluZwo=</text>
+        <text encoding="base64">ICAgIHRpdGxlOiB7CiAgICAgIGxpbmVIZWlnaHQ6IDMsCiAgICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -448,31 +464,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9udFdlaWdodDogMzAwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0IHR5cGUgQ1NTRmFjdG9yeSA9ICguLi5wcm9wczogYW55W10pID0+IENTU1Byb3BlcnRpZXMK</text>
+        <text encoding="base64">ICAgICAgZm9udFdlaWdodDogMzAwLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3R5bGVSdWxlcyB9IGZyb20gJ0BtYXRlcmlhbC11aS9jb3JlL3N0eWxlcycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBwcGtleT17fT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiAnMTAwJScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyTGVmdDogYDFweCBzb2xpZCAke3RoZW1lLmNvbG9ycy5ncmF5M31gLAo=</text>
+        <text encoding="base64">ICAgIGRlbGF5OiAyNTAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlbGF5Q2hpbGRyZW46IDIwMDAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7cG9wdXAoKX0K</text>
+        <text encoding="base64">ICAgIHwgc3RyaW5nCiAgICB8IFN0eWxlUnVsZXMKICAgIHwgU3R5bGVSdWxlc0NhbGxiYWNrPFBsYXlncm91bmRUaGVtZSwgYW55PiA9IHN0cmluZwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -513,19 +529,19 @@
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action ShowUsages</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVN0YXRlbWVudFVw</entry>
-        <entry>action ShowIntentionActions</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action SelectNextOccurrence</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action AceAction</entry>
-        <entry>action RenameElement</entry>
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action ShowIntentionActions</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action GotoFile</entry>
+        <entry>action SelectNextOccurrence</entry>
+        <entry>action RenameElement</entry>
+        <entry>action AceAction</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
