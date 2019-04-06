@@ -4,11 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/DetailsPane.tsx" timestamp="1554140004902">
-        <mark key="'" line="28" column="12" />
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="13" column="52" />
-        <mark key="^" line="13" column="52" />
-        <mark key="." line="13" column="52" />
+        <mark key="'" line="4" column="12" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1553154719071">
         <mark key="'" line="85" column="0" />
@@ -37,11 +33,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/otonomo/developer_journey/package.json" timestamp="1554116888369">
-        <mark key="'" line="1" column="29" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/otonomo/developer_journey/package.json" timestamp="1554542956961">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="24" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/stories/car-selection-box.tsx" timestamp="1553460051135">
         <mark key="'" line="3" column="73" />
@@ -229,12 +226,6 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" timestamp="1554139829188">
-        <mark key="'" line="68" column="11" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/App.tsx" timestamp="1554136566698">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -247,7 +238,6 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/helpers/index.ts" timestamp="1554134608697" />
       <file name="$USER_HOME$/projects/otonomo/developer_journey/tsconfig.json" timestamp="1553459430576">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -326,7 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="27" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
       <jump line="76" column="0" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
       <jump line="69" column="0" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
       <jump line="23" column="0" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" />
@@ -426,10 +415,11 @@
       <jump line="26" column="38" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
       <jump line="68" column="11" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
       <jump line="28" column="12" filename="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/DetailsPane.tsx" />
+      <jump line="24" column="0" filename="$USER_HOME$/projects/otonomo/developer_journey/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHwgc3RyaW5nCiAgICB8IFN0eWxlUnVsZXMKICAgIHwgU3R5bGVSdWxlc0NhbGxiYWNrPFBsYXlncm91bmRUaGVtZSwgYW55PiA9IHN0cmluZwo=</text>
+      <register name="&quot;" type="4">
+        <text>latest</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -438,10 +428,10 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>Theme</text>
+        <text>latest</text>
       </register>
       <register name="/" type="4">
-        <text>withstyl</text>
+        <text>latest</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICBJY29uQ29tcG9uZW50LAogIGxhYmVsID0gJycsCiAgc3ViVGl0bGUgPSAnJywKICBjaGVja2VkID0gZmFsc2UsCiAgZGVzY3JpcHRpb24gPSAnJywKICB3aWR0aCA9IDE2MCwKICBoZWlnaHQgPSAxMzAsCiAgLi4uYmFzZUJ1dHRvblByb3Bz</text>
@@ -482,13 +472,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TsLintFileFixAction</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>withstyl</last-search>
+      <last-search>latest</last-search>
       <last-offset />
-      <last-pattern>withstyl</last-pattern>
+      <last-pattern>latest</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -503,7 +493,6 @@
         <entry>console</entry>
         <entry>babel</entry>
         <entry encoding="base64">XDxXZWJNZXJjYXRvclZpZXdwb3J0XD4=</entry>
-        <entry>latest</entry>
         <entry>emotion</entry>
         <entry>css</entry>
         <entry>babel-plugin</entry>
@@ -514,6 +503,7 @@
         <entry>makestyle</entry>
         <entry>jss</entry>
         <entry>withstyl</entry>
+        <entry>latest</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorDuplicateLines</entry>
@@ -533,9 +523,9 @@
         <entry>action AceAction</entry>
         <entry>action RenameElement</entry>
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action TsLintFileFixAction</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
