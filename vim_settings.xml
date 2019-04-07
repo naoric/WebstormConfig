@@ -104,11 +104,11 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" timestamp="1554383834706">
-        <mark key="[" line="2" column="91" />
-        <mark key="]" line="2" column="104" />
-        <mark key="^" line="2" column="104" />
-        <mark key="." line="2" column="104" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" timestamp="1554642453166">
+        <mark key="[" line="42" column="56" />
+        <mark key="]" line="42" column="56" />
+        <mark key="^" line="9" column="42" />
+        <mark key="." line="42" column="56" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SelectionBox/SelectionBoxPopover.tsx" timestamp="1553459838397">
         <mark key="[" line="5" column="0" />
@@ -155,12 +155,12 @@
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" timestamp="1554635334057">
-        <mark key="'" line="37" column="20" />
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="15" />
-        <mark key="^" line="37" column="19" />
-        <mark key="." line="22" column="15" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" timestamp="1554641198331">
+        <mark key="'" line="24" column="15" />
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="13" />
+        <mark key="^" line="33" column="22" />
+        <mark key="." line="37" column="13" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/store.ts" timestamp="1553460020084">
         <mark key="[" line="2" column="26" />
@@ -357,7 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogItemPane.tsx" />
       <jump line="4" column="10" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogItemPane.tsx" />
       <jump line="2" column="25" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" />
       <jump line="4" column="19" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
@@ -457,10 +456,11 @@
       <jump line="131" column="14" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
       <jump line="11" column="28" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
       <jump line="107" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
+      <jump line="24" column="15" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGFzIGFueQ==</text>
+        <text encoding="base64">IGRpc2FibGVSaXBwbGU=</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -469,10 +469,10 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFzIGFueQ==</text>
+        <text encoding="base64">IGRpc2FibGVSaXBwbGU=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVDbGlja1w+</text>
+        <text>level</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMubGFiZWx9PntmaWVsZE5hbWVzTWFwLmZ1ZWxfbGV2ZWx9PC9zcGFuPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+e2NhclN0YXR1cy5mdWVsX2xldmVsfTwvc3Bhbj4K</text>
@@ -529,19 +529,18 @@
         <text encoding="base64">ICAgIHdpZHRoOiAnYXV0bycsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVDbGlja1w+</last-search>
+      <last-search>level</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVDbGlja1w+</last-pattern>
+      <last-pattern>level</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hidden</entry>
         <entry>typesci</entry>
         <entry>typescript</entry>
         <entry encoding="base64">XDxsb2dJdGVtXD4=</entry>
@@ -561,9 +560,9 @@
         <entry>noop</entry>
         <entry encoding="base64">XDxub29wXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVDbGlja1w+</entry>
+        <entry>level</entry>
       </history-search>
       <history-cmd>
-        <entry>action ShowIntentionActions</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action ExtractMethod</entry>
@@ -571,8 +570,6 @@
         <entry>action MoveStatementUp</entry>
         <entry>action ShowUsages</entry>
         <entry>action ShiftDownAction</entry>
-        <entry>action RenameElement</entry>
-        <entry>action AceAction</entry>
         <entry>action EditorCloneCaretBelow</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action SelectNextOccurrence</entry>
@@ -583,6 +580,9 @@
         <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ShowIntentionActions</entry>
+        <entry>action RenameElement</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
