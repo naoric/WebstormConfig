@@ -519,7 +519,7 @@
         <text encoding="base64">ICAgIHdpZHRoOiAnYXV0bycsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -570,9 +570,9 @@
         <entry>action EditorSplitLine</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRlTGluZXM=</entry>
         <entry>action EditorDuplicateLines</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
