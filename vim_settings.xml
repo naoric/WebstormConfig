@@ -17,10 +17,11 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="49" column="19" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" timestamp="1554636334868">
-        <mark key="]" line="89" column="8" />
-        <mark key="^" line="89" column="8" />
-        <mark key="." line="89" column="8" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" timestamp="1554647456614">
+        <mark key="[" line="77" column="65" />
+        <mark key="]" line="81" column="30" />
+        <mark key="^" line="81" column="30" />
+        <mark key="." line="81" column="30" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/actions/api-actions.ts" timestamp="1553459945984">
         <mark key="[" line="1" column="37" />
@@ -104,11 +105,11 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" timestamp="1554642453166">
-        <mark key="[" line="42" column="56" />
-        <mark key="]" line="42" column="56" />
-        <mark key="^" line="9" column="42" />
-        <mark key="." line="42" column="56" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" timestamp="1554647040131">
+        <mark key="[" line="62" column="14" />
+        <mark key="]" line="63" column="11" />
+        <mark key="^" line="63" column="11" />
+        <mark key="." line="63" column="11" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SelectionBox/SelectionBoxPopover.tsx" timestamp="1553459838397">
         <mark key="[" line="5" column="0" />
@@ -338,11 +339,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/App.tsx" timestamp="1553801825795">
-        <mark key="]" line="16" column="4" />
-        <mark key="^" line="16" column="4" />
-        <mark key="." line="16" column="4" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/root.ts" timestamp="1553106925439">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="33" />
@@ -357,12 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="10" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogItemPane.tsx" />
-      <jump line="2" column="25" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" />
-      <jump line="4" column="19" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
-      <jump line="6" column="26" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
-      <jump line="37" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
-      <jump line="17" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
       <jump line="65" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
       <jump line="32" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogItemPane.tsx" />
       <jump line="63" column="24" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
@@ -440,7 +430,6 @@
       <jump line="59" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
       <jump line="21" column="14" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusDetailsPane.tsx" />
       <jump line="22" column="62" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusDetailsPane.tsx" />
-      <jump line="58" column="13" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
       <jump line="30" column="26" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
       <jump line="22" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" />
       <jump line="41" column="20" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" />
@@ -457,10 +446,17 @@
       <jump line="11" column="28" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
       <jump line="107" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
       <jump line="24" column="15" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" />
+      <jump line="58" column="46" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
+      <jump line="95" column="2" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
+      <jump line="2" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
+      <jump line="4" column="48" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
+      <jump line="22" column="35" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
+      <jump line="57" column="34" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
+      <jump line="16" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGRpc2FibGVSaXBwbGU=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgb3ZlcmZsb3c6ICdhdXRvJywK</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -469,16 +465,16 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRpc2FibGVSaXBwbGU=</text>
+        <text>hiddenContainer</text>
       </register>
       <register name="/" type="4">
-        <text>level</text>
+        <text>withstyles</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMubGFiZWx9PntmaWVsZE5hbWVzTWFwLmZ1ZWxfbGV2ZWx9PC9zcGFuPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+e2NhclN0YXR1cy5mdWVsX2xldmVsfTwvc3Bhbj4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPHNlY3Rpb24gY2xhc3NOYW1lPXtjbGFzc2VzLmZpZWxkc1NlY3Rpb259PgogICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmxhYmVsfT4KICAgICAgICAgICAgICAgICAge2ZpZWxkTmFtZXNNYXAuZnVlbF9sZXZlbH0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+CiAgICAgICAgICAgICAgICAgIHtjYXJTdGF0dXMuZnVlbF9sZXZlbH0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMubGFiZWx9PntmaWVsZE5hbWVzTWFwLnNwZWVkfTwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+CiAgICAgICAgICAgICAgICAgIHtjYXJTdGF0dXMuc3BlZWR9CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmxhYmVsfT4KICAgICAgICAgICAgICAgICAge2ZpZWxkTmFtZXNNYXAuZnVlbF9jb25zdW1wdGlvbn0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+CiAgICAgICAgICAgICAgICAgIHtjYXJTdGF0dXMuZnVlbF9jb25zdW1wdGlvbn0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMubGFiZWx9PntmaWVsZE5hbWVzTWFwLmZ1ZWxfdHlwZX08L3NwYW4+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMuYXR0cmlidXRlVmFsdWV9PgogICAgICAgICAgICAgICAgICB7Y2FyU3RhdHVzLmZ1ZWxfdHlwZX0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvc2VjdGlvbj4KICAgICAgICAgICAgPHNlY3Rpb24gY2xhc3NOYW1lPXtjbGFzc2VzLmZpZWxkc1NlY3Rpb259PgogICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmxhYmVsfT4KICAgICAgICAgICAgICAgICAge2ZpZWxkTmFtZXNNYXAuZnVlbF9sZXZlbH0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+CiAgICAgICAgICAgICAgICAgIHtjYXJTdGF0dXMuZnVlbF9sZXZlbH0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMubGFiZWx9PntmaWVsZE5hbWVzTWFwLnNwZWVkfTwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+CiAgICAgICAgICAgICAgICAgIHtjYXJTdGF0dXMuc3BlZWR9CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmxhYmVsfT4KICAgICAgICAgICAgICAgICAge2ZpZWxkTmFtZXNNYXAuZnVlbF9jb25zdW1wdGlvbn0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+CiAgICAgICAgICAgICAgICAgIHtjYXJTdGF0dXMuZnVlbF9jb25zdW1wdGlvbn0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMubGFiZWx9PntmaWVsZE5hbWVzTWFwLmZ1ZWxfdHlwZX08L3NwYW4+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMuYXR0cmlidXRlVmFsdWV9PgogICAgICAgICAgICAgICAgICB7Y2FyU3RhdHVzLmZ1ZWxfdHlwZX0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvc2VjdGlvbj4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgb3ZlcmZsb3c6ICdhdXRvJywK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -505,43 +501,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHA+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmxhYmVsfT57ZmllbGROYW1lc01hcC5mdWVsX2xldmVsfTwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMuYXR0cmlidXRlVmFsdWV9PntjYXJTdGF0dXMuZnVlbF9sZXZlbH08L3NwYW4+CiAgICAgIDwvcD4KICAgICAgPHA+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmxhYmVsfT57ZmllbGROYW1lc01hcC5zcGVlZH08L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmF0dHJpYnV0ZVZhbHVlfT57Y2FyU3RhdHVzLnNwZWVkfTwvc3Bhbj4KICAgICAgPC9wPgogICAgICA8cD4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMubGFiZWx9PntmaWVsZE5hbWVzTWFwLmZ1ZWxfY29uc3VtcHRpb259PC9zcGFuPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+CiAgICAgICAgICB7Y2FyU3RhdHVzLmZ1ZWxfY29uc3VtcHRpb259CiAgICAgICAgPC9zcGFuPgogICAgICA8L3A+CiAgICAgIDxwPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5sYWJlbH0+e2ZpZWxkTmFtZXNNYXAuZnVlbF90eXBlfTwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMuYXR0cmlidXRlVmFsdWV9PntjYXJTdGF0dXMuZnVlbF90eXBlfTwvc3Bhbj4KICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgb3ZlcmZsb3c6ICdhdXRvJywK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>style={{
+            display: category === LogsCategory.Status ? 'flex' : 'none',
+          }}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgIGRpc3BsYXk6IGNhdGVnb3J5ID09PSBMb2dzQ2F0ZWdvcnkuU3RhdHVzID8gJ2ZsZXgnIDogJ25vbmUnLAogICAgICAgICAgfX0+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fTogKSB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QuZW50cmllcyhjYXJTdGF0dXMpLm1hcCgoW2ZpZWxkLCB2YWx1ZV06IFtzdHJpbmcsIGFueV0pID0+ICgKICAgICAgICAgICAgPHAga2V5PXtmaWVsZH0+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmxhYmVsfT4KICAgICAgICAgICAgICAgIHtmaWVsZE5hbWVzTWFwW2ZpZWxkIGFzIGtleW9mIENhclN0YXR1c119OgogICAgICAgICAgICAgIDwvc3Bhbj57JyAnfQogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+e3ZhbHVlfTwvc3Bhbj4KICAgICAgICAgICAgPC9wPgogICAgICAgICAgKSl9Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Y2FyU3RhdHVzSXRlbXMubWFwKChzdGF0dXMsIGlkeCkgPT4gKAogICAgICAgICAgPFN0YXR1c0xvZ0l0ZW0KICAgICAgICAgICAga2V5PXtpZHh9CiAgICAgICAgICAgIGNhclN0YXR1cz17c3RhdHVzfQogICAgICAgICAgICBzZWxlY3RlZD17c2VsZWN0ZWRTdGF0dXNJbmRleCA9PT0gaWR4fQogICAgICAgICAgICBvbkNsaWNrPXt0aGlzLnVwZGF0ZVNlbGVjdGVkSXRlbS5iaW5kKHRoaXMsIGlkeCl9CiAgICAgICAgICAgIHRocmVzaG9sZHM9e3RocmVzaG9sZHN9CiAgICAgICAgICAvPgogICAgICAgICkpfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAwLAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgPHNlY3Rpb24gY2xhc3NOYW1lPXtjbGFzc2VzLmZpZWxkc1NlY3Rpb259PgogICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmxhYmVsfT4KICAgICAgICAgICAgICAgICAge2ZpZWxkTmFtZXNNYXAuZnVlbF9sZXZlbH0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+CiAgICAgICAgICAgICAgICAgIHtjYXJTdGF0dXMuZnVlbF9sZXZlbH0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMubGFiZWx9PntmaWVsZE5hbWVzTWFwLnNwZWVkfTwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+CiAgICAgICAgICAgICAgICAgIHtjYXJTdGF0dXMuc3BlZWR9CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmxhYmVsfT4KICAgICAgICAgICAgICAgICAge2ZpZWxkTmFtZXNNYXAuZnVlbF9jb25zdW1wdGlvbn0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+CiAgICAgICAgICAgICAgICAgIHtjYXJTdGF0dXMuZnVlbF9jb25zdW1wdGlvbn0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMubGFiZWx9PntmaWVsZE5hbWVzTWFwLmZ1ZWxfdHlwZX08L3NwYW4+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMuYXR0cmlidXRlVmFsdWV9PgogICAgICAgICAgICAgICAgICB7Y2FyU3RhdHVzLmZ1ZWxfdHlwZX0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvc2VjdGlvbj4KICAgICAgICAgICAgPHNlY3Rpb24gY2xhc3NOYW1lPXtjbGFzc2VzLmZpZWxkc1NlY3Rpb259PgogICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmxhYmVsfT4KICAgICAgICAgICAgICAgICAge2ZpZWxkTmFtZXNNYXAuZnVlbF9sZXZlbH0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+CiAgICAgICAgICAgICAgICAgIHtjYXJTdGF0dXMuZnVlbF9sZXZlbH0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMubGFiZWx9PntmaWVsZE5hbWVzTWFwLnNwZWVkfTwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+CiAgICAgICAgICAgICAgICAgIHtjYXJTdGF0dXMuc3BlZWR9CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmxhYmVsfT4KICAgICAgICAgICAgICAgICAge2ZpZWxkTmFtZXNNYXAuZnVlbF9jb25zdW1wdGlvbn0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+CiAgICAgICAgICAgICAgICAgIHtjYXJTdGF0dXMuZnVlbF9jb25zdW1wdGlvbn0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMubGFiZWx9PntmaWVsZE5hbWVzTWFwLmZ1ZWxfdHlwZX08L3NwYW4+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMuYXR0cmlidXRlVmFsdWV9PgogICAgICAgICAgICAgICAgICB7Y2FyU3RhdHVzLmZ1ZWxfdHlwZX0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvc2VjdGlvbj4=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAwLAo=</text>
+        <text encoding="base64">ICAgICAgPHA+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmxhYmVsfT57ZmllbGROYW1lc01hcC5mdWVsX2xldmVsfTwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMuYXR0cmlidXRlVmFsdWV9PntjYXJTdGF0dXMuZnVlbF9sZXZlbH08L3NwYW4+CiAgICAgIDwvcD4KICAgICAgPHA+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmxhYmVsfT57ZmllbGROYW1lc01hcC5zcGVlZH08L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmF0dHJpYnV0ZVZhbHVlfT57Y2FyU3RhdHVzLnNwZWVkfTwvc3Bhbj4KICAgICAgPC9wPgogICAgICA8cD4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMubGFiZWx9PntmaWVsZE5hbWVzTWFwLmZ1ZWxfY29uc3VtcHRpb259PC9zcGFuPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+CiAgICAgICAgICB7Y2FyU3RhdHVzLmZ1ZWxfY29uc3VtcHRpb259CiAgICAgICAgPC9zcGFuPgogICAgICA8L3A+CiAgICAgIDxwPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5sYWJlbH0+e2ZpZWxkTmFtZXNNYXAuZnVlbF90eXBlfTwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzZXMuYXR0cmlidXRlVmFsdWV9PntjYXJTdGF0dXMuZnVlbF90eXBlfTwvc3Bhbj4KICAgICAgPC9wPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAnYXV0bycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>level</last-search>
+      <last-search>withstyles</last-search>
       <last-offset />
-      <last-pattern>level</last-pattern>
+      <last-pattern>withstyles</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>typesci</entry>
         <entry>typescript</entry>
         <entry encoding="base64">XDxsb2dJdGVtXD4=</entry>
         <entry encoding="base64">XDxsb2dJdGVtP1w+</entry>
@@ -561,6 +558,7 @@
         <entry encoding="base64">XDxub29wXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVDbGlja1w+</entry>
         <entry>level</entry>
+        <entry>withstyles</entry>
       </history-search>
       <history-cmd>
         <entry>action VimMotionScrollHalfPageDown</entry>
@@ -574,15 +572,15 @@
         <entry>action MoveStatementDown</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action TsLintFileFixAction</entry>
-        <entry>action EditorSplitLine</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRlTGluZXM=</entry>
         <entry>action EditorDuplicateLines</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>action RenameElement</entry>
         <entry>action AceAction</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
