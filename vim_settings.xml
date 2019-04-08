@@ -353,12 +353,12 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/DetailsPane.tsx" timestamp="1554734311628">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/DetailsPane.tsx" timestamp="1554736094561">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="4" />
-        <mark key="^" line="17" column="5" />
+        <mark key="]" line="38" column="22" />
+        <mark key="." line="38" column="22" />
+        <mark key="^" line="38" column="22" />
       </file>
     </filemarks>
     <jumps>
