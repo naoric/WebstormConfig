@@ -17,12 +17,12 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="49" column="19" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" timestamp="1554734042067">
-        <mark key="'" line="64" column="15" />
-        <mark key="[" line="70" column="48" />
-        <mark key="]" line="70" column="67" />
-        <mark key="." line="70" column="67" />
-        <mark key="^" line="70" column="67" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" timestamp="1554753168121">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="73" column="13" />
+        <mark key="]" line="73" column="13" />
+        <mark key="^" line="185" column="40" />
+        <mark key="." line="73" column="13" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/actions/api-actions.ts" timestamp="1553459945984">
         <mark key="[" line="1" column="37" />
@@ -48,6 +48,12 @@
         <mark key="]" line="8" column="28" />
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogList.tsx" timestamp="1554752796081">
+        <mark key="[" line="9" column="75" />
+        <mark key="]" line="9" column="76" />
+        <mark key="^" line="9" column="76" />
+        <mark key="." line="9" column="76" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/.storybook/config.js" timestamp="1553459110787">
         <mark key="[" line="1" column="0" />
@@ -106,8 +112,12 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" timestamp="1554741142474">
-        <mark key="'" line="148" column="0" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" timestamp="1554753059441">
+        <mark key="'" line="43" column="31" />
+        <mark key="[" line="70" column="19" />
+        <mark key="]" line="70" column="19" />
+        <mark key="." line="70" column="19" />
+        <mark key="^" line="55" column="25" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SelectionBox/SelectionBoxPopover.tsx" timestamp="1553459838397">
         <mark key="[" line="5" column="0" />
@@ -154,10 +164,14 @@
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" timestamp="1554743901079">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" timestamp="1554753179831">
+        <mark key="[" line="113" column="7" />
+        <mark key="]" line="113" column="13" />
+        <mark key="." line="111" column="32" />
+        <mark key="^" line="113" column="13" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/react/index.d.ts" timestamp="1554750602949">
+        <mark key="'" line="458" column="32" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/store.ts" timestamp="1553460020084">
         <mark key="[" line="2" column="26" />
@@ -165,12 +179,12 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/CarStatusFields/index.tsx" timestamp="1554744226142">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/CarStatusFields/index.tsx" timestamp="1554748779117">
         <mark key="'" line="7" column="24" />
         <mark key="[" line="3" column="48" />
-        <mark key="]" line="64" column="28" />
-        <mark key="." line="64" column="28" />
-        <mark key="^" line="64" column="28" />
+        <mark key="]" line="35" column="3" />
+        <mark key="." line="35" column="3" />
+        <mark key="^" line="35" column="3" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/stories/route-input.tsx" timestamp="1553460131009">
         <mark key="[" line="4" column="24" />
@@ -199,6 +213,12 @@
         <mark key="]" line="1" column="32" />
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogSection.tsx" timestamp="1554752474475">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="templates/Material UI.xml" timestamp="1554187604011">
         <mark key="[" line="0" column="0" />
@@ -254,11 +274,11 @@
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusDetailsPane.tsx" timestamp="1554744591001">
-        <mark key="[" line="55" column="59" />
-        <mark key="]" line="54" column="18" />
-        <mark key="^" line="54" column="18" />
-        <mark key="." line="54" column="18" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusDetailsPane.tsx" timestamp="1554748955929">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="76" column="15" />
+        <mark key="^" line="76" column="15" />
+        <mark key="." line="76" column="15" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/craco.config.js" timestamp="1553083847179">
         <mark key="[" line="0" column="0" />
@@ -368,22 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="33" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/icons.tsx" />
-      <jump line="40" column="41" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/icons.tsx" />
-      <jump line="57" column="20" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/icons.tsx" />
-      <jump line="32" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/icons.tsx" />
-      <jump line="42" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/icons.tsx" />
-      <jump line="37" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/icons.tsx" />
-      <jump line="31" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/icons.tsx" />
-      <jump line="39" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/icons.tsx" />
-      <jump line="13" column="36" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
-      <jump line="28" column="56" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
-      <jump line="40" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
-      <jump line="66" column="7" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
-      <jump line="28" column="4" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
-      <jump line="71" column="30" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
-      <jump line="55" column="12" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
-      <jump line="31" column="10" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
       <jump line="34" column="30" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
       <jump line="58" column="27" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
       <jump line="60" column="47" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
@@ -400,7 +404,6 @@
       <jump line="0" column="24" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
       <jump line="433" column="1" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/data/status-fixture.ts" />
       <jump line="29" column="38" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
-      <jump line="46" column="2" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
       <jump line="79" column="15" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
       <jump line="5" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
       <jump line="21" column="4" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
@@ -468,10 +471,27 @@
       <jump line="38" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/CarStatusFields/index.tsx" />
       <jump line="20" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/CarStatusFields/index.tsx" />
       <jump line="7" column="24" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/CarStatusFields/index.tsx" />
+      <jump line="418" column="10" filename="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/react/index.d.ts" />
+      <jump line="454" column="67" filename="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/react/index.d.ts" />
+      <jump line="456" column="23" filename="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/react/index.d.ts" />
+      <jump line="458" column="32" filename="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/react/index.d.ts" />
+      <jump line="93" column="20" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
+      <jump line="131" column="25" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
+      <jump line="129" column="35" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
+      <jump line="69" column="9" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
+      <jump line="111" column="19" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
+      <jump line="108" column="10" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
+      <jump line="139" column="28" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
+      <jump line="50" column="48" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
+      <jump line="52" column="56" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
+      <jump line="46" column="11" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
+      <jump line="48" column="31" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
+      <jump line="73" column="30" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
+      <jump line="85" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvc3Bhbj4K</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -480,16 +500,16 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>time</text>
+        <text>noop</text>
       </register>
-      <register name="0" type="4">
-        <text>dayjs(time).format('HH:mm:ss')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8R3JpZCBpdGVtPgogICAgICAgICAgPFRhYnMKICAgICAgICAgICAgdmFsdWU9e2NhdGVnb3J5fQogICAgICAgICAgICB0ZXh0Q29sb3I9InByaW1hcnkiCiAgICAgICAgICAgIGluZGljYXRvckNvbG9yPSJwcmltYXJ5IgogICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5jaGFuZ2VUYWJ9CiAgICAgICAgICAgIGNsYXNzZXM9e3sgcm9vdDogY2xhc3Nlcy50YWJzIH19PgogICAgICAgICAgICB7UmVhY3QuQ2hpbGRyZW4ubWFwKAogICAgICAgICAgICAgIGNoaWxkcmVuISwKICAgICAgICAgICAgICAoY2hpbGQ6IFJlYWN0RWxlbWVudDxMb2dTZWN0aW9uUHJvcHM+KSA9PgogICAgICAgICAgICAgICAgY2hpbGQgJiYgKAogICAgICAgICAgICAgICAgICA8VGFiCiAgICAgICAgICAgICAgICAgICAgbGFiZWw9e2NoaWxkLnByb3BzLnRhYkxhYmVsfQogICAgICAgICAgICAgICAgICAgIGRpc2FibGVSaXBwbGUKICAgICAgICAgICAgICAgICAgICBjbGFzc2VzPXt7CiAgICAgICAgICAgICAgICAgICAgICByb290OiBjbGFzc2VzLnNpZGViYXJUYWIsCiAgICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZDogY2xhc3Nlcy50YWJTZWxlY3RlZCwKICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApfQogICAgICAgICAgICB7Lyo8VGFiKi99CiAgICAgICAgICAgIHsvKiAgbGFiZWw9IkNhciBTdGF0dXMiKi99CiAgICAgICAgICAgIHsvKiAgZGlzYWJsZVJpcHBsZSovfQogICAgICAgICAgICB7LyogIGNsYXNzZXM9e3sqL30KICAgICAgICAgICAgey8qICAgIHJvb3Q6IGNsYXNzZXMuc2lkZWJhclRhYiwqL30KICAgICAgICAgICAgey8qICAgIHNlbGVjdGVkOiBjbGFzc2VzLnRhYlNlbGVjdGVkLCovfQogICAgICAgICAgICB7LyogIH19Ki99CiAgICAgICAgICAgIHsvKi8+Ki99CiAgICAgICAgICAgIHsvKjxUYWIqL30KICAgICAgICAgICAgey8qICBsYWJlbD0iRXZlbnRzIiovfQogICAgICAgICAgICB7LyogIGRpc2FibGVSaXBwbGUqL30KICAgICAgICAgICAgey8qICBjbGFzc2VzPXt7Ki99CiAgICAgICAgICAgIHsvKiAgICByb290OiBjbGFzc2VzLnNpZGViYXJUYWIsKi99CiAgICAgICAgICAgIHsvKiAgICBzZWxlY3RlZDogY2xhc3Nlcy50YWJTZWxlY3RlZCwqL30KICAgICAgICAgICAgey8qICB9fSovfQogICAgICAgICAgICB7LyovPiovfQogICAgICAgICAgPC9UYWJzPgogICAgICAgIDwvR3JpZD4KICAgICAgICB7UmVhY3QuQ2hpbGRyZW4ubWFwKAogICAgICAgICAgY2hpbGRyZW4hLAogICAgICAgICAgKGNoaWxkOiBSZWFjdEVsZW1lbnQ8TG9nU2VjdGlvblByb3BzPiwgaWR4KSA9PiAoCiAgICAgICAgICAgIDxHcmlkCiAgICAgICAgICAgICAgaXRlbQogICAgICAgICAgICAgIHhzCiAgICAgICAgICAgICAgY29udGFpbmVyCiAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjbih7CiAgICAgICAgICAgICAgICBbY2xhc3Nlcy5oaWRkZW5Db250YWluZXJdOiBjYXRlZ29yeSAhPT0gaWR4LAogICAgICAgICAgICAgIH0pfT4KICAgICAgICAgICAgICB7Y2hpbGQucHJvcHMuY2hpbGRyZW59CiAgICAgICAgICAgIDwvR3JpZD4KICAgICAgICAgICkKICAgICAgICApfQogICAgICAgIDxHcmlkCiAgICAgICAgICBpdGVtCiAgICAgICAgICB4cwogICAgICAgICAgY29udGFpbmVyCiAgICAgICAgICBjbGFzc05hbWU9e2NuKHsKICAgICAgICAgICAgW2NsYXNzZXMuaGlkZGVuQ29udGFpbmVyXTogY2F0ZWdvcnkgIT09IExvZ3NDYXRlZ29yeS5TdGF0dXMsCiAgICAgICAgICB9KX0+CiAgICAgICAgICA8U2Nyb2xsYmFycyBhdXRvSGlkZT4KICAgICAgICAgICAge2NhclN0YXR1c0l0ZW1zLm1hcCgoc3RhdHVzLCBpZHgpID0+ICgKICAgICAgICAgICAgICA8U3RhdHVzTG9nSXRlbQogICAgICAgICAgICAgICAga2V5PXtpZHh9CiAgICAgICAgICAgICAgICBjYXJTdGF0dXM9e3N0YXR1c30KICAgICAgICAgICAgICAgIHNlbGVjdGVkPXtzZWxlY3RlZFN0YXR1c0luZGV4ID09PSBpZHh9CiAgICAgICAgICAgICAgICBvbkNsaWNrPXt0aGlzLnVwZGF0ZVNlbGVjdGVkSXRlbS5iaW5kKHRoaXMsIGlkeCl9CiAgICAgICAgICAgICAgICB0aHJlc2hvbGRzPXt0aHJlc2hvbGRzfQogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9TY3JvbGxiYXJzPgogICAgICAgIDwvR3JpZD4KICAgICAgICA8R3JpZAogICAgICAgICAgaXRlbQogICAgICAgICAgeHMKICAgICAgICAgIGNvbnRhaW5lcgogICAgICAgICAgY2xhc3NOYW1lPXtjbih7CiAgICAgICAgICAgIFtjbGFzc2VzLmhpZGRlbkNvbnRhaW5lcl06IGNhdGVnb3J5ICE9PSBMb2dzQ2F0ZWdvcnkuRXZlbnRzLAogICAgICAgICAgfSl9PgogICAgICAgICAgPFNjcm9sbGJhcnMgYXV0b0hpZGU+RXZlbnRzIEdvZXMgSGVyZTwvU2Nyb2xsYmFycz4KICAgICAgICA8L0dyaWQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgIGhpZGRlbkNvbnRhaW5lcjogewogICAgICBkaXNwbGF5OiAnbm9uZScsCiAgICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -501,50 +521,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3Nlcy5hdHRyaWJ1dGVWYWx1ZX0+Cg==</text>
+        <text encoding="base64">ICBjYXRlZ29yeTogTG9nc0NhdGVnb3J5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB3aXBlcl9zdGF0dXM6IChjYXJTdGF0dXM6IENhclN0YXR1cywgY2xhc3NOYW1lID0gJycpID0+ICgKICAgIDxzcGFuIGNsYXNzTmFtZT17Y2xhc3NOYW1lfT57Y2FyU3RhdHVzLndpcGVyX3N0YXR1c308L3NwYW4+CiAgKSwK</text>
+        <text encoding="base64">ICAgIGNhdGVnb3J5OiBMb2dzQ2F0ZWdvcnkuU3RhdHVzLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3aXBlcl9zdGF0dXM6IHsKICAgIGRpc3BsYXlfbmFtZTogJ1dpcGVycyBTdGF0dXMnLAogICAgZGVzY3JpcHRpb246ICdFdmVudCAtIFdpcGVyIHN0YXR1cycsCiAgICB0eXBlOiAnQm9vbGVhbicsCiAgfSwK</text>
+        <text encoding="base64">ZXhwb3J0IGVudW0gTG9nc0NhdGVnb3J5IHsKICBTdGF0dXMsCiAgRXZlbnRzLAp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3aXBlcl9zdGF0dXM6IHN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICA8R3JpZCBpdGVtPgogICAgICAgICAgPFRhYnMKICAgICAgICAgICAgdmFsdWU9e2NhdGVnb3J5fQogICAgICAgICAgICB0ZXh0Q29sb3I9InByaW1hcnkiCiAgICAgICAgICAgIGluZGljYXRvckNvbG9yPSJwcmltYXJ5IgogICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5jaGFuZ2VUYWJ9CiAgICAgICAgICAgIGNsYXNzZXM9e3sgcm9vdDogY2xhc3Nlcy50YWJzIH19PgogICAgICAgICAgICB7UmVhY3QuQ2hpbGRyZW4ubWFwKAogICAgICAgICAgICAgIGNoaWxkcmVuISwKICAgICAgICAgICAgICAoY2hpbGQ6IFJlYWN0RWxlbWVudDxMb2dTZWN0aW9uUHJvcHM+KSA9PgogICAgICAgICAgICAgICAgY2hpbGQgJiYgKAogICAgICAgICAgICAgICAgICA8VGFiCiAgICAgICAgICAgICAgICAgICAgbGFiZWw9e2NoaWxkLnByb3BzLnRhYkxhYmVsfQogICAgICAgICAgICAgICAgICAgIGRpc2FibGVSaXBwbGUKICAgICAgICAgICAgICAgICAgICBjbGFzc2VzPXt7CiAgICAgICAgICAgICAgICAgICAgICByb290OiBjbGFzc2VzLnNpZGViYXJUYWIsCiAgICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZDogY2xhc3Nlcy50YWJTZWxlY3RlZCwKICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApfQogICAgICAgICAgICB7Lyo8VGFiKi99CiAgICAgICAgICAgIHsvKiAgbGFiZWw9IkNhciBTdGF0dXMiKi99CiAgICAgICAgICAgIHsvKiAgZGlzYWJsZVJpcHBsZSovfQogICAgICAgICAgICB7LyogIGNsYXNzZXM9e3sqL30KICAgICAgICAgICAgey8qICAgIHJvb3Q6IGNsYXNzZXMuc2lkZWJhclRhYiwqL30KICAgICAgICAgICAgey8qICAgIHNlbGVjdGVkOiBjbGFzc2VzLnRhYlNlbGVjdGVkLCovfQogICAgICAgICAgICB7LyogIH19Ki99CiAgICAgICAgICAgIHsvKi8+Ki99CiAgICAgICAgICAgIHsvKjxUYWIqL30KICAgICAgICAgICAgey8qICBsYWJlbD0iRXZlbnRzIiovfQogICAgICAgICAgICB7LyogIGRpc2FibGVSaXBwbGUqL30KICAgICAgICAgICAgey8qICBjbGFzc2VzPXt7Ki99CiAgICAgICAgICAgIHsvKiAgICByb290OiBjbGFzc2VzLnNpZGViYXJUYWIsKi99CiAgICAgICAgICAgIHsvKiAgICBzZWxlY3RlZDogY2xhc3Nlcy50YWJTZWxlY3RlZCwqL30KICAgICAgICAgICAgey8qICB9fSovfQogICAgICAgICAgICB7LyovPiovfQogICAgICAgICAgPC9UYWJzPgogICAgICAgIDwvR3JpZD4KICAgICAgICB7UmVhY3QuQ2hpbGRyZW4ubWFwKAogICAgICAgICAgY2hpbGRyZW4hLAogICAgICAgICAgKGNoaWxkOiBSZWFjdEVsZW1lbnQ8TG9nU2VjdGlvblByb3BzPiwgaWR4KSA9PiAoCiAgICAgICAgICAgIDxHcmlkCiAgICAgICAgICAgICAgaXRlbQogICAgICAgICAgICAgIHhzCiAgICAgICAgICAgICAgY29udGFpbmVyCiAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjbih7CiAgICAgICAgICAgICAgICBbY2xhc3Nlcy5oaWRkZW5Db250YWluZXJdOiBjYXRlZ29yeSAhPT0gaWR4LAogICAgICAgICAgICAgIH0pfT4KICAgICAgICAgICAgICB7Y2hpbGQucHJvcHMuY2hpbGRyZW59CiAgICAgICAgICAgIDwvR3JpZD4KICAgICAgICAgICkKICAgICAgICApfQogICAgICAgIDxHcmlkCiAgICAgICAgICBpdGVtCiAgICAgICAgICB4cwogICAgICAgICAgY29udGFpbmVyCiAgICAgICAgICBjbGFzc05hbWU9e2NuKHsKICAgICAgICAgICAgW2NsYXNzZXMuaGlkZGVuQ29udGFpbmVyXTogY2F0ZWdvcnkgIT09IExvZ3NDYXRlZ29yeS5TdGF0dXMsCiAgICAgICAgICB9KX0+CiAgICAgICAgICA8U2Nyb2xsYmFycyBhdXRvSGlkZT4KICAgICAgICAgICAge2NhclN0YXR1c0l0ZW1zLm1hcCgoc3RhdHVzLCBpZHgpID0+ICgKICAgICAgICAgICAgICA8U3RhdHVzTG9nSXRlbQogICAgICAgICAgICAgICAga2V5PXtpZHh9CiAgICAgICAgICAgICAgICBjYXJTdGF0dXM9e3N0YXR1c30KICAgICAgICAgICAgICAgIHNlbGVjdGVkPXtzZWxlY3RlZFN0YXR1c0luZGV4ID09PSBpZHh9CiAgICAgICAgICAgICAgICBvbkNsaWNrPXt0aGlzLnVwZGF0ZVNlbGVjdGVkSXRlbS5iaW5kKHRoaXMsIGlkeCl9CiAgICAgICAgICAgICAgICB0aHJlc2hvbGRzPXt0aHJlc2hvbGRzfQogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9TY3JvbGxiYXJzPgogICAgICAgIDwvR3JpZD4KICAgICAgICA8R3JpZAogICAgICAgICAgaXRlbQogICAgICAgICAgeHMKICAgICAgICAgIGNvbnRhaW5lcgogICAgICAgICAgY2xhc3NOYW1lPXtjbih7CiAgICAgICAgICAgIFtjbGFzc2VzLmhpZGRlbkNvbnRhaW5lcl06IGNhdGVnb3J5ICE9PSBMb2dzQ2F0ZWdvcnkuRXZlbnRzLAogICAgICAgICAgfSl9PgogICAgICAgICAgPFNjcm9sbGJhcnMgYXV0b0hpZGU+RXZlbnRzIEdvZXMgSGVyZTwvU2Nyb2xsYmFycz4KICAgICAgICA8L0dyaWQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRheWpzID0gcmVxdWlyZSgnZGF5anMnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgey8qPFRhYiovfQogICAgICAgICAgICAgICAgICB7LyogIGxhYmVsPSJDYXIgU3RhdHVzIiovfQogICAgICAgICAgICAgICAgICB7LyogIGRpc2FibGVSaXBwbGUqL30KICAgICAgICAgICAgICAgICAgey8qICBjbGFzc2VzPXt7Ki99CiAgICAgICAgICAgICAgICAgIHsvKiAgICByb290OiBjbGFzc2VzLnNpZGViYXJUYWIsKi99CiAgICAgICAgICAgICAgICAgIHsvKiAgICBzZWxlY3RlZDogY2xhc3Nlcy50YWJTZWxlY3RlZCwqL30KICAgICAgICAgICAgICAgICAgey8qICB9fSovfQogICAgICAgICAgICAgICAgICB7LyovPiovfQogICAgICAgICAgICAgICAgICB7Lyo8VGFiKi99CiAgICAgICAgICAgICAgICAgIHsvKiAgbGFiZWw9IkV2ZW50cyIqL30KICAgICAgICAgICAgICAgICAgey8qICBkaXNhYmxlUmlwcGxlKi99CiAgICAgICAgICAgICAgICAgIHsvKiAgY2xhc3Nlcz17eyovfQogICAgICAgICAgICAgICAgICB7LyogICAgcm9vdDogY2xhc3Nlcy5zaWRlYmFyVGFiLCovfQogICAgICAgICAgICAgICAgICB7LyogICAgc2VsZWN0ZWQ6IGNsYXNzZXMudGFiU2VsZWN0ZWQsKi99CiAgICAgICAgICAgICAgICAgIHsvKiAgfX0qL30KICAgICAgICAgICAgICAgICAgey8qLz4qL30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjaGlsZHJlbj86IEFycmF5PFJlYWN0RWxlbWVudDxMb2dTZWN0aW9uUHJvcHM+Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNjcm9sbGFibGVDb250YWluZXI6IHsKICAgICAgb3ZlcmZsb3c6ICdhdXRvJywKICAgIH0sCiAgICB0YWJzOiB7CiAgICAgIHBhZGRpbmc6ICcxNXB4IDAgMCAyNXB4JywKICAgICAgYm9yZGVyQm90dG9tOiBgMXB4IHNvbGlkICR7dGhlbWUuY29sb3JzLmdyYXkzfWAsCiAgICAgIGZvbnRXZWlnaHQ6IDMwMCwKICAgIH0sCiAgICBzaWRlYmFyVGFiOiB7CiAgICAgIG1pbldpZHRoOiAxMDAsCiAgICAgIHRleHRUcmFuc2Zvcm06ICdjYXBpdGFsaXplJywKICAgICAgZm9udFNpemU6IDE2LAogICAgfSwKICAgIHRhYlNlbGVjdGVkOiB7CiAgICAgIGZvbnRXZWlnaHQ6ICdib2xkJywKICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVlbF9jb25zdW1wdGlvbjogbnVtYmVyCnRpcmVfcHJlc3N1cmVfZmw6IG51bWJlcgpvZW06IHN0cmluZwpsb25naXR1ZGU6IG51bWJlcgp0aXJlX3ByZXNzdXJlX2ZyOiBudW1iZXIKdGlyZV9wcmVzc3VyZV9ycjogbnVtYmVyCm90b25vbW9faWQ6IHN0cmluZwpvZG9tZXRlcjogbnVtYmVyCmxhdGl0dWRlOiBudW1iZXIKZnVlbF9sZXZlbDogbnVtYmVyCm9pbF9sZXZlbDogbnVtYmVyCnRpcmVfcHJlc3N1cmVfcmw6IG51bWJlcgpmdWVsX3R5cGU6IHN0cmluZwp0aW1lOiBudW1iZXIKaGVhZGluZzogbnVtYmVyCndpcGVyX3N0YXR1czogc3RyaW5nCg==</text>
+        <text encoding="base64">ICAgIHNjcm9sbGFibGVDb250YWluZXI6IHsKICAgICAgb3ZlcmZsb3c6ICdhdXRvJywKICAgIH0sCiAgICB0YWJzOiB7CiAgICAgIHBhZGRpbmc6ICcxNXB4IDAgMCAyNXB4JywKICAgICAgYm9yZGVyQm90dG9tOiBgMXB4IHNvbGlkICR7dGhlbWUuY29sb3JzLmdyYXkzfWAsCiAgICAgIGZvbnRXZWlnaHQ6IDMwMCwKICAgIH0sCiAgICBzaWRlYmFyVGFiOiB7CiAgICAgIG1pbldpZHRoOiAxMDAsCiAgICAgIHRleHRUcmFuc2Zvcm06ICdjYXBpdGFsaXplJywKICAgICAgZm9udFNpemU6IDE2LAogICAgfSwKICAgIHRhYlNlbGVjdGVkOiB7CiAgICAgIGZvbnRXZWlnaHQ6ICdib2xkJywKICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>time</last-search>
+      <last-search>noop</last-search>
       <last-offset />
-      <last-pattern>time</last-pattern>
+      <last-pattern>noop</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHcmlkXD4=</entry>
-        <entry>babel-plugin-require-context</entry>
         <entry>drawercontainer</entry>
         <entry encoding="base64">XDxkcmF3ZXJDb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxsb2dzXD4=</entry>
         <entry>threshold</entry>
         <entry>popupelement</entry>
-        <entry>noop</entry>
         <entry encoding="base64">XDxub29wXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVDbGlja1w+</entry>
         <entry>level</entry>
@@ -557,6 +574,9 @@
         <entry>animated</entry>
         <entry>tim</entry>
         <entry>time</entry>
+        <entry>children</entry>
+        <entry>children!</entry>
+        <entry>noop</entry>
       </history-search>
       <history-cmd>
         <entry>action VimVisualSwapSelections</entry>
@@ -565,19 +585,19 @@
         <entry>action MoveStatementDown</entry>
         <entry>action EditorDuplicateLines</entry>
         <entry>action AceAction</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>action EditorSplitLine</entry>
         <entry>action MoveStatementUp</entry>
-        <entry>action TsLintFileFixAction</entry>
-        <entry>action ShowUsages</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRlTGluZXM=</entry>
-        <entry>action ShowIntentionActions</entry>
         <entry>action ShiftDownAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VsZWN0TmV4dE9jY3VycmVuY2U=</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action EditorCloneCaretBelow</entry>
-        <entry>action RenameElement</entry>
+        <entry>action ShowUsages</entry>
         <entry>action GotoFile</entry>
+        <entry>action TsLintFileFixAction</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action ShowIntentionActions</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action RenameElement</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRlTGluZXM=</entry>
         <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
