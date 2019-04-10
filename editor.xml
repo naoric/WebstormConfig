@@ -4,6 +4,9 @@
     <option name="FONT_FAMILY" value="Monaco" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
+  <component name="JSEditorOptions">
+    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
