@@ -17,12 +17,6 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="49" column="19" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" timestamp="1554757291042">
-        <mark key="'" line="179" column="30" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/actions/api-actions.ts" timestamp="1553459945984">
         <mark key="[" line="1" column="37" />
         <mark key="]" line="1" column="37" />
@@ -108,13 +102,6 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" timestamp="1554758939499">
-        <mark key="'" line="23" column="12" />
-        <mark key="[" line="46" column="24" />
-        <mark key="]" line="46" column="50" />
-        <mark key="." line="46" column="50" />
-        <mark key="^" line="46" column="50" />
-      </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SelectionBox/SelectionBoxPopover.tsx" timestamp="1553459838397">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -159,13 +146,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" timestamp="1554758302788">
-        <mark key="'" line="17" column="43" />
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="35" />
-        <mark key="." line="17" column="35" />
-        <mark key="^" line="17" column="34" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/react/index.d.ts" timestamp="1554750602949">
         <mark key="'" line="458" column="32" />
