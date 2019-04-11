@@ -18,8 +18,8 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="svga" value="import { ReactComponent as $NAME$ } from '$PATH$'" description="Import SVG as Component" toReformat="false" toShortenFQNames="true">
-    <variable name="PATH" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+  <template name="svga" value="import { ReactComponent as $NAME$ } from 'assets/svg/$PATH$'" description="Import SVG as Component" toReformat="false" toShortenFQNames="true">
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
