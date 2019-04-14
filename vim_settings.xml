@@ -49,11 +49,11 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/EventLog/EventDetailsPane.tsx" timestamp="1555256104860">
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="35" column="34" />
-        <mark key="." line="35" column="34" />
-        <mark key="^" line="35" column="34" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/EventLog/EventDetailsPane.tsx" timestamp="1555259085204">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="20" column="20" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/node_modules/@material-ui/styles/index.d.ts" timestamp="1555255262042" />
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogList.tsx" timestamp="1554757417526">
@@ -62,23 +62,19 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/otonomo/developer_journey/.storybook/config.js" timestamp="1553459110787">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/data/status-fixture.ts" timestamp="1555256210374">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/data/status-fixture.ts" timestamp="1555258421531">
+        <mark key="'" line="28" column="16" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="38" column="4" />
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/EventLog/EventLogItem.tsx" timestamp="1555253878483">
-        <mark key="'" line="47" column="46" />
-        <mark key="[" line="52" column="15" />
-        <mark key="]" line="52" column="30" />
-        <mark key="." line="52" column="30" />
-        <mark key="^" line="52" column="30" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/EventLog/EventLogItem.tsx" timestamp="1555260059895">
+        <mark key="'" line="44" column="39" />
+        <mark key="[" line="60" column="15" />
+        <mark key="]" line="60" column="24" />
+        <mark key="." line="60" column="24" />
+        <mark key="^" line="60" column="24" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/window-extension.ts" timestamp="1553096530268">
         <mark key="[" line="1" column="32" />
@@ -123,10 +119,11 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SelectionBox/SelectionBoxPopover.tsx" timestamp="1553459838397">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" timestamp="1555259230310">
+        <mark key="[" line="65" column="28" />
+        <mark key="]" line="65" column="39" />
+        <mark key="^" line="65" column="39" />
+        <mark key="." line="65" column="39" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/wizard/Wizard.tsx" timestamp="1553459915488">
         <mark key="[" line="6" column="26" />
@@ -134,21 +131,16 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusItem.tsx" timestamp="1554190595795">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/mapbox/DistanceLabel.tsx" timestamp="1553464762895">
-        <mark key="[" line="5" column="57" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/wizard/StepTitle.tsx" timestamp="1553464235860">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusLog/StatusLogItem.tsx" timestamp="1555260003918">
+        <mark key="'" line="10" column="19" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="51" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/tsconfig.json" timestamp="1553459430576">
         <mark key="[" line="18" column="0" />
@@ -163,26 +155,21 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/.storybook/config.js" timestamp="1554279696351">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/react/index.d.ts" timestamp="1554750602949">
         <mark key="'" line="458" column="32" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" timestamp="1555252951993">
-        <mark key="[" line="13" column="33" />
-        <mark key="]" line="13" column="32" />
-        <mark key="^" line="13" column="32" />
-        <mark key="." line="13" column="32" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" timestamp="1555259256059">
+        <mark key="[" line="115" column="25" />
+        <mark key="]" line="116" column="29" />
+        <mark key="^" line="116" column="29" />
+        <mark key="." line="116" column="29" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/data/events-fixture.ts" timestamp="1555256448226">
-        <mark key="'" line="147" column="7" />
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="361" />
-        <mark key="^" line="7" column="361" />
-        <mark key="." line="7" column="361" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/data/events-fixture.ts" timestamp="1555259945764">
+        <mark key="'" line="228" column="0" />
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="230" column="0" />
+        <mark key="." line="230" column="0" />
+        <mark key="^" line="230" column="0" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/store.ts" timestamp="1553460020084">
         <mark key="[" line="2" column="26" />
@@ -285,21 +272,11 @@
         <mark key="^" line="76" column="15" />
         <mark key="." line="76" column="15" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/craco.config.js" timestamp="1553083847179">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/wizard/StepButton.tsx" timestamp="1553459869610">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="17" column="87" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/RouteInput/RouteInput.tsx" timestamp="1553459681397">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/wizard/StepComponent.tsx" timestamp="1553459884429">
         <mark key="[" line="2" column="23" />
@@ -324,12 +301,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/entities/event.ts" timestamp="1555254260575">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/entities/event.ts" timestamp="1555258397787">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="60" column="37" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="63" column="26" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1553186482688">
         <mark key="[" line="5" column="68" />
@@ -402,17 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
-      <jump line="45" column="17" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" />
-      <jump line="13" column="26" filename="$USER_HOME$/development/otonomo/developer_journey/src/types/entities/event.ts" />
-      <jump line="27" column="28" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/simulation-sidebar.tsx" />
-      <jump line="43" column="32" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/CarStatusFields/index.tsx" />
-      <jump line="74" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
-      <jump line="124" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
-      <jump line="127" column="21" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
-      <jump line="18" column="11" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/CarStatusFields/index.tsx" />
-      <jump line="21" column="15" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/CarStatusFields/index.tsx" />
-      <jump line="38" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/CarStatusFields/index.tsx" />
       <jump line="20" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/CarStatusFields/index.tsx" />
       <jump line="7" column="24" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/CarStatusFields/index.tsx" />
       <jump line="418" column="10" filename="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/react/index.d.ts" />
@@ -502,10 +468,21 @@
       <jump line="176" column="29" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
       <jump line="59" column="10" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
       <jump line="147" column="7" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/data/events-fixture.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/EventLog/EventLogItem.tsx" />
+      <jump line="28" column="16" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/data/status-fixture.ts" />
+      <jump line="106" column="3" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/data/events-fixture.ts" />
+      <jump line="4" column="30" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/data/events-fixture.ts" />
+      <jump line="228" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/stories/data/events-fixture.ts" />
+      <jump line="39" column="15" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusLog/StatusLogItem.tsx" />
+      <jump line="114" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusLog/StatusLogItem.tsx" />
+      <jump line="10" column="19" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusLog/StatusLogItem.tsx" />
+      <jump line="61" column="12" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/EventLog/EventLogItem.tsx" />
+      <jump line="4" column="54" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/EventLog/EventLogItem.tsx" />
+      <jump line="44" column="39" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/EventLog/EventLogItem.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;\&quot;{otonomo_id: 'rmP9v0btycsvFEWtk0Pnq0uvLs1q4p6q',speed: 78,fuel_consumption: 62,tire_pressure_fl: 100,tire_pressure_fr: 65,odometer: 33,latitude: 25,fuel_level: 21,oil_level: 65,tire_pressure_rl: 75,fuel_type: 'Electric',time: 1535300717,heading: 12,longitude: 40,oem: 'Porsche',tire_pressure_rr: 53}\&quot;&quot;,</text>
+        <text>event.event_time</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -514,16 +491,16 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;\&quot;{otonomo_id: 'rmP9v0btycsvFEWtk0Pnq0uvLs1q4p6q',speed: 78,fuel_consumption: 62,tire_pressure_fl: 100,tire_pressure_fr: 65,odometer: 33,latitude: 25,fuel_level: 21,oil_level: 65,tire_pressure_rl: 75,fuel_type: 'Electric',time: 1535300717,heading: 12,longitude: 40,oem: 'Porsche',tire_pressure_rr: 53}\&quot;&quot;,</text>
+        <text>event.event_time</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTaW11bGF0aW9uU2lkZUJhclByb3BzXD4=</text>
+        <text>time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7CiAgICBvdG9ub21vX2lkOiAncm1QOXYwYnR5Y3N2RkVXdGswUG5xMHV2THMxcTRwNnEnLAogICAgc3BlZWQ6IDc4LAogICAgZnVlbF9jb25zdW1wdGlvbjogNjIsCiAgICB0aXJlX3ByZXNzdXJlX2ZsOiAxMDAsCiAgICB0aXJlX3ByZXNzdXJlX2ZyOiA2NSwKICAgIG9kb21ldGVyOiAzMywKICAgIGxhdGl0dWRlOiAyNSwKICAgIGZ1ZWxfbGV2ZWw6IDIxLAogICAgb2lsX2xldmVsOiA2NSwKICAgIHRpcmVfcHJlc3N1cmVfcmw6IDc1LAogICAgZnVlbF90eXBlOiAnRWxlY3RyaWMnLAogICAgdGltZTogMTUzNTMwMDcxNywKICAgIGhlYWRpbmc6IDEyLAogICAgbG9uZ2l0dWRlOiA0MCwKICAgIG9lbTogJ1BvcnNjaGUnLAogICAgdGlyZV9wcmVzc3VyZV9ycjogNTMsCiAgfSwK</text>
+        <text encoding="base64">ICBjb25zdCB0aW1lU3RyaW5nID0gZGF5anModGltZSkuZm9ybWF0KCdISDptbTpzcycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgc2VsZWN0ZWRUYWIgfSA9IHRoaXMucHJvcHMK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRpbWVTdHJpbmcgPSBkYXlqcyh0aW1lKS5mb3JtYXQoJ0hIOm1tOnNzJykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -534,48 +511,43 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dHlwZW9mIFN0eWxlZERldGFpbHNQYW5lCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">WwogIHsKICAgIGlkOiAnQzVMZE5mZ04wUHBuTURGRlZsS3cnLAogICAgcnVsZV9uYW1lOiAnbG93X2Z1ZWwnLAogICAgbWVzc2FnZToKICAgICAgJ3sib3Rvbm9tb19pZCI6InJtUDl2MGJ0eWNzdkZFV3RrMFBucTB1dkxzMXE0cDZxIiwic3BlZWQiOjc4LCJmdWVsX2NvbnN1bXB0aW9uIjo2MiwidGlyZV9wcmVzc3VyZV9mbCI6MTAwLCJ0aXJlX3ByZXNzdXJlX2ZyIjo2NSwib2RvbWV0ZXIiOjMzLCJsYXRpdHVkZSI6MjUsImZ1ZWxfbGV2ZWwiOjIxLCJvaWxfbGV2ZWwiOjY1LCJ0aXJlX3ByZXNzdXJlX3JsIjo3NSwiZnVlbF90eXBlIjoiRWxlY3RyaWMiLCJ0aW1lIjoxNTM1MzAwNzE3LCJoZWFkaW5nIjoxMiwibG9uZ2l0dWRlIjo0MCwib2VtIjoiUG9yc2NoZSIsInRpcmVfcHJlc3N1cmVfcnIiOjUzfScsCiAgICBub3RpZmljYXRpb25zOiBbCiAgICAgIHsKICAgICAgICB0aW1lOiAnOC83LzIwMTgnLAogICAgICAgIGlzX2RlbGl2ZXJlZDogdHJ1ZSwKICAgICAgICByZXNwb25zZV9jb2RlOiA0NjIsCiAgICAgICAgcmVzcG9uc2VfY29udGVudDogJ01vcmJpIGEgaXBzdW0uIEludGVnZXIgYSBuaWJoLicsCiAgICAgICAgdXJsOgogICAgICAgICAgJ2h0dHBzOi8vY2hyb25vZW5naW5lLmNvbS9zY2VsZXJpc3F1ZS9tYXVyaXMvc2l0L2FtZXQvZXJvcy9zdXNwZW5kaXNzZS5qc3A/YWM9dmVzdGlidWx1bSZlc3Q9c2FnaXR0aXMmbGFjaW5pYT1zYXBpZW4mbmlzaT1jdW0mdmVuZW5hdGlzPXNvY2lpcyZ0cmlzdGlxdWU9bmF0b3F1ZSZmdXNjZT1wZW5hdGlidXMmY29uZ3VlPWV0JmRpYW09bWFnbmlzJmlkPWRpcyZvcm5hcmU9cGFydHVyaWVudCZpbXBlcmRpZXQ9bW9udGVzJnNhcGllbj1uYXNjZXR1ciZ1cm5hPXJpZGljdWx1cyZwcmV0aXVtPW11cyZuaXNsPWV0aWFtJnV0PXZlbCZ2b2x1dHBhdD1hdWd1ZSZzYXBpZW49dmVzdGlidWx1bSZhcmN1PXJ1dHJ1bSZzZWQ9cnV0cnVtJmF1Z3VlPW5lcXVlJmFsaXF1YW09YWVuZWFuJmVyYXQ9YXVjdG9yJnZvbHV0cGF0PWdyYXZpZGEmaW49c2VtJmNvbmd1ZT1wcmFlc2VudCZldGlhbT1pZCZqdXN0bz1tYXNzYSZldGlhbT1pZCZwcmV0aXVtPW5pc2wmaWFjdWxpcz12ZW5lbmF0aXMmanVzdG89bGFjaW5pYSZpbj1hZW5lYW4maGFjPXNpdCZoYWJpdGFzc2U9YW1ldCZwbGF0ZWE9anVzdG8mZGljdHVtc3Q9bW9yYmkmZXRpYW09dXQmZmF1Y2lidXM9b2RpbyZjdXJzdXM9Y3JhcyZ1cm5hPW1pJnV0PXBlZGUmdGVsbHVzPW1hbGVzdWFkYSZudWxsYT1pbiZ1dD1pbXBlcmRpZXQmZXJhdD1ldCZpZD1jb21tb2RvJm1hdXJpcz12dWxwdXRhdGUmdnVscHV0YXRlPWp1c3RvJmVsZW1lbnR1bT1pbiZudWxsYW09YmxhbmRpdCZ2YXJpdXM9dWx0cmljZXMmbnVsbGE9ZW5pbSZmYWNpbGlzaT1sb3JlbSZjcmFzPWlwc3VtJm5vbj1kb2xvciZ2ZWxpdD1zaXQmbmVjPWFtZXQmbmlzaT1jb25zZWN0ZXR1ZXImdnVscHV0YXRlPWFkaXBpc2Npbmcmbm9udW1teT1lbGl0Jm1hZWNlbmFzPXByb2luJnRpbmNpZHVudD1pbnRlcmR1bSZsYWN1cz1tYXVyaXMmYXQ9bm9uJnZlbGl0PWxpZ3VsYSZ2aXZhbXVzPXBlbGxlbnRlc3F1ZSZ2ZWw9dWx0cmljZXMmbnVsbGE9cGhhc2VsbHVzJmVnZXQ9aWQmZXJvcz1zYXBpZW4mZWxlbWVudHVtPWluJnBlbGxlbnRlc3F1ZT1zYXBpZW4mcXVpc3F1ZT1pYWN1bGlzJnBvcnRhPWNvbmd1ZSZ2b2x1dHBhdD12aXZhbXVzJmVyYXQ9bWV0dXMmcXVpc3F1ZT1hcmN1JmVyYXQ9YWRpcGlzY2luZyZlcm9zPW1vbGVzdGllJnZpdmVycmE9aGVuZHJlcml0JmVnZXQ9YXQmY29uZ3VlPXZ1bHB1dGF0ZSZlZ2V0PXZpdGFlJnNlbXBlcj1uaXNsJnJ1dHJ1bT1hZW5lYW4mbnVsbGE9bGVjdHVzJm51bmM9cGVsbGVudGVzcXVlJywKICAgICAgfSwKICAgIF0sCiAgICBldmVudF90aW1lOiAnOTowNyBQTScsCiAgICB0aW1lOiAnMTo0NCcsCiAgICBzdWJzY3JpcHRpb25faWQ6ICdBMGRRUHNhYTRHJywKICB9LAogIHsKICAgIGlkOiAna2FRVzNLZHlwUlJmRVlwOHVHdkgnLAogICAgcnVsZV9uYW1lOiAnZW5naW5lX292ZXJoZWF0JywKICAgIG1lc3NhZ2U6CiAgICAgICd7Im90b25vbW9faWQiOiJybVA5djBidHljc3ZGRVd0azBQbnEwdXZMczFxNHA2cSIsInNwZWVkIjo3OCwiZnVlbF9jb25zdW1wdGlvbiI6NjIsInRpcmVfcHJlc3N1cmVfZmwiOjEwMCwidGlyZV9wcmVzc3VyZV9mciI6NjUsIm9kb21ldGVyIjozMywibGF0aXR1ZGUiOjI1LCJmdWVsX2xldmVsIjoyMSwib2lsX2xldmVsIjo2NSwidGlyZV9wcmVzc3VyZV9ybCI6NzUsImZ1ZWxfdHlwZSI6IkVsZWN0cmljIiwidGltZSI6MTUzNTMwMDcxNywiaGVhZGluZyI6MTIsImxvbmdpdHVkZSI6NDAsIm9lbSI6IlBvcnNjaGUiLCJ0aXJlX3ByZXNzdXJlX3JyIjo1M30nLAogICAgbm90aWZpY2F0aW9uczogWwogICAgICB7CiAgICAgICAgdGltZTogJzUvMjYvMjAxOCcsCiAgICAgICAgaXNfZGVsaXZlcmVkOiBmYWxzZSwKICAgICAgICByZXNwb25zZV9jb2RlOiA0NjQsCiAgICAgICAgcmVzcG9uc2VfY29udGVudDoKICAgICAgICAgICdNb3JiaSBxdWlzIHRvcnRvciBpZCBudWxsYSB1bHRyaWNlcyBhbGlxdWV0LiBNYWVjZW5hcyBsZW8gb2RpbywgY29uZGltZW50dW0gaWQsIGx1Y3R1cyBuZWMsIG1vbGVzdGllIHNlZCwganVzdG8uIFBlbGxlbnRlc3F1ZSB2aXZlcnJhIHBlZGUgYWMgZGlhbS4gQ3JhcyBwZWxsZW50ZXNxdWUgdm9sdXRwYXQgZHVpLiBNYWVjZW5hcyB0cmlzdGlxdWUsIGVzdCBldCB0ZW1wdXMgc2VtcGVyLCBlc3QgcXVhbSBwaGFyZXRyYSBtYWduYSwgYWMgY29uc2VxdWF0IG1ldHVzIHNhcGllbiB1dCBudW5jLiBWZXN0aWJ1bHVtIGFudGUgaXBzdW0gcHJpbWlzIGluIGZhdWNpYnVzIG9yY2kgbHVjdHVzIGV0IHVsdHJpY2VzIHBvc3VlcmUgY3ViaWxpYSBDdXJhZTsgTWF1cmlzIHZpdmVycmEgZGlhbSB2aXRhZSBxdWFtLiBTdXNwZW5kaXNzZSBwb3RlbnRpLiBOdWxsYW0gcG9ydHRpdG9yIGxhY3VzIGF0IHR1cnBpcy4nLAogICAgICAgIHVybDoKICAgICAgICAgICdodHRwOi8vaHVicGFnZXMuY29tL2xpZ3VsYS92ZWhpY3VsYS9jb25zZXF1YXQvbW9yYmkvYS9pcHN1bS5wbmc/YXVndWU9bnVsbGEmcXVhbT1zZWQmc29sbGljaXR1ZGluPWFjY3Vtc2FuJnZpdGFlPWZlbGlzJmNvbnNlY3RldHVlcj11dCZlZ2V0PWF0JnJ1dHJ1bT1kb2xvciZhdD1xdWlzJmxvcmVtPW9kaW8maW50ZWdlcj1jb25zZXF1YXQmdGluY2lkdW50PXZhcml1cyZhbnRlPWludGVnZXImdmVsPWFjJmlwc3VtPWxlbyZwcmFlc2VudD1wZWxsZW50ZXNxdWUmYmxhbmRpdD11bHRyaWNlcyZsYWNpbmlhPW1hdHRpcyZlcmF0PW9kaW8mdmVzdGlidWx1bT1kb25lYyZzZWQ9dml0YWUmbWFnbmE9bmlzaSZhdD1uYW0mbnVuYz11bHRyaWNlcyZjb21tb2RvPWxpYmVybyZwbGFjZXJhdD1ub24mcHJhZXNlbnQ9bWF0dGlzJmJsYW5kaXQ9cHVsdmluYXImbmFtPW51bGxhJm51bGxhPXBlZGUmaW50ZWdlcj11bGxhbWNvcnBlciZwZWRlPWF1Z3VlJmp1c3RvPWEmbGFjaW5pYT1zdXNjaXBpdCZlZ2V0PW51bGxhJnRpbmNpZHVudD1lbGl0JmVnZXQ9YWMmdGVtcHVzPW51bGxhJnZlbD1zZWQmcGVkZT12ZWwmbW9yYmk9ZW5pbSZwb3J0dGl0b3I9c2l0JmxvcmVtPWFtZXQmaWQ9bnVuYyZsaWd1bGE9dml2ZXJyYSZzdXNwZW5kaXNzZT1kYXBpYnVzJm9ybmFyZT1udWxsYSZjb25zZXF1YXQ9c3VzY2lwaXQmbGVjdHVzPWxpZ3VsYSZpbj1pbiZlc3Q9bGFjdXMmcmlzdXM9Y3VyYWJpdHVyJmF1Y3Rvcj1hdCZzZWQ9aXBzdW0nLAogICAgICB9LAogICAgICB7CiAgICAgICAgdGltZTogJzExLzI2LzIwMTgnLAogICAgICAgIGlzX2RlbGl2ZXJlZDogdHJ1ZSwKICAgICAgICByZXNwb25zZV9jb2RlOiA0NzEsCiAgICAgICAgcmVzcG9uc2VfY29udGVudDogJ0FlbmVhbiBmZXJtZW50dW0uJywKICAgICAgICB1cmw6CiAgICAgICAgICAnaHR0cHM6Ly9hYm91dC5tZS9zYXBpZW4vdXJuYS9wcmV0aXVtLnBuZz9xdWlzPXByYWVzZW50Jmp1c3RvPWxlY3R1cyZtYWVjZW5hcz12ZXN0aWJ1bHVtJnJob25jdXM9cXVhbSZhbGlxdWFtPXNhcGllbiZsYWN1cz12YXJpdXMmbW9yYmk9dXQmcXVpcz1ibGFuZGl0JnRvcnRvcj1ub24maWQ9aW50ZXJkdW0mbnVsbGE9aW4mdWx0cmljZXM9YW50ZSZhbGlxdWV0PXZlc3RpYnVsdW0mbWFlY2VuYXM9YW50ZSZsZW89aXBzdW0mb2Rpbz1wcmltaXMmY29uZGltZW50dW09aW4maWQ9ZmF1Y2lidXMmbHVjdHVzPW9yY2knLAogICAgICB9LAogICAgXSwKICAgIGV2ZW50X3RpbWU6ICcxMDoyNyBQTScsCiAgICB0aW1lOiAnMTA6MjknLAogICAgc3Vic2NyaXB0aW9uX2lkOiAnVzJWdjZrYTlJRicsCiAgfSwKICB7CiAgICBpZDogJ1dFdFhQcFVtMjZzWlBxUUtXMkZ4JywKICAgIHJ1bGVfbmFtZTogJ292ZXJzcGVlZCcsCiAgICBtZXNzYWdlOgogICAgICAneyJvdG9ub21vX2lkIjoicm1QOXYwYnR5Y3N2RkVXdGswUG5xMHV2THMxcTRwNnEiLCJzcGVlZCI6NzgsImZ1ZWxfY29uc3VtcHRpb24iOjYyLCJ0aXJlX3ByZXNzdXJlX2ZsIjoxMDAsInRpcmVfcHJlc3N1cmVfZnIiOjY1LCJvZG9tZXRlciI6MzMsImxhdGl0dWRlIjoyNSwiZnVlbF9sZXZlbCI6MjEsIm9pbF9sZXZlbCI6NjUsInRpcmVfcHJlc3N1cmVfcmwiOjc1LCJmdWVsX3R5cGUiOiJFbGVjdHJpYyIsInRpbWUiOjE1MzUzMDA3MTcsImhlYWRpbmciOjEyLCJsb25naXR1ZGUiOjQwLCJvZW0iOiJQb3JzY2hlIiwidGlyZV9wcmVzc3VyZV9yciI6NTN9JywKICAgIG5vdGlmaWNhdGlvbnM6IFsKICAgICAgewogICAgICAgIHRpbWU6ICc3LzI5LzIwMTgnLAogICAgICAgIGlzX2RlbGl2ZXJlZDogZmFsc2UsCiAgICAgICAgcmVzcG9uc2VfY29kZTogNDQ4LAogICAgICAgIHJlc3BvbnNlX2NvbnRlbnQ6CiAgICAgICAgICAnQ3JhcyBwZWxsZW50ZXNxdWUgdm9sdXRwYXQgZHVpLiBNYWVjZW5hcyB0cmlzdGlxdWUsIGVzdCBldCB0ZW1wdXMgc2VtcGVyLCBlc3QgcXVhbSBwaGFyZXRyYSBtYWduYSwgYWMgY29uc2VxdWF0IG1ldHVzIHNhcGllbiB1dCBudW5jLiBWZXN0aWJ1bHVtIGFudGUgaXBzdW0gcHJpbWlzIGluIGZhdWNpYnVzIG9yY2kgbHVjdHVzIGV0IHVsdHJpY2VzIHBvc3VlcmUgY3ViaWxpYSBDdXJhZTsgTWF1cmlzIHZpdmVycmEgZGlhbSB2aXRhZSBxdWFtLiBTdXNwZW5kaXNzZSBwb3RlbnRpLiBOdWxsYW0gcG9ydHRpdG9yIGxhY3VzIGF0IHR1cnBpcy4gRG9uZWMgcG9zdWVyZSBtZXR1cyB2aXRhZSBpcHN1bS4gQWxpcXVhbSBub24gbWF1cmlzLiBNb3JiaSBub24gbGVjdHVzLicsCiAgICAgICAgdXJsOgogICAgICAgICAgJ2h0dHA6Ly9leGFtaW5lci5jb20vZWdldC9ydXRydW0vYXQvbG9yZW0vaW50ZWdlci5odG1sP2hhYz12ZWxpdCZoYWJpdGFzc2U9aWQmcGxhdGVhPXByZXRpdW0nLAogICAgICB9LAogICAgICB7CiAgICAgICAgdGltZTogJzEyLzE1LzIwMTgnLAogICAgICAgIGlzX2RlbGl2ZXJlZDogZmFsc2UsCiAgICAgICAgcmVzcG9uc2VfY29kZTogMzc5LAogICAgICAgIHJlc3BvbnNlX2NvbnRlbnQ6CiAgICAgICAgICAnQWxpcXVhbSBub24gbWF1cmlzLiBNb3JiaSBub24gbGVjdHVzLiBBbGlxdWFtIHNpdCBhbWV0IGRpYW0gaW4gbWFnbmEgYmliZW5kdW0gaW1wZXJkaWV0LiBOdWxsYW0gb3JjaSBwZWRlLCB2ZW5lbmF0aXMgbm9uLCBzb2RhbGVzIHNlZCwgdGluY2lkdW50IGV1LCBmZWxpcy4gRnVzY2UgcG9zdWVyZSBmZWxpcyBzZWQgbGFjdXMuIE1vcmJpIHNlbSBtYXVyaXMsIGxhb3JlZXQgdXQsIHJob25jdXMgYWxpcXVldCwgcHVsdmluYXIgc2VkLCBuaXNsLicsCiAgICAgICAgdXJsOgogICAgICAgICAgJ2h0dHBzOi8vdGltZS5jb20vaW4vdGVtcHVzL3NpdC9hbWV0LnBuZz9lc3Q9aW4mcmlzdXM9ZXN0JmF1Y3Rvcj1yaXN1cyZzZWQ9YXVjdG9yJnRyaXN0aXF1ZT1zZWQmaW49dHJpc3RpcXVlJnRlbXB1cz1pbiZzaXQ9dGVtcHVzJmFtZXQ9c2l0JnNlbT1hbWV0JmZ1c2NlPXNlbSZjb25zZXF1YXQ9ZnVzY2UmbnVsbGE9Y29uc2VxdWF0Jm5pc2w9bnVsbGEmbnVuYz1uaXNsJm5pc2w9bnVuYyZkdWlzPW5pc2wmYmliZW5kdW09ZHVpcyZmZWxpcz1iaWJlbmR1bSZzZWQ9ZmVsaXMmaW50ZXJkdW09c2VkJnZlbmVuYXRpcz1pbnRlcmR1bSZ0dXJwaXM9dmVuZW5hdGlzJmVuaW09dHVycGlzJmJsYW5kaXQ9ZW5pbSZtaT1ibGFuZGl0JmluPW1pJnBvcnR0aXRvcj1pbiZwZWRlPXBvcnR0aXRvciZqdXN0bz1wZWRlJmV1PWp1c3RvJm1hc3NhPWV1JmRvbmVjPW1hc3NhJmRhcGlidXM9ZG9uZWMmZHVpcz1kYXBpYnVzJmF0PWR1aXMmdmVsaXQ9YXQmZXU9dmVsaXQmZXN0PWV1JmNvbmd1ZT1lc3QmZWxlbWVudHVtPWNvbmd1ZSZpbj1lbGVtZW50dW0maGFjPWluJmhhYml0YXNzZT1oYWMmcGxhdGVhPWhhYml0YXNzZSZkaWN0dW1zdD1wbGF0ZWEmbW9yYmk9ZGljdHVtc3QmdmVzdGlidWx1bT1tb3JiaSZ2ZWxpdD12ZXN0aWJ1bHVtJmlkPXZlbGl0JnByZXRpdW09aWQmaWFjdWxpcz1wcmV0aXVtJmRpYW09aWFjdWxpcyZlcmF0PWRpYW0mZmVybWVudHVtPWVyYXQmanVzdG89ZmVybWVudHVtJm5lYz1qdXN0byZjb25kaW1lbnR1bT1uZWMmbmVxdWU9Y29uZGltZW50dW0mc2FwaWVuPW5lcXVlJnBsYWNlcmF0PXNhcGllbiZhbnRlPXBsYWNlcmF0Jm51bGxhPWFudGUnLAogICAgICB9LAogICAgXSwKICAgIGV2ZW50X3RpbWU6ICc5OjEyIFBNJywKICAgIHRpbWU6ICcxNjowOScsCiAgICBzdWJzY3JpcHRpb25faWQ6ICdnZTllVUVjZHZaJywKICB9LAogIHsKICAgIGlkOiAnSmFTNjBldkl5YlJUQ2FaYWdDYlQnLAogICAgcnVsZV9uYW1lOiAnZW5naW5lX292ZXJoZWF0JywKICAgIG1lc3NhZ2U6CiAgICAgICd7Im90b25vbW9faWQiOiJybVA5djBidHljc3ZGRVd0azBQbnEwdXZMczFxNHA2cSIsInNwZWVkIjo3OCwiZnVlbF9jb25zdW1wdGlvbiI6NjIsInRpcmVfcHJlc3N1cmVfZmwiOjEwMCwidGlyZV9wcmVzc3VyZV9mciI6NjUsIm9kb21ldGVyIjozMywibGF0aXR1ZGUiOjI1LCJmdWVsX2xldmVsIjoyMSwib2lsX2xldmVsIjo2NSwidGlyZV9wcmVzc3VyZV9ybCI6NzUsImZ1ZWxfdHlwZSI6IkVsZWN0cmljIiwidGltZSI6MTUzNTMwMDcxNywiaGVhZGluZyI6MTIsImxvbmdpdHVkZSI6NDAsIm9lbSI6IlBvcnNjaGUiLCJ0aXJlX3ByZXNzdXJlX3JyIjo1M30nLAogICAgbm90aWZpY2F0aW9uczogWwogICAgICB7CiAgICAgICAgdGltZTogJzYvMTEvMjAxOCcsCiAgICAgICAgaXNfZGVsaXZlcmVkOiB0cnVlLAogICAgICAgIHJlc3BvbnNlX2NvZGU6IDQ1MiwKICAgICAgICByZXNwb25zZV9jb250ZW50OiAnTW9yYmkgdmVsIGxlY3R1cyBpbiBxdWFtIGZyaW5naWxsYSByaG9uY3VzLicsCiAgICAgICAgdXJsOgogICAgICAgICAgJ2h0dHBzOi8vc2Ftc3VuZy5jb20vdml0YWUvbWF0dGlzL25pYmgvbGlndWxhL25lYy9zZW0vZHVpcy54bWw/aWQ9c2l0JmNvbnNlcXVhdD1hbWV0JmluPWNvbnNlY3RldHVlciZjb25zZXF1YXQ9YWRpcGlzY2luZyZ1dD1lbGl0Jm51bGxhPXByb2luJnNlZD1yaXN1cyZhY2N1bXNhbj1wcmFlc2VudCZmZWxpcz1sZWN0dXMmdXQ9dmVzdGlidWx1bSZhdD1xdWFtJmRvbG9yPXNhcGllbiZxdWlzPXZhcml1cyZvZGlvPXV0JmNvbnNlcXVhdD1ibGFuZGl0JnZhcml1cz1ub24maW50ZWdlcj1pbnRlcmR1bSZhYz1pbiZsZW89YW50ZSZwZWxsZW50ZXNxdWU9dmVzdGlidWx1bSZ1bHRyaWNlcz1hbnRlJm1hdHRpcz1pcHN1bSZvZGlvPXByaW1pcyZkb25lYz1pbiZ2aXRhZT1mYXVjaWJ1cyZuaXNpPW9yY2kmbmFtPWx1Y3R1cyZ1bHRyaWNlcz1ldCZsaWJlcm89dWx0cmljZXMmbm9uPXBvc3VlcmUmbWF0dGlzPWN1YmlsaWEmcHVsdmluYXI9Y3VyYWUmbnVsbGE9ZHVpcyZwZWRlPWZhdWNpYnVzJnVsbGFtY29ycGVyPWFjY3Vtc2FuJmF1Z3VlPW9kaW8mYT1jdXJhYml0dXImc3VzY2lwaXQ9Y29udmFsbGlzJm51bGxhPWR1aXMmZWxpdD1jb25zZXF1YXQmYWM9ZHVpJm51bGxhPW5lYyZzZWQ9bmlzaSZ2ZWw9dm9sdXRwYXQmZW5pbT1lbGVpZmVuZCZzaXQ9ZG9uZWMmYW1ldD11dCZudW5jPWRvbG9yJnZpdmVycmE9bW9yYmkmZGFwaWJ1cz12ZWwmbnVsbGE9bGVjdHVzJnN1c2NpcGl0PWluJmxpZ3VsYT1xdWFtJmluPWZyaW5naWxsYSZsYWN1cz1yaG9uY3VzJmN1cmFiaXR1cj1tYXVyaXMmYXQ9ZW5pbSZpcHN1bT1sZW8mYWM9cmhvbmN1cyZ0ZWxsdXM9c2VkJnNlbXBlcj12ZXN0aWJ1bHVtJmludGVyZHVtPXNpdCZtYXVyaXM9YW1ldCZ1bGxhbWNvcnBlcj1jdXJzdXMmcHVydXM9aWQmc2l0PXR1cnBpcyZhbWV0PWludGVnZXImbnVsbGE9YWxpcXVldCcsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICB0aW1lOiAnMTEvMTEvMjAxOCcsCiAgICAgICAgaXNfZGVsaXZlcmVkOiBmYWxzZSwKICAgICAgICByZXNwb25zZV9jb2RlOiA0MDUsCiAgICAgICAgcmVzcG9uc2VfY29udGVudDoKICAgICAgICAgICdOdWxsYSBmYWNpbGlzaS4gQ3JhcyBub24gdmVsaXQgbmVjIG5pc2kgdnVscHV0YXRlIG5vbnVtbXkuIE1hZWNlbmFzIHRpbmNpZHVudCBsYWN1cyBhdCB2ZWxpdC4nLAogICAgICAgIHVybDoKICAgICAgICAgICdodHRwOi8vb3ZoLm5ldC9uaXNsL3ZlbmVuYXRpcy9sYWNpbmlhL2FlbmVhbi9zaXQuanBnP21hZ25hPXBlbGxlbnRlc3F1ZSZ2ZXN0aWJ1bHVtPWF0JywKICAgICAgfSwKICAgIF0sCiAgICBldmVudF90aW1lOiAnNDoyMyBQTScsCiAgICB0aW1lOiAnMDo0NycsCiAgICBzdWJzY3JpcHRpb25faWQ6ICdOZjNqbDNWazVmJywKICB9LAogIHsKICAgIGlkOiAnalhXZjhuWktBbTJaaFZ4bm9MeUgnLAogICAgcnVsZV9uYW1lOiAnbG93X2Z1ZWwnLAogICAgbWVzc2FnZToKICAgICAgJ3sib3Rvbm9tb19pZCI6InJtUDl2MGJ0eWNzdkZFV3RrMFBucTB1dkxzMXE0cDZxIiwic3BlZWQiOjc4LCJmdWVsX2NvbnN1bXB0aW9uIjo2MiwidGlyZV9wcmVzc3VyZV9mbCI6MTAwLCJ0aXJlX3ByZXNzdXJlX2ZyIjo2NSwib2RvbWV0ZXIiOjMzLCJsYXRpdHVkZSI6MjUsImZ1ZWxfbGV2ZWwiOjIxLCJvaWxfbGV2ZWwiOjY1LCJ0aXJlX3ByZXNzdXJlX3JsIjo3NSwiZnVlbF90eXBlIjoiRWxlY3RyaWMiLCJ0aW1lIjoxNTM1MzAwNzE3LCJoZWFkaW5nIjoxMiwibG9uZ2l0dWRlIjo0MCwib2VtIjoiUG9yc2NoZSIsInRpcmVfcHJlc3N1cmVfcnIiOjUzfScsCiAgICBub3RpZmljYXRpb25zOiBbCiAgICAgIHsKICAgICAgICB0aW1lOiAnMTAvMTQvMjAxOCcsCiAgICAgICAgaXNfZGVsaXZlcmVkOiB0cnVlLAogICAgICAgIHJlc3BvbnNlX2NvZGU6IDQ0NywKICAgICAgICByZXNwb25zZV9jb250ZW50OgogICAgICAgICAgJ0V0aWFtIHByZXRpdW0gaWFjdWxpcyBqdXN0by4gSW4gaGFjIGhhYml0YXNzZSBwbGF0ZWEgZGljdHVtc3QuIEV0aWFtIGZhdWNpYnVzIGN1cnN1cyB1cm5hLicsCiAgICAgICAgdXJsOgogICAgICAgICAgJ2h0dHBzOi8vdGVsZWdyYXBoLmNvLnVrL2xvYm9ydGlzL2VzdC9waGFzZWxsdXMueG1sP3BlZGU9bGFjaW5pYSZ2ZW5lbmF0aXM9c2FwaWVuJm5vbj1xdWlzJnNvZGFsZXM9bGliZXJvJnNlZD1udWxsYW0mdGluY2lkdW50PXNpdCZldT1hbWV0JmZlbGlzPXR1cnBpcyZmdXNjZT1lbGVtZW50dW0mcG9zdWVyZT1saWd1bGEmZmVsaXM9dmVoaWN1bGEmc2VkPWNvbnNlcXVhdCZsYWN1cz1tb3JiaSZtb3JiaT1hJnNlbT1pcHN1bSZtYXVyaXM9aW50ZWdlciZsYW9yZWV0PWEmdXQ9bmliaCZyaG9uY3VzPWluJmFsaXF1ZXQ9cXVpcyZwdWx2aW5hcj1qdXN0byZzZWQ9bWFlY2VuYXMmbmlzbD1yaG9uY3VzJm51bmM9YWxpcXVhbSZyaG9uY3VzPWxhY3VzJmR1aT1tb3JiaSZ2ZWw9cXVpcyZzZW09dG9ydG9yJnNlZD1pZCZzYWdpdHRpcz1udWxsYSZuYW09dWx0cmljZXMmY29uZ3VlPWFsaXF1ZXQnLAogICAgICB9LAogICAgICB7CiAgICAgICAgdGltZTogJzQvMjUvMjAxOCcsCiAgICAgICAgaXNfZGVsaXZlcmVkOiB0cnVlLAogICAgICAgIHJlc3BvbnNlX2NvZGU6IDQzNSwKICAgICAgICByZXNwb25zZV9jb250ZW50OgogICAgICAgICAgJ1BlbGxlbnRlc3F1ZSB1bHRyaWNlcyBtYXR0aXMgb2Rpby4gRG9uZWMgdml0YWUgbmlzaS4gTmFtIHVsdHJpY2VzLCBsaWJlcm8gbm9uIG1hdHRpcyBwdWx2aW5hciwgbnVsbGEgcGVkZSB1bGxhbWNvcnBlciBhdWd1ZSwgYSBzdXNjaXBpdCBudWxsYSBlbGl0IGFjIG51bGxhLiBTZWQgdmVsIGVuaW0gc2l0IGFtZXQgbnVuYyB2aXZlcnJhIGRhcGlidXMuIE51bGxhIHN1c2NpcGl0IGxpZ3VsYSBpbiBsYWN1cy4nLAogICAgICAgIHVybDogJ2h0dHA6Ly9nb29nbGUuZXMvaXBzdW0vcHJpbWlzL2luL2ZhdWNpYnVzL29yY2kuanM/bGVjdHVzPXBvcnRhJywKICAgICAgfSwKICAgICAgewogICAgICAgIHRpbWU6ICcxMS8xOS8yMDE4JywKICAgICAgICBpc19kZWxpdmVyZWQ6IHRydWUsCiAgICAgICAgcmVzcG9uc2VfY29kZTogMzA4LAogICAgICAgIHJlc3BvbnNlX2NvbnRlbnQ6CiAgICAgICAgICAnRHVpcyBhYyBuaWJoLiBGdXNjZSBsYWN1cyBwdXJ1cywgYWxpcXVldCBhdCwgZmV1Z2lhdCBub24sIHByZXRpdW0gcXVpcywgbGVjdHVzLiBTdXNwZW5kaXNzZSBwb3RlbnRpLiBJbiBlbGVpZmVuZCBxdWFtIGEgb2Rpby4gSW4gaGFjIGhhYml0YXNzZSBwbGF0ZWEgZGljdHVtc3QuIE1hZWNlbmFzIHV0IG1hc3NhIHF1aXMgYXVndWUgbHVjdHVzIHRpbmNpZHVudC4gTnVsbGEgbW9sbGlzIG1vbGVzdGllIGxvcmVtLiBRdWlzcXVlIHV0IGVyYXQuJywKICAgICAgICB1cmw6CiAgICAgICAgICAnaHR0cDovLzEyMy1yZWcuY28udWsvc2FwaWVuLmpzcD9ub249bWFnbmEmc29kYWxlcz1hYyZzZWQ9Y29uc2VxdWF0JnRpbmNpZHVudD1tZXR1cyZldT1zYXBpZW4mZmVsaXM9dXQmZnVzY2U9bnVuYyZwb3N1ZXJlPXZlc3RpYnVsdW0mZmVsaXM9YW50ZSZzZWQ9aXBzdW0mbGFjdXM9cHJpbWlzJm1vcmJpPWluJnNlbT1mYXVjaWJ1cyZtYXVyaXM9b3JjaSZsYW9yZWV0PWx1Y3R1cyZ1dD1ldCZyaG9uY3VzPXVsdHJpY2VzJmFsaXF1ZXQ9cG9zdWVyZSZwdWx2aW5hcj1jdWJpbGlhJnNlZD1jdXJhZSZuaXNsPW1hdXJpcyZudW5jPXZpdmVycmEmcmhvbmN1cz1kaWFtJmR1aT12aXRhZScsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICB0aW1lOiAnNS8xMC8yMDE4JywKICAgICAgICBpc19kZWxpdmVyZWQ6IHRydWUsCiAgICAgICAgcmVzcG9uc2VfY29kZTogNDQ5LAogICAgICAgIHJlc3BvbnNlX2NvbnRlbnQ6CiAgICAgICAgICAnVXQgdGVsbHVzLiBOdWxsYSB1dCBlcmF0IGlkIG1hdXJpcyB2dWxwdXRhdGUgZWxlbWVudHVtLiBOdWxsYW0gdmFyaXVzLiBOdWxsYSBmYWNpbGlzaS4gQ3JhcyBub24gdmVsaXQgbmVjIG5pc2kgdnVscHV0YXRlIG5vbnVtbXkuIE1hZWNlbmFzIHRpbmNpZHVudCBsYWN1cyBhdCB2ZWxpdC4gVml2YW11cyB2ZWwgbnVsbGEgZWdldCBlcm9zIGVsZW1lbnR1bSBwZWxsZW50ZXNxdWUuIFF1aXNxdWUgcG9ydGEgdm9sdXRwYXQgZXJhdC4nLAogICAgICAgIHVybDoKICAgICAgICAgICdodHRwOi8vb3cubHkvZHVpL3ZlbC9zZW0vc2VkL3NhZ2l0dGlzL25hbS9jb25ndWUuanBnP2luPWFjY3Vtc2FuJmZlbGlzPXRvcnRvciZldT1xdWlzJnNhcGllbj10dXJwaXMmY3Vyc3VzPXNlZCZ2ZXN0aWJ1bHVtPWFudGUmcHJvaW49dml2YW11cyZldT10b3J0b3ImbWk9ZHVpcyZudWxsYT1tYXR0aXMmYWM9ZWdlc3RhcyZlbmltPW1ldHVzJmluPWFlbmVhbiZ0ZW1wb3I9ZmVybWVudHVtJnR1cnBpcz1kb25lYyZuZWM9dXQmZXVpc21vZD1tYXVyaXMmc2NlbGVyaXNxdWU9ZWdldCZxdWFtPW1hc3NhJnR1cnBpcz10ZW1wb3ImYWRpcGlzY2luZz1jb252YWxsaXMmbG9yZW09bnVsbGEmdml0YWU9bmVxdWUmbWF0dGlzPWxpYmVybyZuaWJoPWNvbnZhbGxpcyZsaWd1bGE9ZWdldCZuZWM9ZWxlaWZlbmQmc2VtPWx1Y3R1cyZkdWlzPXVsdHJpY2llcyZhbGlxdWFtPWV1JmNvbnZhbGxpcz1uaWJoJm51bmM9cXVpc3F1ZSZwcm9pbj1pZCZhdD1qdXN0byZ0dXJwaXM9c2l0JmE9YW1ldCZwZWRlPXNhcGllbiZwb3N1ZXJlPWRpZ25pc3NpbSZub251bW15PXZlc3RpYnVsdW0maW50ZWdlcj12ZXN0aWJ1bHVtJm5vbj1hbnRlJnZlbGl0PWlwc3VtJmRvbmVjPXByaW1pcyZkaWFtPWluJm5lcXVlPWZhdWNpYnVzJnZlc3RpYnVsdW09b3JjaSZlZ2V0PWx1Y3R1cyZ2dWxwdXRhdGU9ZXQmdXQ9dWx0cmljZXMmdWx0cmljZXM9cG9zdWVyZSZ2ZWw9Y3ViaWxpYSZhdWd1ZT1jdXJhZSZ2ZXN0aWJ1bHVtPW51bGxhJmFudGU9ZGFwaWJ1cycsCiAgICAgIH0sCiAgICBdLAogICAgZXZlbnRfdGltZTogJzEyOjAwIEFNJywKICAgIHRpbWU6ICcyMDoyMScsCiAgICBzdWJzY3JpcHRpb25faWQ6ICdweFI3c21EQzRWJywKICB9LApd</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjbGFzc2VzPXt7fX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjbGFzc2VzOiBSZWNvcmQ8c3RyaW5nLCBhbnk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjbGFzc2VzPXtjbGFzc2VzfQo=</text>
+        <text encoding="base64">ICAgICAgPEhlYWRpbmdTPk1lc3NhZ2U8L0hlYWRpbmdTPgogICAgICA8R3JpZCBpdGVtIHhzPgogICAgICAgIHtPYmplY3QuZW50cmllcyhldmVudFN0YXR1cykubWFwKChbbGFiZWwsIHZhbHVlXTogW3N0cmluZywgYW55XSkgPT4gKAogICAgICAgICAgPHAga2V5PXtsYWJlbH0gY2xhc3NOYW1lPXtjbGFzc2VzLmxhYmVsVmFsdWVQYWlyfT4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtjbGFzc2VzLmxhYmVsfT57bGFiZWx9Ojwvc3Bhbj4gPHNwYW4+e3ZhbHVlfTwvc3Bhbj4KICAgICAgICAgIDwvcD4KICAgICAgICApKX0KICAgICAgPC9HcmlkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsb3NlOiB7fSwK</text>
+        <text encoding="base64">ICBvdG9ub21vX2xvd19mdWVsX3J1bGU6IExvd0Z1ZWwsCiAgb3Rvbm9tb19sb3dfYmF0dGVyeV9ydWxlOiBMb3dCYXR0ZXJ5LAogIG90b25vbW9fZmxhdF90aXJlczogRmxhdFRpcmUsCiAgb3Rvbm9tb19vdmVyc3BlZWQ6IE92ZXJTcGVlZCwKICBvdG9ub21vX2VuZ2luZV9vdmVyaGVhdDogRW5naW5lT3ZlcmhlYXQsCiAgb3Rvbm9tb19hY2NpZGVudDogQWNjaWRlbnQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBvcHVwQ29udGVudDogewogICAgICBib3JkZXJMZWZ0OiBgMXB4IHNvbGlkICR7dGhlbWUuY29sb3JzLmdyYXkzfWAsCiAgICAgIG92ZXJmbG93OiAnYXV0bycsCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgc2VsZWN0ZWRUYWIgfSA9IHRoaXMucHJvcHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvcHVwOiB7fSwK</text>
+        <text encoding="base64">dHlwZW9mIFN0eWxlZERldGFpbHNQYW5lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvcHVwOiB7CiAgICAgIG92ZXJmbG93OiAnYXV0bycsCiAgICAgIGhlaWdodDogJzEwMCUnLAogICAgICB6SW5kZXg6IDEsCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjbGFzc2VzPXt7fX0K</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectNextOccurrence</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTaW11bGF0aW9uU2lkZUJhclByb3BzXD4=</last-search>
+      <last-search>time</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTaW11bGF0aW9uU2lkZUJhclByb3BzXD4=</last-pattern>
+      <last-pattern>time</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tim</entry>
-        <entry>time</entry>
-        <entry>children</entry>
-        <entry>children!</entry>
-        <entry>noop</entry>
         <entry>scroll</entry>
         <entry>scrollab</entry>
         <entry>withpop</entry>
@@ -591,9 +563,13 @@
         <entry encoding="base64">XDxzZWxlY3RlZFRhYlw+</entry>
         <entry>selectedtab</entry>
         <entry encoding="base64">XDxTaW11bGF0aW9uU2lkZUJhclByb3BzXD4=</entry>
+        <entry>hand</entry>
+        <entry>break</entry>
+        <entry>da</entry>
+        <entry encoding="base64">XDxkYXlqc1w+</entry>
+        <entry>time</entry>
       </history-search>
       <history-cmd>
-        <entry>action AceAction</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action ShiftDownAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU2VsZWN0TmV4dE9jY3VycmVuY2U=</entry>
@@ -609,10 +585,11 @@
         <entry>action EditorCloneCaretBelow</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action RecentLocations</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>action SelectNextOccurrence</entry>
+        <entry>action AceAction</entry>
+        <entry>action RecentLocations</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
