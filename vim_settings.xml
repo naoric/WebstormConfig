@@ -306,10 +306,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/entities/event.ts" timestamp="1554743880246">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/entities/event.ts" timestamp="1555230483446">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1553186482688">
         <mark key="[" line="5" column="68" />
@@ -347,6 +349,13 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/EventsBox.tsx" timestamp="1555230492583">
+        <mark key="'" line="34" column="8" />
+        <mark key="[" line="36" column="31" />
+        <mark key="]" line="37" column="8" />
+        <mark key="." line="37" column="8" />
+        <mark key="^" line="37" column="8" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/MapBoxComponent.tsx" timestamp="1552777341229">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="76" column="52" />
@@ -375,9 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
-      <jump line="21" column="4" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
-      <jump line="25" column="4" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
       <jump line="45" column="7" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
       <jump line="122" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
       <jump line="154" column="1" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/StatusLogItem.tsx" />
@@ -475,10 +481,13 @@
       <jump line="23" column="12" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
       <jump line="120" column="15" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusLog/CarStatusDetailsPane.tsx" />
       <jump line="105" column="21" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
+      <jump line="12" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/types/entities/event.ts" />
+      <jump line="32" column="22" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/EventsBox.tsx" />
+      <jump line="34" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/EventsBox.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc2VzPXt9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">fQogICAgICAgICAgICA=</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -487,16 +496,16 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>CarEventTemplate</text>
       </register>
       <register name="/" type="4">
-        <text>th</text>
+        <text>careventtemplate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8R3JpZCBpdGVtPgogICAgICAgICAgPFRhYnMKICAgICAgICAgICAgdmFsdWU9e2NhdGVnb3J5fQogICAgICAgICAgICB0ZXh0Q29sb3I9InByaW1hcnkiCiAgICAgICAgICAgIGluZGljYXRvckNvbG9yPSJwcmltYXJ5IgogICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5jaGFuZ2VUYWJ9CiAgICAgICAgICAgIGNsYXNzZXM9e3sgcm9vdDogY2xhc3Nlcy50YWJzIH19PgogICAgICAgICAgICB7UmVhY3QuQ2hpbGRyZW4ubWFwKAogICAgICAgICAgICAgIGNoaWxkcmVuISwKICAgICAgICAgICAgICAoY2hpbGQ6IFJlYWN0RWxlbWVudDxMb2dTZWN0aW9uUHJvcHM+KSA9PgogICAgICAgICAgICAgICAgY2hpbGQgJiYgKAogICAgICAgICAgICAgICAgICA8VGFiCiAgICAgICAgICAgICAgICAgICAgbGFiZWw9e2NoaWxkLnByb3BzLnRhYkxhYmVsfQogICAgICAgICAgICAgICAgICAgIGRpc2FibGVSaXBwbGUKICAgICAgICAgICAgICAgICAgICBjbGFzc2VzPXt7CiAgICAgICAgICAgICAgICAgICAgICByb290OiBjbGFzc2VzLnNpZGViYXJUYWIsCiAgICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZDogY2xhc3Nlcy50YWJTZWxlY3RlZCwKICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApfQogICAgICAgICAgICB7Lyo8VGFiKi99CiAgICAgICAgICAgIHsvKiAgbGFiZWw9IkNhciBTdGF0dXMiKi99CiAgICAgICAgICAgIHsvKiAgZGlzYWJsZVJpcHBsZSovfQogICAgICAgICAgICB7LyogIGNsYXNzZXM9e3sqL30KICAgICAgICAgICAgey8qICAgIHJvb3Q6IGNsYXNzZXMuc2lkZWJhclRhYiwqL30KICAgICAgICAgICAgey8qICAgIHNlbGVjdGVkOiBjbGFzc2VzLnRhYlNlbGVjdGVkLCovfQogICAgICAgICAgICB7LyogIH19Ki99CiAgICAgICAgICAgIHsvKi8+Ki99CiAgICAgICAgICAgIHsvKjxUYWIqL30KICAgICAgICAgICAgey8qICBsYWJlbD0iRXZlbnRzIiovfQogICAgICAgICAgICB7LyogIGRpc2FibGVSaXBwbGUqL30KICAgICAgICAgICAgey8qICBjbGFzc2VzPXt7Ki99CiAgICAgICAgICAgIHsvKiAgICByb290OiBjbGFzc2VzLnNpZGViYXJUYWIsKi99CiAgICAgICAgICAgIHsvKiAgICBzZWxlY3RlZDogY2xhc3Nlcy50YWJTZWxlY3RlZCwqL30KICAgICAgICAgICAgey8qICB9fSovfQogICAgICAgICAgICB7LyovPiovfQogICAgICAgICAgPC9UYWJzPgogICAgICAgIDwvR3JpZD4KICAgICAgICB7UmVhY3QuQ2hpbGRyZW4ubWFwKAogICAgICAgICAgY2hpbGRyZW4hLAogICAgICAgICAgKGNoaWxkOiBSZWFjdEVsZW1lbnQ8TG9nU2VjdGlvblByb3BzPiwgaWR4KSA9PiAoCiAgICAgICAgICAgIDxHcmlkCiAgICAgICAgICAgICAgaXRlbQogICAgICAgICAgICAgIHhzCiAgICAgICAgICAgICAgY29udGFpbmVyCiAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjbih7CiAgICAgICAgICAgICAgICBbY2xhc3Nlcy5oaWRkZW5Db250YWluZXJdOiBjYXRlZ29yeSAhPT0gaWR4LAogICAgICAgICAgICAgIH0pfT4KICAgICAgICAgICAgICB7Y2hpbGQucHJvcHMuY2hpbGRyZW59CiAgICAgICAgICAgIDwvR3JpZD4KICAgICAgICAgICkKICAgICAgICApfQogICAgICAgIDxHcmlkCiAgICAgICAgICBpdGVtCiAgICAgICAgICB4cwogICAgICAgICAgY29udGFpbmVyCiAgICAgICAgICBjbGFzc05hbWU9e2NuKHsKICAgICAgICAgICAgW2NsYXNzZXMuaGlkZGVuQ29udGFpbmVyXTogY2F0ZWdvcnkgIT09IExvZ3NDYXRlZ29yeS5TdGF0dXMsCiAgICAgICAgICB9KX0+CiAgICAgICAgICA8U2Nyb2xsYmFycyBhdXRvSGlkZT4KICAgICAgICAgICAge2NhclN0YXR1c0l0ZW1zLm1hcCgoc3RhdHVzLCBpZHgpID0+ICgKICAgICAgICAgICAgICA8U3RhdHVzTG9nSXRlbQogICAgICAgICAgICAgICAga2V5PXtpZHh9CiAgICAgICAgICAgICAgICBjYXJTdGF0dXM9e3N0YXR1c30KICAgICAgICAgICAgICAgIHNlbGVjdGVkPXtzZWxlY3RlZFN0YXR1c0luZGV4ID09PSBpZHh9CiAgICAgICAgICAgICAgICBvbkNsaWNrPXt0aGlzLnVwZGF0ZVNlbGVjdGVkSXRlbS5iaW5kKHRoaXMsIGlkeCl9CiAgICAgICAgICAgICAgICB0aHJlc2hvbGRzPXt0aHJlc2hvbGRzfQogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9TY3JvbGxiYXJzPgogICAgICAgIDwvR3JpZD4KICAgICAgICA8R3JpZAogICAgICAgICAgaXRlbQogICAgICAgICAgeHMKICAgICAgICAgIGNvbnRhaW5lcgogICAgICAgICAgY2xhc3NOYW1lPXtjbih7CiAgICAgICAgICAgIFtjbGFzc2VzLmhpZGRlbkNvbnRhaW5lcl06IGNhdGVnb3J5ICE9PSBMb2dzQ2F0ZWdvcnkuRXZlbnRzLAogICAgICAgICAgfSl9PgogICAgICAgICAgPFNjcm9sbGJhcnMgYXV0b0hpZGU+RXZlbnRzIEdvZXMgSGVyZTwvU2Nyb2xsYmFycz4KICAgICAgICA8L0dyaWQ+Cg==</text>
+      <register name="0" type="4">
+        <text>CarEventTemplate</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc2VzPXt9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">fQogICAgICAgICAgICA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -507,47 +516,46 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICBzb21ldGhpbmc6IHN0cmluZwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBDYXJFdmVudCB7CiAgaWQ6IG51bWJlcgogIG5hbWU6IHN0cmluZwogIGljb246IHN0cmluZwogIGRlc2NyaXB0aW9uOiBzdHJpbmcKfQoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzc2VzPXt9Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>compose(
   mapValues,
   constant(constant(false))
 )</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBjb25zdGFudCwK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBmYWxzZQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHsgY29tcG9zZSB9IGZyb20gJ3JlZHV4Jwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IHsgTnVsbGFibGUgfSBmcm9tICd0eXBlcy90eXBlLWFsaWFzZXMnCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBzaWRlYmFyOiBOdWxsYWJsZTxSZWFjdEVsZW1lbnQ+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNpZGViYXI9e3RoaXMuY2FyU3RhdHVzUG9wdXBFbGVtZW50KHNlbGVjdGVkU3RhdHVzSW5kZXgpfQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNpZGViYXI9e3RoaXMuY2FyU3RhdHVzUG9wdXBFbGVtZW50KHNlbGVjdGVkU3RhdHVzSW5kZXgpfQo=</text>
-      </register>
       <register name=":" type="4">
-        <text>action TsLintFileFixAction</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
-      <last-search>th</last-search>
+      <last-search>careventtemplate</last-search>
       <last-offset />
-      <last-pattern>th</last-pattern>
+      <last-pattern>careventtemplate</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxub29wXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVDbGlja1w+</entry>
         <entry>level</entry>
         <entry>withstyles</entry>
@@ -567,6 +575,7 @@
         <entry>withpop</entry>
         <entry>!!</entry>
         <entry>th</entry>
+        <entry>careventtemplate</entry>
       </history-search>
       <history-cmd>
         <entry>action VimVisualSwapSelections</entry>
@@ -585,10 +594,10 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yRHVwbGljYXRlTGluZXM=</entry>
         <entry>action ShowUsages</entry>
         <entry>action MoveStatementDown</entry>
-        <entry>action RenameElement</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
         <entry>action TsLintFileFixAction</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
