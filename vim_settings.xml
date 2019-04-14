@@ -306,12 +306,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/entities/event.ts" timestamp="1555230483446">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="13" column="24" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/entities/event.ts" timestamp="1555230809703">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1553186482688">
         <mark key="[" line="5" column="68" />
@@ -486,8 +486,8 @@
       <jump line="34" column="8" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SelectionBox/EventsBox.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">fQogICAgICAgICAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBldmVudF9pZDogbnVtYmVyCg==</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -504,8 +504,8 @@
       <register name="0" type="4">
         <text>CarEventTemplate</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">fQogICAgICAgICAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBldmVudF9pZDogbnVtYmVyCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -517,31 +517,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzb21ldGhpbmc6IHN0cmluZwo=</text>
+        <text encoding="base64">ICBpZDogbnVtYmVyCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBDYXJFdmVudCB7CiAgaWQ6IG51bWJlcgogIG5hbWU6IHN0cmluZwogIGljb246IHN0cmluZwogIGRlc2NyaXB0aW9uOiBzdHJpbmcKfQoK</text>
+      <register name="3" type="4">
+        <text encoding="base64">fQogICAgICAgICAgICA=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBzb21ldGhpbmc6IHN0cmluZwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBDYXJFdmVudCB7CiAgaWQ6IG51bWJlcgogIG5hbWU6IHN0cmluZwogIGljb246IHN0cmluZwogIGRlc2NyaXB0aW9uOiBzdHJpbmcKfQoK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjbGFzc2VzPXt9Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>compose(
   mapValues,
   constant(constant(false))
 )</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBjb25zdGFudCwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBmYWxzZQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29tcG9zZSB9IGZyb20gJ3JlZHV4Jwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTnVsbGFibGUgfSBmcm9tICd0eXBlcy90eXBlLWFsaWFzZXMnCg==</text>
+        <text encoding="base64">ICBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
