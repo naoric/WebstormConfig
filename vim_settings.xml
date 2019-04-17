@@ -35,12 +35,12 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/init-config.ts" timestamp="1555502768026">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="30" column="2" />
-        <mark key="]" line="12" column="36" />
-        <mark key="^" line="12" column="36" />
-        <mark key="." line="12" column="36" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/init-config.ts" timestamp="1555513008301">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="29" column="29" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/EventLog/EventDetailsPane.tsx" timestamp="1555346141620">
         <mark key="[" line="35" column="20" />
@@ -53,6 +53,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="7" column="21" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulation-status.ts" timestamp="1555514091128">
+        <mark key="[" line="4" column="57" />
+        <mark key="]" line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+        <mark key="." line="6" column="45" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/http-constants.ts" timestamp="1555420976930">
         <mark key="[" line="1" column="0" />
@@ -141,9 +147,6 @@
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/EventSubscription.tsx" timestamp="1555495924646">
         <mark key="'" line="107" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/react-aliases.ts" timestamp="1555425149738">
-        <mark key="^" line="14" column="8" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/stories/app-header.tsx" timestamp="1555413529401" />
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/Spinner/Spinner.tsx" timestamp="1555417473358">
@@ -256,6 +259,12 @@
         <mark key="^" line="17" column="87" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulator.ts" timestamp="1555513737337">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/node_modules/immutable/dist/immutable-nonambient.d.ts" timestamp="1555487785703" />
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/wizard/StepComponent.tsx" timestamp="1553459884429">
         <mark key="[" line="2" column="23" />
@@ -312,6 +321,12 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="14" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/wizard.ts" timestamp="1555513489177">
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="61" column="17" />
+        <mark key="^" line="61" column="17" />
+        <mark key="." line="61" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/redux-modules/root.ts" timestamp="1553459989105">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="1" column="21" />
@@ -359,11 +374,6 @@
         <mark key="]" line="4" column="24" />
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/root.ts" timestamp="1555480175034">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/config.ts" timestamp="1555422039128" />
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/Initializer/Initializer.tsx" timestamp="1555412673864">
@@ -489,8 +499,8 @@
       <jump line="60" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/DefaultCallbackURLForm.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>createRequestsReducer</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -499,7 +509,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>createRequestsReducer</text>
       </register>
       <register name="/" type="4">
         <text>secret</text>
@@ -508,7 +518,7 @@
         <text encoding="base64">ICAgICAgICAgIHsvKjxFdmVudExhYmVsIGxhdD17NDAuNzI3NDV9IGxuZz17LTc0LjAyMDQ3fSB0ZXh0PSJFdmVudCBBY2NpZGVudCIgLz4qL30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgU09NRVRISU5HX0FXRVNPTUUgPSAnU09NRVRISU5HX0FXRVNPTUUnCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -520,31 +530,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRva2VuT2JqID0gc2VyaWFsaXplZFRva2VuID8gSlNPTi5wYXJzZShzZXJpYWxpemVkVG9rZW4pCg==</text>
+        <text encoding="base64">Ly8gICBjcmVhdGVBY3Rpb25zKHsKLy8gICBTRVRfUk9VVEVfUE9JTlRTOiBpZGVudGl0eSwKLy8gICBTRVRfQ0FSX1RZUEU6IGlkZW50aXR5LAovLyAgIFNFVF9FVkVOVFM6IGlkZW50aXR5LAovLyAgIFNFVF9ERUZBVUxUX0NBTExCQUNLX1VSTDogaWRlbnRpdHksCi8vIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">JwoK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0b2tlbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0b2tlbiA9IHRva2VuSW5BcHBTdGF0ZShsb2NhbFN0b3JhZ2UuZ2V0SXRlbShBUFBfU1RBVEVfS0VZKSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRva2VuT2JqID0gc2VyaWFsaXplZFRva2VuID8gSlNPTi5wYXJzZShzZXJpYWxpemVkVG9rZW4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBBUFBfU1RBVEVfS0VZID0gJ3ZlbmRvci1hcHAtc3RhdGUnCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBsb2NhbFN0b3JhZ2UuZ2V0SXRlbShBUFBfU1RBVEVfS0VZKSAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">JwoK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBjb25zdCBBUFBfU1RBVEVfS0VZID0gJ3ZlbmRvci1hcHAtc3RhdGUnCiAgbG9jYWxTdG9yYWdlLmdldEl0ZW0oQVBQX1NUQVRFX0tFWSkg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0b2tlbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -580,24 +590,24 @@
       <history-cmd>
         <entry>action RecentLocations</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action EditorCloneCaretBelow</entry>
-        <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>action VimWindowSplitVertical</entry>
-        <entry>action TsLintFileFixAction</entry>
         <entry>action AceAction</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action ShowUsages</entry>
-        <entry>action RenameElement</entry>
-        <entry>action EditorSplitLine</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action ExtractMethod</entry>
-        <entry>action GotoFile</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action EditorCloneCaretBelow</entry>
+        <entry>action RenameElement</entry>
+        <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action TsLintFileFixAction</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
