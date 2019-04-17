@@ -45,12 +45,12 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/init-config.ts" timestamp="1555489283584">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="14" column="14" />
-        <mark key="^" line="14" column="14" />
-        <mark key="." line="14" column="14" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/init-config.ts" timestamp="1555490116983">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="17" column="24" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/EventLog/EventDetailsPane.tsx" timestamp="1555346141620">
         <mark key="[" line="35" column="20" />
@@ -345,12 +345,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/Initializer/Initializer.tsx" timestamp="1555483383854">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/Initializer/Initializer.tsx" timestamp="1555490261045">
         <mark key="'" line="63" column="0" />
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="23" column="66" />
-        <mark key="^" line="23" column="66" />
-        <mark key="." line="23" column="66" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="30" />
+        <mark key="^" line="27" column="30" />
+        <mark key="." line="27" column="30" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/route-consts.ts" timestamp="1555480668149">
         <mark key="[" line="4" column="16" />
@@ -488,7 +488,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGFzIGFueQ==</text>
+        <text>)</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -497,7 +497,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFzIGFueQ==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>as any</text>
@@ -505,8 +505,8 @@
       <register name="0" type="4">
         <text>'/rules_settings/'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0b2tlbgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">JwoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -518,31 +518,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0b2tlbiA9IHRva2VuSW5BcHBTdGF0ZShsb2NhbFN0b3JhZ2UuZ2V0SXRlbShBUFBfU1RBVEVfS0VZKSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0b2tlbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBBUFBfU1RBVEVfS0VZID0gJ3ZlbmRvci1hcHAtc3RhdGUnCg==</text>
+        <text encoding="base64">ICB0b2tlbiA9IHRva2VuSW5BcHBTdGF0ZShsb2NhbFN0b3JhZ2UuZ2V0SXRlbShBUFBfU1RBVEVfS0VZKSkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBjb25zdCBBUFBfU1RBVEVfS0VZID0gJ3ZlbmRvci1hcHAtc3RhdGUnCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICBsb2NhbFN0b3JhZ2UuZ2V0SXRlbShBUFBfU1RBVEVfS0VZKSAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICBjb25zdCBBUFBfU1RBVEVfS0VZID0gJ3ZlbmRvci1hcHAtc3RhdGUnCiAgbG9jYWxTdG9yYWdlLmdldEl0ZW0oQVBQX1NUQVRFX0tFWSkg</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBsb2NhbFN0b3JhZ2UuZ2V0SXRlbShBUFBfU1RBVEVfS0VZKSB9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICJAdCIK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGV2ZW50cyBmcm9tICdzdGF0ZS9yZWR1eC1tb2R1bGVzL2V2ZW50LXRlbXBsYXRlcycK</text>
-      </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -589,13 +589,13 @@
         <entry>action AceAction</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action RenameElement</entry>
-        <entry>action EditorSplitLine</entry>
         <entry>action MoveStatementUp</entry>
-        <entry>action GotoFile</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ShowUsages</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action EditorSplitLine</entry>
+        <entry>action RenameElement</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
