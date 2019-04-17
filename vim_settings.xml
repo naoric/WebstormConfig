@@ -35,12 +35,12 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/init-config.ts" timestamp="1555490116983">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/init-config.ts" timestamp="1555499011740">
         <mark key="'" line="50" column="0" />
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="24" />
-        <mark key="^" line="17" column="24" />
-        <mark key="." line="17" column="24" />
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="12" column="36" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/EventLog/EventDetailsPane.tsx" timestamp="1555346141620">
         <mark key="[" line="35" column="20" />
@@ -538,7 +538,7 @@
         <text encoding="base64">ICBjb25zdCBBUFBfU1RBVEVfS0VZID0gJ3ZlbmRvci1hcHAtc3RhdGUnCiAgbG9jYWxTdG9yYWdlLmdldEl0ZW0oQVBQX1NUQVRFX0tFWSkg</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action SelectNextOccurrence</text>
       </register>
     </registers>
     <search>
@@ -572,14 +572,11 @@
         <entry>secret</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
-        <entry>action MoveStatementDown</entry>
         <entry>action RecentLocations</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action EditorCloneCaretBelow</entry>
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
         <entry>action ShowIntentionActions</entry>
-        <entry>action SelectNextOccurrence</entry>
         <entry>action VimWindowSplitVertical</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action AceAction</entry>
@@ -588,10 +585,13 @@
         <entry>action MoveStatementUp</entry>
         <entry>action ShowUsages</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action ExtractMethod</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SelectNextOccurrence</entry>
       </history-cmd>
       <history-expr />
       <history-input />
