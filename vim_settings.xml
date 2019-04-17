@@ -35,9 +35,9 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/init-config.ts" timestamp="1555499011740">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="12" column="37" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/init-config.ts" timestamp="1555502768026">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="30" column="2" />
         <mark key="]" line="12" column="36" />
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="36" />
@@ -78,6 +78,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/RootRouter.tsx" timestamp="1555502638880">
+        <mark key="[" line="49" column="3" />
+        <mark key="]" line="35" column="10" />
+        <mark key="^" line="35" column="10" />
+        <mark key="." line="35" column="10" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/api/api.ts" timestamp="1553459976508">
         <mark key="[" line="1" column="34" />
@@ -341,7 +347,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/Initializer/Initializer.tsx" timestamp="1555495380908">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/Initializer/Initializer.tsx" timestamp="1555502742489">
         <mark key="'" line="69" column="0" />
         <mark key="[" line="30" column="14" />
         <mark key="]" line="30" column="18" />
@@ -538,7 +544,7 @@
         <text encoding="base64">ICBjb25zdCBBUFBfU1RBVEVfS0VZID0gJ3ZlbmRvci1hcHAtc3RhdGUnCiAgbG9jYWxTdG9yYWdlLmdldEl0ZW0oQVBQX1NUQVRFX0tFWSkg</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectNextOccurrence</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -590,8 +596,8 @@
         <entry>action VimVisualSwapSelections</entry>
         <entry>action ExtractMethod</entry>
         <entry>action GotoFile</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SelectNextOccurrence</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
