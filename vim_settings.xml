@@ -45,12 +45,12 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/init-config.ts" timestamp="1555437727253">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="43" column="64" />
-        <mark key="]" line="43" column="62" />
-        <mark key="^" line="43" column="62" />
-        <mark key="." line="43" column="62" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/init-config.ts" timestamp="1555489283584">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="14" column="14" />
+        <mark key="^" line="14" column="14" />
+        <mark key="." line="14" column="14" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/EventLog/EventDetailsPane.tsx" timestamp="1555346141620">
         <mark key="[" line="35" column="20" />
@@ -83,7 +83,7 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1555482707396">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1555488885048">
         <mark key="'" line="9" column="6" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
