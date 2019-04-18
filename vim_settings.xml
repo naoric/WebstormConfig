@@ -381,11 +381,11 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/Initializer/Initializer.tsx" timestamp="1555591559030">
-        <mark key="'" line="25" column="36" />
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="32" />
-        <mark key="." line="26" column="32" />
-        <mark key="^" line="26" column="32" />
+        <mark key="'" line="29" column="36" />
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="32" />
+        <mark key="." line="30" column="32" />
+        <mark key="^" line="30" column="32" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/route-consts.ts" timestamp="1555480668149">
         <mark key="[" line="4" column="16" />
@@ -585,7 +585,7 @@
         <text encoding="base64">ICBpZiAoIXRva2VuKSB7CiAgICBjb25zdCBzZXJpYWxpemVkVG9rZW4gPSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbShBUFBfU1RBVEVfS0VZKQogICAgY29uc3QgdG9rZW5PYmogPSBzZXJpYWxpemVkVG9rZW4gPyBKU09OLnBhcnNlKHNlcmlhbGl6ZWRUb2tlbikgOiB7fQogICAgdG9rZW4gPSB0b2tlbkluQXBwU3RhdGUodG9rZW5PYmopCiAgfQogIHJldHVybiB0b2tlbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action TsLintFileFixAction</text>
       </register>
     </registers>
     <search>
@@ -634,11 +634,11 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9ySW5kZW50TGluZU9yU2VsZWN0aW9u</entry>
         <entry>action ShowUsages</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action TsLintFileFixAction</entry>
         <entry>action GotoFile</entry>
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action TsLintFileFixAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
