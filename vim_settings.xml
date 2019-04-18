@@ -324,11 +324,12 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/auth.ts" timestamp="1555495509810">
-        <mark key="[" line="12" column="71" />
-        <mark key="]" line="12" column="71" />
-        <mark key="." line="12" column="71" />
-        <mark key="^" line="13" column="35" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/auth.ts" timestamp="1555585294643">
+        <mark key="'" line="13" column="16" />
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/.babelrc" timestamp="1553464842966">
         <mark key="[" line="1" column="14" />
@@ -424,7 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="28" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
       <jump line="45" column="11" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
       <jump line="114" column="11" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
       <jump line="85" column="2" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" />
@@ -524,10 +524,11 @@
       <jump line="116" column="41" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" />
+      <jump line="11" column="16" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/auth.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{ app_name, vendor_client_id }</text>
+        <text encoding="base64">LnJlZHVjZSgoYWNjOiBzdHJpbmcsIGl0ZW0pID0+ICk=</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -536,7 +537,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>{ app_name, vendor_client_id }</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text>pass</text>
@@ -581,7 +582,7 @@
         <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TsLintFileFixAction</text>
+        <text>action MoveStatementUp</text>
       </register>
     </registers>
     <search>
@@ -619,7 +620,6 @@
         <entry>action AceAction</entry>
         <entry>action VimMotionScrollHalfPageUp</entry>
         <entry>action VimMotionScrollHalfPageDown</entry>
-        <entry>action MoveStatementUp</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action ExtractMethod</entry>
         <entry>action EditorCloneCaretBelow</entry>
@@ -633,8 +633,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9ySW5kZW50TGluZU9yU2VsZWN0aW9u</entry>
         <entry>action GotoFile</entry>
         <entry>action ShowUsages</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action TsLintFileFixAction</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action MoveStatementUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
