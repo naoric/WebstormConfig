@@ -327,12 +327,11 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/auth.ts" timestamp="1555592831146">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/auth.ts" timestamp="1555593701534">
         <mark key="'" line="11" column="2" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="10" column="42" />
-        <mark key="." line="10" column="42" />
-        <mark key="^" line="10" column="42" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+        <mark key="^" line="11" column="1" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/.babelrc" timestamp="1553464842966">
         <mark key="[" line="1" column="14" />
