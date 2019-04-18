@@ -57,7 +57,7 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulation-status.ts" timestamp="1555573314865">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulation-status.ts" timestamp="1555575807708">
         <mark key="'" line="28" column="22" />
         <mark key="[" line="24" column="60" />
         <mark key="]" line="24" column="60" />
@@ -83,8 +83,8 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1555520828745">
-        <mark key="'" line="9" column="6" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1555575973830">
+        <mark key="'" line="51" column="58" />
         <mark key="[" line="50" column="14" />
         <mark key="]" line="51" column="59" />
         <mark key="." line="51" column="59" />
@@ -255,7 +255,7 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api.ts" timestamp="1555572036786" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api.ts" timestamp="1555576001841" />
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/request-builders.ts" timestamp="1553246391469">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="3" column="38" />
@@ -429,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="32" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/EventLog/EventDetailsPane.tsx" />
       <jump line="35" column="2" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/EventLog/EventDetailsPane.tsx" />
       <jump line="34" column="27" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/EventLog/EventDetailsPane.tsx" />
       <jump line="53" column="34" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogsSidebar.tsx" />
@@ -529,6 +528,7 @@
       <jump line="19" column="9" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" />
       <jump line="106" column="5" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" />
       <jump line="40" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" />
+      <jump line="51" column="58" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
