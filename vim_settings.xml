@@ -92,12 +92,12 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1555575973830">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1555854404856">
         <mark key="'" line="51" column="58" />
-        <mark key="[" line="50" column="14" />
-        <mark key="]" line="51" column="59" />
-        <mark key="." line="51" column="59" />
-        <mark key="^" line="51" column="59" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="4" column="45" />
+        <mark key="^" line="4" column="45" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/RootRouter.tsx" timestamp="1555502638880">
         <mark key="[" line="49" column="3" />
@@ -314,11 +314,11 @@
         <mark key="." line="65" column="6" />
         <mark key="^" line="65" column="6" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1555851685376">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="15" column="38" />
-        <mark key="." line="15" column="38" />
-        <mark key="^" line="15" column="38" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1555854422088">
+        <mark key="[" line="33" column="3" />
+        <mark key="]" line="31" column="52" />
+        <mark key="." line="31" column="52" />
+        <mark key="^" line="31" column="52" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/endpoints.ts" timestamp="1555599258278">
         <mark key="[" line="3" column="32" />
@@ -525,8 +525,8 @@
       <jump line="59" column="16" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>200</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWRpcmVjdGluZyB0byBjb25zdW1lciBVSScpCg==</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -535,7 +535,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text>http://localhost:8083</text>
       </register>
       <register name="/" type="4">
         <text>props</text>
@@ -544,7 +544,7 @@
         <text>constant(fromJS({ done: true }))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSFRUUF9PSyB9IGZyb20gJ3N0YXRlL2FwaS9odHRwLWNvbnN0YW50cycK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWRpcmVjdGluZyB0byBjb25zdW1lciBVSScpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -555,31 +555,31 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IF8gPSAnJwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWRpcmVjdGluZyB0byBjb25zdW1lciBVSScpCiAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9ICcvJw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWRpcmVjdGluZyB0byBjb25zdW1lciBVSScpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSFRUUF9PSyB9IGZyb20gJ3N0YXRlL2FwaS9odHRwLWNvbnN0YW50cycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHlpZWxkIHB1dCh7IHR5cGU6ICdzb21lIGdsb2JhbCBlcnJvciBhY3Rpb24nIH0pCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IF8gPSAnJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJhcnJvdy1wYXJlbnMiOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWRpcmVjdGluZyB0byBjb25zdW1lciBVSScpCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIHlpZWxkIHB1dCh7IHR5cGU6ICdzb21lIGdsb2JhbCBlcnJvciBhY3Rpb24nIH0pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJhcnJvdy1wYXJlbnMiOiBmYWxzZQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAiYXJyb3dQYXJlbnMiOiAiYWx3YXlzIgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>{
       &quot;options&quot;: &quot;ban-single-arg-parens&quot;
     }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBvbkVycm9yOiAoc3RhdGUsIGFjdGlvbiwgY29uZmlnKSA9PiBjb25zdGFudChmcm9tSlMoeyBkb25lOiB0cnVlIH0pKSwK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBnZXREZWZhdWx0RGF0YTogY29uc3RhbnQoZnJvbUpTKHsgZG9uZTogZmFsc2UgfSkpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
