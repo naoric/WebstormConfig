@@ -66,12 +66,12 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulation-status.ts" timestamp="1555600025718">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulation-status.ts" timestamp="1555863913146">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="24" column="60" />
-        <mark key="]" line="24" column="60" />
-        <mark key="." line="24" column="60" />
-        <mark key="^" line="24" column="60" />
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="42" />
+        <mark key="." line="19" column="42" />
+        <mark key="^" line="19" column="42" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/http-constants.ts" timestamp="1555846194147">
         <mark key="[" line="2" column="18" />
@@ -315,6 +315,11 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/SimulatorRoute.tsx" timestamp="1555864259344">
+        <mark key="[" line="131" column="21" />
+        <mark key="]" line="131" column="21" />
+        <mark key="." line="131" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/wizard/StepComponent.tsx" timestamp="1553459884429">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="24" />
@@ -406,11 +411,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/Initializer/Initializer.tsx" timestamp="1555834810147">
-        <mark key="[" line="37" column="52" />
-        <mark key="]" line="37" column="72" />
-        <mark key="^" line="37" column="72" />
-        <mark key="." line="37" column="72" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/Initializer/Initializer.tsx" timestamp="1555864925447">
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="42" column="19" />
+        <mark key="^" line="42" column="19" />
+        <mark key="." line="42" column="19" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/route-consts.ts" timestamp="1555480668149">
         <mark key="[" line="4" column="16" />
@@ -548,7 +553,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text encoding="base64">IHhz</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -557,7 +562,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">IHhz</text>
       </register>
       <register name="/" type="4">
         <text>penf</text>
@@ -602,7 +607,7 @@
         <text encoding="base64">ICAgICAgYW5pbWF0aW9uRHVyYXRpb246ICcwLjVzJywK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorSplitLine</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -648,14 +653,14 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9ySW5kZW50TGluZU9yU2VsZWN0aW9u</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action ShowUsages</entry>
-        <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action TsLintFileFixAction</entry>
         <entry>action AceAction</entry>
+        <entry>action EditorSplitLine</entry>
         <entry>action RenameElement</entry>
+        <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
-        <entry>action EditorSplitLine</entry>
       </history-cmd>
       <history-expr />
       <history-input />
