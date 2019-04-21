@@ -314,11 +314,11 @@
         <mark key="." line="65" column="6" />
         <mark key="^" line="65" column="6" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1555835636417">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="8" />
-        <mark key="." line="22" column="8" />
-        <mark key="^" line="32" column="55" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1555836872836">
+        <mark key="[" line="32" column="6" />
+        <mark key="]" line="32" column="44" />
+        <mark key="." line="32" column="44" />
+        <mark key="^" line="32" column="44" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/endpoints.ts" timestamp="1555599258278">
         <mark key="[" line="3" column="32" />
@@ -392,10 +392,10 @@
         <mark key="." line="4" column="24" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/init-config-saga.ts" timestamp="1555835104857">
-        <mark key="[" line="4" column="41" />
-        <mark key="]" line="4" column="41" />
-        <mark key="^" line="5" column="35" />
-        <mark key="." line="4" column="41" />
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="3" column="41" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="3" column="41" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/root.ts" timestamp="1555572377381">
         <mark key="]" line="4" column="17" />
@@ -529,7 +529,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>consumer</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -538,7 +538,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>consumer</text>
       </register>
       <register name="/" type="4">
         <text>fetch</text>
