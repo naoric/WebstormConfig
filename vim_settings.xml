@@ -9,12 +9,12 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" timestamp="1555857512843">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" timestamp="1555928153865">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="65" column="1" />
-        <mark key="]" line="69" column="42" />
-        <mark key="^" line="69" column="42" />
-        <mark key="." line="69" column="42" />
+        <mark key="[" line="65" column="35" />
+        <mark key="]" line="65" column="35" />
+        <mark key="^" line="65" column="53" />
+        <mark key="." line="65" column="35" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/SimulationSideBar.tsx" timestamp="1555347252348">
         <mark key="'" line="120" column="11" />
@@ -89,12 +89,12 @@
         <mark key="." line="35" column="59" />
         <mark key="^" line="35" column="59" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/route-wrappers/withCondition.tsx" timestamp="1555926199084">
-        <mark key="'" line="11" column="14" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="10" column="14" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/route-wrappers/withCondition.tsx" timestamp="1555928237491">
+        <mark key="'" line="11" column="20" />
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="35" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/init.ts" timestamp="1555422902773">
         <mark key="'" line="14" column="67" />
@@ -151,6 +151,10 @@
         <mark key="]" line="6" column="23" />
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/node_modules/@types/react-router/index.d.ts" timestamp="1555926941766">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="160" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/window-extension.d.ts" timestamp="1553097885554">
         <mark key="[" line="2" column="38" />
@@ -454,7 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="4" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/CreateRoute.tsx" />
       <jump line="61" column="2" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/EventSubscription.tsx" />
       <jump line="107" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/EventSubscription.tsx" />
       <jump line="37" column="45" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/RootRouter.tsx" />
@@ -554,10 +557,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/create-route-selectors.ts" />
       <jump line="46" column="18" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/RootRouter.tsx" />
       <jump line="11" column="14" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/route-wrappers/withCondition.tsx" />
+      <jump line="12" column="20" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/route-wrappers/withCondition.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgd2l0aENvbmRpdGlvbgo=</text>
+      <register name="&quot;" type="4">
+        <text>any</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -566,16 +570,16 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>Component</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text>debugg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnRDb250YWluZXI6IHsKICAgICAgZmxleDogJzAgMCA5OTJweCcsCiAgICB9LAogICAgc3Bpbm5lcjogewogICAgICBwYWRkaW5nUmlnaHQ6IDgsCiAgICB9LAo=</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHdpdGhSb3V0ZXI8UCBleHRlbmRzIFJvdXRlQ29tcG9uZW50UHJvcHM8YW55Pj4oY29tcG9uZW50OiBSZWFjdC5Db21wb25lbnRUeXBlPFA+KTogUmVhY3QuQ29tcG9uZW50Q2xhc3M8T21pdDxQLCBrZXlvZiBSb3V0ZUNvbXBvbmVudFByb3BzPGFueT4+PjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgd2l0aENvbmRpdGlvbgo=</text>
+        <text encoding="base64">ICBjb25kaXRpb25TZWxlY3RvcjogUmV0dXJuczxib29sZWFuPiwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -586,29 +590,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ewogICAgY2xhc3MgQ29uZGl0aW9uQ29tcG9uZW50V3JhcHBlciBleHRlbmRzIFJlYWN0LkNvbXBvbmVudDwKICAgICAgVCAmIENvbmRpdGlvbkNvbXBvbmVudFdyYXBwZXJQcm9wcwogICAgPiB7CiAgICAgIHJlbmRlcigpIHsKICAgICAgICBpZiAoIXRoaXMucHJvcHMuY29uZGl0aW9uKSB7CiAgICAgICAgICByZXR1cm4gPFJlZGlyZWN0IHRvPXtmYWxsYmFja1VybH0gLz4KICAgICAgICB9CiAgICAgICAgcmV0dXJuIDxDb21wb25lbnQgey4uLnRoaXMucHJvcHN9IC8+CiAgICAgIH0KICAgIH0KCiAgICByZXR1cm4gY29ubmVjdDxDb25kaXRpb25Db21wb25lbnRXcmFwcGVyUHJvcHM+KAogICAgICBjcmVhdGVTdHJ1Y3R1cmVkU2VsZWN0b3IoeyBjb25kaXRpb246IGNvbmRpdGlvblNlbGVjdG9yIH0pLAogICAgICB7fQogICAgKShDb25kaXRpb25Db21wb25lbnRXcmFwcGVyKQogIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHg6IFQgPSB7IGNvbmRpdGlvbjogdHJ1ZSB9IGFzIFQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCB4OiBDb25kaXRpb25Db21wb25lbnRXcmFwcGVyUHJvcHMgfCBUID0geyBjb25kaXRpb246IGZhbHNlIH0KICBjb25zb2xlLmxvZyh4KQo=</text>
+        <text encoding="base64">ICAgICAgQ29uZGl0aW9uQ29tcG9uZW50V3JhcHBlciwKICAgICAge30sCiAgICAgIE9taXQ8VCwga2V5b2YgQ29uZGl0aW9uQ29tcG9uZW50V3JhcHBlclByb3BzPiwKICAgICAgYW55Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPENvbmRpdGlvbmVkUm91dGUKICAgICAgICAgICAgICBjb25kaXRpb249e3RydWV9CiAgICAgICAgICAgICAgZmFsbGJhY2tVcmw9eycnfQogICAgICAgICAgICAgIHBhdGg9e1BhdGhzLlNJTVVMQVRJT059CiAgICAgICAgICAgICAgZXhhY3QKICAgICAgICAgICAgICBjb21wb25lbnQ9e1NpbXVsYXRvclJvdXRlfQogICAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgVCAmIENvbmRpdGlvbkNvbXBvbmVudFdyYXBwZXJQcm9wcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPENvbmRpdGlvbmVkUm91dGUKICAgICAgICAgICAgICBjb25kaXRpb249e3RydWV9CiAgICAgICAgICAgICAgZmFsbGJhY2tVcmw9eycnfQogICAgICAgICAgICAgIHBhdGg9e1BhdGhzLkVWRU5UU19ST1VURX0KICAgICAgICAgICAgICBleGFjdAogICAgICAgICAgICAgIGNvbXBvbmVudD17RXZlbnRWaWV3fQogICAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAge30K</text>
+        <text encoding="base64">Ly8gd2l0aFJvdXRlcigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIENvbmRpdGlvbmVkUm91dGVQcm9wcyBleHRlbmRzIFJvdXRlUHJvcHMgewogIGNvbmRpdGlvbjogYm9vbGVhbgogIGZhbGxiYWNrVXJsOiBzdHJpbmcKfQoK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgd2l0aENvbmRpdGlvbgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gQ29uZGl0aW9uZWRSb3V0ZSh7CiAgY29uZGl0aW9uLAogIGZhbGxiYWNrVXJsLAogIC4uLnJvdXRlUHJvcHMKfTogQ29uZGl0aW9uZWRSb3V0ZVByb3BzKSB7CiAgcmV0dXJuIGNvbmRpdGlvbiA/IDxSb3V0ZSB7Li4ucm91dGVQcm9wc30gLz4gOiA8UmVkaXJlY3QgdG89e2ZhbGxiYWNrVXJsfSAvPgp9CgpleHBvcnQgZGVmYXVsdCBDb25kaXRpb25lZFJvdXRlCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ewogICAgY2xhc3MgQ29uZGl0aW9uQ29tcG9uZW50V3JhcHBlciBleHRlbmRzIFJlYWN0LkNvbXBvbmVudDwKICAgICAgVCAmIENvbmRpdGlvbkNvbXBvbmVudFdyYXBwZXJQcm9wcwogICAgPiB7CiAgICAgIHJlbmRlcigpIHsKICAgICAgICBpZiAoIXRoaXMucHJvcHMuY29uZGl0aW9uKSB7CiAgICAgICAgICByZXR1cm4gPFJlZGlyZWN0IHRvPXtmYWxsYmFja1VybH0gLz4KICAgICAgICB9CiAgICAgICAgcmV0dXJuIDxDb21wb25lbnQgey4uLnRoaXMucHJvcHN9IC8+CiAgICAgIH0KICAgIH0KCiAgICByZXR1cm4gY29ubmVjdDxDb25kaXRpb25Db21wb25lbnRXcmFwcGVyUHJvcHM+KAogICAgICBjcmVhdGVTdHJ1Y3R1cmVkU2VsZWN0b3IoeyBjb25kaXRpb246IGNvbmRpdGlvblNlbGVjdG9yIH0pLAogICAgICB7fQogICAgKShDb25kaXRpb25Db21wb25lbnRXcmFwcGVyKQogIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB4OiBDb25kaXRpb25Db21wb25lbnRXcmFwcGVyUHJvcHMgfCBUID0geyBjb25kaXRpb246IGZhbHNlIH0KICBjb25zb2xlLmxvZyh4KQo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
@@ -657,13 +661,13 @@
         <entry>action ShowUsages</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action AceAction</entry>
-        <entry>action ShowIntentionActions</entry>
         <entry>action RenameElement</entry>
         <entry>action TsLintFileFixAction</entry>
+        <entry>action ShowIntentionActions</entry>
+        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
