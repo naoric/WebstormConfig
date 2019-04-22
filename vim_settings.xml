@@ -291,7 +291,8 @@
         <mark key="." line="72" column="35" />
         <mark key="^" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/CreateRoute.tsx" timestamp="1555919131386">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/CreateRoute.tsx" timestamp="1555930894626">
+        <mark key="'" line="101" column="15" />
         <mark key="[" line="111" column="15" />
         <mark key="]" line="111" column="14" />
         <mark key="^" line="111" column="14" />
@@ -458,7 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="2" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/EventSubscription.tsx" />
       <jump line="107" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/EventSubscription.tsx" />
       <jump line="37" column="45" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/RootRouter.tsx" />
       <jump line="38" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" />
@@ -558,6 +558,7 @@
       <jump line="46" column="18" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/RootRouter.tsx" />
       <jump line="11" column="14" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/route-wrappers/withCondition.tsx" />
       <jump line="12" column="20" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/route-wrappers/withCondition.tsx" />
+      <jump line="101" column="15" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/CreateRoute.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -615,7 +616,7 @@
         <text encoding="base64">ICBjb25zdCB4OiBDb25kaXRpb25Db21wb25lbnRXcmFwcGVyUHJvcHMgfCBUID0geyBjb25kaXRpb246IGZhbHNlIH0KICBjb25zb2xlLmxvZyh4KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -654,7 +655,6 @@
         <entry>action MoveStatementDown</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9ySW5kZW50TGluZU9yU2VsZWN0aW9u</entry>
         <entry>action MoveStatementUp</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>actionlist recent</entry>
         <entry encoding="base64">bm1hcCBgIDphY3Rpb24gUmVjZW50TG9jYXRpb25zPENSPg==</entry>
         <entry>action RecentLocations</entry>
@@ -669,6 +669,7 @@
         <entry>action ShowIntentionActions</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
