@@ -44,6 +44,12 @@
       <file name="/a.dummy" timestamp="1555917401713">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/app-entities/attributes.ts" timestamp="1555936907215">
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="56" />
+        <mark key="^" line="24" column="56" />
+        <mark key="." line="24" column="56" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LabelValuePair.tsx" timestamp="1555346707754">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="3" column="56" />
@@ -174,12 +180,8 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/events-selectors.ts" timestamp="1555873696528">
-        <mark key="'" line="8" column="19" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="78" />
-        <mark key="^" line="12" column="78" />
-        <mark key="." line="12" column="78" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/events-selectors.ts" timestamp="1555937207164">
+        <mark key="'" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/tsconfig.json" timestamp="1553459430576">
         <mark key="[" line="18" column="0" />
@@ -187,12 +189,12 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/EventSubscription.tsx" timestamp="1555934981950">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/EventSubscription.tsx" timestamp="1555936509077">
         <mark key="'" line="26" column="9" />
-        <mark key="[" line="37" column="3" />
-        <mark key="]" line="37" column="15" />
-        <mark key="^" line="37" column="15" />
-        <mark key="." line="37" column="15" />
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="30" />
+        <mark key="^" line="26" column="30" />
+        <mark key="." line="26" column="30" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/react-aliases.ts" timestamp="1555572270162">
         <mark key="[" line="14" column="6" />
@@ -574,8 +576,8 @@
       <jump line="26" column="9" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/EventSubscription.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>canShowStep</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBjYW5TdGFydFNpbXVsYXRpb24gPSBjcmVhdGVTZWxlY3RvcigKICB3aXphcmRTZWxlY3RvciwKICB3aXphcmQgPT4gbnVsbAopCg==</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -593,7 +595,7 @@
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHdpdGhSb3V0ZXI8UCBleHRlbmRzIFJvdXRlQ29tcG9uZW50UHJvcHM8YW55Pj4oY29tcG9uZW50OiBSZWFjdC5Db21wb25lbnRUeXBlPFA+KTogUmVhY3QuQ29tcG9uZW50Q2xhc3M8T21pdDxQLCBrZXlvZiBSb3V0ZUNvbXBvbmVudFByb3BzPGFueT4+PjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuZmV0Y2hTaW11bGF0aW9uU3RhdHVzKCkK</text>
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBjYW5TdGFydFNpbXVsYXRpb24gPSBjcmVhdGVTZWxlY3RvcigKICB3aXphcmRTZWxlY3RvciwKICB3aXphcmQgPT4gbnVsbAopCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -605,31 +607,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuZmV0Y2hTaW11bGF0aW9uU3RhdHVzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgaXNTaW11bGF0aW9uUnVubmluZyB9ID0gdGhpcy5wcm9wcwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZldGNoQWN0aXZlU2ltdWxhdGlvbihpc1NpbXVsYXRpb25SdW5uaW5nKSB7CiAgICBpZiAoIWlzU2ltdWxhdGlvblJ1bm5pbmcpIHsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaXNTaW11bGF0aW9uUnVubmluZyB9ID0gdGhpcy5wcm9wcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZmV0Y2hBY3RpdmVTaW11bGF0aW9uKGlzU2ltdWxhdGlvblJ1bm5pbmcpCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZldGNoQWN0aXZlU2ltdWxhdGlvbihpc1NpbXVsYXRpb25SdW5uaW5nKSB7CiAgICBpZiAoIWlzU2ltdWxhdGlvblJ1bm5pbmcpIHsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5mZXRjaFNpbXVsYXRpb25TdGF0dXMoKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZmV0Y2hBY3RpdmVTaW11bGF0aW9uKGlzU2ltdWxhdGlvblJ1bm5pbmcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">amtrIGtrCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5mZXRjaFNpbXVsYXRpb25TdGF0dXMoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">amtrIGtrCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -681,8 +683,8 @@
         <entry>action TsLintFileFixAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action EditorCloneCaretBelow</entry>
-        <entry>action GotoFile</entry>
         <entry>action RenameElement</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
