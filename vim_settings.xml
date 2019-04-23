@@ -60,12 +60,6 @@
         <mark key="." line="45" column="30" />
         <mark key="^" line="45" column="30" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/EventLog/EventDetailsPane.tsx" timestamp="1555346141620">
-        <mark key="[" line="35" column="20" />
-        <mark key="]" line="35" column="20" />
-        <mark key="^" line="35" column="20" />
-        <mark key="." line="35" column="20" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/LogList.tsx" timestamp="1554757417526">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -73,11 +67,7 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulation-status.ts" timestamp="1555866990916">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="26" column="74" />
-        <mark key="]" line="26" column="74" />
-        <mark key="." line="26" column="74" />
-        <mark key="^" line="26" column="74" />
+        <mark key="'" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/http-constants.ts" timestamp="1555846194147">
         <mark key="[" line="2" column="18" />
@@ -251,10 +241,9 @@
         <mark key="." line="10" column="38" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/EventSubscription/EventSubscription.tsx" timestamp="1555951099081">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/Simulation/SimulationPage.tsx" timestamp="1555949972316">
         <mark key="[" line="17" column="19" />
@@ -362,7 +351,7 @@
         <mark key="^" line="10" column="32" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/create-route-selectors.ts" timestamp="1555951697204">
-        <mark key="'" line="3" column="0" />
+        <mark key="'" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/SimulatorRoute.tsx" timestamp="1555934864496">
         <mark key="'" line="29" column="0" />
