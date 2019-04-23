@@ -30,4 +30,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="cc" value="export const $NAME$ = $END$" description="new exported constant" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
