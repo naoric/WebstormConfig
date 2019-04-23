@@ -169,6 +169,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/Simulation/Simulation.tsx" timestamp="1556008017822">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/events-selectors.ts" timestamp="1555949207361">
         <mark key="'" line="7" column="19" />
       </file>
@@ -599,7 +604,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIGlmICghaXNTaW11bGF0aW9uUnVubmluZykgewogICAgICByZXR1cm4gPFJlZGlyZWN0IHRvPXtQYXRocy5DUkVBVEVfUk9VVEV9IC8+CiAgICB9Cg==</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -617,7 +622,7 @@
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHdpdGhSb3V0ZXI8UCBleHRlbmRzIFJvdXRlQ29tcG9uZW50UHJvcHM8YW55Pj4oY29tcG9uZW50OiBSZWFjdC5Db21wb25lbnRUeXBlPFA+KTogUmVhY3QuQ29tcG9uZW50Q2xhc3M8T21pdDxQLCBrZXlvZiBSb3V0ZUNvbXBvbmVudFByb3BzPGFueT4+PjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIGlmICghaXNTaW11bGF0aW9uUnVubmluZykgewogICAgICByZXR1cm4gPFJlZGlyZWN0IHRvPXtQYXRocy5DUkVBVEVfUk9VVEV9IC8+CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -629,31 +634,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxDcmVhdGlvblN0ZXBSb3V0ZSB7Li4ucHJvcHN9IC8+Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhhc0NhckFuZFJvdXRlOiBoYXNTZWxlY3RlZENhckFuZFJvdXRlLAo=</text>
+        <text encoding="base64">ICAgIDxDcmVhdGlvblN0ZXBSb3V0ZSB7Li4ucHJvcHN9IC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBoYXNDYXJBbmRSb3V0ZTogYm9vbGVhbgo=</text>
+        <text encoding="base64">ICAgIGhhc0NhckFuZFJvdXRlOiBoYXNTZWxlY3RlZENhckFuZFJvdXRlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoYXNDYXJBbmRSb3V0ZTogYm9vbGVhbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDxSZWRpcmVjdCB0bz17UGF0aHMuQ1JFQVRFX1JPVVRFfSAvPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICghaGFzQ2FyQW5kUm91dGUpIHsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIDxSZWRpcmVjdCB0bz17UGF0aHMuQ1JFQVRFX1JPVVRFfSAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHNob3VsZFN0YXJ0RmxvdygpIHsKICAgIGNvbnN0IHsgaXNVc2VyQXV0aG9yaXplZCwgaXNTaW11bGF0aW9uUnVubmluZyB9ID0gdGhpcy5wcm9wcwogICAgcmV0dXJuIGlzVXNlckF1dGhvcml6ZWQgJiYgIWlzU2ltdWxhdGlvblJ1bm5pbmcKICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmICghaGFzQ2FyQW5kUm91dGUpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -705,8 +710,8 @@
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
         <entry>action RenameElement</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
