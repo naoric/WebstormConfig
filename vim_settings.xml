@@ -39,8 +39,12 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1556010749523">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1556046823520">
         <mark key="'" line="12" column="32" />
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/RootRouter.tsx" timestamp="1556011948864">
         <mark key="'" line="50" column="21" />
@@ -116,10 +120,12 @@
         <mark key="." line="36" column="27" />
         <mark key="^" line="36" column="27" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/EventSubscription/EventSubscription.tsx" timestamp="1555951099081">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/EventSubscription/EventSubscription.tsx" timestamp="1556043215159">
+        <mark key="'" line="33" column="2" />
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="43" />
+        <mark key="." line="33" column="43" />
+        <mark key="^" line="33" column="43" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/Simulation/SimulationPage.tsx" timestamp="1555949972316">
         <mark key="[" line="17" column="19" />
@@ -127,12 +133,11 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" timestamp="1556037528573">
-        <mark key="'" line="61" column="16" />
-        <mark key="[" line="116" column="11" />
-        <mark key="]" line="116" column="24" />
-        <mark key="." line="116" column="24" />
-        <mark key="^" line="116" column="24" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" timestamp="1556048264771">
+        <mark key="[" line="304" column="39" />
+        <mark key="]" line="323" column="8" />
+        <mark key="^" line="323" column="8" />
+        <mark key="." line="323" column="8" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/styling/jss-helpers.ts" timestamp="1554042180843">
         <mark key="[" line="0" column="47" />
@@ -190,12 +195,12 @@
         <mark key="." line="56" column="58" />
         <mark key="^" line="56" column="58" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/Initializer/Initializer.tsx" timestamp="1555950914345">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/Initializer/Initializer.tsx" timestamp="1556046531359">
         <mark key="'" line="14" column="29" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="36" column="4" />
-        <mark key="." line="40" column="0" />
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+        <mark key="." line="18" column="38" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/route-consts.ts" timestamp="1555480668149">
         <mark key="[" line="4" column="16" />
@@ -209,12 +214,12 @@
         <mark key="." line="2" column="53" />
         <mark key="^" line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/simulations.ts" timestamp="1556038000199">
-        <mark key="'" line="12" column="12" />
-        <mark key="[" line="34" column="16" />
-        <mark key="]" line="34" column="30" />
-        <mark key="^" line="34" column="30" />
-        <mark key="." line="34" column="30" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/simulations.ts" timestamp="1556042286250">
+        <mark key="'" line="31" column="18" />
+        <mark key="[" line="31" column="2" />
+        <mark key="]" line="31" column="1" />
+        <mark key="^" line="31" column="1" />
+        <mark key="." line="31" column="16" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" timestamp="1556028105535">
         <mark key="[" line="13" column="0" />
@@ -240,11 +245,11 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulation-status.ts" timestamp="1556037735473">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulation-status.ts" timestamp="1556048302808">
         <mark key="'" line="35" column="5" />
-        <mark key="[" line="5" column="62" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
+        <mark key="[" line="27" column="57" />
+        <mark key="]" line="27" column="57" />
+        <mark key="." line="27" column="57" />
         <mark key="^" line="5" column="12" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/route-wrappers/withCondition.tsx" timestamp="1555928237491">
@@ -278,19 +283,16 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/Simulation/Simulation.tsx" timestamp="1556040883864">
-        <mark key="'" line="30" column="26" />
-        <mark key="[" line="44" column="2" />
-        <mark key="]" line="44" column="1" />
-        <mark key="." line="44" column="1" />
-        <mark key="^" line="44" column="1" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/Simulation/Simulation.tsx" timestamp="1556047570675">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/simulation-controls.ts" timestamp="1556040964881">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="63" column="4" />
-        <mark key="]" line="63" column="9" />
-        <mark key="." line="63" column="9" />
-        <mark key="^" line="63" column="9" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/simulation-controls.ts" timestamp="1556049463356">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/EventSubscription.tsx" timestamp="1555936509077">
         <mark key="'" line="26" column="9" />
@@ -365,18 +367,18 @@
         <mark key="^" line="39" column="21" />
         <mark key="." line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/SimulatorActionBox.tsx" timestamp="1556038113897">
-        <mark key="'" line="98" column="12" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="40" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/SimulatorActionBox.tsx" timestamp="1556043964295">
+        <mark key="'" line="72" column="25" />
+        <mark key="[" line="72" column="11" />
+        <mark key="]" line="72" column="11" />
+        <mark key="^" line="72" column="37" />
+        <mark key="." line="72" column="11" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api.ts" timestamp="1555867125796">
-        <mark key="[" line="15" column="75" />
-        <mark key="]" line="15" column="98" />
-        <mark key="^" line="15" column="98" />
-        <mark key="." line="15" column="98" />
+        <mark key="[" line="16" column="75" />
+        <mark key="]" line="16" column="98" />
+        <mark key="^" line="16" column="98" />
+        <mark key="." line="16" column="98" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/actions/request-builders.ts" timestamp="1556030382159">
         <mark key="[" line="24" column="13" />
@@ -402,12 +404,6 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/route-creation.ts" timestamp="1556034828162">
-        <mark key="'" line="1" column="9" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/create-route-selectors.ts" timestamp="1555951697204">
-        <mark key="'" line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/wizard/StepComponent.tsx" timestamp="1553459884429">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="24" />
@@ -420,18 +416,21 @@
         <mark key="^" line="13" column="91" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1556040532439">
-        <mark key="'" line="51" column="5" />
-        <mark key="[" line="51" column="20" />
-        <mark key="]" line="51" column="20" />
-        <mark key="." line="51" column="20" />
-        <mark key="^" line="51" column="20" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" timestamp="1556049238912">
+        <mark key="'" line="53" column="5" />
+        <mark key="[" line="56" column="45" />
+        <mark key="]" line="56" column="46" />
+        <mark key="." line="56" column="46" />
+        <mark key="^" line="56" column="46" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/endpoints.ts" timestamp="1555599258278">
         <mark key="[" line="3" column="32" />
         <mark key="]" line="3" column="43" />
         <mark key="^" line="3" column="43" />
         <mark key="." line="3" column="43" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/store.ts" timestamp="1556048888314">
+        <mark key="^" line="6" column="65" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/.babelrc" timestamp="1553464842966">
         <mark key="[" line="1" column="14" />
@@ -477,20 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="50" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/init-config.ts" />
-      <jump line="45" column="12" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Initializer/Initializer.tsx" />
-      <jump line="34" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Initializer/Initializer.tsx" />
-      <jump line="26" column="15" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Spinner/Spinner.tsx" />
-      <jump line="54" column="36" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" />
-      <jump line="6" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/AppHeader.tsx" />
-      <jump line="41" column="52" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/AppHeader.tsx" />
-      <jump line="18" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/CarStatusFields/PointInfo.tsx" />
-      <jump line="54" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/CarStatusFields/PointInfo.tsx" />
-      <jump line="10" column="26" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/CarStatusFields/PointInfo.tsx" />
-      <jump line="90" column="10" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" />
-      <jump line="98" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" />
-      <jump line="59" column="16" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" />
-      <jump line="65" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" />
       <jump line="26" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/routes.ts" />
       <jump line="56" column="30" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/wizard/Wizard.tsx" />
       <jump line="96" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/CreateRoute.tsx" />
@@ -562,7 +547,6 @@
       <jump line="7" column="9" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/route-creation.ts" />
       <jump line="33" column="21" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/simulation-controls.ts" />
       <jump line="3" column="27" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/SimulatorActionBox.tsx" />
-      <jump line="19" column="17" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/simulation-controls.ts" />
       <jump line="59" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/simulation-controls.ts" />
       <jump line="51" column="19" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/SimulatorActionBox.tsx" />
       <jump line="12" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/SimulatorActionBox.tsx" />
@@ -573,14 +557,29 @@
       <jump line="99" column="4" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/SimulatorActionBox.tsx" />
       <jump line="9" column="9" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/SimulatorActionBox.tsx" />
       <jump line="54" column="28" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/SimulatorActionBox.tsx" />
-      <jump line="98" column="12" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/SimulatorActionBox.tsx" />
       <jump line="62" column="13" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/simulation-controls.ts" />
       <jump line="42" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/simulation-controls.ts" />
       <jump line="42" column="5" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/root-saga.ts" />
+      <jump line="16" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/route-creation.ts" />
+      <jump line="24" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/route-creation.ts" />
+      <jump line="31" column="18" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/simulations.ts" />
+      <jump line="45" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/Simulation/Simulation.tsx" />
+      <jump line="117" column="28" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/Simulation/Simulation.tsx" />
+      <jump line="25" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/Simulation/Simulation.tsx" />
+      <jump line="27" column="19" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/SimulatorActionBox.tsx" />
+      <jump line="98" column="22" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/SimulatorActionBox.tsx" />
+      <jump line="38" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/simulation-controls.ts" />
+      <jump line="143" column="39" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/EventSubscription/EventSubscription.tsx" />
+      <jump line="34" column="2" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/EventSubscription/EventSubscription.tsx" />
+      <jump line="19" column="45" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/simulation-controls.ts" />
+      <jump line="71" column="18" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/SimulatorActionBox.tsx" />
+      <jump line="79" column="25" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/SimulatorActionBox.tsx" />
+      <jump line="286" column="32" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api-mock.ts" />
+      <jump line="7" column="48" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/store.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRha2VFdmVyeShJTklUX1NJTVVMQVRJT04sIGluaXRpYXRlU2ltdWxhdGlvbiksCg==</text>
+        <text encoding="base64">ICB5aWVsZCAzCg==</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -589,16 +588,16 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>STOP_SIMULATION</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXN0YXJ0U2ltdWxhdGlvblw+</text>
+        <text>ar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHdpdGhSb3V0ZXI8UCBleHRlbmRzIFJvdXRlQ29tcG9uZW50UHJvcHM8YW55Pj4oY29tcG9uZW50OiBSZWFjdC5Db21wb25lbnRUeXBlPFA+KTogUmVhY3QuQ29tcG9uZW50Q2xhc3M8T21pdDxQLCBrZXlvZiBSb3V0ZUNvbXBvbmVudFByb3BzPGFueT4+PjsK</text>
+        <text encoding="base64">ICAgICAgICAvLyB7CiAgICAgICAgLy8gICByb3V0ZV93YXlfcG9pbnRzOiBudWxsLAogICAgICAgIC8vICAgcm91dGVfcG9seWxpbmU6CiAgICAgICAgLy8gICAgICdvX3piRW91ZXNFekBzSXBqRHZ9QGRzQHRFfERvRWhMe15uWX1aYGJAcXhAamBAe2hBaE9xWXBLa05gUXRRZkhvSCcsCiAgICAgICAgLy8gICBjYXJfaWQ6IDEsCiAgICAgICAgLy8gICBtb2RlbF9uYW1lOiAnRWxlY3RyaWMnLAogICAgICAgIC8vICAgaWQ6IDYwLAogICAgICAgIC8vICAgdmluOiAnMFROTUFISDc3U1JKMVZXNEUnLAogICAgICAgIC8vICAgc3RhcnRfdGltZTogMTU1NTk0MTA1MzQ2OCwKICAgICAgICAvLyAgIG90b25vbW9faWQ6ICc4ODYzMzU1ODU5NmM1ZmFkYTJmYzhhMGRlOTlhZTY5YycsCiAgICAgICAgLy8gfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRha2VFdmVyeShJTklUX1NJTVVMQVRJT04sIGluaXRpYXRlU2ltdWxhdGlvbiksCg==</text>
+        <text encoding="base64">ICB5aWVsZCAzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -610,46 +609,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB5aWVsZCBwdXQoc3RvcFBvbGxpbmcoKSkK</text>
+        <text encoding="base64">Y29uc3QgbW9uaXRvciA9IHdpbmRvdy5fX1NBR0FfTU9OSVRPUl9FWFRFTlNJT05fXwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Ly8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICBdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24qIHNpbXVsYXRpb24oKSB7CiAgd2hpbGUodHJ1ZSkgewogICAgdGFrZShJTklUX1NJTVVMQVRJT04pCiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIHRha2UoU1RPUF9QT0xMSU5HKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICB5aWVsZCByYWNlKFsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG5vb3AgZnJvbSAnbG9kYXNoL2ZwL25vb3AnCg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="8" type="4">
+        <text>{
+      
+    }</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICB3aXphcmRTZWxlY3RvciwKICByb3V0ZUlkU2VsZWN0b3IsCiAgc2VsZWN0ZWRFdmVudHNTZWxlY3Rvciw=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXN0YXJ0U2ltdWxhdGlvblw+</last-search>
+      <last-search>ar</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXN0YXJ0U2ltdWxhdGlvblw+</last-pattern>
+      <last-pattern>ar</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>secret</entry>
-        <entry encoding="base64">XDx0dXJmXD4=</entry>
-        <entry>boolean</entry>
-        <entry>pass</entry>
         <entry>fetch</entry>
         <entry>props</entry>
         <entry>penf</entry>
@@ -666,6 +663,10 @@
         <entry encoding="base64">XDx3aXphcmRTZWxlY3Rvclw+</entry>
         <entry>restartSimulation</entry>
         <entry encoding="base64">XDxyZXN0YXJ0U2ltdWxhdGlvblw+</entry>
+        <entry>id</entry>
+        <entry encoding="base64">XDxzdGFydFNpbXVsYXRpb25cPg==</entry>
+        <entry>simulationpaylo</entry>
+        <entry>ar</entry>
       </history-search>
       <history-cmd>
         <entry>action RecentLocations</entry>
@@ -677,17 +678,17 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVN0YXRlbWVudFVw</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action ExtractMethod</entry>
-        <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
-        <entry>action ShowIntentionActions</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action ShowUsages</entry>
-        <entry>action IntroduceVariable</entry>
-        <entry>action MoveStatementUp</entry>
         <entry>action MoveStatementDown</entry>
-        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action RenameElement</entry>
+        <entry>action MoveStatementUp</entry>
+        <entry>action IntroduceVariable</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ShowUsages</entry>
+        <entry>action ShowIntentionActions</entry>
+        <entry>action RenameElement</entry>
+        <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
