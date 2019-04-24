@@ -123,11 +123,11 @@
         <mark key="^" line="76" column="15" />
         <mark key="." line="76" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusLog/CarStatusDetailsPane.tsx" timestamp="1556128637928">
-        <mark key="[" line="88" column="30" />
-        <mark key="]" line="88" column="29" />
-        <mark key="^" line="88" column="29" />
-        <mark key="." line="88" column="29" />
+      <file name="$USER_HOME$/projects/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusLog/CarStatusDetailsPane.tsx" timestamp="1556129334806">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="45" column="2" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/tslint.json" timestamp="1555844934847">
         <mark key="[" line="15" column="32" />
@@ -547,8 +547,8 @@
       <jump line="6" column="11" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/create-route-selectors.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>routevalidationSelector</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -566,7 +566,7 @@
         <text>constant(fromJS({ done: true }))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0VmFsaWRhdG9yRXJyb3IgPSBnZXQoYG9wZXJhdGlvbnMuJHtWQUxJREFURV9ST1VURX0uZXJyb3JgKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -578,28 +578,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb250YWluZXI6IHt9LAo=</text>
+        <text encoding="base64">Y29uc3QgZ2V0VmFsaWRhdG9yRXJyb3IgPSBnZXQoYG9wZXJhdGlvbnMuJHtWQUxJREFURV9ST1VURX0uZXJyb3JgKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICBjb250YWluZXI6IHt9LAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB7dGhpcy5pc0xvYWRpbmcoKSAmJiB9Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICAgIDxHcmlkIGl0ZW0+CiAgICAgICAgICAgIAogICAgICAgICAgPC9HcmlkPg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIDxHcmlkIGl0ZW0geHM9ezZ9PgogICAgICAgICAgICA8UGFwZXIgY2xhc3Nlcz17eyByb290OiBjbGFzc2VzLnBhcGVyIH19PgogICAgICAgICAgICAgIHt0aGlzLnByb3BzLmxlZnRQYW5lfQogICAgICAgICAgICA8L1BhcGVyPgogICAgICAgICAgPC9HcmlkPgogICAgICAgICAgPEdyaWQgaXRlbSB4cz17Nn0+CiAgICAgICAgICAgIDxQYXBlciBjbGFzc2VzPXt7IHJvb3Q6IGNsYXNzZXMucGFwZXIgfX0+CiAgICAgICAgICAgICAge3RoaXMucHJvcHMucmlnaHRQYW5lfQogICAgICAgICAgICA8L1BhcGVyPgogICAgICAgICAgPC9HcmlkPgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWRpcmVjdGluZyB0byBjb25zdW1lciBVSScpCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWRpcmVjdGluZyB0byBjb25zdW1lciBVSScpCiAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9ICcvJw==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSFRUUF9PSyB9IGZyb20gJ3N0YXRlL2FwaS9odHRwLWNvbnN0YW50cycK</text>
       </register>
       <register name=":" type="4">
         <text>action VimMotionScrollHalfPageDown</text>
