@@ -120,6 +120,12 @@
         <mark key="." line="47" column="46" />
         <mark key="^" line="64" column="27" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/steps/DefaultCallbackURLForm.tsx" timestamp="1556114949712">
+        <mark key="[" line="60" column="74" />
+        <mark key="]" line="60" column="84" />
+        <mark key="." line="60" column="84" />
+        <mark key="^" line="60" column="84" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/.prettierrc" timestamp="1555844887813">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="23" />
@@ -344,7 +350,7 @@
         <mark key="^" line="13" column="91" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusLog/CarStatusDetailsPane.tsx" timestamp="1556110379744">
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusLog/CarStatusDetailsPane.tsx" timestamp="1556114737312">
         <mark key="'" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/entities/event.ts" timestamp="1555343848093">
@@ -358,9 +364,6 @@
         <mark key="]" line="3" column="43" />
         <mark key="^" line="3" column="43" />
         <mark key="." line="3" column="43" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/store.ts" timestamp="1556048888314">
-        <mark key="^" line="6" column="65" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/.babelrc" timestamp="1553464842966">
         <mark key="[" line="1" column="14" />
@@ -545,7 +548,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eng2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -554,10 +557,10 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>eng2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ar</text>
+        <text>default conf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB5aWVsZCBjYWxsKHdhaXRGb3IsIERFTEVURV9TSU1VTEFUSU9OKQo=</text>
@@ -599,20 +602,18 @@
         <text encoding="base64">ICAgIFVQREFURV9XSVpBUkQ6IChzdGF0ZSwgeyBwYXlsb2FkIH06IEFjdGlvbjxXaXphcmRQYXlsb2FkPikgPT4KICAgICAgc3RhdGUubWVyZ2UoZnJvbUpTKHBheWxvYWQpKSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</text>
       </register>
     </registers>
     <search>
-      <last-search>ar</last-search>
+      <last-search>default conf</last-search>
       <last-offset />
-      <last-pattern>ar</last-pattern>
+      <last-pattern>default conf</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fetch</entry>
-        <entry>props</entry>
         <entry>penf</entry>
         <entry>debuggg</entry>
         <entry>debugg</entry>
@@ -631,6 +632,8 @@
         <entry encoding="base64">XDxzdGFydFNpbXVsYXRpb25cPg==</entry>
         <entry>simulationpaylo</entry>
         <entry>ar</entry>
+        <entry>default config</entry>
+        <entry>default conf</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorCloneCaretBelow</entry>
@@ -644,7 +647,6 @@
         <entry>action RenameElement</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action EditorDuplicateLines</entry>
-        <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action ShowUsages</entry>
@@ -653,6 +655,7 @@
         <entry>action AceAction</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
+        <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
