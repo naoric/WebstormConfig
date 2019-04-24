@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/simulations.ts" timestamp="1556120194715">
-        <mark key="[" line="58" column="50" />
-        <mark key="]" line="58" column="55" />
-        <mark key="^" line="58" column="55" />
-        <mark key="." line="58" column="55" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/tslint.json" timestamp="1555844934847">
         <mark key="[" line="15" column="32" />
         <mark key="]" line="15" column="24" />
@@ -58,11 +52,7 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulation-status.ts" timestamp="1556118721485">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="51" column="32" />
-        <mark key="]" line="51" column="32" />
-        <mark key="^" line="50" column="3" />
-        <mark key="." line="51" column="32" />
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/http-constants.ts" timestamp="1555846194147">
         <mark key="[" line="2" column="18" />
@@ -292,12 +282,6 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/SimulatorActionBox.tsx" timestamp="1556119919381">
-        <mark key="'" line="87" column="16" />
-        <mark key="[" line="78" column="11" />
-        <mark key="]" line="78" column="11" />
-        <mark key="." line="78" column="11" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/api.ts" timestamp="1556090914482">
         <mark key="'" line="28" column="44" />
         <mark key="[" line="28" column="4" />
@@ -441,10 +425,9 @@
         <mark key="." line="3" column="41" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/api-types/simulation.ts" timestamp="1556118765430">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/Initializer/Initializer.tsx" timestamp="1555412673864">
         <mark key="[" line="2" column="53" />
