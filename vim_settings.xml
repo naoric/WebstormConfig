@@ -103,6 +103,11 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/mapbox/EventLabel.tsx" timestamp="1556436177613">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/app-entities/event-templates.ts" timestamp="1555868711663">
         <mark key="[" line="47" column="46" />
         <mark key="]" line="47" column="46" />
@@ -424,11 +429,6 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/api-types/simulation.ts" timestamp="1556118765430">
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/Initializer/Initializer.tsx" timestamp="1555412673864">
         <mark key="[" line="2" column="53" />
         <mark key="]" line="2" column="53" />
@@ -545,8 +545,8 @@
       <jump line="62" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulation-status.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Qm9vbGVhbihwcm9wcy5yb3V0ZUlkKSAmJiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgey8qLy8gYW5jaG9yPSJib3R0b20iKi99CiAgICAgICAgICAgIHsvKi8vIHRpcFNpemU9ezB9Ki99CiAgICAgICAgICAgIHsvKi8vIGxvbmdpdHVkZT17bG5nfSovfQogICAgICAgICAgICB7LyovLyBsYXRpdHVkZT17bGF0fSovfQogICAgICAgICAgICB7LyovLyBjbG9zZUJ1dHRvbj17ZmFsc2V9PiovfQo=</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -564,7 +564,7 @@
         <text encoding="base64">ICB5aWVsZCBjYWxsKHdhaXRGb3IsIERFTEVURV9TSU1VTEFUSU9OKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJvdXRlSWQ6IHJvdXRlSWRTZWxlY3RvciwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qLy8gYW5jaG9yPSJib3R0b20iKi99CiAgICAgICAgICAgIHsvKi8vIHRpcFNpemU9ezB9Ki99CiAgICAgICAgICAgIHsvKi8vIGxvbmdpdHVkZT17bG5nfSovfQogICAgICAgICAgICB7LyovLyBsYXRpdHVkZT17bGF0fSovfQogICAgICAgICAgICB7LyovLyBjbG9zZUJ1dHRvbj17ZmFsc2V9PiovfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -576,31 +576,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByb3V0ZUlkU2VsZWN0b3IsCg==</text>
+        <text encoding="base64">ICAgIHJvdXRlSWQ6IHJvdXRlSWRTZWxlY3RvciwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGVsYXkgfSBmcm9tICdxJwo=</text>
+        <text encoding="base64">ICByb3V0ZUlkU2VsZWN0b3IsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24qIHdhaXRGb3JTaW11bGF0aW9uVG9FbmQoKSB7CiAgd2hpbGUgKHRydWUpIHsKICAgIHlpZWxkIHB1dChmZXRjaFNpbXVsYXRpb25TdGF0dXMoKSkKICAgIHlpZWxkIHRha2Uoc3VjY2VzcyhGRVRDSF9TSU1VTEFUSU9OX1NUQVRVUykpCiAgICBjb25zdCBoYXNSdW5uaW5nU2ltID0geWllbGQgc2VsZWN0KGhhc1J1bm5pbmdTaW11bGF0aW9ucykKICAgIGlmICghaGFzUnVubmluZ1NpbSkgewogICAgICByZXR1cm4KICAgIH0KICAgIHlpZWxkIGRlbGF5KDIwMDApCiAgfQp9Cgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZGVsYXkgfSBmcm9tICdxJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24qIHdhaXRGb3JTaW11bGF0aW9uVG9FbmQoKSB7CiAgd2hpbGUgKHRydWUpIHsKICAgIHlpZWxkIHB1dChmZXRjaFNpbXVsYXRpb25TdGF0dXMoKSkKICAgIHlpZWxkIHRha2Uoc3VjY2VzcyhGRVRDSF9TSU1VTEFUSU9OX1NUQVRVUykpCiAgICBjb25zdCBoYXNSdW5uaW5nU2ltID0geWllbGQgc2VsZWN0KGhhc1J1bm5pbmdTaW11bGF0aW9ucykKICAgIGlmICghaGFzUnVubmluZ1NpbSkgewogICAgICByZXR1cm4KICAgIH0KICAgIHlpZWxkIGRlbGF5KDIwMDApCiAgfQp9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB5aWVsZCBwdXQoZmV0Y2hTaW11bGF0aW9uU3RhdHVzKCkpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB5aWVsZCB0YWtlKHN1Y2Nlc3MoREVMRVRFX1NJTVVMQVRJT04pKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB5aWVsZCBwdXQoZmV0Y2hTaW11bGF0aW9uU3RhdHVzKCkpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB5aWVsZCB0YWtlKHN1Y2Nlc3MoREVMRVRFX1NJTVVMQVRJT04pKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB5aWVsZCByYWNlKFt0YWtlKHN1Y2Nlc3MoREVMRVRFX1NJTVVMQVRJT04pKSwgdGFrZShlcnJvcihERUxFVEVfU0lNVUxBVElPTikpXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -651,9 +651,9 @@
         <entry>action EditorCloneCaretBelow</entry>
         <entry>action RenameElement</entry>
         <entry>action ShowUsages</entry>
-        <entry>action GotoFile</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
