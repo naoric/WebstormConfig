@@ -51,12 +51,12 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulation-status.ts" timestamp="1556540815860">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="68" />
-        <mark key="]" line="21" column="85" />
-        <mark key="^" line="21" column="85" />
-        <mark key="." line="21" column="85" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulation-status.ts" timestamp="1556548748179">
+        <mark key="'" line="23" column="57" />
+        <mark key="[" line="23" column="51" />
+        <mark key="]" line="23" column="80" />
+        <mark key="^" line="23" column="80" />
+        <mark key="." line="23" column="80" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/api/http-constants.ts" timestamp="1555846194147">
         <mark key="[" line="2" column="18" />
@@ -144,11 +144,12 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/simulation-controls.ts" timestamp="1556540944230">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="78" column="47" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/simulation-controls.ts" timestamp="1556549026517">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="57" />
+        <mark key="^" line="5" column="57" />
+        <mark key="." line="5" column="57" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/tsconfig.json" timestamp="1553459430576">
         <mark key="[" line="18" column="0" />
@@ -442,10 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="13" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Initializer/Initializer.tsx" />
-      <jump line="9" column="49" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/route-wrappers/ConditionedRoute.tsx" />
-      <jump line="13" column="130" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/create-route-selectors.ts" />
-      <jump line="18" column="2" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/create-route-selectors.ts" />
       <jump line="6" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/create-route-selectors.ts" />
       <jump line="11" column="14" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/route-wrappers/withCondition.tsx" />
       <jump line="12" column="20" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/route-wrappers/withCondition.tsx" />
@@ -542,10 +539,14 @@
       <jump line="7" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/simulation-controls.ts" />
       <jump line="7" column="18" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
       <jump line="102" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
+      <jump line="78" column="42" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/simulation-controls.ts" />
+      <jump line="21" column="49" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulation-status.ts" />
+      <jump line="20" column="57" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulation-status.ts" />
+      <jump line="56" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/simulation-controls.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>true</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -554,16 +555,18 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>default conf</text>
+        <text>init_sim</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB5aWVsZCBjYWxsKHdhaXRGb3IsIERFTEVURV9TSU1VTEFUSU9OKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB5aWVsZCBkZWxheSgxMDAwKQo=</text>
+      <register name="1" type="4">
+        <text>, {
+      params: { restart: restart.toString() },
+    }</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -575,43 +578,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB5aWVsZCBjYWxsKHN0b3BTaW11bGF0aW9uQW5kV2FpdCkK</text>
+        <text encoding="base64">ICB5aWVsZCBkZWxheSgxMDAwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBbdmlzaWJsZSwgc2V0VmlzaWJpbGl0eV0gPSB1c2VTdGF0ZShmYWxzZSkK</text>
+        <text encoding="base64">ICB5aWVsZCBjYWxsKHN0b3BTaW11bGF0aW9uQW5kV2FpdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qLy8gYW5jaG9yPSJib3R0b20iKi99CiAgICAgICAgICAgIHsvKi8vIHRpcFNpemU9ezB9Ki99CiAgICAgICAgICAgIHsvKi8vIGxvbmdpdHVkZT17bG5nfSovfQogICAgICAgICAgICB7LyovLyBsYXRpdHVkZT17bGF0fSovfQogICAgICAgICAgICB7LyovLyBjbG9zZUJ1dHRvbj17ZmFsc2V9PiovfQo=</text>
+        <text encoding="base64">ICBjb25zdCBbdmlzaWJsZSwgc2V0VmlzaWJpbGl0eV0gPSB1c2VTdGF0ZShmYWxzZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJvdXRlSWQ6IHJvdXRlSWRTZWxlY3RvciwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qLy8gYW5jaG9yPSJib3R0b20iKi99CiAgICAgICAgICAgIHsvKi8vIHRpcFNpemU9ezB9Ki99CiAgICAgICAgICAgIHsvKi8vIGxvbmdpdHVkZT17bG5nfSovfQogICAgICAgICAgICB7LyovLyBsYXRpdHVkZT17bGF0fSovfQogICAgICAgICAgICB7LyovLyBjbG9zZUJ1dHRvbj17ZmFsc2V9PiovfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByb3V0ZUlkU2VsZWN0b3IsCg==</text>
+        <text encoding="base64">ICAgIHJvdXRlSWQ6IHJvdXRlSWRTZWxlY3RvciwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGVsYXkgfSBmcm9tICdxJwo=</text>
+        <text encoding="base64">ICByb3V0ZUlkU2VsZWN0b3IsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24qIHdhaXRGb3JTaW11bGF0aW9uVG9FbmQoKSB7CiAgd2hpbGUgKHRydWUpIHsKICAgIHlpZWxkIHB1dChmZXRjaFNpbXVsYXRpb25TdGF0dXMoKSkKICAgIHlpZWxkIHRha2Uoc3VjY2VzcyhGRVRDSF9TSU1VTEFUSU9OX1NUQVRVUykpCiAgICBjb25zdCBoYXNSdW5uaW5nU2ltID0geWllbGQgc2VsZWN0KGhhc1J1bm5pbmdTaW11bGF0aW9ucykKICAgIGlmICghaGFzUnVubmluZ1NpbSkgewogICAgICByZXR1cm4KICAgIH0KICAgIHlpZWxkIGRlbGF5KDIwMDApCiAgfQp9Cgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZGVsYXkgfSBmcm9tICdxJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24qIHdhaXRGb3JTaW11bGF0aW9uVG9FbmQoKSB7CiAgd2hpbGUgKHRydWUpIHsKICAgIHlpZWxkIHB1dChmZXRjaFNpbXVsYXRpb25TdGF0dXMoKSkKICAgIHlpZWxkIHRha2Uoc3VjY2VzcyhGRVRDSF9TSU1VTEFUSU9OX1NUQVRVUykpCiAgICBjb25zdCBoYXNSdW5uaW5nU2ltID0geWllbGQgc2VsZWN0KGhhc1J1bm5pbmdTaW11bGF0aW9ucykKICAgIGlmICghaGFzUnVubmluZ1NpbSkgewogICAgICByZXR1cm4KICAgIH0KICAgIHlpZWxkIGRlbGF5KDIwMDApCiAgfQp9Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search>default conf</last-search>
+      <last-search>init_sim</last-search>
       <last-offset />
-      <last-pattern>default conf</last-pattern>
+      <last-pattern>init_sim</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>penf</entry>
         <entry>debuggg</entry>
         <entry>debugg</entry>
         <entry>thre</entry>
@@ -631,6 +633,7 @@
         <entry>ar</entry>
         <entry>default config</entry>
         <entry>default conf</entry>
+        <entry>init_sim</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -643,7 +646,6 @@
         <entry>action MoveStatementUp</entry>
         <entry>action EditorDuplicateLines</entry>
         <entry>action ShowIntentionActions</entry>
-        <entry>action AceAction</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction</entry>
         <entry>action IntroduceVariable</entry>
@@ -651,8 +653,9 @@
         <entry>action RenameElement</entry>
         <entry>action ShowUsages</entry>
         <entry>action SelectNextOccurrence</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action AceAction</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
