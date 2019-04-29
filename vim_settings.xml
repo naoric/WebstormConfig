@@ -70,11 +70,12 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1556118661010">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-        <mark key="^" line="4" column="24" />
+      <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1556542563893">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/RootRouter.tsx" timestamp="1556093499340">
         <mark key="'" line="50" column="21" />
@@ -441,8 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="17" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/wizard/WizardSpinnerContainer.tsx" />
-      <jump line="49" column="19" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/wizard/WizardSpinnerContainer.tsx" />
       <jump line="50" column="13" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/Initializer/Initializer.tsx" />
       <jump line="9" column="49" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/route-wrappers/ConditionedRoute.tsx" />
       <jump line="13" column="130" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/selectors/create-route-selectors.ts" />
@@ -541,10 +540,12 @@
       <jump line="25" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulation-status.ts" />
       <jump line="62" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/simulation-status.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/sagas/simulation-controls.ts" />
+      <jump line="7" column="18" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
+      <jump line="102" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB5aWVsZCBkZWxheSgxMDAwKQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -553,7 +554,7 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>default conf</text>
@@ -598,7 +599,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -650,8 +651,8 @@
         <entry>action RenameElement</entry>
         <entry>action ShowUsages</entry>
         <entry>action SelectNextOccurrence</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
