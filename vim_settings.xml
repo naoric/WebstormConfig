@@ -75,13 +75,6 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/RootRouter.tsx" timestamp="1556093499340">
-        <mark key="'" line="50" column="21" />
-        <mark key="[" line="38" column="21" />
-        <mark key="]" line="38" column="20" />
-        <mark key="." line="38" column="20" />
-        <mark key="^" line="38" column="20" />
-      </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/api/api.ts" timestamp="1553459976508">
         <mark key="[" line="1" column="34" />
         <mark key="]" line="1" column="35" />
@@ -170,12 +163,6 @@
         <mark key="]" line="14" column="6" />
         <mark key="^" line="14" column="6" />
         <mark key="." line="14" column="6" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/EventSubscription/EventSubscriptionWrapper.tsx" timestamp="1555951620306">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="25" column="45" />
-        <mark key="^" line="25" column="45" />
-        <mark key="." line="25" column="45" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/Spinner/Spinner.tsx" timestamp="1556090949639">
         <mark key="[" line="38" column="11" />
