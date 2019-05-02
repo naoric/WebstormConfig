@@ -16,11 +16,19 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="shift alt semicolon" />
+  </action>
   <action id="InsertLiveTemplate" />
   <action id="Macro.Format and Save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="RunJsbtTask">
+    <keyboard-shortcut first-keystroke="alt f11" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
   <action id="SaveAll" />
+  <action id="SelectNextOccurrence" />
   <action id="ViewSource" />
   <action id="osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction">
     <keyboard-shortcut first-keystroke="meta enter" />
