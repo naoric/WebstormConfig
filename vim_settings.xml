@@ -70,10 +70,6 @@
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1559216134266">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="36" column="23" />
-        <mark key="]" line="36" column="23" />
-        <mark key="." line="36" column="23" />
-        <mark key="^" line="36" column="23" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/api/api.ts" timestamp="1553459976508">
         <mark key="[" line="1" column="34" />
@@ -163,13 +159,6 @@
         <mark key="]" line="38" column="11" />
         <mark key="^" line="16" column="28" />
         <mark key="." line="38" column="11" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/consent.ts" timestamp="1559216845777">
-        <mark key="'" line="20" column="35" />
-        <mark key="[" line="30" column="67" />
-        <mark key="]" line="30" column="71" />
-        <mark key="^" line="30" column="71" />
-        <mark key="." line="30" column="71" />
       </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/store.ts" timestamp="1553460020084">
         <mark key="[" line="2" column="26" />
@@ -327,13 +316,6 @@
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusLog/CarStatusDetailsPane.tsx" timestamp="1556114737312">
         <mark key="'" line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/CodeSnippet/CopyButton.tsx" timestamp="1559217044092">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="15" />
-        <mark key="^" line="31" column="15" />
-        <mark key="." line="31" column="15" />
       </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/entities/event.ts" timestamp="1556634350680">
         <mark key="^" line="64" column="6" />
