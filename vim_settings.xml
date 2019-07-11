@@ -71,6 +71,12 @@
       <file name="$USER_HOME$/development/otonomo/developer_journey/package.json" timestamp="1559216134266">
         <mark key="'" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/Modals/NotAuthorizedModal.tsx" timestamp="1562848868651">
+        <mark key="[" line="19" column="56" />
+        <mark key="]" line="19" column="56" />
+        <mark key="^" line="19" column="56" />
+        <mark key="." line="19" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/otonomo/developer_journey/src/state/api/api.ts" timestamp="1553459976508">
         <mark key="[" line="1" column="34" />
         <mark key="]" line="1" column="35" />
@@ -317,6 +323,7 @@
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusLog/CarStatusDetailsPane.tsx" timestamp="1556114737312">
         <mark key="'" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/CodeSnippet/CopyButton.tsx" timestamp="1562848852904" />
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/entities/event.ts" timestamp="1556634350680">
         <mark key="^" line="64" column="6" />
       </file>
