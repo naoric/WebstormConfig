@@ -154,6 +154,9 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/marketplace/marketplaceapp/dashboard_urls.py" timestamp="1563795448144">
+        <mark key="'" line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/react-aliases.ts" timestamp="1555572270162">
         <mark key="[" line="14" column="6" />
         <mark key="]" line="14" column="6" />
@@ -323,7 +326,6 @@
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/SimulationSideBar/CarStatusLog/CarStatusDetailsPane.tsx" timestamp="1556114737312">
         <mark key="'" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/developer_journey/src/components/CodeSnippet/CopyButton.tsx" timestamp="1562848852904" />
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/entities/event.ts" timestamp="1556634350680">
         <mark key="^" line="64" column="6" />
       </file>
@@ -413,7 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/SimulatorRoute.tsx" />
       <jump line="34" column="19" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/SimulatorRoute.tsx" />
       <jump line="30" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/SimulatorRoute.tsx" />
       <jump line="92" column="22" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/SimulatorRoute.tsx" />
@@ -513,6 +514,7 @@
       <jump line="20" column="35" filename="$USER_HOME$/development/otonomo/developer_journey/src/state/redux-modules/consent.ts" />
       <jump line="52" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/CodeSnippet/CopyButton.tsx" />
       <jump line="12" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/CodeSnippet/CopyButton.tsx" />
+      <jump line="60" column="0" filename="$USER_HOME$/development/otonomo/marketplace/marketplaceapp/dashboard_urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -572,7 +574,7 @@
         <text encoding="base64">ICB5aWVsZCBjYWxsKHN0b3BTaW11bGF0aW9uQW5kV2FpdCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action IntroduceVariable</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -622,10 +624,10 @@
         <entry>action VimMotionScrollHalfPageDown</entry>
         <entry>action ShowIntentionActions</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RenameElement</entry>
         <entry>action IntroduceVariable</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
