@@ -184,6 +184,13 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/developer_journey/src/types/store/root.type.ts" timestamp="1568892311036">
+        <mark key="'" line="276" column="20" />
+        <mark key="[" line="317" column="13" />
+        <mark key="]" line="317" column="23" />
+        <mark key="." line="317" column="23" />
+        <mark key="^" line="317" column="23" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/developer_journey/src/routes/Simulation/SimulationPage.tsx" timestamp="1555949972316">
         <mark key="[" line="17" column="19" />
         <mark key="]" line="17" column="33" />
@@ -403,8 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="19" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/SimulatorRoute.tsx" />
-      <jump line="30" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/SimulatorRoute.tsx" />
       <jump line="92" column="22" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/SimulatorRoute.tsx" />
       <jump line="26" column="29" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/SimulatorRoute.tsx" />
       <jump line="85" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/routes/SimulatorRoute.tsx" />
@@ -503,10 +508,12 @@
       <jump line="52" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/CodeSnippet/CopyButton.tsx" />
       <jump line="12" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/components/CodeSnippet/CopyButton.tsx" />
       <jump line="60" column="0" filename="$USER_HOME$/development/otonomo/marketplace/marketplaceapp/dashboard_urls.py" />
+      <jump line="274" column="0" filename="$USER_HOME$/development/otonomo/developer_journey/src/types/store/root.type.ts" />
+      <jump line="276" column="20" filename="$USER_HOME$/development/otonomo/developer_journey/src/types/store/root.type.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>Location</text>
       </register>
       <register name="f" type="4">
         <text encoding="base64">JiAkaW5wdXRMYWJlbA==</text>
@@ -515,10 +522,10 @@
         <text>'https://otonomo.io/vin'</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>Location</text>
       </register>
       <register name="/" type="4">
-        <text>texttocopy</text>
+        <text>location</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB5aWVsZCBjYWxsKHdhaXRGb3IsIERFTEVURV9TSU1VTEFUSU9OKQo=</text>
@@ -566,15 +573,14 @@
       </register>
     </registers>
     <search>
-      <last-search>texttocopy</last-search>
+      <last-search>location</last-search>
       <last-offset />
-      <last-pattern>texttocopy</last-pattern>
+      <last-pattern>location</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>can</entry>
         <entry>ususerauthorize</entry>
         <entry>isUserAuthorize</entry>
         <entry>tit</entry>
@@ -594,6 +600,7 @@
         <entry>console</entry>
         <entry>has_consent</entry>
         <entry>texttocopy</entry>
+        <entry>location</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gTW92ZVN0YXRlbWVudFVw</entry>
