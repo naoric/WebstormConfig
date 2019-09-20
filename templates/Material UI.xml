@@ -41,8 +41,8 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="st" value="const styles = (theme: $TYPE$) =&gt; createStyles({$END$})" description="styled" toReformat="false" toShortenFQNames="true">
-    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="st" value="const styles = makeStyles((theme: $THEME$) =&gt; ({$END$})" description="styled" toReformat="false" toShortenFQNames="true">
+    <variable name="THEME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
