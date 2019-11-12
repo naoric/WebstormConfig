@@ -1,0 +1,7 @@
+<templateSet group="Consumer">
+  <template name="rr" value="const req = mockReq({$END$})&#10;const res = mockRes({})" description="Mock Req Res" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
