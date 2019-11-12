@@ -5,12 +5,6 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="it" value="it('should $DESC$', () =&gt; {&#10;  $END$&#10;})" description="it should" toReformat="false" toShortenFQNames="true">
-    <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
   <template name="jfn" value="jest.fn()" description="Jest spy" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
