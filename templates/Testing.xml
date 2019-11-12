@@ -5,7 +5,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="jfn" value="jest.fn()" description="Jest spy" toReformat="false" toShortenFQNames="true">
+  <template name="jf" value="jest.fn($END$)" description="Jest spy" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
