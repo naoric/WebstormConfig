@@ -28,7 +28,7 @@
   </action>
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="f7" />
-    <keyboard-shortcut first-keystroke="shift left_parenthesis" />
+    <keyboard-shortcut first-keystroke="space" />
   </action>
   <action id="QuickChangeScheme" />
   <action id="RunJsbtTask">
