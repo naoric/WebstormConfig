@@ -128,7 +128,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ti" value="// TODO ($ME$ $DATE$): Implement$END$" description="" toReformat="false" toShortenFQNames="true">
+  <template name="ti" value="// TODO ($ME$ $DATE$): Missing Implementation$END$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="ME" expression="user()" defaultValue="" alwaysStopAt="false" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
     <context>
