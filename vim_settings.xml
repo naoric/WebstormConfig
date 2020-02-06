@@ -71,6 +71,9 @@
       <shortcut-conflict owner="vim">
         <text>shift pressed TAB</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
     <editor />
     <notifications>
