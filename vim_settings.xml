@@ -2,6 +2,16 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxzaG93TmV3U2lnbnVwXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>action GotoFile</entry>
+      </history-cmd>
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -85,12 +95,37 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServicePage.tsx" timestamp="1588258654661" />
+      <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" timestamp="1588258914716">
+        <mark key="'" line="122" column="43" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/SignupFormBody.tsx" timestamp="1588259307573" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
+      <jump line="76" column="34" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
+      <jump line="83" column="20" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
+      <jump line="85" column="20" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
+      <jump line="91" column="26" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
+      <jump line="113" column="43" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
+      <jump line="122" column="43" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name=":" type="4">
+        <text>action GotoFile</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxzaG93TmV3U2lnbnVwXD4=</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxzaG93TmV3U2lnbnVwXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxzaG93TmV3U2lnbnVwXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
