@@ -98,7 +98,12 @@
       <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" timestamp="1588258914716">
         <mark key="'" line="122" column="43" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/SignupFormBody.tsx" timestamp="1588259307573" />
+      <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/SignupFormBody.tsx" timestamp="1588263990366">
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="33" />
+        <mark key="." line="36" column="32" />
+        <mark key="^" line="36" column="33" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
@@ -112,8 +117,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="&quot;" type="4">
+        <text>1</text>
+      </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
+      </register>
+      <register name="-" type="4">
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93TmV3U2lnbnVwXD4=</text>
