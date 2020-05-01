@@ -6,9 +6,14 @@
     <history>
       <history-search>
         <entry encoding="base64">XDxzaG93TmV3U2lnbnVwXD4=</entry>
+        <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
       </history-search>
       <history-cmd>
+        <entry>action FindUsages</entry>
+        <entry>action EditorSplitLine</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action SelectNextOccurrence</entry>
       </history-cmd>
     </history>
   </component>
@@ -94,15 +99,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/development/otonomo/consumer/server/lib/feature-flags.ts" timestamp="1588334450765" />
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServicePage.tsx" timestamp="1588258654661" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/controllers/RenderClientController.ts" timestamp="1588333929052" />
       <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" timestamp="1588258914716">
         <mark key="'" line="122" column="43" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/ConsumerDashboard.tsx" timestamp="1588333211297">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/SignupFormBody.tsx" timestamp="1588317593534">
         <mark key="[" line="36" column="35" />
         <mark key="]" line="36" column="11" />
         <mark key="^" line="36" column="11" />
         <mark key="." line="36" column="10" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" timestamp="1588333252418">
+        <mark key="'" line="43" column="6" />
+        <mark key="[" line="75" column="49" />
+        <mark key="]" line="75" column="66" />
+        <mark key="^" line="75" column="66" />
+        <mark key="." line="75" column="65" />
       </file>
     </filemarks>
     <jumps>
@@ -113,29 +132,36 @@
       <jump line="91" column="26" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
       <jump line="113" column="43" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
       <jump line="122" column="43" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
+      <jump line="147" column="19" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" />
+      <jump line="63" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" />
+      <jump line="167" column="15" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" />
+      <jump line="43" column="6" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG1heFdpZHRoOiAxOTIwLAo=</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>servicesContainer</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action SelectNextOccurrence</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>servicesContainer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93TmV3U2lnbnVwXD4=</text>
+        <text encoding="base64">XDxzdHlsZXNcPg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzaG93TmV3U2lnbnVwXD4=</last-search>
+      <last-search encoding="base64">XDxzdHlsZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93TmV3U2lnbnVwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdHlsZXNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
