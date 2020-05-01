@@ -98,7 +98,12 @@
       <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" timestamp="1588258914716">
         <mark key="'" line="122" column="43" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/SignupFormBody.tsx" timestamp="1588263990366" />
+      <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/SignupFormBody.tsx" timestamp="1588317593534">
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="36" column="11" />
+        <mark key="^" line="36" column="11" />
+        <mark key="." line="36" column="10" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
