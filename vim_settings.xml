@@ -14,6 +14,7 @@
         <entry>action GotoDeclaration</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action GotoFile</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -131,11 +132,10 @@
         <mark key="^" line="75" column="66" />
         <mark key="." line="75" column="65" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/feature-toggle-js/feature_toggle_js.mk" timestamp="1588763170923">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="8" column="115" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/development/otonomo/feature-toggle-js/feature_toggle_js.mk" timestamp="1588774317425">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -156,16 +156,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
+        <text encoding="base64">CnRlc3Rfc3RhZ2U6CglAZWNobwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CnRlc3Rfc3RhZ2U6CglAZWNobwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIG1heFdpZHRoOiAxOTIwLAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_extend</text>
-      </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action RenameElement</text>
       </register>
       <register name="-" type="4">
-        <text>_extend</text>
+        <text>:_extend:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHlsZXNcPg==</text>
