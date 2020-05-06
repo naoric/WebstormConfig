@@ -8,12 +8,13 @@
     <option name="FONT_FAMILY" value="Monaco" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+  </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
-  <component name="LiveEditOptions" chromeAutoDelay="300" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" useJBChromeExtension="true">
-    <option name="elementHighlighting" value="true" />
-  </component>
+  <component name="LiveEditOptions" chromeAutoDelay="300" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" useJBChromeExtension="true" />
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
