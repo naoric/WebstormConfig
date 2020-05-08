@@ -7,14 +7,17 @@
       <history-search>
         <entry encoding="base64">XDxzaG93TmV3U2lnbnVwXD4=</entry>
         <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
+        <entry encoding="base64">XDxyZW5kZXJEZW1vQnV0dG9uXD4=</entry>
+        <entry encoding="base64">XDxoYXNQbGF5Z3JvdW5kUGVybWlzc2lvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>action FindUsages</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action SelectNextOccurrence</entry>
-        <entry>action GotoFile</entry>
         <entry>action RenameElement</entry>
+        <entry>action GotoFile</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -108,6 +111,9 @@
         <mark key="." line="3" column="28" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/PersonalComponents/PersonalServicePage.tsx" timestamp="1588960012970">
+        <mark key="'" line="103" column="14" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" timestamp="1588258914716">
         <mark key="'" line="122" column="43" />
       </file>
@@ -124,6 +130,9 @@
         <mark key="]" line="36" column="11" />
         <mark key="^" line="36" column="11" />
         <mark key="." line="36" column="10" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/server/config/default.ts" timestamp="1588959764118">
+        <mark key="'" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" timestamp="1588333252418">
         <mark key="'" line="43" column="6" />
@@ -151,6 +160,17 @@
       <jump line="167" column="15" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" />
       <jump line="43" column="6" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" />
       <jump line="28" column="0" filename="$USER_HOME$/development/otonomo/feature-toggle-js/src/index.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/config/default.ts" />
+      <jump line="69" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/config/default.ts" />
+      <jump line="1" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/config/default.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/config/default.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/config/default.ts" />
+      <jump line="63" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/config/default.ts" />
+      <jump line="19" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/config/default.ts" />
+      <jump line="25" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/config/default.ts" />
+      <jump line="89" column="10" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/PersonalComponents/PersonalServicePage.tsx" />
+      <jump line="66" column="30" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/PersonalComponents/PersonalServicePage.tsx" />
+      <jump line="103" column="14" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/PersonalComponents/PersonalServicePage.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -165,21 +185,21 @@
         <text encoding="base64">ICAgIG1heFdpZHRoOiAxOTIwLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</text>
       </register>
       <register name="-" type="4">
         <text>:_extend:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHlsZXNcPg==</text>
+        <text encoding="base64">XDxoYXNQbGF5Z3JvdW5kUGVybWlzc2lvblw+</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzdHlsZXNcPg==</last-search>
+      <last-search encoding="base64">XDxoYXNQbGF5Z3JvdW5kUGVybWlzc2lvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHlsZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxoYXNQbGF5Z3JvdW5kUGVybWlzc2lvblw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
