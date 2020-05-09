@@ -19,6 +19,7 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action CopyReference</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,7 +135,7 @@
       <file name="$USER_HOME$/development/otonomo/feature-toggle-js/src/index.ts" timestamp="1588761843057">
         <mark key="'" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/node_modules/formik/dist/Field.d.ts" timestamp="1589040994092" />
+      <file name="$USER_HOME$/development/otonomo/consumer/node_modules/formik/dist/Field.d.ts" timestamp="1589041044421" />
       <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/SignupFormBody.tsx" timestamp="1588317593534">
         <mark key="[" line="36" column="35" />
         <mark key="]" line="36" column="11" />
@@ -206,7 +207,7 @@
         <text encoding="base64">ICAgIG1heFdpZHRoOiAxOTIwLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action CopyReference</text>
       </register>
       <register name="-" type="4">
         <text>:_extend:</text>
