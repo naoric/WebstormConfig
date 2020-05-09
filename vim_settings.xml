@@ -10,6 +10,7 @@
         <entry encoding="base64">XDxyZW5kZXJEZW1vQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxoYXNQbGF5Z3JvdW5kUGVybWlzc2lvblw+</entry>
         <entry>usefield</entry>
+        <entry>function</entry>
       </history-search>
       <history-cmd>
         <entry>action FindUsages</entry>
@@ -219,7 +220,7 @@
         <text>:_extend:</text>
       </register>
       <register name="/" type="4">
-        <text>usefield</text>
+        <text>function</text>
       </register>
     </registers>
   </component>
