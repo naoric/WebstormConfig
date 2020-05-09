@@ -34,8 +34,8 @@
         <entry>action GotoAction</entry>
         <entry>action AceAction</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoFile</entry>
         <entry>action CopyReference</entry>
+        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
@@ -145,12 +145,11 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/lib/test-utils/renderers.tsx" timestamp="1589055576024">
-        <mark key="'" line="7" column="13" />
-        <mark key="[" line="10" column="60" />
-        <mark key="]" line="10" column="60" />
-        <mark key="^" line="7" column="36" />
-        <mark key="." line="10" column="60" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/lib/test-utils/renderers.tsx" timestamp="1589055731447">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="6" column="21" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/routes/ConsumerDashboard.tsx" timestamp="1588333211297">
         <mark key="[" line="20" column="0" />
@@ -160,11 +159,11 @@
       <file name="$USER_HOME$/development/otonomo/feature-toggle-js/src/index.ts" timestamp="1588761843057">
         <mark key="'" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.spec.tsx" timestamp="1589055341818">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="8" column="28" />
-        <mark key="^" line="8" column="28" />
-        <mark key="." line="8" column="27" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.spec.tsx" timestamp="1589057716824">
+        <mark key="[" line="9" column="68" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="4" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" timestamp="1588333252418">
         <mark key="'" line="43" column="6" />
@@ -181,7 +180,7 @@
       <file name="/" timestamp="1589055597648">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/CreateReportSharedFields.tsx" timestamp="1589055197558">
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/CreateReportSharedFields.tsx" timestamp="1589057610557">
         <mark key="[" line="29" column="9" />
         <mark key="]" line="29" column="28" />
         <mark key="^" line="29" column="28" />
@@ -193,7 +192,7 @@
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" timestamp="1589038336633">
         <mark key="'" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" timestamp="1589048370377">
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" timestamp="1589055784341">
         <mark key="'" line="61" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/test-utils.tsx" timestamp="1589055588648">
@@ -263,41 +262,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZXNjcmliZSgnQnkgUG9seWdvbicsICgpID0+IHsKICAgIAogIH0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Without limits, invalid date range</text>
       </register>
       <register name="/" type="4">
         <text>custom</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJpbmNyZW1lbnRhbCI6IHRydWUsCg==</text>
+        <text encoding="base64">ICBkZXNjcmliZSgnQnkgUG9seWdvbicsICgpID0+IHsKICAgIAogIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpdCgnQWNjb3VudCBpbiBsaXZlIG1vZGUnLCAoKSA9PiB7CiAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcXVlcnlCeVRleHQgfSA9IHJlbmRlcig8TGl2ZUFjY291bnRCYW5uZXIgLz4pCiAgICBleHBlY3QocXVlcnlCeVRleHQoJ0xpdmUgTW9kZSEnKSkudG9CZUluVGhlRG9jdW1lbnQoKQo=</text>
+        <text encoding="base64">ICBkZXNjcmliZSgnV2hlbiBpdCBpcyBiZWluZyBzdWJtaXR0ZWQgd2l0aCBpbnZhbGlkIGRhdGEnLCAoKSA9PiB7CiAgICAKICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcXVlcnlCeVRleHQgfSA9IHJlbmRlcig8VHJpYWxBY2NvdW50QmFubmVyIGRheXNMZWZ0PXsyfSAvPikKICAgIGV4cGVjdChxdWVyeUJ5VGV4dCgnRnJlZSB0cmlhbCcpKS50b0JlSW5UaGVEb2N1bWVudCgpCiAgICBleHBlY3QocXVlcnlCeVRleHQoJzIgZGF5cy4nKSkudG9CZUluVGhlRG9jdW1lbnQoKQo=</text>
+        <text encoding="base64">ICBkZXNjcmliZSgnQnkgbG9jYXRpb24nLCBTKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IExpdmVBY2NvdW50QmFubmVyIGZyb20gJy4vTGl2ZUFjY291bnRCYW5uZXInCmltcG9ydCBUcmlhbEFjY291bnRCYW5uZXIgZnJvbSAnLi9UcmlhbEFjY291bnRCYW5uZXInCg==</text>
+        <text encoding="base64">ICBpdCgnc2hvdWxkIGJlIGludmFsaWQgaWYnLCAoKSA9PiB7CiAgICBjb25zdCBjb21wb25lbnRSZW5kZXJlciA9IGNyZWF0ZUNvbXBvbmVudFJlbmRlcmVyKEdlbmVyYXRlUmVwb3J0LCB7fSkKICB9KQoKICBpdCgnc2hvdWxkICcsICgpID0+IHsKICAgIAogIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEFjY291bnRCYXIgZnJvbSAnY29tcG9uZW50cy9UcmlhbE1vZGUvQWNjb3VudEJhcicK</text>
+        <text encoding="base64">ICBpdCgnQWNjb3VudCBpbiB0cmlhbCBtb2RlJywgKCkgPT4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJpbmNyZW1lbnRhbCI6IHRydWUsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgc29tZXRoaW5nVG9SZWFkID0gcGF0aC5qb2luKCdzb21ldGhpbmcgdG8gcmVhZCcpCg==</text>
+        <text encoding="base64">ICAgIEdlbmVyYXRlUmVwb3J0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnRlc3Rfc3RhZ2U6CglAZWNobwo=</text>
+        <text encoding="base64">ICAgICJpbmNyZW1lbnRhbCI6IHRydWUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
