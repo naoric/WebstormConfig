@@ -21,6 +21,7 @@
         <entry>custom</entry>
         <entry encoding="base64">XDxjcmVhdGVTdG9yZVw+</entry>
         <entry>store</entry>
+        <entry encoding="base64">XDxDb25uZWN0ZWRSb3V0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorSplitLine</entry>
@@ -34,11 +35,12 @@
         <entry>action SplitVertically</entry>
         <entry>action AceAction</entry>
         <entry>action CopyReference</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action FindUsages</entry>
         <entry>action RenameElement</entry>
+        <entry>action EditorDuplicateLines</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -154,20 +156,15 @@
         <mark key="^" line="10" column="96" />
         <mark key="." line="10" column="95" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/ConsumerDashboard.tsx" timestamp="1588333211297">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/feature-toggle-js/src/index.ts" timestamp="1588761843057">
         <mark key="'" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.spec.tsx" timestamp="1589059016437">
-        <mark key="'" line="5" column="15" />
-        <mark key="[" line="32" column="15" />
-        <mark key="]" line="32" column="16" />
-        <mark key="^" line="32" column="16" />
-        <mark key="." line="32" column="15" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.spec.tsx" timestamp="1589060138608">
+        <mark key="'" line="3" column="41" />
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="38" />
+        <mark key="." line="3" column="38" />
+        <mark key="^" line="3" column="36" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" timestamp="1588333252418">
         <mark key="'" line="43" column="6" />
@@ -190,27 +187,29 @@
         <mark key="^" line="29" column="28" />
         <mark key="." line="29" column="27" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" timestamp="1588258914716">
-        <mark key="'" line="122" column="43" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/mapbox/DrawPolygon.tsx" timestamp="1589059290868" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/report-schemas.ts" timestamp="1589060180228">
+        <mark key="'" line="4" column="30" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/RootRouter.tsx" timestamp="1589059665612">
+        <mark key="'" line="4" column="9" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/ReportByPolygon.tsx" timestamp="1589059322721" />
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" timestamp="1589038336633">
         <mark key="'" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" timestamp="1589055784341">
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" timestamp="1589059372455">
         <mark key="'" line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/test-utils.tsx" timestamp="1589058327092">
-        <mark key="'" line="17" column="63" />
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="9" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/SignupFormBody.tsx" timestamp="1588317593534">
-        <mark key="[" line="36" column="35" />
-        <mark key="]" line="36" column="11" />
-        <mark key="^" line="36" column="11" />
-        <mark key="." line="36" column="10" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/test-utils.tsx" timestamp="1589059862217">
+        <mark key="'" line="18" column="63" />
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="24" column="14" />
+        <mark key="^" line="24" column="14" />
+        <mark key="." line="24" column="13" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/config/default.ts" timestamp="1589027953515">
         <mark key="'" line="29" column="0" />
@@ -265,58 +264,62 @@
       <jump line="13" column="52" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.spec.tsx" />
       <jump line="21" column="33" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.spec.tsx" />
       <jump line="5" column="15" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.spec.tsx" />
+      <jump line="59" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/report-schemas.ts" />
+      <jump line="4" column="30" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/report-schemas.ts" />
+      <jump line="36" column="7" filename="$USER_HOME$/development/otonomo/consumer/src/routes/RootRouter.tsx" />
+      <jump line="57" column="8" filename="$USER_HOME$/development/otonomo/consumer/src/routes/RootRouter.tsx" />
+      <jump line="4" column="9" filename="$USER_HOME$/development/otonomo/consumer/src/routes/RootRouter.tsx" />
+      <jump line="3" column="41" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.spec.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlRWFjaCgoKSA9PiB7CgogICAgICB9KQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtb2RlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>renderArgs</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>store</text>
+        <text encoding="base64">XDxDb25uZWN0ZWRSb3V0ZXJcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlRWFjaCgoKSA9PiB7CgogICAgICB9KQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtb2RlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHJlbmRlcmVyID0gZ2VuZXJhdGVSZXBvcnRSZW5kZXJlcih7fSkK</text>
+        <text encoding="base64">ICByb3V0ZTogJy9zZXJ2aWNlcy9hZ2dyZWdhdGUvOTk5L3JlcG9ydC9jcmVhdGUvbG9jYXRpb24nLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">e3N0b3JlOiBjcmVhdGVTdG9yZSgoKSA9PiAoewogICAgICAgICAgcmVwb3J0czogewogICAgICAgICAgICBwb2ludHM6IHsKICAgICAgICAgICAgICByZWNvcmRzX2xpbWl0OiB7CiAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogJ01heGltdW0gbnVtYmVyIG9mIHBvaW50cyBpbiBhIHNpbmdsZSByZXBvcnQnLAogICAgICAgICAgICAgICAgdmFsdWU6IDEwMDAwLAogICAgICAgICAgICAgICAgZW5hYmxlZDogdHJ1ZQogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgcmVwb3J0X2RheXNfcmFuZ2U6IHsKICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAnTWF4aW11bSBkYXlzIGJldHdlZW4gc3RhcnQgYW5kIGVuZCB0aW1lIG9mIHJlcG9ydCcsCiAgICAgICAgICAgICAgICB2YWx1ZTogNywKICAgICAgICAgICAgICAgIGVuYWJsZWQ6IHRydWUKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9KSl9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VQYXJhbXMudG9TdHJpbmcoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJpcHM6IHsKICAgICAgICAgICAgICByZWNvcmRzX2xpbWl0OiB7CiAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogJ01heGltdW0gbnVtYmVyIG9mIHRyaXBzIGluIGEgc2luZ2xlIHJlcG9ydCcsCiAgICAgICAgICAgICAgICB2YWx1ZTogMjAwLAogICAgICAgICAgICAgICAgZW5hYmxlZDogdHJ1ZQogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgcmVwb3J0X2RheXNfcmFuZ2U6IHsKICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAnTWF4aW11bSBkYXlzIGJldHdlZW4gc3RhcnQgYW5kIGVuZCB0aW1lIG9mIHJlcG9ydCcsCiAgICAgICAgICAgICAgICB2YWx1ZTogNywKICAgICAgICAgICAgICAgIGVuYWJsZWQ6IHRydWUKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VQYXJhbXMpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-        reports: { points: }
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgcmVuZGVyIH0gZnJvbSAndGVzdHMtdXRpbHMvcnRsLXdyYXBwZXJzJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsaW1pdHM6IAo=</text>
+        <text encoding="base64">amVzdC5tb2NrKCdyZWFjdC1tYXBib3gtZ2wtZHJhdycsICgpID0+ICh7fSkpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">e3N0b3JlOiBjcmVhdGVTdG9yZSgoKSA9PiAoewogICAgICAgICAgCiAgICAgICAgfSkpfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYmVmb3JlRWFjaCgoKSA9PiB7CgogICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSgnQnkgUG9seWdvbicsICgpID0+IHsKICAgIAogIH0pCg==</text>
+        <text encoding="base64">ICAgICAgbGV0IHJlbmRlcmVyID0gZ2VuZXJhdGVSZXBvcnRSZW5kZXJlcih7fSkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">e3N0b3JlOiBjcmVhdGVTdG9yZSgoKSA9PiAoewogICAgICAgICAgcmVwb3J0czogewogICAgICAgICAgICBwb2ludHM6IHsKICAgICAgICAgICAgICByZWNvcmRzX2xpbWl0OiB7CiAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogJ01heGltdW0gbnVtYmVyIG9mIHBvaW50cyBpbiBhIHNpbmdsZSByZXBvcnQnLAogICAgICAgICAgICAgICAgdmFsdWU6IDEwMDAwLAogICAgICAgICAgICAgICAgZW5hYmxlZDogdHJ1ZQogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgcmVwb3J0X2RheXNfcmFuZ2U6IHsKICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAnTWF4aW11bSBkYXlzIGJldHdlZW4gc3RhcnQgYW5kIGVuZCB0aW1lIG9mIHJlcG9ydCcsCiAgICAgICAgICAgICAgICB2YWx1ZTogNywKICAgICAgICAgICAgICAgIGVuYWJsZWQ6IHRydWUKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9KSl9</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>store</last-search>
+      <last-search encoding="base64">XDxDb25uZWN0ZWRSb3V0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>store</last-pattern>
+      <last-pattern encoding="base64">XDxDb25uZWN0ZWRSb3V0ZXJcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
