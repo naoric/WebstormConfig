@@ -16,8 +16,8 @@
         <entry>action GotoDeclaration</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -131,8 +131,11 @@
         <mark key="^" line="36" column="11" />
         <mark key="." line="36" column="10" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/config/default.ts" timestamp="1588959764118">
+      <file name="$USER_HOME$/development/otonomo/consumer/server/config/default.ts" timestamp="1589027953515">
         <mark key="'" line="25" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" timestamp="1588333252418">
         <mark key="'" line="43" column="6" />
@@ -176,16 +179,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CnRlc3Rfc3RhZ2U6CglAZWNobwo=</text>
+        <text encoding="base64">Y29uc3Qgc29tZXRoaW5nVG9SZWFkID0gcGF0aC5qb2luKCdzb21ldGhpbmcgdG8gcmVhZCcpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CnRlc3Rfc3RhZ2U6CglAZWNobwo=</text>
+        <text encoding="base64">Y29uc3Qgc29tZXRoaW5nVG9SZWFkID0gcGF0aC5qb2luKCdzb21ldGhpbmcgdG8gcmVhZCcpCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CnRlc3Rfc3RhZ2U6CglAZWNobwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIG1heFdpZHRoOiAxOTIwLAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</text>
+        <text>action GotoFile</text>
       </register>
       <register name="-" type="4">
         <text>:_extend:</text>
