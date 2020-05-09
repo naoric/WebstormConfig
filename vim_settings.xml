@@ -11,17 +11,32 @@
         <entry encoding="base64">XDxoYXNQbGF5Z3JvdW5kUGVybWlzc2lvblw+</entry>
         <entry>usefield</entry>
         <entry>function</entry>
+        <entry>split</entry>
+        <entry>next</entry>
+        <entry>Split</entry>
+        <entry>ui:</entry>
+        <entry encoding="base64">XDx1aVw+</entry>
+        <entry>state</entry>
+        <entry>renderarg</entry>
+        <entry>custom</entry>
       </history-search>
       <history-cmd>
         <entry>action FindUsages</entry>
         <entry>action EditorSplitLine</entry>
         <entry>action SelectNextOccurrence</entry>
-        <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action CopyReference</entry>
-        <entry>action GotoFile</entry>
+        <entry>action Forward</entry>
+        <entry>action VimWindowSplitVertical</entry>
+        <entry>actionlist split</entry>
+        <entry>w</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action SplitVertically</entry>
         <entry>action GotoAction</entry>
+        <entry>action AceAction</entry>
+        <entry>action RenameElement</entry>
+        <entry>action GotoFile</entry>
+        <entry>action CopyReference</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -109,10 +124,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.json" timestamp="1589039948621">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.json" timestamp="1589055272470">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/feature-toggle-js/package.json" timestamp="1588761812598">
         <mark key="[" line="3" column="27" />
@@ -123,6 +138,20 @@
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/PersonalComponents/PersonalServicePage.tsx" timestamp="1588960012970">
         <mark key="'" line="103" column="14" />
       </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1589054158241">
+        <mark key="'" line="56" column="25" />
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="34" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/lib/test-utils/renderers.tsx" timestamp="1589055576024">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="10" column="60" />
+        <mark key="]" line="10" column="60" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="10" column="60" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/routes/ConsumerDashboard.tsx" timestamp="1588333211297">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -130,6 +159,12 @@
       </file>
       <file name="$USER_HOME$/development/otonomo/feature-toggle-js/src/index.ts" timestamp="1588761843057">
         <mark key="'" line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.spec.tsx" timestamp="1589055341818">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="8" column="27" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" timestamp="1588333252418">
         <mark key="'" line="43" column="6" />
@@ -143,6 +178,15 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/" timestamp="1589055597648">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/CreateReportSharedFields.tsx" timestamp="1589055197558">
+        <mark key="[" line="29" column="9" />
+        <mark key="]" line="29" column="28" />
+        <mark key="^" line="29" column="28" />
+        <mark key="." line="29" column="27" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" timestamp="1588258914716">
         <mark key="'" line="122" column="43" />
       </file>
@@ -151,6 +195,13 @@
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" timestamp="1589048370377">
         <mark key="'" line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/test-utils.tsx" timestamp="1589055588648">
+        <mark key="'" line="17" column="63" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="6" />
       </file>
       <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/SignupFormBody.tsx" timestamp="1588317593534">
         <mark key="[" line="36" column="35" />
@@ -194,41 +245,70 @@
       <jump line="124" column="17" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
       <jump line="95" column="20" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
       <jump line="61" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
+      <jump line="18" column="28" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="57" column="25" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="15" column="33" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="23" column="21" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="38" column="21" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="85" column="24" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="16" column="21" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="12" column="19" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="56" column="25" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="21" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/test-utils.tsx" />
+      <jump line="15" column="2" filename="$USER_HOME$/development/otonomo/consumer/src/test-utils.tsx" />
+      <jump line="18" column="12" filename="$USER_HOME$/development/otonomo/consumer/src/test-utils.tsx" />
+      <jump line="6" column="13" filename="$USER_HOME$/development/otonomo/consumer/src/lib/test-utils/renderers.tsx" />
+      <jump line="17" column="63" filename="$USER_HOME$/development/otonomo/consumer/src/test-utils.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="&quot;" type="4">
+        <text>.</text>
+      </register>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
+      <register name="/" type="4">
+        <text>custom</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJpbmNyZW1lbnRhbCI6IHRydWUsCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJpbmNyZW1lbnRhbCI6IHRydWUsCg==</text>
-      </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3Qgc29tZXRoaW5nVG9SZWFkID0gcGF0aC5qb2luKCdzb21ldGhpbmcgdG8gcmVhZCcpCg==</text>
+        <text encoding="base64">ICBpdCgnQWNjb3VudCBpbiBsaXZlIG1vZGUnLCAoKSA9PiB7CiAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnRlc3Rfc3RhZ2U6CglAZWNobwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgcXVlcnlCeVRleHQgfSA9IHJlbmRlcig8TGl2ZUFjY291bnRCYW5uZXIgLz4pCiAgICBleHBlY3QocXVlcnlCeVRleHQoJ0xpdmUgTW9kZSEnKSkudG9CZUluVGhlRG9jdW1lbnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1heFdpZHRoOiAxOTIwLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgcXVlcnlCeVRleHQgfSA9IHJlbmRlcig8VHJpYWxBY2NvdW50QmFubmVyIGRheXNMZWZ0PXsyfSAvPikKICAgIGV4cGVjdChxdWVyeUJ5VGV4dCgnRnJlZSB0cmlhbCcpKS50b0JlSW5UaGVEb2N1bWVudCgpCiAgICBleHBlY3QocXVlcnlCeVRleHQoJzIgZGF5cy4nKSkudG9CZUluVGhlRG9jdW1lbnQoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IExpdmVBY2NvdW50QmFubmVyIGZyb20gJy4vTGl2ZUFjY291bnRCYW5uZXInCmltcG9ydCBUcmlhbEFjY291bnRCYW5uZXIgZnJvbSAnLi9UcmlhbEFjY291bnRCYW5uZXInCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IEFjY291bnRCYXIgZnJvbSAnY29tcG9uZW50cy9UcmlhbE1vZGUvQWNjb3VudEJhcicK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJpbmNyZW1lbnRhbCI6IHRydWUsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3Qgc29tZXRoaW5nVG9SZWFkID0gcGF0aC5qb2luKCdzb21ldGhpbmcgdG8gcmVhZCcpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CnRlc3Rfc3RhZ2U6CglAZWNobwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
-      </register>
-      <register name="-" type="4">
-        <text>:_extend:</text>
-      </register>
-      <register name="/" type="4">
-        <text>function</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>function</last-search>
+      <last-search>custom</last-search>
       <last-offset />
-      <last-pattern>function</last-pattern>
+      <last-pattern>custom</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
