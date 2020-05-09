@@ -9,15 +9,16 @@
         <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJEZW1vQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxoYXNQbGF5Z3JvdW5kUGVybWlzc2lvblw+</entry>
+        <entry>usefield</entry>
       </history-search>
       <history-cmd>
         <entry>action FindUsages</entry>
         <entry>action EditorSplitLine</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -114,9 +115,6 @@
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/PersonalComponents/PersonalServicePage.tsx" timestamp="1588960012970">
         <mark key="'" line="103" column="14" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" timestamp="1588258914716">
-        <mark key="'" line="122" column="43" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/routes/ConsumerDashboard.tsx" timestamp="1588333211297">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -124,18 +122,6 @@
       </file>
       <file name="$USER_HOME$/development/otonomo/feature-toggle-js/src/index.ts" timestamp="1588761843057">
         <mark key="'" line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/SignupFormBody.tsx" timestamp="1588317593534">
-        <mark key="[" line="36" column="35" />
-        <mark key="]" line="36" column="11" />
-        <mark key="^" line="36" column="11" />
-        <mark key="." line="36" column="10" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/config/default.ts" timestamp="1589027953515">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" timestamp="1588333252418">
         <mark key="'" line="43" column="6" />
@@ -148,6 +134,24 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" timestamp="1588258914716">
+        <mark key="'" line="122" column="43" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" timestamp="1589038336633">
+        <mark key="'" line="10" column="25" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/SignupFormBody.tsx" timestamp="1588317593534">
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="36" column="11" />
+        <mark key="^" line="36" column="11" />
+        <mark key="." line="36" column="10" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/server/config/default.ts" timestamp="1589027953515">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -174,6 +178,8 @@
       <jump line="89" column="10" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/PersonalComponents/PersonalServicePage.tsx" />
       <jump line="66" column="30" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/PersonalComponents/PersonalServicePage.tsx" />
       <jump line="103" column="14" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/PersonalComponents/PersonalServicePage.tsx" />
+      <jump line="8" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" />
+      <jump line="10" column="25" filename="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -191,21 +197,21 @@
         <text encoding="base64">ICAgIG1heFdpZHRoOiAxOTIwLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoDeclaration</text>
       </register>
       <register name="-" type="4">
         <text>:_extend:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYXNQbGF5Z3JvdW5kUGVybWlzc2lvblw+</text>
+        <text>usefield</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxoYXNQbGF5Z3JvdW5kUGVybWlzc2lvblw+</last-search>
+      <last-search>usefield</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYXNQbGF5Z3JvdW5kUGVybWlzc2lvblw+</last-pattern>
+      <last-pattern>usefield</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
