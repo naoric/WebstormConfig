@@ -201,8 +201,12 @@
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" timestamp="1589038336633">
         <mark key="'" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" timestamp="1589059372455">
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" timestamp="1589060847120">
         <mark key="'" line="61" column="0" />
+        <mark key="[" line="124" column="52" />
+        <mark key="]" line="124" column="56" />
+        <mark key="." line="124" column="55" />
+        <mark key="^" line="124" column="56" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/test-utils.tsx" timestamp="1589059862217">
         <mark key="'" line="18" column="63" />
@@ -274,11 +278,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtb2RlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>legacy</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>legacy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb25uZWN0ZWRSb3V0ZXJcPg==</text>
