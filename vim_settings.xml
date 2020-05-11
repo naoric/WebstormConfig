@@ -186,18 +186,13 @@
       <file name="/" timestamp="1589055597648">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/CreateReportSharedFields.tsx" timestamp="1589098335430">
-        <mark key="[" line="29" column="9" />
-        <mark key="]" line="29" column="28" />
-        <mark key="^" line="29" column="28" />
-        <mark key="." line="29" column="27" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/routes/RootRouter.tsx" timestamp="1589059665612">
         <mark key="'" line="4" column="9" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" timestamp="1589038336633">
         <mark key="'" line="10" column="25" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" timestamp="1589209851011" />
       <file name="$USER_HOME$/development/otonomo/consumer/src/test-utils.tsx" timestamp="1589098323123">
         <mark key="'" line="6" column="63" />
         <mark key="[" line="8" column="0" />
