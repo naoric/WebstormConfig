@@ -186,7 +186,7 @@
       <file name="/" timestamp="1589055597648">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/CreateReportSharedFields.tsx" timestamp="1589057610557">
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/CreateReportSharedFields.tsx" timestamp="1589098335430">
         <mark key="[" line="29" column="9" />
         <mark key="]" line="29" column="28" />
         <mark key="^" line="29" column="28" />
@@ -197,13 +197,6 @@
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" timestamp="1589038336633">
         <mark key="'" line="10" column="25" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" timestamp="1589062801911">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="124" column="52" />
-        <mark key="]" line="124" column="56" />
-        <mark key="." line="124" column="55" />
-        <mark key="^" line="124" column="56" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/test-utils.tsx" timestamp="1589098323123">
         <mark key="'" line="6" column="63" />
