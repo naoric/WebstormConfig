@@ -40,6 +40,7 @@
         <entry>action RenameElement</entry>
         <entry>action EditorDuplicateLines</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
@@ -128,13 +129,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.json" timestamp="1589055272470">
+      <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.json" timestamp="1589407082284">
+        <mark key="'" line="17" column="4" />
         <mark key="[" line="8" column="20" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/PersonalComponents/PersonalServicePage.tsx" timestamp="1588960012970">
-        <mark key="'" line="103" column="14" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/lib/test-utils/renderers.tsx" timestamp="1589058876364">
         <mark key="[" line="10" column="60" />
@@ -142,30 +141,13 @@
         <mark key="^" line="10" column="96" />
         <mark key="." line="10" column="95" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/state/selectors/single-service-selector.ts" timestamp="1589062819425" />
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/mapbox/DrawPolygon.tsx" timestamp="1589059290868" />
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/report-schemas.ts" timestamp="1589060180228">
         <mark key="'" line="4" column="30" />
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/ReportByPolygon.tsx" timestamp="1589059322721" />
-      <file name="$USER_HOME$/development/otonomo/consumer/server/config/default.ts" timestamp="1589027953515">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1589054158241">
-        <mark key="'" line="56" column="25" />
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="33" />
-        <mark key="^" line="12" column="34" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/types/store/consumer-limits.type.ts" timestamp="1589058412184" />
-      <file name="$USER_HOME$/development/otonomo/consumer/src/state/selectors/router-selectors.ts" timestamp="1589062828850" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/InitializerRoute.tsx" timestamp="1589407005868" />
       <file name="$USER_HOME$/development/otonomo/consumer/src/tests-utils/fixtures/store1.json" timestamp="1589062465555">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -178,21 +160,18 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/feature-toggle-js/feature_toggle_js.mk" timestamp="1588774317425">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="/" timestamp="1589055597648">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/index.tsx" timestamp="1589407317838">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="39" />
+        <mark key="^" line="21" column="39" />
+        <mark key="." line="21" column="38" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/routes/RootRouter.tsx" timestamp="1589059665612">
         <mark key="'" line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" timestamp="1589038336633">
-        <mark key="'" line="10" column="25" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" timestamp="1589209851011" />
       <file name="$USER_HOME$/development/otonomo/consumer/src/test-utils.tsx" timestamp="1589098323123">
         <mark key="'" line="6" column="63" />
         <mark key="[" line="8" column="0" />
@@ -253,6 +232,7 @@
       <jump line="57" column="8" filename="$USER_HOME$/development/otonomo/consumer/src/routes/RootRouter.tsx" />
       <jump line="4" column="9" filename="$USER_HOME$/development/otonomo/consumer/src/routes/RootRouter.tsx" />
       <jump line="3" column="41" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.spec.tsx" />
+      <jump line="17" column="4" filename="$USER_HOME$/development/otonomo/consumer/tsconfig.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
