@@ -160,18 +160,6 @@
         <mark key="^" line="34" column="62" />
         <mark key="." line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/tests-utils/fixtures/store1.json" timestamp="1589062465555">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.spec.tsx" timestamp="1589062752161">
-        <mark key="'" line="3" column="41" />
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="31" />
-        <mark key="^" line="13" column="32" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/node_modules/@types/history/index.d.ts" timestamp="1589408725991">
         <mark key="'" line="51" column="16" />
       </file>
