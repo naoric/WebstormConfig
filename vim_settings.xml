@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Split</entry>
         <entry>ui:</entry>
         <entry encoding="base64">XDx1aVw+</entry>
         <entry>state</entry>
@@ -25,9 +24,9 @@
         <entry encoding="base64">XDxBcHBSb3V0ZVByb3BzXD4=</entry>
         <entry encoding="base64">XDxhbXBsaXR1ZGVVc2VyUHJvcHNcPg==</entry>
         <entry>useselec</entry>
+        <entry>propswithchild</entry>
       </history-search>
       <history-cmd>
-        <entry>action FileStructurePopup</entry>
         <entry>actionlist Recent</entry>
         <entry>actionlist recentlocations</entry>
         <entry encoding="base64">bm1hcCAoIDphY3Rpb24gUmVjZW50TG9jYXRpb25zPENSPg==</entry>
@@ -45,6 +44,7 @@
         <entry>action SelectNextOccurrence</entry>
         <entry>action AceAction</entry>
         <entry>action GoToProject</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
@@ -147,12 +147,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Initializer/Initializer.tsx" timestamp="1589409294869">
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Initializer/Initializer.tsx" timestamp="1590264954779">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="16" column="93" />
-        <mark key="]" line="16" column="95" />
-        <mark key="." line="16" column="94" />
-        <mark key="^" line="16" column="95" />
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="22" column="75" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1589408669194">
         <mark key="'" line="27" column="15" />
@@ -167,18 +167,18 @@
         <mark key="^" line="34" column="62" />
         <mark key="." line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/node_modules/@types/react-redux/index.d.ts" timestamp="1589833064449" />
       <file name="$USER_HOME$/development/otonomo/consumer/node_modules/@types/history/index.d.ts" timestamp="1589408725991">
         <mark key="'" line="51" column="16" />
       </file>
-      <file name="/" timestamp="1589647882821">
+      <file name="/" timestamp="1590264970655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" timestamp="1589409389784">
-        <mark key="[" line="18" column="64" />
-        <mark key="]" line="18" column="65" />
-        <mark key="^" line="18" column="65" />
-        <mark key="." line="18" column="64" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" timestamp="1590264923255">
+        <mark key="'" line="77" column="35" />
+        <mark key="[" line="55" column="37" />
+        <mark key="]" line="55" column="37" />
+        <mark key="^" line="68" column="73" />
+        <mark key="." line="55" column="37" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/MenuItem.tsx" timestamp="1589408978491">
         <mark key="[" line="9" column="0" />
@@ -192,7 +192,6 @@
         <mark key="^" line="21" column="39" />
         <mark key="." line="21" column="38" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/onboarding_new/pages/email_verification.tsx" timestamp="1589655769526" />
       <file name="$USER_HOME$/development/otonomo/consumer/node_modules/@types/react-router-dom/index.d.ts" timestamp="1589408909161">
         <mark key="'" line="13" column="14" />
         <mark key="[" line="56" column="8" />
@@ -279,18 +278,19 @@
       <jump line="38" column="28" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/SignupFormActions.tsx" />
       <jump line="120" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
       <jump line="22" column="22" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
+      <jump line="77" column="35" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>useselec</text>
+        <text>propswithchild</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">SC5Mb2NhdGlvbkRlc2NyaXB0b3I8Uz4gfCAoKGxvY2F0aW9uOiBILkxvY2F0aW9uPFM+KSA9PiBILkxvY2F0aW9uRGVzY3JpcHRvcjxTPik=</text>
@@ -345,9 +345,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>useselec</last-search>
+      <last-search>propswithchild</last-search>
       <last-offset />
-      <last-pattern>useselec</last-pattern>
+      <last-pattern>propswithchild</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
