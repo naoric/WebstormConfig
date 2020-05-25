@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dpbi1hcz90b2tlblw+</entry>
         <entry encoding="base64">XDxjeXByZXNzXD4=</entry>
         <entry encoding="base64">XDxDeXByZXNzXD4=</entry>
         <entry>should not be able</entry>
@@ -25,6 +24,7 @@
         <entry>market</entry>
         <entry>marker</entry>
         <entry>reports</entry>
+        <entry>reports_url</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoProject</entry>
@@ -37,7 +37,6 @@
         <entry encoding="base64">bm1hcCBcIDphY3Rpb24gUXVpY2tJbXBsZW1lbnRhdGlvbnM8Q1I+</entry>
         <entry>action FindUsages</entry>
         <entry>action QuickImplementations</entry>
-        <entry>action SelectNextOccurrence</entry>
         <entry>actionlist open project</entry>
         <entry>actionlist gotopro</entry>
         <entry>actionlist gotoprojec</entry>
@@ -47,6 +46,7 @@
         <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry>action SelectNextOccurrence</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -211,15 +211,18 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" timestamp="1590439749144">
-        <mark key="'" line="29" column="5" />
-        <mark key="[" line="62" column="20" />
-        <mark key="]" line="62" column="28" />
-        <mark key="^" line="62" column="28" />
-        <mark key="." line="62" column="27" />
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" timestamp="1590440917277">
+        <mark key="'" line="56" column="45" />
+        <mark key="[" line="32" column="51" />
+        <mark key="]" line="32" column="83" />
+        <mark key="^" line="62" column="84" />
+        <mark key="." line="62" column="83" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" timestamp="1590436368553">
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" timestamp="1590439989516">
         <mark key="'" line="24" column="7" />
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="35" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/types/react-aliases.ts" timestamp="1589409116606">
         <mark key="'" line="20" column="12" />
@@ -236,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="8" filename="$USER_HOME$/development/otonomo/consumer/src/routes/RootRouter.tsx" />
       <jump line="4" column="9" filename="$USER_HOME$/development/otonomo/consumer/src/routes/RootRouter.tsx" />
       <jump line="3" column="41" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.spec.tsx" />
       <jump line="17" column="4" filename="$USER_HOME$/development/otonomo/consumer/tsconfig.json" />
@@ -336,21 +338,22 @@
       <jump line="90" column="9" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
       <jump line="95" column="9" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
       <jump line="16" column="9" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
+      <jump line="56" column="45" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CONSUMER_LIVE_USERNAME</text>
+        <text>/internal/delete-reports-requests</text>
       </register>
       <register name="-" type="4">
-        <text>CONSUMER_LIVE_USERNAME</text>
+        <text>REPORTS_URL</text>
       </register>
       <register name="/" type="4">
-        <text>reports</text>
+        <text>reports_url</text>
       </register>
       <register name="0" type="4">
-        <text>cypress_test00</text>
+        <text>/internal/delete-reports-requests</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnN0IExFR0FDWV9ERU1PX1NFUlZJQ0UgPSAnTGVnYWN5X0RlbW9fU2VydmljZScKICAgIGNvbnN0IExFR0FDWV9MSVZFX1NFUlZJQ0UgPSAnTGVnYWN5X0xpdmVfU2VydmljZScK</text>
@@ -380,15 +383,15 @@
         <text encoding="base64">aW1wb3J0ICogYXMgSCBmcm9tICdoaXN0b3J5Jwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action SelectNextOccurrence</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>reports</last-search>
+      <last-search>reports_url</last-search>
       <last-offset />
-      <last-pattern>reports</last-pattern>
+      <last-pattern>reports_url</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
