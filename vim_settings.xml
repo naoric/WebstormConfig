@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>store</entry>
-        <entry encoding="base64">XDxDb25uZWN0ZWRSb3V0ZXJcPg==</entry>
         <entry>nmap (</entry>
         <entry encoding="base64">XDxSZWNlbnRMb2NhdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxzdHJpY3Q/XD4=</entry>
@@ -25,11 +23,10 @@
         <entry>selected</entry>
         <entry encoding="base64">XDxzZXJ2aWNlSWRcPg==</entry>
         <entry encoding="base64">XDxjb25mXD4=</entry>
+        <entry>login</entry>
+        <entry>export const log</entry>
       </history-search>
       <history-cmd>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action CopyReference</entry>
-        <entry encoding="base64">IHc=</entry>
         <entry>w</entry>
         <entry encoding="base64">bm1hcCAoIDphY3Rpb24gUmVjZW50TG9jYXRpb25zPENSPiA=</entry>
         <entry>actionlist gotoproject</entry>
@@ -40,13 +37,16 @@
         <entry>action GoToProject</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoAction</entry>
-        <entry>action RecentLocations</entry>
-        <entry>action AceAction</entry>
         <entry>actionlist quick</entry>
+        <entry>action RecentLocations</entry>
+        <entry>actionlist implementation</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action AceAction</entry>
         <entry encoding="base64">bm1hcCBcIDphY3Rpb24gUXVpY2tJbXBsZW1lbnRhdGlvbnM8Q1I+</entry>
         <entry>action QuickImplementations</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -147,11 +147,23 @@
       <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" timestamp="1590418596971">
         <mark key="'" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" timestamp="1590428885111">
+        <mark key="'" line="40" column="18" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1590428676006">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="35" />
+        <mark key="." line="9" column="34" />
+        <mark key="^" line="9" column="35" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/routes/InitializerRoute.tsx" timestamp="1589409201058">
         <mark key="[" line="34" column="62" />
         <mark key="]" line="34" column="62" />
         <mark key="^" line="34" column="62" />
         <mark key="." line="34" column="61" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" timestamp="1590428822383">
+        <mark key="'" line="28" column="18" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/node_modules/@types/history/index.d.ts" timestamp="1589408725991">
         <mark key="'" line="51" column="16" />
@@ -187,15 +199,11 @@
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" timestamp="1590418045122">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" timestamp="1590428753289">
+        <mark key="'" line="61" column="3" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
-      <jump line="76" column="34" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
-      <jump line="83" column="20" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
-      <jump line="85" column="20" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
-      <jump line="91" column="26" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
-      <jump line="113" column="43" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
-      <jump line="122" column="43" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/index.tsx" />
       <jump line="147" column="19" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" />
       <jump line="63" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" />
       <jump line="167" column="15" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" />
@@ -280,18 +288,34 @@
       <jump line="224" column="72" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServiceTabs.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" />
       <jump line="8" column="0" filename="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" />
+      <jump line="61" column="3" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
+      <jump line="18" column="13" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
+      <jump line="5" column="13" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
+      <jump line="6" column="11" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
+      <jump line="7" column="14" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
+      <jump line="8" column="12" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
+      <jump line="9" column="15" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
+      <jump line="10" column="6" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
+      <jump line="28" column="18" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
+      <jump line="17" column="12" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
+      <jump line="59" column="0" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
+      <jump line="3" column="10" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
+      <jump line="5" column="2" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
+      <jump line="9" column="13" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
+      <jump line="15" column="0" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
+      <jump line="40" column="18" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text>AceAction</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>AceAction</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25mXD4=</text>
+        <text>export const log</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">SC5Mb2NhdGlvbkRlc2NyaXB0b3I8Uz4gfCAoKGxvY2F0aW9uOiBILkxvY2F0aW9uPFM+KSA9PiBILkxvY2F0aW9uRGVzY3JpcHRvcjxTPik=</text>
@@ -324,15 +348,15 @@
         <text encoding="base64">aW1wb3J0IHsgTG9jYXRpb25EZXNjcmlwdG9yIH0gZnJvbSAnaGlzdG9yeScK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb25mXD4=</last-search>
+      <last-search>export const log</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25mXD4=</last-pattern>
+      <last-pattern>export const log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
