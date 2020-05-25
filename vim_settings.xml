@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dpblw+</entry>
         <entry encoding="base64">XDxsb2dpbi1hcz90b2tlblw+</entry>
         <entry encoding="base64">XDxjeXByZXNzXD4=</entry>
         <entry encoding="base64">XDxDeXByZXNzXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>legacy_demo_service</entry>
         <entry>market</entry>
         <entry>marker</entry>
+        <entry>reports</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoProject</entry>
@@ -45,8 +45,8 @@
         <entry encoding="base64">bm1hcCA8Qy1DUj4gOmFjdGlvbiBHb1RvUHJvamVjdDxDUj4=</entry>
         <entry>action GoToProject</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -211,8 +211,9 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" timestamp="1590435133679">
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" timestamp="1590438243986">
         <mark key="'" line="29" column="5" />
+        <mark key="[" line="61" column="42" />
       </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" timestamp="1590436368553">
         <mark key="'" line="24" column="7" />
@@ -343,7 +344,7 @@
         <text>CONSUMER_LIVE_USERNAME</text>
       </register>
       <register name="/" type="4">
-        <text>marker</text>
+        <text>reports</text>
       </register>
       <register name="0" type="4">
         <text>cypress_test00</text>
@@ -376,15 +377,15 @@
         <text encoding="base64">aW1wb3J0ICogYXMgSCBmcm9tICdoaXN0b3J5Jwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>marker</last-search>
+      <last-search>reports</last-search>
       <last-offset />
-      <last-pattern>marker</last-pattern>
+      <last-pattern>reports</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
