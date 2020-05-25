@@ -144,6 +144,9 @@
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/Initializer/Initializer.tsx" timestamp="1590264954779">
         <mark key="^" line="2" column="75" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" timestamp="1590418596971">
+        <mark key="'" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1589408669194">
         <mark key="'" line="27" column="15" />
         <mark key="[" line="26" column="34" />
@@ -157,7 +160,7 @@
         <mark key="^" line="34" column="62" />
         <mark key="." line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServiceTabs.tsx" timestamp="1590418273803">
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServiceTabs.tsx" timestamp="1590418575086">
         <mark key="'" line="224" column="72" />
         <mark key="[" line="250" column="61" />
         <mark key="]" line="250" column="91" />
@@ -186,12 +189,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="43" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/index.tsx" timestamp="1589407317838">
-        <mark key="[" line="21" column="32" />
-        <mark key="]" line="21" column="39" />
-        <mark key="^" line="21" column="39" />
-        <mark key="." line="21" column="38" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/node_modules/@types/react-router-dom/index.d.ts" timestamp="1589408909161">
         <mark key="'" line="13" column="14" />
@@ -308,6 +305,8 @@
       <jump line="20" column="16" filename="$USER_HOME$/development/otonomo/consumer/src/lib/hooks/useFetch.tsx" />
       <jump line="29" column="6" filename="$USER_HOME$/development/otonomo/consumer/src/lib/hooks/useFetch.tsx" />
       <jump line="224" column="72" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServiceTabs.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" />
+      <jump line="8" column="0" filename="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
