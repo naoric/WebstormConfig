@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>nmap (</entry>
-        <entry encoding="base64">XDxSZWNlbnRMb2NhdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxzdHJpY3Q/XD4=</entry>
         <entry encoding="base64">XDxMb2NhdGlvblN0YXRlXD4=</entry>
         <entry encoding="base64">XDxIXD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxjb25mXD4=</entry>
         <entry>login</entry>
         <entry>export const log</entry>
+        <entry encoding="base64">XDxsb2dpblw+</entry>
+        <entry encoding="base64">XDxqdXN0TG9naW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -45,8 +45,8 @@
         <entry encoding="base64">bm1hcCBcIDphY3Rpb24gUXVpY2tJbXBsZW1lbnRhdGlvbnM8Q1I+</entry>
         <entry>action QuickImplementations</entry>
         <entry>action GotoFile</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action FindUsages</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -147,8 +147,8 @@
       <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" timestamp="1590418596971">
         <mark key="'" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" timestamp="1590428885111">
-        <mark key="'" line="40" column="18" />
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" timestamp="1590430695828">
+        <mark key="'" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1590428676006">
         <mark key="[" line="9" column="15" />
@@ -164,6 +164,9 @@
       </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" timestamp="1590428822383">
         <mark key="'" line="28" column="18" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/commands.ts" timestamp="1590430734011">
+        <mark key="'" line="25" column="30" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/node_modules/@types/history/index.d.ts" timestamp="1589408725991">
         <mark key="'" line="51" column="16" />
@@ -204,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="19" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" />
       <jump line="63" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" />
       <jump line="167" column="15" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" />
       <jump line="43" column="6" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" />
@@ -301,9 +303,10 @@
       <jump line="59" column="0" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
       <jump line="3" column="10" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
       <jump line="5" column="2" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
-      <jump line="9" column="13" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
       <jump line="15" column="0" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
       <jump line="40" column="18" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
+      <jump line="9" column="13" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
+      <jump line="25" column="30" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/commands.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,7 +318,7 @@
         <text>AceAction</text>
       </register>
       <register name="/" type="4">
-        <text>export const log</text>
+        <text encoding="base64">XDxqdXN0TG9naW5cPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">SC5Mb2NhdGlvbkRlc2NyaXB0b3I8Uz4gfCAoKGxvY2F0aW9uOiBILkxvY2F0aW9uPFM+KSA9PiBILkxvY2F0aW9uRGVzY3JpcHRvcjxTPik=</text>
@@ -348,15 +351,15 @@
         <text encoding="base64">aW1wb3J0IHsgTG9jYXRpb25EZXNjcmlwdG9yIH0gZnJvbSAnaGlzdG9yeScK</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>export const log</last-search>
+      <last-search encoding="base64">XDxqdXN0TG9naW5cPg==</last-search>
       <last-offset />
-      <last-pattern>export const log</last-pattern>
+      <last-pattern encoding="base64">XDxqdXN0TG9naW5cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
