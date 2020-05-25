@@ -147,25 +147,11 @@
       <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" timestamp="1590418596971">
         <mark key="'" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1589408669194">
-        <mark key="'" line="27" column="15" />
-        <mark key="[" line="26" column="34" />
-        <mark key="]" line="27" column="34" />
-        <mark key="." line="27" column="33" />
-        <mark key="^" line="27" column="34" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/routes/InitializerRoute.tsx" timestamp="1589409201058">
         <mark key="[" line="34" column="62" />
         <mark key="]" line="34" column="62" />
         <mark key="^" line="34" column="62" />
         <mark key="." line="34" column="61" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServiceTabs.tsx" timestamp="1590418575086">
-        <mark key="'" line="224" column="72" />
-        <mark key="[" line="250" column="61" />
-        <mark key="]" line="250" column="91" />
-        <mark key="^" line="250" column="91" />
-        <mark key="." line="250" column="90" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/node_modules/@types/history/index.d.ts" timestamp="1589408725991">
         <mark key="'" line="51" column="16" />
@@ -198,21 +184,8 @@
       <file name="$USER_HOME$/development/otonomo/consumer/src/types/react-aliases.ts" timestamp="1589409116606">
         <mark key="'" line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/ServiceComponents/ServicesContainerGrid.tsx" timestamp="1590418137129">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" timestamp="1590418045122">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="110" column="66" />
-        <mark key="]" line="111" column="18" />
-        <mark key="^" line="111" column="18" />
-        <mark key="." line="111" column="17" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/FormErrors.spec.tsx" timestamp="1590346377587">
-        <mark key="'" line="53" column="6" />
       </file>
     </filemarks>
     <jumps>
