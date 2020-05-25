@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHJpY3Q/XD4=</entry>
-        <entry encoding="base64">XDxMb2NhdGlvblN0YXRlXD4=</entry>
-        <entry encoding="base64">XDxIXD4=</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry encoding="base64">XDxSb3V0ZUNvbXBvbmVudFByb3BzXD4=</entry>
         <entry>approuteprops</entry>
@@ -25,28 +22,31 @@
         <entry>export const log</entry>
         <entry encoding="base64">XDxsb2dpblw+</entry>
         <entry encoding="base64">XDxqdXN0TG9naW5cPg==</entry>
+        <entry>c=cr</entry>
+        <entry>m-cr</entry>
+        <entry>report</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
-        <entry encoding="base64">bm1hcCAoIDphY3Rpb24gUmVjZW50TG9jYXRpb25zPENSPiA=</entry>
-        <entry>actionlist gotoproject</entry>
-        <entry encoding="base64">bm1hcCAoIDphY3Rpb24gR290b1Byb2plY3Q8Q1I+</entry>
         <entry>action GotoProject</entry>
         <entry encoding="base64">bm1hcCAoIDphY3Rpb24gR29Ub1Byb2plY3Q8Q1I+</entry>
-        <entry>action SelectNextOccurrence</entry>
-        <entry>action GoToProject</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action GotoAction</entry>
         <entry>actionlist quick</entry>
         <entry>action RecentLocations</entry>
         <entry>actionlist implementation</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">bm1hcCBcIDphY3Rpb24gUXVpY2tJbXBsZW1lbnRhdGlvbnM8Q1I+</entry>
-        <entry>action QuickImplementations</entry>
-        <entry>action GotoFile</entry>
         <entry>action FindUsages</entry>
+        <entry>action QuickImplementations</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action SelectNextOccurrence</entry>
+        <entry>actionlist open project</entry>
+        <entry>actionlist gotopro</entry>
+        <entry>actionlist gotoprojec</entry>
+        <entry>action GotoFile</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry encoding="base64">bm1hcCA8Qy1DUj4gOmFjdGlvbiBHb1RvUHJvamVjdDxDUj4=</entry>
+        <entry>action GoToProject</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -144,11 +144,15 @@
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/Initializer/Initializer.tsx" timestamp="1590264954779">
         <mark key="^" line="2" column="75" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" timestamp="1590418596971">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" timestamp="1590433596883">
+        <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" timestamp="1590430695828">
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" timestamp="1590433123940">
         <mark key="'" line="9" column="13" />
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="14" />
+        <mark key="^" line="28" column="24" />
+        <mark key="." line="28" column="14" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1590428676006">
         <mark key="[" line="9" column="15" />
@@ -156,14 +160,27 @@
         <mark key="." line="9" column="34" />
         <mark key="^" line="9" column="35" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-services.spec.ts" timestamp="1590433258839">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="35" column="54" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/routes/InitializerRoute.tsx" timestamp="1589409201058">
         <mark key="[" line="34" column="62" />
         <mark key="]" line="34" column="62" />
         <mark key="^" line="34" column="62" />
         <mark key="." line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" timestamp="1590428822383">
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/trial-mode.spec.ts" timestamp="1590433291501">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" timestamp="1590433174824">
         <mark key="'" line="28" column="18" />
+        <mark key="[" line="10" column="12" />
       </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/commands.ts" timestamp="1590430734011">
         <mark key="'" line="25" column="30" />
@@ -191,6 +208,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="43" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" timestamp="1590433063038" />
       <file name="$USER_HOME$/development/otonomo/consumer/node_modules/@types/react-router-dom/index.d.ts" timestamp="1589408909161">
         <mark key="'" line="13" column="14" />
         <mark key="[" line="56" column="8" />
@@ -202,12 +220,15 @@
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" timestamp="1590418045122">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" timestamp="1590428753289">
-        <mark key="'" line="61" column="3" />
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" timestamp="1590433962791">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="3" column="24" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" />
       <jump line="167" column="15" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" />
       <jump line="43" column="6" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/ServicesBody.tsx" />
       <jump line="28" column="0" filename="$USER_HOME$/development/otonomo/feature-toggle-js/src/index.ts" />
@@ -288,7 +309,6 @@
       <jump line="20" column="16" filename="$USER_HOME$/development/otonomo/consumer/src/lib/hooks/useFetch.tsx" />
       <jump line="29" column="6" filename="$USER_HOME$/development/otonomo/consumer/src/lib/hooks/useFetch.tsx" />
       <jump line="224" column="72" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServiceTabs.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" />
       <jump line="8" column="0" filename="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" />
       <jump line="61" column="3" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
       <jump line="18" column="13" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
@@ -307,59 +327,61 @@
       <jump line="40" column="18" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
       <jump line="9" column="13" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
       <jump line="25" column="30" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/commands.ts" />
+      <jump line="0" column="9" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>AceAction</text>
+        <text>cypress_test00</text>
       </register>
       <register name="-" type="4">
-        <text>AceAction</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqdXN0TG9naW5cPg==</text>
+        <text>report</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">SC5Mb2NhdGlvbkRlc2NyaXB0b3I8Uz4gfCAoKGxvY2F0aW9uOiBILkxvY2F0aW9uPFM+KSA9PiBILkxvY2F0aW9uRGVzY3JpcHRvcjxTPik=</text>
+        <text>cypress_test00</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2VydmljZUlkU2VsZWN0b3IgfSBmcm9tICdzdGF0ZS9zZWxlY3RvcnMvcm91dGVyLXNlbGVjdG9ycycK</text>
+        <text encoding="base64">ICAgIGNvbnN0IExFR0FDWV9ERU1PX1NFUlZJQ0UgPSAnTGVnYWN5X0RlbW9fU2VydmljZScKICAgIGNvbnN0IExFR0FDWV9MSVZFX1NFUlZJQ0UgPSAnTGVnYWN5X0xpdmVfU2VydmljZScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlU2VsZWN0b3IgfSBmcm9tICdyZWFjdC1yZWR1eCcK</text>
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBzZXJ2aWNlSWQgPSB1c2VTZWxlY3RvcihzZXJ2aWNlSWRTZWxlY3RvcikK</text>
+        <text encoding="base64">aW1wb3J0IHsgc2VydmljZUlkU2VsZWN0b3IgfSBmcm9tICdzdGF0ZS9zZWxlY3RvcnMvcm91dGVyLXNlbGVjdG9ycycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ZWQ9e3NlcnZpY2VJZCA9PT0gc2VydmljZS5pZH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlU2VsZWN0b3IgfSBmcm9tICdyZWFjdC1yZWR1eCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbjogUmVhY3QuY2hpbGRyZW4K</text>
+        <text encoding="base64">ICBjb25zdCBzZXJ2aWNlSWQgPSB1c2VTZWxlY3RvcihzZXJ2aWNlSWRTZWxlY3RvcikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgSCBmcm9tICdoaXN0b3J5Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ZWQ9e3NlcnZpY2VJZCA9PT0gc2VydmljZS5pZH0K</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICBjaGlsZHJlbjogUmVhY3QuY2hpbGRyZW4K</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgSCBmcm9tICdoaXN0b3J5Jwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">SC5Mb2NhdGlvbkRlc2NyaXB0b3I8Uz4gfCAoKGxvY2F0aW9uOiBILkxvY2F0aW9uPFM+KSA9PiBILkxvY2F0aW9uRGVzY3JpcHRvcjxTPikpOiB1cmwgaXMgc3RyaW5nIHsKICByZXR1cm4gdHlwZW9mIHVybCA9PT0gJ3N0cmluZycgJiYgVVJMX1BSRUZJWF9SRUdFWC50ZXN0KHVybCkKfQoKY29uc3QgTWVudU5hdkxpbmsgPSBSZWFjdC5mb3J3YXJkUmVmKAogIChwcm9wczogTmF2TGlua1Byb3BzLCByZWY6IFJlYWN0LlJlZjxIVE1MQW5jaG9yRWxlbWVudD4pID0+CiAgICBpc0V4dGVybmFsTGluayhwcm9wcy50bykgPyAoCiAgICAgIDxhCiAgICAgICAgcmVmPXtyZWZ9CiAgICAgICAgaHJlZj17cHJvcHMudG99CiAgICAgICAgY2xhc3NOYW1lPXtwcm9wcy5jbGFzc05hbWV9CiAgICAgICAgdGFyZ2V0PXtwcm9wcy50by5zdGFydHNXaXRoKCdtYWlsdG86JykgPyAnX3NlbGYnIDogJ19ibGFuayd9CiAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIj4KICAgICAgICB7cHJvcHMuY2hpbGRyZW59CiAgICAgIDwvYT4KICAgICkgOiAoCiAgICAgIDxOYXZMaW5rIGlubmVyUmVmPXtyZWZ9IHsuLi5wcm9wc30gLz4KICAgICkKKQoKZXhwb3J0IGludGVyZmFjZSBNZW51SXRlbSB7CiAgdGl0bGU6IHN0cmluZwogIHJvdXRlUGF0aDogc3RyaW5nCiAgaWNvbjogUmVhY3QuUmVhY3RFbGVtZW50Cn0KCmludGVyZmFjZSBNZW51SXRlbVByb3BzIHsKICBpdGVtOiBNZW51SXRlbQp9Cgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTG9jYXRpb25EZXNjcmlwdG9yIH0gZnJvbSAnaGlzdG9yeScK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgSCBmcm9tICdoaXN0b3J5Jwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxqdXN0TG9naW5cPg==</last-search>
+      <last-search>report</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqdXN0TG9naW5cPg==</last-pattern>
+      <last-pattern>report</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

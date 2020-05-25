@@ -28,9 +28,9 @@
   <action id="Macro.Format Optimize Imports">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
-  <action id="SaveAll" />
-  <action id="ViewSource" />
-  <action id="osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction">
+  <action id="Macro.Set to UPPER_SCREAM">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="SaveAll" />
+  <action id="ViewSource" />
 </keymap>
