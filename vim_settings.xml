@@ -137,10 +137,16 @@
       <file name="$USER_HOME$/development/otonomo/consumer/src/helpers/google-analytics.ts" timestamp="1590502863208">
         <mark key="'" line="69" column="2" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/types/api-types/simulation.ts" timestamp="1590506116389" />
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/commands.ts" timestamp="1590430734011">
         <mark key="'" line="25" column="30" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/LiveServiceReadyPage.tsx" timestamp="1590504124640" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/ServiceComponents/ServiceBox.tsx" timestamp="1590506160664">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" timestamp="1590440917277">
         <mark key="'" line="56" column="45" />
         <mark key="[" line="32" column="51" />
@@ -160,12 +166,6 @@
         <mark key="]" line="28" column="14" />
         <mark key="^" line="28" column="24" />
         <mark key="." line="28" column="14" />
-      </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1590428676006">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="35" />
-        <mark key="." line="9" column="34" />
-        <mark key="^" line="9" column="35" />
       </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-services.spec.ts" timestamp="1590433258839">
         <mark key="[" line="27" column="0" />
@@ -325,8 +325,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>SimulatorRouteProps</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgY3JlYXRlUHJvcHM6IENyZWF0ZVByb3BzID0gewogIHR5cGU6ICdwZXJzb25hbCcKfQoK</text>
       </register>
       <register name="-" type="4">
         <text>SimulatorRouteProps</text>
@@ -338,28 +338,28 @@
         <text>/internal/delete-reports-requests</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IExFR0FDWV9ERU1PX1NFUlZJQ0UgPSAnTGVnYWN5X0RlbW9fU2VydmljZScKICAgIGNvbnN0IExFR0FDWV9MSVZFX1NFUlZJQ0UgPSAnTGVnYWN5X0xpdmVfU2VydmljZScK</text>
+        <text encoding="base64">Y29uc3QgY3JlYXRlUHJvcHM6IENyZWF0ZVByb3BzID0gewogIHR5cGU6ICdwZXJzb25hbCcKfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IExFR0FDWV9ERU1PX1NFUlZJQ0UgPSAnTGVnYWN5X0RlbW9fU2VydmljZScKICAgIGNvbnN0IExFR0FDWV9MSVZFX1NFUlZJQ0UgPSAnTGVnYWN5X0xpdmVfU2VydmljZScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2VydmljZUlkU2VsZWN0b3IgfSBmcm9tICdzdGF0ZS9zZWxlY3RvcnMvcm91dGVyLXNlbGVjdG9ycycK</text>
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlU2VsZWN0b3IgfSBmcm9tICdyZWFjdC1yZWR1eCcK</text>
+        <text encoding="base64">aW1wb3J0IHsgc2VydmljZUlkU2VsZWN0b3IgfSBmcm9tICdzdGF0ZS9zZWxlY3RvcnMvcm91dGVyLXNlbGVjdG9ycycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBzZXJ2aWNlSWQgPSB1c2VTZWxlY3RvcihzZXJ2aWNlSWRTZWxlY3RvcikK</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlU2VsZWN0b3IgfSBmcm9tICdyZWFjdC1yZWR1eCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ZWQ9e3NlcnZpY2VJZCA9PT0gc2VydmljZS5pZH0K</text>
+        <text encoding="base64">ICBjb25zdCBzZXJ2aWNlSWQgPSB1c2VTZWxlY3RvcihzZXJ2aWNlSWRTZWxlY3RvcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbjogUmVhY3QuY2hpbGRyZW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ZWQ9e3NlcnZpY2VJZCA9PT0gc2VydmljZS5pZH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgSCBmcm9tICdoaXN0b3J5Jwo=</text>
+        <text encoding="base64">ICBjaGlsZHJlbjogUmVhY3QuY2hpbGRyZW4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgSCBmcm9tICdoaXN0b3J5Jwo=</text>
