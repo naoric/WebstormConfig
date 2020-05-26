@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>skip</entry>
-        <entry>deletereport</entry>
-        <entry encoding="base64">XDxkZWxldGVSZXBvcnRzXD4=</entry>
         <entry>delete</entry>
         <entry encoding="base64">XDxDT05TVU1FUl9MRUdBQ1lfVVNFUk5BTUVcPg==</entry>
         <entry encoding="base64">XDxDT05TVU1FUl9UUklBTF9UT19MSVZFX1VTRVJOQU1FXD4=</entry>
@@ -25,13 +22,14 @@
         <entry encoding="base64">XDxTaW11bGF0b3JSb3V0ZVByb3BzXD4=</entry>
         <entry>carstatus</entry>
         <entry encoding="base64">XDxQcm9wc1dpdGhDaGlsZHJlblw+</entry>
+        <entry encoding="base64">XDx2YWx1ZVw+</entry>
+        <entry encoding="base64">XDxhZ2dyZWdhdGVTZXJ2aWNlQ3JlYXRlZFw+</entry>
+        <entry>route</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoProject</entry>
         <entry encoding="base64">bm1hcCAoIDphY3Rpb24gR29Ub1Byb2plY3Q8Q1I+</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>actionlist quick</entry>
-        <entry>action RecentLocations</entry>
         <entry>actionlist implementation</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">bm1hcCBcIDphY3Rpb24gUXVpY2tJbXBsZW1lbnRhdGlvbnM8Q1I+</entry>
@@ -44,9 +42,11 @@
         <entry encoding="base64">bm1hcCA8Qy1DUj4gOmFjdGlvbiBHb1RvUHJvamVjdDxDUj4=</entry>
         <entry>action GoToProject</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action GotoFile</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action RecentLocations</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,15 +134,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/SignupFormActions.tsx" timestamp="1589656090640">
-        <mark key="'" line="38" column="28" />
-        <mark key="[" line="39" column="27" />
-        <mark key="]" line="39" column="29" />
-        <mark key="." line="39" column="28" />
-        <mark key="^" line="39" column="29" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/helpers/google-analytics.ts" timestamp="1590502863208">
+        <mark key="'" line="69" column="2" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Initializer/Initializer.tsx" timestamp="1590264954779">
-        <mark key="^" line="2" column="75" />
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/commands.ts" timestamp="1590430734011">
+        <mark key="'" line="25" column="30" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/LiveServiceReadyPage.tsx" timestamp="1590503121897" />
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" timestamp="1590440917277">
+        <mark key="'" line="56" column="45" />
+        <mark key="[" line="32" column="51" />
+        <mark key="]" line="32" column="83" />
+        <mark key="^" line="62" column="84" />
+        <mark key="." line="62" column="83" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServiceCreate.tsx" timestamp="1590502915480">
+        <mark key="'" line="146" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" timestamp="1590433596883">
         <mark key="'" line="0" column="0" />
@@ -182,18 +189,8 @@
         <mark key="]" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/commands.ts" timestamp="1590430734011">
-        <mark key="'" line="25" column="30" />
-      </file>
       <file name="/" timestamp="1590434818488">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/lib/hooks/useFetch.tsx" timestamp="1590418161733">
-        <mark key="'" line="18" column="6" />
-        <mark key="[" line="18" column="6" />
-        <mark key="]" line="18" column="10" />
-        <mark key="^" line="18" column="10" />
-        <mark key="." line="18" column="9" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" timestamp="1590473649834">
         <mark key="'" line="18" column="27" />
@@ -202,21 +199,18 @@
         <mark key="^" line="79" column="56" />
         <mark key="." line="79" column="55" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" timestamp="1590440917277">
-        <mark key="'" line="56" column="45" />
-        <mark key="[" line="32" column="51" />
-        <mark key="]" line="32" column="83" />
-        <mark key="^" line="62" column="84" />
-        <mark key="." line="62" column="83" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" timestamp="1590439989516">
         <mark key="'" line="24" column="7" />
         <mark key="[" line="24" column="35" />
         <mark key="]" line="24" column="35" />
         <mark key="." line="24" column="35" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" timestamp="1590418045122">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" timestamp="1590502824913">
+        <mark key="'" line="126" column="15" />
+        <mark key="[" line="103" column="7" />
+        <mark key="]" line="103" column="18" />
+        <mark key="^" line="103" column="18" />
+        <mark key="." line="103" column="17" />
       </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" timestamp="1590436385104">
         <mark key="'" line="16" column="9" />
@@ -227,9 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="8" filename="$USER_HOME$/development/otonomo/consumer/node_modules/@types/react-router-dom/index.d.ts" />
-      <jump line="55" column="40" filename="$USER_HOME$/development/otonomo/consumer/node_modules/@types/react-router-dom/index.d.ts" />
-      <jump line="13" column="14" filename="$USER_HOME$/development/otonomo/consumer/node_modules/@types/react-router-dom/index.d.ts" />
       <jump line="14" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/types/react-aliases.ts" />
       <jump line="20" column="12" filename="$USER_HOME$/development/otonomo/consumer/src/types/react-aliases.ts" />
       <jump line="14" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/Initializer/Initializer.tsx" />
@@ -327,6 +318,9 @@
       <jump line="78" column="41" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
       <jump line="68" column="35" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
       <jump line="18" column="27" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
+      <jump line="125" column="15" filename="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" />
+      <jump line="69" column="2" filename="$USER_HOME$/development/otonomo/consumer/src/helpers/google-analytics.ts" />
+      <jump line="146" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServiceCreate.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,7 +332,7 @@
         <text>SimulatorRouteProps</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcm9wc1dpdGhDaGlsZHJlblw+</text>
+        <text>route</text>
       </register>
       <register name="0" type="4">
         <text>/internal/delete-reports-requests</text>
@@ -371,15 +365,15 @@
         <text encoding="base64">aW1wb3J0ICogYXMgSCBmcm9tICdoaXN0b3J5Jwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action RecentLocations</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxQcm9wc1dpdGhDaGlsZHJlblw+</last-search>
+      <last-search>route</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcm9wc1dpdGhDaGlsZHJlblw+</last-pattern>
+      <last-pattern>route</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
