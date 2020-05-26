@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjeXByZXNzXD4=</entry>
-        <entry encoding="base64">XDxDeXByZXNzXD4=</entry>
-        <entry>should not be able</entry>
         <entry>skip</entry>
         <entry>deletereport</entry>
         <entry encoding="base64">XDxkZWxldGVSZXBvcnRzXD4=</entry>
@@ -25,6 +22,9 @@
         <entry>marker</entry>
         <entry>reports</entry>
         <entry>reports_url</entry>
+        <entry encoding="base64">XDxTaW11bGF0b3JSb3V0ZVByb3BzXD4=</entry>
+        <entry>carstatus</entry>
+        <entry encoding="base64">XDxQcm9wc1dpdGhDaGlsZHJlblw+</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoProject</entry>
@@ -45,8 +45,8 @@
         <entry>action GoToProject</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>action SelectNextOccurrence</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -195,9 +195,12 @@
         <mark key="^" line="18" column="10" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" timestamp="1590264923255">
-        <mark key="'" line="77" column="35" />
-        <mark key="^" line="18" column="73" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" timestamp="1590473649834">
+        <mark key="'" line="18" column="27" />
+        <mark key="[" line="79" column="41" />
+        <mark key="]" line="79" column="56" />
+        <mark key="^" line="79" column="56" />
+        <mark key="." line="79" column="55" />
       </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" timestamp="1590440917277">
         <mark key="'" line="56" column="45" />
@@ -224,16 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="9" filename="$USER_HOME$/development/otonomo/consumer/src/routes/RootRouter.tsx" />
-      <jump line="3" column="41" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.spec.tsx" />
-      <jump line="17" column="4" filename="$USER_HOME$/development/otonomo/consumer/tsconfig.json" />
-      <jump line="14" column="13" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/MenuItem.tsx" />
-      <jump line="18" column="28" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="23" column="2" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="24" column="2" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="25" column="2" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="27" column="15" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="51" column="16" filename="$USER_HOME$/development/otonomo/consumer/node_modules/@types/history/index.d.ts" />
       <jump line="56" column="8" filename="$USER_HOME$/development/otonomo/consumer/node_modules/@types/react-router-dom/index.d.ts" />
       <jump line="55" column="40" filename="$USER_HOME$/development/otonomo/consumer/node_modules/@types/react-router-dom/index.d.ts" />
       <jump line="13" column="14" filename="$USER_HOME$/development/otonomo/consumer/node_modules/@types/react-router-dom/index.d.ts" />
@@ -324,18 +317,28 @@
       <jump line="95" column="9" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
       <jump line="16" column="9" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
       <jump line="56" column="45" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" />
+      <jump line="103" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
+      <jump line="75" column="41" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
+      <jump line="57" column="17" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
+      <jump line="153" column="15" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
+      <jump line="126" column="31" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
+      <jump line="105" column="10" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
+      <jump line="97" column="55" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
+      <jump line="78" column="41" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
+      <jump line="68" column="35" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
+      <jump line="18" column="27" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/internal/delete-reports-requests</text>
+        <text>SimulatorRouteProps</text>
       </register>
       <register name="-" type="4">
-        <text>REPORTS_URL</text>
+        <text>SimulatorRouteProps</text>
       </register>
       <register name="/" type="4">
-        <text>reports_url</text>
+        <text encoding="base64">XDxQcm9wc1dpdGhDaGlsZHJlblw+</text>
       </register>
       <register name="0" type="4">
         <text>/internal/delete-reports-requests</text>
@@ -368,15 +371,15 @@
         <text encoding="base64">aW1wb3J0ICogYXMgSCBmcm9tICdoaXN0b3J5Jwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectNextOccurrence</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>reports_url</last-search>
+      <last-search encoding="base64">XDxQcm9wc1dpdGhDaGlsZHJlblw+</last-search>
       <last-offset />
-      <last-pattern>reports_url</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9wc1dpdGhDaGlsZHJlblw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
