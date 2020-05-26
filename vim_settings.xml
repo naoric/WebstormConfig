@@ -166,12 +166,6 @@
         <mark key="^" line="35" column="54" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/InitializerRoute.tsx" timestamp="1589409201058">
-        <mark key="[" line="34" column="62" />
-        <mark key="]" line="34" column="62" />
-        <mark key="^" line="34" column="62" />
-        <mark key="." line="34" column="61" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/trial-mode.spec.ts" timestamp="1590435558960">
         <mark key="'" line="26" column="40" />
         <mark key="[" line="9" column="26" />
@@ -205,12 +199,6 @@
         <mark key="'" line="77" column="35" />
         <mark key="^" line="18" column="73" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/MenuItem.tsx" timestamp="1589408978491">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="12" column="43" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" timestamp="1590440917277">
         <mark key="'" line="56" column="45" />
         <mark key="[" line="32" column="51" />
@@ -223,9 +211,6 @@
         <mark key="[" line="24" column="35" />
         <mark key="]" line="24" column="35" />
         <mark key="." line="24" column="35" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/types/react-aliases.ts" timestamp="1589409116606">
-        <mark key="'" line="20" column="12" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" timestamp="1590418045122">
         <mark key="'" line="0" column="0" />
