@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDT05TVU1FUl9UUklBTF9UT19MSVZFX1VTRVJOQU1FXD4=</entry>
         <entry>test-service-dialog</entry>
         <entry>cy.server</entry>
         <entry>append</entry>
@@ -25,9 +24,9 @@
         <entry>route</entry>
         <entry>any</entry>
         <entry>propswithchildren</entry>
+        <entry encoding="base64">XDxTaW11bGF0aW9uUGFnZVN0YXRlUHJvcHNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">bm1hcCAoIDphY3Rpb24gR29Ub1Byb2plY3Q8Q1I+</entry>
         <entry>actionlist quick</entry>
         <entry>actionlist implementation</entry>
         <entry>action AceAction</entry>
@@ -41,12 +40,13 @@
         <entry encoding="base64">bm1hcCA8Qy1DUj4gOmFjdGlvbiBHb1RvUHJvamVjdDxDUj4=</entry>
         <entry>action GoToProject</entry>
         <entry>action SelectNextOccurrence</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action RecentLocations</entry>
         <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
         <entry>action Git.Branches</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action RecentLocations</entry>
+        <entry>action SplitVertically</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -132,6 +132,9 @@
       <shortcut-conflict owner="vim">
         <text>alt pressed B</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -186,7 +189,7 @@
       <file name="/" timestamp="1590504131745">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" timestamp="1590563039952">
+      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" timestamp="1590587854562">
         <mark key="[" line="18" column="41" />
         <mark key="]" line="18" column="56" />
         <mark key="^" line="18" column="56" />
@@ -218,14 +221,11 @@
         <mark key="^" line="15" column="65" />
         <mark key="." line="15" column="64" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" timestamp="1590573281436">
-        <mark key="'" line="36" column="0" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" timestamp="1590587788279">
+        <mark key="'" line="35" column="38" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="22" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
-      <jump line="77" column="35" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
-      <jump line="22" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/FormErrors.spec.tsx" />
       <jump line="54" column="6" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/FormErrors.spec.tsx" />
       <jump line="63" column="6" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/FormErrors.spec.tsx" />
       <jump line="71" column="6" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/FormErrors.spec.tsx" />
@@ -323,6 +323,9 @@
       <jump line="10" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
       <jump line="27" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
       <jump line="36" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
+      <jump line="12" column="10" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
+      <jump line="16" column="53" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
+      <jump line="35" column="38" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,7 +337,7 @@
         <text>location={props.location} match={props.match}</text>
       </register>
       <register name="/" type="4">
-        <text>propswithchildren</text>
+        <text encoding="base64">XDxTaW11bGF0aW9uUGFnZVN0YXRlUHJvcHNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>/internal/delete-reports-requests</text>
@@ -367,15 +370,15 @@
         <text encoding="base64">aW1wb3J0ICogYXMgSCBmcm9tICdoaXN0b3J5Jwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Git.Branches</text>
+        <text>action SplitVertically</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>propswithchildren</last-search>
+      <last-search encoding="base64">XDxTaW11bGF0aW9uUGFnZVN0YXRlUHJvcHNcPg==</last-search>
       <last-offset />
-      <last-pattern>propswithchildren</last-pattern>
+      <last-pattern encoding="base64">XDxTaW11bGF0aW9uUGFnZVN0YXRlUHJvcHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
