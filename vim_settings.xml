@@ -134,7 +134,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/SideBar.tsx" timestamp="1590563013122" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/SideBar.tsx" timestamp="1590568238108" />
       <file name="$USER_HOME$/development/otonomo/consumer/src/helpers/google-analytics.ts" timestamp="1590502863208">
         <mark key="'" line="69" column="2" />
       </file>
