@@ -27,7 +27,6 @@
         <entry>propswithchildren</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoProject</entry>
         <entry encoding="base64">bm1hcCAoIDphY3Rpb24gR29Ub1Byb2plY3Q8Q1I+</entry>
         <entry>actionlist quick</entry>
         <entry>actionlist implementation</entry>
@@ -45,8 +44,9 @@
         <entry>action FileStructurePopup</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RecentLocations</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Git.Branches</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -158,9 +158,6 @@
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServiceCreate.tsx" timestamp="1590502915480">
         <mark key="'" line="146" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" timestamp="1590433596883">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" timestamp="1590434373668">
         <mark key="'" line="54" column="33" />
         <mark key="[" line="28" column="14" />
@@ -190,7 +187,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" timestamp="1590563039952">
-        <mark key="'" line="68" column="23" />
         <mark key="[" line="18" column="41" />
         <mark key="]" line="18" column="56" />
         <mark key="^" line="18" column="56" />
@@ -222,12 +218,11 @@
         <mark key="^" line="15" column="65" />
         <mark key="." line="15" column="64" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" timestamp="1590573281436">
+        <mark key="'" line="36" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="12" filename="$USER_HOME$/development/otonomo/consumer/src/types/react-aliases.ts" />
-      <jump line="14" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/Initializer/Initializer.tsx" />
-      <jump line="38" column="28" filename="$USER_HOME$/development/otonomo/onboarding_new/src/signup/SignupFormActions.tsx" />
-      <jump line="120" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
       <jump line="22" column="22" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
       <jump line="77" column="35" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
       <jump line="22" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/FormErrors.spec.tsx" />
@@ -324,6 +319,10 @@
       <jump line="84" column="7" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
       <jump line="18" column="27" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
       <jump line="68" column="23" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
+      <jump line="26" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
+      <jump line="10" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
+      <jump line="27" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
+      <jump line="36" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -368,7 +367,7 @@
         <text encoding="base64">aW1wb3J0ICogYXMgSCBmcm9tICdoaXN0b3J5Jwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action Git.Branches</text>
       </register>
     </registers>
   </component>
