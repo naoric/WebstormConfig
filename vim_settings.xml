@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>test-service-dialog</entry>
-        <entry>cy.server</entry>
-        <entry>append</entry>
         <entry>tostring</entry>
         <entry>delete report</entry>
         <entry>service name</entry>
@@ -21,10 +18,13 @@
         <entry encoding="base64">XDxQcm9wc1dpdGhDaGlsZHJlblw+</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDxhZ2dyZWdhdGVTZXJ2aWNlQ3JlYXRlZFw+</entry>
-        <entry>route</entry>
         <entry>any</entry>
         <entry>propswithchildren</entry>
         <entry encoding="base64">XDxTaW11bGF0aW9uUGFnZVN0YXRlUHJvcHNcPg==</entry>
+        <entry encoding="base64">XDxTaW11bGF0aW9uUGFnZVByb3BzXD4=</entry>
+        <entry encoding="base64">XDxBcHBSb3V0ZVByb3BzXD4=</entry>
+        <entry>route</entry>
+        <entry encoding="base64">XDxyb3V0ZVByb3BzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist quick</entry>
@@ -221,15 +221,14 @@
         <mark key="^" line="15" column="65" />
         <mark key="." line="15" column="64" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" timestamp="1590587788279">
-        <mark key="'" line="35" column="38" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" timestamp="1590588668236">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="23" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="6" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/FormErrors.spec.tsx" />
-      <jump line="63" column="6" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/FormErrors.spec.tsx" />
-      <jump line="71" column="6" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/FormErrors.spec.tsx" />
-      <jump line="5" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/FormErrors.spec.tsx" />
       <jump line="53" column="6" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/FormErrors.spec.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/ServiceComponents/ServicesContainerGrid.tsx" />
       <jump line="92" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/ServiceComponents/ServicesContainerGrid.tsx" />
@@ -324,20 +323,24 @@
       <jump line="27" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
       <jump line="36" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
       <jump line="12" column="10" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
-      <jump line="16" column="53" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
       <jump line="35" column="38" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
+      <jump line="21" column="3" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
+      <jump line="16" column="38" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
+      <jump line="28" column="14" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
+      <jump line="20" column="5" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
+      <jump line="24" column="4" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>location={props.location} match={props.match}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>location={props.location} match={props.match}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTaW11bGF0aW9uUGFnZVN0YXRlUHJvcHNcPg==</text>
+        <text encoding="base64">XDxyb3V0ZVByb3BzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>/internal/delete-reports-requests</text>
@@ -376,9 +379,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTaW11bGF0aW9uUGFnZVN0YXRlUHJvcHNcPg==</last-search>
+      <last-search encoding="base64">XDxyb3V0ZVByb3BzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTaW11bGF0aW9uUGFnZVN0YXRlUHJvcHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyb3V0ZVByb3BzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
