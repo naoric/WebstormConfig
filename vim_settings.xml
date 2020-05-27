@@ -41,11 +41,11 @@
         <entry>source ~/.ideavimrc</entry>
         <entry encoding="base64">bm1hcCA8Qy1DUj4gOmFjdGlvbiBHb1RvUHJvamVjdDxDUj4=</entry>
         <entry>action GoToProject</entry>
-        <entry>action GotoAction</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action RecentLocations</entry>
+        <entry>action GotoAction</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
@@ -129,6 +129,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed B</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -165,11 +168,11 @@
         <mark key="^" line="28" column="24" />
         <mark key="." line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-services.spec.ts" timestamp="1590433258839">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="35" column="54" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/InitializerRoute.tsx" timestamp="1590572101535">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="34" column="26" />
+        <mark key="^" line="34" column="26" />
+        <mark key="." line="34" column="25" />
       </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/trial-mode.spec.ts" timestamp="1590435558960">
         <mark key="'" line="26" column="40" />
@@ -177,10 +180,6 @@
         <mark key="]" line="9" column="26" />
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" timestamp="1590433174824">
-        <mark key="'" line="28" column="18" />
-        <mark key="[" line="10" column="12" />
       </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/live-mode.spec.ts" timestamp="1590435051362">
         <mark key="[" line="9" column="26" />
@@ -196,6 +195,12 @@
         <mark key="]" line="18" column="56" />
         <mark key="^" line="18" column="56" />
         <mark key="." line="18" column="55" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/package.json" timestamp="1590572056981">
+        <mark key="[" line="100" column="24" />
+        <mark key="]" line="101" column="25" />
+        <mark key="^" line="101" column="25" />
+        <mark key="." line="101" column="24" />
       </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" timestamp="1590439989516">
         <mark key="'" line="24" column="7" />
@@ -323,11 +328,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgY3JlYXRlUHJvcHM6IENyZWF0ZVByb3BzID0gewogIHR5cGU6ICdwZXJzb25hbCcKfQoK</text>
+      <register name="&quot;" type="4">
+        <text>location={props.location} match={props.match}</text>
       </register>
       <register name="-" type="4">
-        <text>SimulatorRouteProps</text>
+        <text>location={props.location} match={props.match}</text>
       </register>
       <register name="/" type="4">
         <text>propswithchildren</text>

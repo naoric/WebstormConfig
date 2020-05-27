@@ -24,6 +24,9 @@
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="InsertLiveTemplate" />
   <action id="Macro.Format Optimize Imports">
     <keyboard-shortcut first-keystroke="meta s" />
