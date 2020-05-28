@@ -34,6 +34,12 @@
   <action id="Macro.Set to UPPER_SCREAM">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="SaveAll" />
   <action id="ViewSource" />
 </keymap>

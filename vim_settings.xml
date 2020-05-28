@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>service name</entry>
-        <entry>legacy_demo_service</entry>
-        <entry>market</entry>
         <entry>marker</entry>
         <entry>reports</entry>
         <entry>reports_url</entry>
@@ -25,28 +22,31 @@
         <entry encoding="base64">XDxyb3V0ZVByb3BzXD4=</entry>
         <entry>propswithchild</entry>
         <entry>feature</entry>
+        <entry encoding="base64">XDxGdXNlXD4=</entry>
+        <entry encoding="base64">XDxmdXNlXD4=</entry>
+        <entry encoding="base64">XDx0aXRsZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist quick</entry>
-        <entry>actionlist implementation</entry>
-        <entry>action AceAction</entry>
-        <entry encoding="base64">bm1hcCBcIDphY3Rpb24gUXVpY2tJbXBsZW1lbnRhdGlvbnM8Q1I+</entry>
-        <entry>action FindUsages</entry>
-        <entry>action QuickImplementations</entry>
         <entry>actionlist open project</entry>
         <entry>actionlist gotopro</entry>
         <entry>actionlist gotoprojec</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry encoding="base64">bm1hcCA8Qy1DUj4gOmFjdGlvbiBHb1RvUHJvamVjdDxDUj4=</entry>
         <entry>action GoToProject</entry>
         <entry>action SelectNextOccurrence</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action GotoAction</entry>
         <entry>action Git.Branches</entry>
         <entry>action RecentLocations</entry>
         <entry>action SplitVertically</entry>
         <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action QuickImplementations</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>actionlist quickdoc</entry>
+        <entry>actionlist quickdocumentation</entry>
+        <entry>actionlist document</entry>
+        <entry>action GotoAction</entry>
+        <entry>documentation</entry>
+        <entry>actionlist documentation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -135,6 +135,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -146,6 +149,9 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/SideBar.tsx" timestamp="1590568238108" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/AttributesForm.tsx" timestamp="1590647421847">
+        <mark key="'" line="255" column="18" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/helpers/google-analytics.ts" timestamp="1590502863208">
         <mark key="'" line="69" column="2" />
       </file>
@@ -171,13 +177,6 @@
         <mark key="]" line="34" column="26" />
         <mark key="^" line="34" column="26" />
         <mark key="." line="34" column="25" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/trial-mode.spec.ts" timestamp="1590435558960">
-        <mark key="'" line="26" column="40" />
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="9" column="26" />
       </file>
       <file name="/" timestamp="1590504131745">
         <mark key="[" line="0" column="0" />
@@ -229,8 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/ServiceComponents/ServicesContainerGrid.tsx" />
-      <jump line="102" column="8" filename="$USER_HOME$/development/otonomo/consumer/src/components/ServiceComponents/ServicesContainerGrid.tsx" />
       <jump line="15" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/ServiceComponents/ServicesContainerGrid.tsx" />
       <jump line="81" column="8" filename="$USER_HOME$/development/otonomo/consumer/src/components/ServiceComponents/ServicesContainerGrid.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/Form/Fields/TextField.tsx" />
@@ -329,6 +326,8 @@
       <jump line="24" column="4" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
       <jump line="47" column="29" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
       <jump line="14" column="20" filename="$USER_HOME$/development/otonomo/consumer/src/index.tsx" />
+      <jump line="13" column="18" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/AttributesForm.tsx" />
+      <jump line="255" column="18" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/AttributesForm.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -340,7 +339,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>feature</text>
+        <text encoding="base64">XDx0aXRsZVw+</text>
       </register>
       <register name="0" type="4">
         <text>/internal/delete-reports-requests</text>
@@ -373,15 +372,15 @@
         <text encoding="base64">aW1wb3J0IHsgdXNlU2VsZWN0b3IgfSBmcm9tICdyZWFjdC1yZWR1eCcK</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>actionlist documentation</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>feature</last-search>
+      <last-search encoding="base64">XDx0aXRsZVw+</last-search>
       <last-offset />
-      <last-pattern>feature</last-pattern>
+      <last-pattern encoding="base64">XDx0aXRsZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
