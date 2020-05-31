@@ -5,13 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>carstatus</entry>
-        <entry encoding="base64">XDxQcm9wc1dpdGhDaGlsZHJlblw+</entry>
-        <entry encoding="base64">XDx2YWx1ZVw+</entry>
-        <entry encoding="base64">XDxhZ2dyZWdhdGVTZXJ2aWNlQ3JlYXRlZFw+</entry>
-        <entry>any</entry>
-        <entry>propswithchildren</entry>
-        <entry encoding="base64">XDxTaW11bGF0aW9uUGFnZVN0YXRlUHJvcHNcPg==</entry>
         <entry encoding="base64">XDxTaW11bGF0aW9uUGFnZVByb3BzXD4=</entry>
         <entry encoding="base64">XDxBcHBSb3V0ZVByb3BzXD4=</entry>
         <entry>route</entry>
@@ -25,9 +18,15 @@
         <entry encoding="base64">XDxzZXJ2aWNlc0RhdGFcPg==</entry>
         <entry encoding="base64">XDwhc2VydmljZXNEYXRhXD4=</entry>
         <entry encoding="base64">XDx2ZW5kb3JEYXRhXD4=</entry>
+        <entry encoding="base64">XDx2ZW5kb3JBcHBzXD4=</entry>
+        <entry>state =</entry>
+        <entry encoding="base64">XDxzdGF0ZVw+</entry>
+        <entry>vendordata</entry>
+        <entry>vendorData</entry>
+        <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
+        <entry encoding="base64">XDxoYW5kbGVTb3J0VGFibGVcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist open project</entry>
         <entry>actionlist gotopro</entry>
         <entry>actionlist gotoprojec</entry>
         <entry encoding="base64">bm1hcCA8Qy1DUj4gOmFjdGlvbiBHb1RvUHJvamVjdDxDUj4=</entry>
@@ -47,6 +46,7 @@
         <entry>action GotoAction</entry>
         <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -148,6 +148,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/SideBar.tsx" timestamp="1590940300240" />
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/AttributesForm.tsx" timestamp="1590647421847">
         <mark key="'" line="255" column="18" />
       </file>
@@ -217,24 +218,15 @@
         <mark key="]" line="28" column="23" />
         <mark key="." line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" timestamp="1590939947004">
-        <mark key="'" line="207" column="29" />
-        <mark key="[" line="178" column="11" />
-        <mark key="]" line="178" column="13" />
-        <mark key="." line="178" column="12" />
-        <mark key="^" line="178" column="13" />
+      <file name="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" timestamp="1590941060837">
+        <mark key="'" line="126" column="34" />
+        <mark key="[" line="182" column="26" />
+        <mark key="]" line="187" column="29" />
+        <mark key="." line="187" column="28" />
+        <mark key="^" line="187" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServiceTabs.tsx" />
-      <jump line="100" column="11" filename="$USER_HOME$/development/otonomo/consumer/src/components/ServiceComponents/ServicesContainerGrid.tsx" />
-      <jump line="23" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/ServiceComponents/ServicesContainerGrid.tsx" />
-      <jump line="12" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/lib/hooks/useFetch.tsx" />
-      <jump line="20" column="16" filename="$USER_HOME$/development/otonomo/consumer/src/lib/hooks/useFetch.tsx" />
-      <jump line="29" column="6" filename="$USER_HOME$/development/otonomo/consumer/src/lib/hooks/useFetch.tsx" />
-      <jump line="224" column="72" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServiceTabs.tsx" />
-      <jump line="8" column="0" filename="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" />
-      <jump line="61" column="3" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
       <jump line="18" column="13" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
       <jump line="5" column="13" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
       <jump line="6" column="11" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
@@ -323,62 +315,71 @@
       <jump line="197" column="29" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
       <jump line="179" column="14" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
       <jump line="324" column="6" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
-      <jump line="182" column="10" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
       <jump line="177" column="10" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
       <jump line="207" column="29" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
+      <jump line="182" column="25" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
+      <jump line="169" column="50" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
+      <jump line="162" column="11" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
+      <jump line="33" column="2" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
+      <jump line="39" column="26" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
+      <jump line="64" column="19" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
+      <jump line="37" column="2" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
+      <jump line="25" column="2" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
+      <jump line="254" column="2" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
+      <jump line="126" column="34" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>app</text>
+        <text>display_name</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>display_name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZW5kb3JEYXRhXD4=</text>
+        <text encoding="base64">XDxoYW5kbGVTb3J0VGFibGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>/internal/delete-reports-requests</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZmVhdHVyZXM6IFJlY29yZDxzdHJpbmcsIGJvb2xlYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgLm1hcChhcHAgPT4gYXBwLmRpc3BsYXlfbmFtZSA/PyBhcHAubmFtZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ3YXRjaCI6IHsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZmVhdHVyZXM6IFJlY29yZDxzdHJpbmcsIGJvb2xlYW4+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJ3YXRjaCI6IHsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ3YXRjaCI6IHRydWUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgY3JlYXRlUHJvcHM6IENyZWF0ZVByb3BzID0gewogIHR5cGU6ICdwZXJzb25hbCcKfQoK</text>
+        <text encoding="base64">ICAgICJ3YXRjaCI6IHRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IExFR0FDWV9ERU1PX1NFUlZJQ0UgPSAnTGVnYWN5X0RlbW9fU2VydmljZScKICAgIGNvbnN0IExFR0FDWV9MSVZFX1NFUlZJQ0UgPSAnTGVnYWN5X0xpdmVfU2VydmljZScK</text>
+        <text encoding="base64">Y29uc3QgY3JlYXRlUHJvcHM6IENyZWF0ZVByb3BzID0gewogIHR5cGU6ICdwZXJzb25hbCcKfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IExFR0FDWV9ERU1PX1NFUlZJQ0UgPSAnTGVnYWN5X0RlbW9fU2VydmljZScKICAgIGNvbnN0IExFR0FDWV9MSVZFX1NFUlZJQ0UgPSAnTGVnYWN5X0xpdmVfU2VydmljZScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2VydmljZUlkU2VsZWN0b3IgfSBmcm9tICdzdGF0ZS9zZWxlY3RvcnMvcm91dGVyLXNlbGVjdG9ycycK</text>
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlU2VsZWN0b3IgfSBmcm9tICdyZWFjdC1yZWR1eCcK</text>
+        <text encoding="base64">aW1wb3J0IHsgc2VydmljZUlkU2VsZWN0b3IgfSBmcm9tICdzdGF0ZS9zZWxlY3RvcnMvcm91dGVyLXNlbGVjdG9ycycK</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx2ZW5kb3JEYXRhXD4=</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVTb3J0VGFibGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZW5kb3JEYXRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVTb3J0VGFibGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
