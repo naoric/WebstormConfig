@@ -44,9 +44,9 @@
         <entry>projectviewpopmenu</entry>
         <entry>action projectpopupmenu</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -148,7 +148,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/TestServiceDialog.tsx" timestamp="1591346795853" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/TestServiceDialog.tsx" timestamp="1591346861222" />
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/AttributesForm.tsx" timestamp="1590647421847">
         <mark key="'" line="255" column="18" />
       </file>
@@ -204,8 +204,12 @@
         <mark key="^" line="103" column="18" />
         <mark key="." line="103" column="17" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" timestamp="1591346448344">
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" timestamp="1591346923910">
         <mark key="'" line="62" column="35" />
+        <mark key="[" line="36" column="42" />
+        <mark key="]" line="36" column="42" />
+        <mark key="." line="36" column="42" />
+        <mark key="^" line="18" column="40" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" timestamp="1591346516373">
         <mark key="'" line="29" column="0" />
@@ -330,16 +334,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>'test-service-dialog'</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>'test-service-dialog'</text>
       </register>
       <register name="/" type="4">
         <text>return</text>
       </register>
       <register name="0" type="4">
-        <text>/internal/delete-reports-requests</text>
+        <text>'trial-mode-report-screen'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLm1hcChhcHAgPT4gYXBwLmRpc3BsYXlfbmFtZSA/PyBhcHAubmFtZSkK</text>
@@ -369,7 +373,7 @@
         <text encoding="base64">aW1wb3J0IHsgc2VydmljZUlkU2VsZWN0b3IgfSBmcm9tICdzdGF0ZS9zZWxlY3RvcnMvcm91dGVyLXNlbGVjdG9ycycK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
