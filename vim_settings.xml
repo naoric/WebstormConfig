@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTaW11bGF0aW9uUGFnZVByb3BzXD4=</entry>
-        <entry encoding="base64">XDxBcHBSb3V0ZVByb3BzXD4=</entry>
-        <entry>route</entry>
-        <entry encoding="base64">XDxyb3V0ZVByb3BzXD4=</entry>
-        <entry>propswithchild</entry>
         <entry>feature</entry>
         <entry encoding="base64">XDxGdXNlXD4=</entry>
         <entry encoding="base64">XDxmdXNlXD4=</entry>
@@ -25,17 +20,15 @@
         <entry>vendorData</entry>
         <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVTb3J0VGFibGVcPg==</entry>
+        <entry>report</entry>
+        <entry>delete_report</entry>
+        <entry>login</entry>
+        <entry>consumer_legacy_username</entry>
+        <entry>return</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist gotopro</entry>
-        <entry>actionlist gotoprojec</entry>
-        <entry encoding="base64">bm1hcCA8Qy1DUj4gOmFjdGlvbiBHb1RvUHJvamVjdDxDUj4=</entry>
-        <entry>action GoToProject</entry>
-        <entry>action SelectNextOccurrence</entry>
         <entry>action Git.Branches</entry>
-        <entry>action RecentLocations</entry>
         <entry>action SplitVertically</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action QuickImplementations</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>actionlist quickdoc</entry>
@@ -43,10 +36,17 @@
         <entry>actionlist document</entry>
         <entry>documentation</entry>
         <entry>actionlist documentation</entry>
-        <entry>action GotoAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action RenameElement</entry>
+        <entry>action OverrideMethods</entry>
+        <entry>action RecentLocations</entry>
+        <entry>actionlist project</entry>
+        <entry>projectviewpopmenu</entry>
+        <entry>action projectpopupmenu</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoFile</entry>
+        <entry>action FindUsages</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -148,7 +148,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/SideBar.tsx" timestamp="1590940300240" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/TestServiceDialog.tsx" timestamp="1591346795853" />
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/AttributesForm.tsx" timestamp="1590647421847">
         <mark key="'" line="255" column="18" />
       </file>
@@ -161,13 +161,16 @@
         <mark key="^" line="34" column="26" />
         <mark key="." line="34" column="25" />
       </file>
-      <file name="/" timestamp="1590504131745">
+      <file name="/" timestamp="1591346290308">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/ServiceComponents/ServiceBox.tsx" timestamp="1590506160664">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/CreateReportSharedFields.tsx" timestamp="1591346532309">
+        <mark key="'" line="19" column="36" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" timestamp="1590646214405">
         <mark key="'" line="47" column="29" />
@@ -182,12 +185,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" timestamp="1590440917277">
-        <mark key="'" line="56" column="45" />
-        <mark key="[" line="32" column="51" />
-        <mark key="]" line="32" column="83" />
-        <mark key="^" line="62" column="84" />
-        <mark key="." line="62" column="83" />
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" timestamp="1591346394295">
+        <mark key="'" line="31" column="38" />
       </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" timestamp="1590439989516">
         <mark key="'" line="24" column="7" />
@@ -205,41 +204,27 @@
         <mark key="^" line="103" column="18" />
         <mark key="." line="103" column="17" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" timestamp="1590436385104">
-        <mark key="'" line="16" column="9" />
-        <mark key="[" line="15" column="65" />
-        <mark key="]" line="15" column="65" />
-        <mark key="^" line="15" column="65" />
-        <mark key="." line="15" column="64" />
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" timestamp="1591346448344">
+        <mark key="'" line="62" column="35" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" timestamp="1590588668236">
-        <mark key="'" line="24" column="4" />
+      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" timestamp="1591346516373">
+        <mark key="'" line="29" column="0" />
         <mark key="[" line="28" column="23" />
         <mark key="]" line="28" column="23" />
         <mark key="." line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" timestamp="1590941060837">
+      <file name="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" timestamp="1591345974959">
         <mark key="'" line="126" column="34" />
-        <mark key="[" line="182" column="26" />
-        <mark key="]" line="187" column="29" />
-        <mark key="." line="187" column="28" />
-        <mark key="^" line="187" column="29" />
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="26" />
+        <mark key="." line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" timestamp="1591346780151">
+        <mark key="'" line="138" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="13" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
-      <jump line="5" column="13" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
-      <jump line="6" column="11" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
-      <jump line="7" column="14" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
-      <jump line="8" column="12" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
-      <jump line="9" column="15" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
-      <jump line="10" column="6" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
-      <jump line="28" column="18" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/@types/index.d.ts" />
-      <jump line="17" column="12" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
-      <jump line="59" column="0" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
-      <jump line="3" column="10" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
-      <jump line="5" column="2" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
-      <jump line="15" column="0" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/login/login.ts" />
       <jump line="25" column="30" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/commands.ts" />
       <jump line="0" column="9" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" />
@@ -300,7 +285,6 @@
       <jump line="26" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
       <jump line="10" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
       <jump line="27" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
-      <jump line="36" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
       <jump line="12" column="10" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
       <jump line="35" column="38" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
       <jump line="21" column="3" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
@@ -327,18 +311,32 @@
       <jump line="25" column="2" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
       <jump line="254" column="2" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
       <jump line="126" column="34" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
+      <jump line="59" column="23" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" />
+      <jump line="9" column="3" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" />
+      <jump line="10" column="3" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" />
+      <jump line="32" column="12" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" />
+      <jump line="36" column="21" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" />
+      <jump line="62" column="35" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
+      <jump line="31" column="38" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" />
+      <jump line="38" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
+      <jump line="36" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
+      <jump line="8" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
+      <jump line="29" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
+      <jump line="19" column="36" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/CreateReportSharedFields.tsx" />
+      <jump line="178" column="2" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
+      <jump line="138" column="4" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>display_name</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>display_name</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVTb3J0VGFibGVcPg==</text>
+        <text>return</text>
       </register>
       <register name="0" type="4">
         <text>/internal/delete-reports-requests</text>
@@ -371,15 +369,15 @@
         <text encoding="base64">aW1wb3J0IHsgc2VydmljZUlkU2VsZWN0b3IgfSBmcm9tICdzdGF0ZS9zZWxlY3RvcnMvcm91dGVyLXNlbGVjdG9ycycK</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVTb3J0VGFibGVcPg==</last-search>
+      <last-search>return</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVTb3J0VGFibGVcPg==</last-pattern>
+      <last-pattern>return</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
