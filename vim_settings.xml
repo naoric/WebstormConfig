@@ -27,7 +27,6 @@
         <entry>return</entry>
       </history-search>
       <history-cmd>
-        <entry>action Git.Branches</entry>
         <entry>action SplitVertically</entry>
         <entry>action QuickImplementations</entry>
         <entry>source ~/.ideavimrc</entry>
@@ -47,6 +46,7 @@
         <entry>action FindUsages</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry>action SelectNextOccurrence</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -148,7 +148,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/TestServiceDialog.tsx" timestamp="1591346861222" />
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/AttributesForm.tsx" timestamp="1590647421847">
         <mark key="'" line="255" column="18" />
       </file>
@@ -179,6 +178,7 @@
         <mark key="^" line="18" column="56" />
         <mark key="." line="18" column="25" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.env.json" timestamp="1591518334203" />
       <file name="$USER_HOME$/development/otonomo/consumer/src/index.tsx" timestamp="1590646691907">
         <mark key="'" line="14" column="20" />
         <mark key="[" line="15" column="0" />
@@ -188,11 +188,12 @@
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" timestamp="1591346394295">
         <mark key="'" line="31" column="38" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" timestamp="1590439989516">
-        <mark key="'" line="24" column="7" />
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="24" column="35" />
-        <mark key="." line="24" column="35" />
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" timestamp="1591371361194">
+        <mark key="'" line="0" column="36" />
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="21" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServiceCreate.tsx" timestamp="1590502915480">
         <mark key="'" line="146" column="0" />
@@ -204,7 +205,7 @@
         <mark key="^" line="103" column="18" />
         <mark key="." line="103" column="17" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" timestamp="1591346923910">
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" timestamp="1591518345804">
         <mark key="'" line="62" column="35" />
         <mark key="[" line="36" column="42" />
         <mark key="]" line="36" column="42" />
@@ -229,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="30" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/commands.ts" />
       <jump line="0" column="9" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" />
       <jump line="80" column="35" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
@@ -329,15 +329,16 @@
       <jump line="19" column="36" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/CreateReportSharedFields.tsx" />
       <jump line="178" column="2" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
       <jump line="138" column="4" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
+      <jump line="0" column="36" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'test-service-dialog'</text>
+        <text>TNMISH</text>
       </register>
       <register name="-" type="4">
-        <text>'test-service-dialog'</text>
+        <text>TNMISH</text>
       </register>
       <register name="/" type="4">
         <text>return</text>
@@ -373,7 +374,7 @@
         <text encoding="base64">aW1wb3J0IHsgc2VydmljZUlkU2VsZWN0b3IgfSBmcm9tICdzdGF0ZS9zZWxlY3RvcnMvcm91dGVyLXNlbGVjdG9ycycK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action SelectNextOccurrence</text>
       </register>
     </registers>
   </component>
