@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXJ2aWNlc0RhdGFcPg==</entry>
         <entry encoding="base64">XDwhc2VydmljZXNEYXRhXD4=</entry>
         <entry encoding="base64">XDx2ZW5kb3JEYXRhXD4=</entry>
         <entry encoding="base64">XDx2ZW5kb3JBcHBzXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>report-map</entry>
         <entry>click</entry>
         <entry>force</entry>
+        <entry>lockfileversion</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist quickdoc</entry>
@@ -43,10 +43,10 @@
         <entry>action FindUsages</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action SelectNextOccurrence</entry>
-        <entry>action GotoFile</entry>
         <entry>action EditorDuplicateLines</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action EditorCloneCaretBelow</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -143,6 +143,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/development/otonomo/consumer/package-lock.json" timestamp="1591859090538">
+        <mark key="'" line="26" column="3" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.json" timestamp="1590646264300">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -186,23 +189,20 @@
       </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" timestamp="1591804290165">
         <mark key="'" line="10" column="3" />
-        <mark key="[" line="32" column="88" />
-        <mark key="]" line="32" column="89" />
-        <mark key="." line="32" column="88" />
-        <mark key="^" line="32" column="89" />
       </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" timestamp="1591371361194">
         <mark key="'" line="0" column="36" />
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="20" />
-        <mark key="^" line="29" column="21" />
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="20" />
+        <mark key="^" line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/ReportByPolygon.tsx" timestamp="1591804844131">
+      <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/ReportByPolygon.tsx" timestamp="1591858874413">
         <mark key="'" line="107" column="14" />
         <mark key="[" line="105" column="61" />
-        <mark key="]" line="105" column="10" />
-        <mark key="." line="105" column="7" />
+        <mark key="]" line="105" column="6" />
+        <mark key="." line="105" column="5" />
+        <mark key="^" line="105" column="6" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServiceCreate.tsx" timestamp="1590502915480">
         <mark key="'" line="146" column="0" />
@@ -213,13 +213,6 @@
         <mark key="]" line="103" column="18" />
         <mark key="^" line="103" column="18" />
         <mark key="." line="103" column="17" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" timestamp="1591857003000">
-        <mark key="'" line="17" column="35" />
-        <mark key="[" line="98" column="22" />
-        <mark key="]" line="98" column="22" />
-        <mark key="." line="98" column="22" />
-        <mark key="^" line="98" column="23" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" timestamp="1591346516373">
         <mark key="'" line="29" column="0" />
@@ -243,10 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="9" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
-      <jump line="27" column="5" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" />
-      <jump line="29" column="5" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" />
-      <jump line="26" column="40" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/trial-mode.spec.ts" />
       <jump line="43" column="9" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
       <jump line="23" column="2" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" />
       <jump line="20" column="0" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" />
@@ -343,6 +332,10 @@
       <jump line="107" column="14" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/ReportByPolygon.tsx" />
       <jump line="16" column="37" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
       <jump line="17" column="35" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
+      <jump line="8427" column="12" filename="$USER_HOME$/development/otonomo/consumer/package-lock.json" />
+      <jump line="18" column="3" filename="$USER_HOME$/development/otonomo/consumer/package-lock.json" />
+      <jump line="3" column="3" filename="$USER_HOME$/development/otonomo/consumer/package-lock.json" />
+      <jump line="26" column="3" filename="$USER_HOME$/development/otonomo/consumer/package-lock.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -354,7 +347,7 @@
         <text>dlkf</text>
       </register>
       <register name="/" type="4">
-        <text>force</text>
+        <text>lockfileversion</text>
       </register>
       <register name="0" type="4">
         <text>'trial-mode-report-screen'</text>
@@ -387,15 +380,15 @@
         <text encoding="base64">ICAgICJ3YXRjaCI6IHsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorCloneCaretBelow</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>force</last-search>
+      <last-search>lockfileversion</last-search>
       <last-offset />
-      <last-pattern>force</last-pattern>
+      <last-pattern>lockfileversion</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
