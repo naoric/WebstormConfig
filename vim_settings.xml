@@ -206,8 +206,12 @@
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServiceCreate.tsx" timestamp="1590502915480">
         <mark key="'" line="146" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" timestamp="1591897410490">
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" timestamp="1591899869495">
         <mark key="'" line="3" column="31" />
+        <mark key="[" line="98" column="20" />
+        <mark key="]" line="98" column="22" />
+        <mark key="." line="98" column="21" />
+        <mark key="^" line="98" column="22" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" timestamp="1591346516373">
         <mark key="'" line="29" column="0" />
@@ -335,11 +339,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBDeXByZXNzLmxvZyh7CiAgICBuYW1lOiAnR3JhbnQgU2VydmljZSBQZXJtaXNzaW9ucycsCiAgICBkaXNwbGF5TmFtZTogJ2dyYW50IHBlcm1pc3Npb25zJywKICAgIGNvbnNvbGVQcm9wcygpOiBDeXByZXNzLk9iamVjdExpa2UgewogICAgICByZXR1cm4gewogICAgICAgIE9wdGlvbnM6IHJlcXVlc3RPcHRpb25zLAogICAgICAgICdTZXJ2aWNlIE5hbWUnOiBhcHBJZCwKICAgICAgfQogICAgfSwKICB9KQp9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>10</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>setup</text>
