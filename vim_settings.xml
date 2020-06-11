@@ -27,8 +27,6 @@
         <entry>force</entry>
       </history-search>
       <history-cmd>
-        <entry>action QuickImplementations</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>actionlist quickdoc</entry>
         <entry>actionlist quickdocumentation</entry>
         <entry>actionlist document</entry>
@@ -47,6 +45,8 @@
         <entry>action SelectNextOccurrence</entry>
         <entry>action GotoFile</entry>
         <entry>action EditorDuplicateLines</entry>
+        <entry>action MoveStatementDown</entry>
+        <entry>action EditorCloneCaretBelow</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -214,12 +214,12 @@
         <mark key="^" line="103" column="18" />
         <mark key="." line="103" column="17" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" timestamp="1591805535638">
+      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" timestamp="1591857003000">
         <mark key="'" line="17" column="35" />
-        <mark key="[" line="98" column="28" />
-        <mark key="]" line="100" column="25" />
-        <mark key="." line="100" column="24" />
-        <mark key="^" line="100" column="25" />
+        <mark key="[" line="98" column="22" />
+        <mark key="]" line="98" column="22" />
+        <mark key="." line="98" column="22" />
+        <mark key="^" line="98" column="23" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" timestamp="1591346516373">
         <mark key="'" line="29" column="0" />
@@ -348,10 +348,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>mousedown</text>
+        <text>dlkf</text>
       </register>
       <register name="-" type="4">
-        <text>mousedown</text>
+        <text>dlkf</text>
       </register>
       <register name="/" type="4">
         <text>force</text>
@@ -360,34 +360,34 @@
         <text>'trial-mode-report-screen'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAudHJpZ2dlcignY2xpY2snLCB7d2hpY2g6IDEsIHg6IDEwMCwgeTogMTAwLCBmb3JjZTogdHJ1ZX0pCiAgICAgICAgLnRyaWdnZXIoJ2NsaWNrJywge3doaWNoOiAxLCB4OiAxMDAsIHk6IDEwMCwgZm9yY2U6IHRydWV9KQogICAgICAgIC50cmlnZ2VyKCdjbGljaycsIHt3aGljaDogMSwgeDogMTAwLCB5OiAxMDAsIGZvcmNlOiB0cnVlfSkKICAgICAgICAudHJpZ2dlcignY2xpY2snLCB7d2hpY2g6IDEsIHg6IDEwMCwgeTogMTAwLCBmb3JjZTogdHJ1ZX0pCg==</text>
+        <text encoding="base64">ICAgICAgICBjeS5nZXQoJ2NhbnZhcycpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLm1hcChhcHAgPT4gYXBwLmRpc3BsYXlfbmFtZSA/PyBhcHAubmFtZSkK</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZmVhdHVyZXM6IFJlY29yZDxzdHJpbmcsIGJvb2xlYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5jbGljaygxMDAsIDEwMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ3YXRjaCI6IHsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC50cmlnZ2VyKCdtb3VzZW92ZXInLCB7IHdoaWNoOiAxLCB4OiAxMDAsIHk6IDEwMCwgZm9yY2U6IHRydWUgfSkKICAgICAgICAgIC50cmlnZ2VyKCdtb3VzZWRvd24nLCB7IHdoaWNoOiAxLCB4OiAxMDAsIHk6IDEwMCwgZm9yY2U6IHRydWUgfSkKICAgICAgICAgIC50cmlnZ2VyKCdtb3VzZXVwJywgeyB3aGljaDogMSwgeDogMTAwLCB5OiAxMDAsIGZvcmNlOiB0cnVlIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUaGVzZSBjbGlja3MgaGF2ZSB0byBiZSBmb3JjZWQgYmVjYXVzZSBvZiBhbiBvdmVybGF5CiAgICAgICAgLy8gY29uZnVzaW5nIGN5cHJlc3MsIG1ha2luZyBpdCB0aGluayB0aGUgZWxlbWVudCBpcyB1bnJlYWNoYWJsZQogICAgICAgIC50cmlnZ2VyKCdtb3VzZW92ZXInLCB7d2hpY2g6IDEsIHg6IDEwMCwgeTogMTAwLCBmb3JjZTogdHJ1ZX0pCiAgICAgICAgLnRyaWdnZXIoJ21vdXNlZG93bicsIHt3aGljaDogMSwgeDogMTAwLCB5OiAxMDAsIGZvcmNlOiB0cnVlfSkKICAgICAgICAudHJpZ2dlcignbW91c2V1cCcsIHt3aGljaDogMSwgeDogMTAwLCB5OiAxMDAsIGZvcmNlOiB0cnVlfSkKICAgICAgICAvLyAuY2xpY2soMTAwLDEwMCwge2ZvcmNlOiB0cnVlfSkKICAgICAgICAuY2xpY2soNTkwLCAxMDAse2ZvcmNlOiB0cnVlfSkKICAgICAgICAuY2xpY2soMTAwLCAyNTAse2ZvcmNlOiB0cnVlfSkKICAgICAgICAuY2xpY2soNTkwLCAyNTAse2ZvcmNlOiB0cnVlfSkKICAgICAgICAuY2xpY2soMTAwLDEwMCx7Zm9yY2U6IHRydWV9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ3YXRjaCI6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAudHJpZ2dlcignY2xpY2snLCB7d2hpY2g6IDEsIHg6IDEwMCwgeTogMTAwLCBmb3JjZTogdHJ1ZX0pCiAgICAgICAgLnRyaWdnZXIoJ2NsaWNrJywge3doaWNoOiAxLCB4OiAxMDAsIHk6IDEwMCwgZm9yY2U6IHRydWV9KQogICAgICAgIC50cmlnZ2VyKCdjbGljaycsIHt3aGljaDogMSwgeDogMTAwLCB5OiAxMDAsIGZvcmNlOiB0cnVlfSkKICAgICAgICAudHJpZ2dlcignY2xpY2snLCB7d2hpY2g6IDEsIHg6IDEwMCwgeTogMTAwLCBmb3JjZTogdHJ1ZX0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgY3JlYXRlUHJvcHM6IENyZWF0ZVByb3BzID0gewogIHR5cGU6ICdwZXJzb25hbCcKfQoK</text>
+        <text encoding="base64">ICAgICAgLm1hcChhcHAgPT4gYXBwLmRpc3BsYXlfbmFtZSA/PyBhcHAubmFtZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IExFR0FDWV9ERU1PX1NFUlZJQ0UgPSAnTGVnYWN5X0RlbW9fU2VydmljZScKICAgIGNvbnN0IExFR0FDWV9MSVZFX1NFUlZJQ0UgPSAnTGVnYWN5X0xpdmVfU2VydmljZScK</text>
+        <text encoding="base64">ICAgICAgZmVhdHVyZXM6IFJlY29yZDxzdHJpbmcsIGJvb2xlYW4+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">ICAgICJ3YXRjaCI6IHsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicateLines</text>
+        <text>action EditorCloneCaretBelow</text>
       </register>
     </registers>
   </component>
