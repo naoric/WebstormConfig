@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>vendorData</entry>
-        <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVTb3J0VGFibGVcPg==</entry>
         <entry>delete_report</entry>
         <entry>login</entry>
@@ -25,14 +23,14 @@
         <entry encoding="base64">XDxkZWxldGVSZXBvcnRzRm9yU2VydmljZVw+</entry>
         <entry encoding="base64">XDxncmFudFNlcnZpY2VSZXBvcnRQZXJtaXNzaW9uc1w+</entry>
         <entry>setup</entry>
+        <entry encoding="base64">XDxjcmVhdGVEZWNyeXB0b3JzXD4=</entry>
+        <entry encoding="base64">PA==</entry>
       </history-search>
       <history-cmd>
-        <entry>action OverrideMethods</entry>
         <entry>action RecentLocations</entry>
         <entry>actionlist project</entry>
         <entry>projectviewpopmenu</entry>
         <entry>action projectpopupmenu</entry>
-        <entry>action GotoAction</entry>
         <entry>action FindUsages</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action EditorDuplicateLines</entry>
@@ -41,12 +39,14 @@
         <entry>action GotoDeclaration</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gSW50cm9kdWNlVmFyaWFibGU=</entry>
-        <entry>action GotoFile</entry>
         <entry>.,.+2action RenameElement</entry>
         <entry>action RenameElement</entry>
         <entry>actionlist searcheverywhere</entry>
         <entry encoding="base64">bm1hcCAoIDphY3Rpb24gU2VhcmNoRXZlcnl3aGVyZTxDUj4=</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoAction</entry>
+        <entry>action EditorPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -151,11 +151,14 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/server/config/dev.ts" timestamp="1592146383471">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/AttributesForm.tsx" timestamp="1590647421847">
         <mark key="'" line="255" column="18" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/helpers/google-analytics.ts" timestamp="1590502863208">
-        <mark key="'" line="69" column="2" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/routes/InitializerRoute.tsx" timestamp="1590572101535">
         <mark key="[" line="34" column="17" />
@@ -168,6 +171,12 @@
       </file>
       <file name="/" timestamp="1591346290308">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/.env" timestamp="1592146737747">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="8" column="9" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/ServiceComponents/ServiceBox.tsx" timestamp="1590506160664">
         <mark key="[" line="42" column="0" />
@@ -183,6 +192,9 @@
         <mark key="]" line="18" column="25" />
         <mark key="^" line="18" column="56" />
         <mark key="." line="18" column="25" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1592145880936">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/index.tsx" timestamp="1590646691907">
         <mark key="'" line="14" column="20" />
@@ -202,9 +214,6 @@
         <mark key="]" line="105" column="6" />
         <mark key="." line="105" column="5" />
         <mark key="^" line="105" column="6" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/AggregateComponents/AggregateServiceCreate.tsx" timestamp="1590502915480">
-        <mark key="'" line="146" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" timestamp="1591904472496">
         <mark key="'" line="3" column="31" />
@@ -235,9 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="13" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" />
-      <jump line="34" column="11" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" />
-      <jump line="35" column="18" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" />
       <jump line="85" column="5" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
       <jump line="2" column="31" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
       <jump line="35" column="16" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
@@ -335,59 +341,62 @@
       <jump line="38" column="0" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" />
       <jump line="24" column="16" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" />
       <jump line="72" column="0" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" />
+      <jump line="13" column="5" filename="$USER_HOME$/development/otonomo/consumer/server/config/dev.ts" />
+      <jump line="18" column="4" filename="$USER_HOME$/development/otonomo/consumer/server/config/dev.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/development/otonomo/consumer/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gY3kuZG9jdW1lbnQoKS5zaG91bGQoJ2hhdmUudGV4dCcsICdQZW5kaW5nJykK</text>
+      <register name="&quot;" type="4">
+        <text>e2e</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>e2e</text>
       </register>
       <register name="/" type="4">
-        <text>setup</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="4">
         <text>'trial-mode-report-screen'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gY3kuZG9jdW1lbnQoKS5zaG91bGQoJ2hhdmUudGV4dCcsICdQZW5kaW5nJykK</text>
+        <text encoding="base64">YXNzZXJ0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBDeXByZXNzLmxvZyh7CiAgICBuYW1lOiAnR3JhbnQgU2VydmljZSBQZXJtaXNzaW9ucycsCiAgICBkaXNwbGF5TmFtZTogJ2dyYW50IHBlcm1pc3Npb25zJywKICAgIGNvbnNvbGVQcm9wcygpOiBDeXByZXNzLk9iamVjdExpa2UgewogICAgICByZXR1cm4gewogICAgICAgIE9wdGlvbnM6IHJlcXVlc3RPcHRpb25zLAogICAgICAgICdTZXJ2aWNlIE5hbWUnOiBhcHBJZCwKICAgICAgfQogICAgfSwKICB9KQp9Cgo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgYXNzZXJ0IGZyb20gJ2Fzc2VydCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdyYW50U2VydmljZVJlcG9ydFBlcm1pc3Npb25zKGFwcElkOiBzdHJpbmcpIHsKICBjeS5zZXJ2ZXIoKQogIGNvbnN0IHVybCA9IG5ldyBVUkwoQ3lwcmVzcy5lbnYoJ0dSQU5UX1NFUlZJQ0VfUEVSTUlTU0lPTlNfVVJMJykpLnRvU3RyaW5nKCkKICBjb25zdCByZXF1ZXN0T3B0aW9uczogUGFydGlhbDxDeXByZXNzLlJlcXVlc3RPcHRpb25zPiA9IHsKICAgIHVybCwKICAgIG1ldGhvZDogJ1BPU1QnLAogICAgYm9keTogewogICAgICBwcm92aWRlcklkOiAnc29tZSBpZCcsCiAgICAgIGFwcElkLAogICAgICBzdGF0dXM6ICdhbGxvd2VkJywKICAgIH0sCiAgICBoZWFkZXJzOiB7IFROTUlTSDogQ3lwcmVzcy5lbnYoJ01QX1NFQ1JFVF9LRVknKSB9LAogICAgbG9nOiBmYWxzZSwKICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgLy8gY3kuZG9jdW1lbnQoKS5zaG91bGQoJ2hhdmUudGV4dCcsICdQZW5kaW5nJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBDeXByZXNzLmxvZyh7CiAgICBuYW1lOiAnR3JhbnQgU2VydmljZSBQZXJtaXNzaW9ucycsCiAgICBkaXNwbGF5TmFtZTogJ2dyYW50IHBlcm1pc3Npb25zJywKICAgIGNvbnNvbGVQcm9wcygpOiBDeXByZXNzLk9iamVjdExpa2UgewogICAgICByZXR1cm4gewogICAgICAgIE9wdGlvbnM6IHJlcXVlc3RPcHRpb25zLAogICAgICAgICdTZXJ2aWNlIE5hbWUnOiBhcHBJZCwKICAgICAgfQogICAgfSwKICB9KQp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjeS5nZXQoJ2NhbnZhcycpCg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdyYW50U2VydmljZVJlcG9ydFBlcm1pc3Npb25zKGFwcElkOiBzdHJpbmcpIHsKICBjeS5zZXJ2ZXIoKQogIGNvbnN0IHVybCA9IG5ldyBVUkwoQ3lwcmVzcy5lbnYoJ0dSQU5UX1NFUlZJQ0VfUEVSTUlTU0lPTlNfVVJMJykpLnRvU3RyaW5nKCkKICBjb25zdCByZXF1ZXN0T3B0aW9uczogUGFydGlhbDxDeXByZXNzLlJlcXVlc3RPcHRpb25zPiA9IHsKICAgIHVybCwKICAgIG1ldGhvZDogJ1BPU1QnLAogICAgYm9keTogewogICAgICBwcm92aWRlcklkOiAnc29tZSBpZCcsCiAgICAgIGFwcElkLAogICAgICBzdGF0dXM6ICdhbGxvd2VkJywKICAgIH0sCiAgICBoZWFkZXJzOiB7IFROTUlTSDogQ3lwcmVzcy5lbnYoJ01QX1NFQ1JFVF9LRVknKSB9LAogICAgbG9nOiBmYWxzZSwKICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5jbGljaygxMDAsIDEwMCkK</text>
+        <text encoding="base64">ICAgICAgICBjeS5nZXQoJ2NhbnZhcycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50cmlnZ2VyKCdtb3VzZW92ZXInLCB7IHdoaWNoOiAxLCB4OiAxMDAsIHk6IDEwMCwgZm9yY2U6IHRydWUgfSkKICAgICAgICAgIC50cmlnZ2VyKCdtb3VzZWRvd24nLCB7IHdoaWNoOiAxLCB4OiAxMDAsIHk6IDEwMCwgZm9yY2U6IHRydWUgfSkKICAgICAgICAgIC50cmlnZ2VyKCdtb3VzZXVwJywgeyB3aGljaDogMSwgeDogMTAwLCB5OiAxMDAsIGZvcmNlOiB0cnVlIH0pCg==</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUaGVzZSBjbGlja3MgaGF2ZSB0byBiZSBmb3JjZWQgYmVjYXVzZSBvZiBhbiBvdmVybGF5CiAgICAgICAgLy8gY29uZnVzaW5nIGN5cHJlc3MsIG1ha2luZyBpdCB0aGluayB0aGUgZWxlbWVudCBpcyB1bnJlYWNoYWJsZQogICAgICAgIC50cmlnZ2VyKCdtb3VzZW92ZXInLCB7d2hpY2g6IDEsIHg6IDEwMCwgeTogMTAwLCBmb3JjZTogdHJ1ZX0pCiAgICAgICAgLnRyaWdnZXIoJ21vdXNlZG93bicsIHt3aGljaDogMSwgeDogMTAwLCB5OiAxMDAsIGZvcmNlOiB0cnVlfSkKICAgICAgICAudHJpZ2dlcignbW91c2V1cCcsIHt3aGljaDogMSwgeDogMTAwLCB5OiAxMDAsIGZvcmNlOiB0cnVlfSkKICAgICAgICAvLyAuY2xpY2soMTAwLDEwMCwge2ZvcmNlOiB0cnVlfSkKICAgICAgICAuY2xpY2soNTkwLCAxMDAse2ZvcmNlOiB0cnVlfSkKICAgICAgICAuY2xpY2soMTAwLCAyNTAse2ZvcmNlOiB0cnVlfSkKICAgICAgICAuY2xpY2soNTkwLCAyNTAse2ZvcmNlOiB0cnVlfSkKICAgICAgICAuY2xpY2soMTAwLDEwMCx7Zm9yY2U6IHRydWV9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5jbGljaygxMDAsIDEwMCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action EditorPageDown</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>setup</last-search>
-      <last-offset>teardown</last-offset>
-      <last-pattern>setup</last-pattern>
+      <last-search encoding="base64">PA==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">PA==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
