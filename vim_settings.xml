@@ -45,8 +45,8 @@
         <entry>action SearchEverywhere</entry>
         <entry>action GotoAction</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action GotoFile</entry>
         <entry>action FindUsages</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -146,21 +146,16 @@
       <file name="$USER_HOME$/development/otonomo/consumer/package-lock.json" timestamp="1591859090538">
         <mark key="'" line="26" column="3" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.json" timestamp="1590646264300">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/config/dev.ts" timestamp="1592146383471">
         <mark key="'" line="18" column="4" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/src/types/store/usage-data.type.ts" timestamp="1592469535204" />
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/AttributesForm.tsx" timestamp="1590647421847">
         <mark key="'" line="255" column="18" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/lib/permissions.ts" timestamp="1592148375228" />
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/commands.ts" timestamp="1591897427884">
         <mark key="'" line="26" column="38" />
       </file>
@@ -176,13 +171,7 @@
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/CreateReportSharedFields.tsx" timestamp="1591346532309">
         <mark key="'" line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" timestamp="1590646214405">
-        <mark key="'" line="47" column="29" />
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="18" column="25" />
-        <mark key="^" line="18" column="56" />
-        <mark key="." line="18" column="25" />
-      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/server/lib/kms-wrappers.ts" timestamp="1592469407336" />
       <file name="/JavaScript Console" timestamp="1592145880936">
         <mark key="[" line="0" column="0" />
       </file>
@@ -378,7 +367,7 @@
         <text encoding="base64">ICAgICAgICAgIC5jbGljaygxMDAsIDEwMCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
