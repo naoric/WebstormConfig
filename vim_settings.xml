@@ -27,7 +27,6 @@
         <entry>roo</entry>
       </history-search>
       <history-cmd>
-        <entry>action RecentLocations</entry>
         <entry>actionlist project</entry>
         <entry>projectviewpopmenu</entry>
         <entry>action projectpopupmenu</entry>
@@ -46,6 +45,7 @@
         <entry>action GotoAction</entry>
         <entry>action EditorPageDown</entry>
         <entry>action FindUsages</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
@@ -146,13 +146,23 @@
       <file name="$USER_HOME$/development/otonomo/consumer/package-lock.json" timestamp="1591859090538">
         <mark key="'" line="26" column="3" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.json" timestamp="1592768445140">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/config/dev.ts" timestamp="1592146383471">
         <mark key="'" line="18" column="4" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/types/store/usage-data.type.ts" timestamp="1592469535204" />
+      <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.lite.json" timestamp="1592768458466">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/AttributesForm.tsx" timestamp="1590647421847">
         <mark key="'" line="255" column="18" />
       </file>
@@ -171,15 +181,13 @@
       <file name="$USER_HOME$/development/otonomo/consumer/src/components/Reports/CreateReportSharedFields.tsx" timestamp="1591346532309">
         <mark key="'" line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/lib/kms-wrappers.ts" timestamp="1592469407336" />
       <file name="/JavaScript Console" timestamp="1592145880936">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/src/index.tsx" timestamp="1590646691907">
-        <mark key="'" line="14" column="20" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/development/otonomo/consumer/package.json" timestamp="1592752272124">
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" timestamp="1591804290165">
         <mark key="'" line="10" column="3" />
@@ -328,10 +336,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>e2e</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>e2e</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>roo</text>
@@ -340,31 +348,31 @@
         <text>'trial-mode-report-screen'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXNzZXJ0Cg==</text>
+        <text encoding="base64">ICAgICJpbmNyZW1lbnRhbCI6IHRydWUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgYXNzZXJ0IGZyb20gJ2Fzc2VydCcK</text>
+        <text encoding="base64">ICAgICJjcm9zcy1zcGF3biI6ICJeNy4wLjMiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gY3kuZG9jdW1lbnQoKS5zaG91bGQoJ2hhdmUudGV4dCcsICdQZW5kaW5nJykK</text>
+        <text encoding="base64">YXNzZXJ0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBDeXByZXNzLmxvZyh7CiAgICBuYW1lOiAnR3JhbnQgU2VydmljZSBQZXJtaXNzaW9ucycsCiAgICBkaXNwbGF5TmFtZTogJ2dyYW50IHBlcm1pc3Npb25zJywKICAgIGNvbnNvbGVQcm9wcygpOiBDeXByZXNzLk9iamVjdExpa2UgewogICAgICByZXR1cm4gewogICAgICAgIE9wdGlvbnM6IHJlcXVlc3RPcHRpb25zLAogICAgICAgICdTZXJ2aWNlIE5hbWUnOiBhcHBJZCwKICAgICAgfQogICAgfSwKICB9KQp9Cgo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgYXNzZXJ0IGZyb20gJ2Fzc2VydCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdyYW50U2VydmljZVJlcG9ydFBlcm1pc3Npb25zKGFwcElkOiBzdHJpbmcpIHsKICBjeS5zZXJ2ZXIoKQogIGNvbnN0IHVybCA9IG5ldyBVUkwoQ3lwcmVzcy5lbnYoJ0dSQU5UX1NFUlZJQ0VfUEVSTUlTU0lPTlNfVVJMJykpLnRvU3RyaW5nKCkKICBjb25zdCByZXF1ZXN0T3B0aW9uczogUGFydGlhbDxDeXByZXNzLlJlcXVlc3RPcHRpb25zPiA9IHsKICAgIHVybCwKICAgIG1ldGhvZDogJ1BPU1QnLAogICAgYm9keTogewogICAgICBwcm92aWRlcklkOiAnc29tZSBpZCcsCiAgICAgIGFwcElkLAogICAgICBzdGF0dXM6ICdhbGxvd2VkJywKICAgIH0sCiAgICBoZWFkZXJzOiB7IFROTUlTSDogQ3lwcmVzcy5lbnYoJ01QX1NFQ1JFVF9LRVknKSB9LAogICAgbG9nOiBmYWxzZSwKICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgLy8gY3kuZG9jdW1lbnQoKS5zaG91bGQoJ2hhdmUudGV4dCcsICdQZW5kaW5nJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBDeXByZXNzLmxvZyh7CiAgICBuYW1lOiAnR3JhbnQgU2VydmljZSBQZXJtaXNzaW9ucycsCiAgICBkaXNwbGF5TmFtZTogJ2dyYW50IHBlcm1pc3Npb25zJywKICAgIGNvbnNvbGVQcm9wcygpOiBDeXByZXNzLk9iamVjdExpa2UgewogICAgICByZXR1cm4gewogICAgICAgIE9wdGlvbnM6IHJlcXVlc3RPcHRpb25zLAogICAgICAgICdTZXJ2aWNlIE5hbWUnOiBhcHBJZCwKICAgICAgfQogICAgfSwKICB9KQp9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjeS5nZXQoJ2NhbnZhcycpCg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGdyYW50U2VydmljZVJlcG9ydFBlcm1pc3Npb25zKGFwcElkOiBzdHJpbmcpIHsKICBjeS5zZXJ2ZXIoKQogIGNvbnN0IHVybCA9IG5ldyBVUkwoQ3lwcmVzcy5lbnYoJ0dSQU5UX1NFUlZJQ0VfUEVSTUlTU0lPTlNfVVJMJykpLnRvU3RyaW5nKCkKICBjb25zdCByZXF1ZXN0T3B0aW9uczogUGFydGlhbDxDeXByZXNzLlJlcXVlc3RPcHRpb25zPiA9IHsKICAgIHVybCwKICAgIG1ldGhvZDogJ1BPU1QnLAogICAgYm9keTogewogICAgICBwcm92aWRlcklkOiAnc29tZSBpZCcsCiAgICAgIGFwcElkLAogICAgICBzdGF0dXM6ICdhbGxvd2VkJywKICAgIH0sCiAgICBoZWFkZXJzOiB7IFROTUlTSDogQ3lwcmVzcy5lbnYoJ01QX1NFQ1JFVF9LRVknKSB9LAogICAgbG9nOiBmYWxzZSwKICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5jbGljaygxMDAsIDEwMCkK</text>
+        <text encoding="base64">ICAgICAgICBjeS5nZXQoJ2NhbnZhcycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
