@@ -234,10 +234,10 @@
         <mark key="." line="200" column="30" />
         <mark key="^" line="200" column="31" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/SignupFormBody.tsx" timestamp="1593327457376">
-        <mark key="[" line="17" column="56" />
-        <mark key="]" line="17" column="56" />
-        <mark key="." line="17" column="56" />
+      <file name="$USER_HOME$/development/otonomo/onboarding_new/src/signup/SignupFormBody.tsx" timestamp="1593330361666">
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="46" column="12" />
+        <mark key="." line="46" column="12" />
         <mark key="^" line="213" column="52" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/src/state/api/endpoints.ts" timestamp="1593014271883">
@@ -350,10 +350,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>2.14</text>
