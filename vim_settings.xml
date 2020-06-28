@@ -149,6 +149,12 @@
         <mark key="." line="39" column="27" />
         <mark key="^" line="39" column="28" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/black_box.mk" timestamp="1593350250066">
+        <mark key="[" line="10" column="93" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="10" column="93" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.json" timestamp="1592768445140">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -189,9 +195,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/commands.ts" timestamp="1591897427884">
-        <mark key="'" line="26" column="38" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/.env" timestamp="1593012400804">
         <mark key="'" line="12" column="12" />
