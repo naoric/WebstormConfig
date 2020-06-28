@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">PA==</entry>
         <entry>roo</entry>
         <entry>session</entry>
         <entry encoding="base64">XDxleHByZXNzLXNlc3Npb25cPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxmZXRjaFJlcG9ydEN1cmxcPg==</entry>
         <entry>build</entry>
         <entry>server</entry>
+        <entry>2.14</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist project</entry>
@@ -161,6 +161,9 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/onboarding_new/package.json" timestamp="1593325363350">
+        <mark key="'" line="20" column="25" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/config/dev.ts" timestamp="1593010613048">
         <mark key="'" line="18" column="4" />
         <mark key="[" line="12" column="0" />
@@ -242,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="7" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
       <jump line="18" column="27" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
       <jump line="68" column="23" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
       <jump line="26" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
@@ -342,6 +344,7 @@
       <jump line="35" column="9" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
       <jump line="115" column="32" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
       <jump line="7" column="3" filename="$USER_HOME$/development/otonomo/consumer/server/tsconfig.server.json" />
+      <jump line="20" column="25" filename="$USER_HOME$/development/otonomo/onboarding_new/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -353,7 +356,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>server</text>
+        <text>2.14</text>
       </register>
       <register name="0" type="4">
         <text>'trial-mode-report-screen'</text>
@@ -392,9 +395,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>server</last-search>
+      <last-search>2.14</last-search>
       <last-offset />
-      <last-pattern>server</last-pattern>
+      <last-pattern>2.14</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
