@@ -5,14 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
-        <entry encoding="base64">XDxleHByZXNzLW15c3FsLXNlc3Npb25cPg==</entry>
-        <entry>pass</entry>
-        <entry>consumerback</entry>
-        <entry encoding="base64">XDxwbGF5Z3JvdW5kRGJQYXNzXD4=</entry>
-        <entry>consumer</entry>
-        <entry>done(</entry>
-        <entry encoding="base64">XDxhdXRoMENsaWVudFNlY3JldFw+</entry>
         <entry encoding="base64">XDxlbnZcPg==</entry>
         <entry>done</entry>
         <entry encoding="base64">XDxDVVJMX0NPTU1BTkRcPg==</entry>
@@ -25,6 +17,14 @@
         <entry>tik</entry>
         <entry>scripts</entry>
         <entry>types</entry>
+        <entry>pass</entry>
+        <entry>auth</entry>
+        <entry>jest-exp</entry>
+        <entry>serialize-</entry>
+        <entry>serve-inde</entry>
+        <entry>mysql</entry>
+        <entry>jwt</entry>
+        <entry>handlebars</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2action RenameElement</entry>
@@ -35,7 +35,6 @@
         <entry>action FindUsages</entry>
         <entry>action EditorDuplicateLines</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
         <entry>actionlist CloseAll</entry>
         <entry>action SearchEverywhere</entry>
@@ -46,6 +45,7 @@
         <entry>actionlist search</entry>
         <entry>actionlist find</entry>
         <entry encoding="base64">bm1hcCAoIDphY3Rpb24gRmluZEluUGF0aDxDUj4=</entry>
+        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
@@ -160,8 +160,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/package.json" timestamp="1593284529142">
-        <mark key="'" line="115" column="32" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/package.json" timestamp="1593545061123">
+        <mark key="'" line="169" column="0" />
         <mark key="[" line="110" column="14" />
         <mark key="]" line="110" column="17" />
         <mark key="." line="110" column="16" />
@@ -196,12 +196,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/client/package.json" timestamp="1593542897441">
-        <mark key="'" line="18" column="29" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
+      <file name="$USER_HOME$/development/otonomo/consumer/client/package.json" timestamp="1593545179795">
+        <mark key="'" line="148" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
         <mark key="^" line="106" column="2" />
-        <mark key="." line="16" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/.env" timestamp="1593012400804">
         <mark key="'" line="12" column="12" />
@@ -257,16 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
-      <jump line="12" column="10" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
-      <jump line="35" column="38" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
-      <jump line="21" column="3" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
-      <jump line="16" column="38" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
-      <jump line="28" column="14" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
-      <jump line="20" column="5" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
-      <jump line="24" column="4" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
-      <jump line="47" column="29" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
-      <jump line="14" column="20" filename="$USER_HOME$/development/otonomo/consumer/src/index.tsx" />
       <jump line="13" column="18" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/AttributesForm.tsx" />
       <jump line="255" column="18" filename="$USER_HOME$/development/otonomo/consumer/src/components/dashboard/services/AttributesForm.tsx" />
       <jump line="197" column="29" filename="$USER_HOME$/development/otonomo/tiptronik/src/components/ProvidersAppsBlacklist.js" />
@@ -356,49 +346,59 @@
       <jump line="205" column="0" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
       <jump line="9" column="0" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
       <jump line="189" column="17" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
-      <jump line="18" column="29" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="18" column="32" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="38" column="23" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="51" column="24" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="49" column="0" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="76" column="0" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="17" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
+      <jump line="169" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
+      <jump line="45" column="24" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="52" column="0" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="126" column="0" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="148" column="0" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvZXhwcmVzcy1zZXNzaW9uIjogIl4xLjE3LjAiLAo=</text>
+        <text encoding="base64">ICAgICJ3aW5zdG9uIjogIjMuMi4xIiwK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>types</text>
+        <text>handlebars</text>
       </register>
       <register name="0" type="4">
         <text>'trial-mode-report-screen'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvZXhwcmVzcy1zZXNzaW9uIjogIl4xLjE3LjAiLAo=</text>
+        <text encoding="base64">ICAgICJ3aW5zdG9uIjogIjMuMi4xIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvand0LWRlY29kZSI6ICJeMi4yLjEiLAo=</text>
+        <text encoding="base64">ICAgICJqd3QtZGVjb2RlIjogIl4yLjIuMCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbXlzcWwiOiAiXjIuMTUuMTAiLAo=</text>
+        <text encoding="base64">ICAgICJAcnlhbmNhdmFuYXVnaC9qd3QtZGVjb2RlIjogIl4xLjQuMTMtYWxwaGEiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbm9kZSI6ICIxMS4xMS4xIiwK</text>
+        <text encoding="base64">ICAgICJleHByZXNzLXNlc3Npb24iOiAiXjEuMTcuMSIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJAdHVyZi90dXJmIjogIl41LjEuNiIsCg==</text>
+        <text encoding="base64">ICAgICJleHByZXNzLW15c3FsLXNlc3Npb24iOiAiXjIuMS40IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvY29sb3IiOiAiXjMuMC4xIiwK</text>
+        <text encoding="base64">ICAgICJzZXJpYWxpemUtamF2YXNjcmlwdCI6ICJeMi4xLjIiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvYXV0aDAtanMiOiAiXjkuMTAuNyIsCg==</text>
+        <text encoding="base64">ICAgICJqZXN0LWV4cHJlc3MiOiAiXjEuMTIuMCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJAb3Rvbm9tby9mZWF0dXJlLXRvZ2dsZSI6ICJeMC4zLjMiLAo=</text>
+        <text encoding="base64">ICAgICJhdXRoMC1qcyI6ICJeOS4xMS4zIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAibWFqZXN0aWMiOiB7CiAgICAiYXJncyI6IFsKICAgICAgIi0tZW52IGplc3QtZW52aXJvbm1lbnQtanNkb20tc2l4dGVlbiIKICAgIF0sCiAgICAiZW52IjogewogICAgICAiQ0kiOiB0cnVlCiAgICB9CiAgfSwK</text>
+        <text encoding="base64">ICAgICJwYXNzcG9ydCI6ICJeMC40LjAiLAogICAgInBhc3Nwb3J0LWF1dGgwIjogIl4xLjIuMSIsCiAgICAicGFzc3BvcnQtb2F1dGgyLXJlZnJlc2giOiAiXjEuMS4wIiwK</text>
       </register>
       <register name=":" type="4">
         <text>action FindInPath</text>
@@ -407,9 +407,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>types</last-search>
-      <last-offset>node</last-offset>
-      <last-pattern>types</last-pattern>
+      <last-search>handlebars</last-search>
+      <last-offset />
+      <last-pattern>handlebars</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
