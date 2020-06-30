@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>roo</entry>
-        <entry>session</entry>
-        <entry encoding="base64">XDxleHByZXNzLXNlc3Npb25cPg==</entry>
         <entry>sesssion</entry>
         <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxleHByZXNzLW15c3FsLXNlc3Npb25cPg==</entry>
@@ -25,16 +22,11 @@
         <entry>build</entry>
         <entry>server</entry>
         <entry>2.14</entry>
+        <entry>majestik</entry>
+        <entry>tik</entry>
+        <entry>scripts</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist project</entry>
-        <entry>projectviewpopmenu</entry>
-        <entry>action projectpopupmenu</entry>
-        <entry>action SelectNextOccurrence</entry>
-        <entry>action MoveStatementDown</entry>
-        <entry>action EditorCloneCaretBelow</entry>
-        <entry>action VimVisualSwapSelections</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gSW50cm9kdWNlVmFyaWFibGU=</entry>
         <entry>.,.+2action RenameElement</entry>
         <entry>action RenameElement</entry>
         <entry>actionlist searcheverywhere</entry>
@@ -42,11 +34,19 @@
         <entry>action EditorPageDown</entry>
         <entry>action FindUsages</entry>
         <entry>action EditorDuplicateLines</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action GotoAction</entry>
+        <entry>actionlist CloseAll</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action Javascript.Linters.EsLint.Fix</entry>
+        <entry encoding="base64">bm1hcCA8QS1wPiA6YWN0aW9uIENsb3NlQWxsTm90aWZpY2F0aW9uczxDUj4=</entry>
+        <entry>action CloseAllNotifications</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>actionlist search</entry>
+        <entry>actionlist find</entry>
+        <entry encoding="base64">bm1hcCAoIDphY3Rpb24gRmluZEluUGF0aDxDUj4=</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -196,6 +196,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/client/package.json" timestamp="1593540045237">
+        <mark key="'" line="189" column="17" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="106" column="2" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/.env" timestamp="1593012400804">
         <mark key="'" line="12" column="12" />
         <mark key="[" line="6" column="0" />
@@ -217,9 +224,6 @@
         <mark key="[" line="167" column="0" />
         <mark key="]" line="167" column="0" />
         <mark key="." line="167" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" timestamp="1591899165603">
-        <mark key="'" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/middlewares/session-middleware.ts" timestamp="1593012354730">
         <mark key="'" line="49" column="0" />
@@ -253,9 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="27" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
-      <jump line="68" column="23" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/Simulation.tsx" />
-      <jump line="26" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
       <jump line="10" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
       <jump line="27" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
       <jump line="12" column="10" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
@@ -353,59 +354,62 @@
       <jump line="115" column="32" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
       <jump line="7" column="3" filename="$USER_HOME$/development/otonomo/consumer/server/tsconfig.server.json" />
       <jump line="20" column="25" filename="$USER_HOME$/development/otonomo/onboarding_new/package.json" />
+      <jump line="205" column="0" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="9" column="0" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="189" column="17" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYW1wLnNldFVzZXJJZCgnc29tZXRoaW5nJykK</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvYXV0aDAtanMiOiAiXjkuMTAuNyIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>2.14</text>
+        <text>scripts</text>
       </register>
       <register name="0" type="4">
         <text>'trial-mode-report-screen'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYW1wLnNldFVzZXJJZCgnc29tZXRoaW5nJykK</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvYXV0aDAtanMiOiAiXjkuMTAuNyIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICJAb3Rvbm9tby9mZWF0dXJlLXRvZ2dsZSI6ICJeMC4zLjMiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1zLmxvY2FsZUNvbXBhcmUoJ3Nqbm90aGVyIHN0cmluZycpCg==</text>
+        <text encoding="base64">ICAibWFqZXN0aWMiOiB7CiAgICAiYXJncyI6IFsKICAgICAgIi0tZW52IGplc3QtZW52aXJvbm1lbnQtanNkb20tc2l4dGVlbiIKICAgIF0sCiAgICAiZW52IjogewogICAgICAiQ0kiOiB0cnVlCiAgICB9CiAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdGU9e2FzeW5jIHZhbHVlcyA9PiB7CiAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHJldHVybiBhd2FpdCBzaWdudXBWYWxpZGF0aW9uU2NoZW1hLnZhbGlkYXRlKHZhbHVlcywgewogICAgICAgICAgICAgICAgICBhYm9ydEVhcmx5OiBmYWxzZSwKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgICAgICAgY29uc3QgcGFzc3dvcmRFcnJzID0gZS5pbm5lcgogICAgICAgICAgICAgICAgICAuZmlsdGVyKGVycm9yID0+IGVycm9yLnBhdGggPT09ICdwYXNzd29yZCcpCiAgICAgICAgICAgICAgICAgIC5tYXAocHdFcnJzID0+IHB3RXJycy5lcnJvcnNbMF0pCiAgICAgICAgICAgICAgICBjb25zdCBlcnJvcnMgPSB5dXBUb0Zvcm1FcnJvcnM8Rm9ybVZhbHVlcz4oZSkKICAgICAgICAgICAgICAgIGVycm9ycy5wYXNzd29yZCA9IHBhc3N3b3JkRXJycwogICAgICAgICAgICAgICAgdGhyb3cgZXJyb3JzCiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9fQo=</text>
+        <text encoding="base64">ICAgICJtYWplc3RpYyI6ICJucHggbWFqZXN0aWMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYXNzd29yZDogWXVwLnN0cmluZygpCiAgICAubWluKDgsICdtaW4nKQogICAgLm1hdGNoZXMoLyg/PS4qW2Etel0pLywgJ2xvd2VyY2FzZScpCiAgICAubWF0Y2hlcygvKD89LipbQS1aXSkvLCAndXBwZXJjYXNlJykKICAgIC5tYXRjaGVzKC8oPz0uKlswLTldKS8sICdudW1iZXInKQogICAgLm1hdGNoZXMoLyg/PS4qWyFAIyQlXiYqX10pLiokLywgJ3NwZWNpYWwnKQogICAgLndoZW4oCiAgICAgIFsnZmlyc3RfbmFtZScsICdsYXN0X25hbWUnLCAnY29tcGFueSddLAogICAgICAoCiAgICAgICAgZmlyc3ROYW1lOiBzdHJpbmcsCiAgICAgICAgbGFzdE5hbWU6IHN0cmluZywKICAgICAgICBjb21wYW55OiBzdHJpbmcsCiAgICAgICAgc2NoZW1hOiBZdXAuU3RyaW5nU2NoZW1hLAogICAgICApID0+IHsKICAgICAgICBpZiAoZmlyc3ROYW1lICYmIGxhc3ROYW1lICYmIGNvbXBhbnkpIHsKICAgICAgICAgIGNvbnN0IHJlZ2V4ID0gbmV3IFJlZ0V4cChgKCR7Zmlyc3ROYW1lfXwke2xhc3ROYW1lfXwke2NvbXBhbnl9KWAsICdpJykKICAgICAgICAgIHJldHVybiBzY2hlbWEKICAgICAgICAgICAgLnRlc3QoJ3VucHJlZGljdGFibGUnLCAndW5pcXVlJywgdmFsdWUgPT4gewogICAgICAgICAgICAgIHJldHVybiAhcmVnZXgudGVzdCh2YWx1ZSkKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLnJlcXVpcmVkKCkKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHNjaGVtYS5yZXF1aXJlZCgpCiAgICAgIH0sCiAgICApLAo=</text>
+        <text encoding="base64">ICAgICJ0ZXN0OnNlcnZlciI6ICJucG0gdCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">ICAgICJzZXJ2ZXI6ZGV2IjogIk5PREVfUEFUSD1zZXJ2ZXI6JE5PREVfUEFUSCBOT0RFX0VOVj1kZXZlbG9wbWVudCB0c25kIC0tcmVzcGF3biAtLXByb2plY3QgLi90c2NvbmZpZy5zZXJ2ZXIuanNvbiAtLXRyYW5zcGlsZU9ubHkgc2VydmVyL3NlcnZlci50cyIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAge2FjY2Vzc1Rva2VufS4K</text>
+        <text encoding="base64">ICAgICAgYW1wLnNldFVzZXJJZCgnc29tZXRoaW5nJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QVVUSDBfRE9NQUlOPWF1dGgub3Rvbm9tby5pbwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgbXBJbnRlcm5hbFVybCA9IGBodHRwczovLyR7ZW52fS1hcGkub3Rvbm8ubWVgCg==</text>
+        <text encoding="base64">ICAgICAgcGFyYW1zLmxvY2FsZUNvbXBhcmUoJ3Nqbm90aGVyIHN0cmluZycpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>2.14</last-search>
+      <last-search>scripts</last-search>
       <last-offset />
-      <last-pattern>2.14</last-pattern>
+      <last-pattern>scripts</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
