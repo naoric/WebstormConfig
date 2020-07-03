@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>server</entry>
-        <entry>2.14</entry>
-        <entry>majestik</entry>
         <entry>tik</entry>
         <entry>scripts</entry>
         <entry>types</entry>
@@ -25,6 +22,9 @@
         <entry>lint</entry>
         <entry>gitignore</entry>
         <entry>prettier</entry>
+        <entry>return</entry>
+        <entry>module</entry>
+        <entry>rules</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2action RenameElement</entry>
@@ -152,11 +152,11 @@
       <file name="$USER_HOME$/development/otonomo/onboarding_new/package.json" timestamp="1593325363350">
         <mark key="'" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/config/dev.ts" timestamp="1593010613048">
-        <mark key="'" line="18" column="4" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/lib/session-utils.ts" timestamp="1593760237577">
+        <mark key="[" line="26" column="53" />
+        <mark key="]" line="26" column="59" />
+        <mark key="^" line="26" column="59" />
+        <mark key="." line="26" column="58" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/client/package.json" timestamp="1593546247073">
         <mark key="'" line="148" column="0" />
@@ -199,9 +199,6 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/config/prod.ts" timestamp="1593011928046">
-        <mark key="'" line="18" column="5" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/app-init.ts" timestamp="1593546889263">
         <mark key="'" line="4" column="26" />
       </file>
@@ -224,10 +221,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/.eslintrc.js" timestamp="1593759973453">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/.eslintrc.js" timestamp="1593761197874">
+        <mark key="'" line="9" column="3" />
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="36" column="48" />
+        <mark key="." line="36" column="47" />
+        <mark key="^" line="36" column="48" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/test/jest-utils.ts" timestamp="1593760117659">
         <mark key="[" line="3" column="28" />
@@ -255,14 +254,14 @@
         <mark key="." line="46" column="14" />
         <mark key="^" line="46" column="15" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/server/controllers/LoginAsController.ts" timestamp="1593760251858">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="6" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="12" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" />
-      <jump line="36" column="21" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" />
-      <jump line="31" column="38" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress.json" />
-      <jump line="38" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
-      <jump line="36" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
-      <jump line="8" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
       <jump line="29" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/routes/Simulation/SimulationWrapper.tsx" />
       <jump line="19" column="36" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/CreateReportSharedFields.tsx" />
       <jump line="178" column="2" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
@@ -357,6 +356,12 @@
       <jump line="108" column="25" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
       <jump line="55" column="40" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
       <jump line="58" column="36" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
+      <jump line="39" column="10" filename="$USER_HOME$/development/otonomo/consumer/server/.eslintrc.js" />
+      <jump line="46" column="46" filename="$USER_HOME$/development/otonomo/consumer/server/.eslintrc.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/.eslintrc.js" />
+      <jump line="4" column="17" filename="$USER_HOME$/development/otonomo/consumer/server/.eslintrc.js" />
+      <jump line="16" column="4" filename="$USER_HOME$/development/otonomo/consumer/server/.eslintrc.js" />
+      <jump line="9" column="3" filename="$USER_HOME$/development/otonomo/consumer/server/.eslintrc.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -368,7 +373,7 @@
         <text>{}</text>
       </register>
       <register name="/" type="4">
-        <text>prettier</text>
+        <text>rules</text>
       </register>
       <register name="0" type="4">
         <text>'trial-mode-report-screen'</text>
@@ -407,9 +412,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>prettier</last-search>
+      <last-search>rules</last-search>
       <last-offset />
-      <last-pattern>prettier</last-pattern>
+      <last-pattern>rules</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
