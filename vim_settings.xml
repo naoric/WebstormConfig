@@ -153,10 +153,10 @@
         <mark key="'" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/lib/session-utils.ts" timestamp="1593760237577">
-        <mark key="[" line="26" column="53" />
-        <mark key="]" line="26" column="59" />
-        <mark key="^" line="26" column="59" />
-        <mark key="." line="26" column="58" />
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="59" />
+        <mark key="^" line="6" column="59" />
+        <mark key="." line="6" column="58" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/client/package.json" timestamp="1593546247073">
         <mark key="'" line="148" column="0" />
@@ -181,12 +181,12 @@
         <mark key="." line="39" column="27" />
         <mark key="^" line="39" column="28" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/package.json" timestamp="1593759735895">
+      <file name="$USER_HOME$/development/otonomo/consumer/server/package.json" timestamp="1593888133287">
         <mark key="'" line="58" column="36" />
-        <mark key="[" line="108" column="21" />
-        <mark key="]" line="108" column="24" />
-        <mark key="." line="108" column="23" />
-        <mark key="^" line="108" column="24" />
+        <mark key="[" line="43" column="14" />
+        <mark key="]" line="43" column="91" />
+        <mark key="." line="43" column="90" />
+        <mark key="^" line="43" column="91" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.json" timestamp="1593546921245">
         <mark key="[" line="1" column="14" />
@@ -366,11 +366,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBzZXR0aW5nczogewogIC8vICAgcmVhY3Q6IHsKICAvLyAgICAgdmVyc2lvbjogJ2RldGVjdCcsCiAgLy8gICB9LAogIC8vIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>./build.sh</text>
       </register>
       <register name="-" type="4">
-        <text>explicit-module-boundary-types</text>
+        <text>./build.sh</text>
       </register>
       <register name="/" type="4">
         <text>rules</text>
