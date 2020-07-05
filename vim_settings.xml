@@ -165,7 +165,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.json" timestamp="1593956443224">
+      <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.json" timestamp="1593956934402">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
@@ -176,6 +176,11 @@
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/server/config/default.js" timestamp="1593956971242">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/lib/session-utils.ts" timestamp="1593760237577">
         <mark key="[" line="6" column="53" />
@@ -342,8 +347,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXhwb3J0cyA9IHt9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAg</text>
@@ -355,31 +360,31 @@
         <text>'trial-mode-report-screen'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJvdXREaXIiOiAiZGlzdCIsCg==</text>
+        <text encoding="base64">ZXhwb3J0cyA9IHt9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgImNsZWFuLXdlYnBhY2stcGx1Z2luIjogIl4zLjAuMCIsCg==</text>
+        <text encoding="base64">ICAgICJvdXREaXIiOiAiZGlzdCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgImVzbGludC1sb2FkZXIiOiAiXjQuMC4yIiwKLy8gICAgImZvcmstdHMtY2hlY2tlci13ZWJwYWNrLXBsdWdpbiI6ICJeNS4wLjYiLAo=</text>
+        <text encoding="base64">Ly8gICAgImNsZWFuLXdlYnBhY2stcGx1Z2luIjogIl4zLjAuMCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgInRzLWxvYWRlciI6ICJeNy4wLjUiLAo=</text>
+        <text encoding="base64">Ly8gICAgImVzbGludC1sb2FkZXIiOiAiXjQuMC4yIiwKLy8gICAgImZvcmstdHMtY2hlY2tlci13ZWJwYWNrLXBsdWdpbiI6ICJeNS4wLjYiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgInRzY29uZmlnLXBhdGhzLXdlYnBhY2stcGx1Z2luIjogIl4zLjIuMCIsCi8vICAgICJ3ZWJwYWNrIjogIl40LjQzLjAiLAovLyAgICAid2VicGFjay1jbGkiOiAiXjMuMy4xMiIK</text>
+        <text encoding="base64">Ly8gICAgInRzLWxvYWRlciI6ICJeNy4wLjUiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNvbWV0aGluZzogKCdzb21ldGhpbmcnKQo=</text>
+        <text encoding="base64">Ly8gICAgInRzY29uZmlnLXBhdGhzLXdlYnBhY2stcGx1Z2luIjogIl4zLjIuMCIsCi8vICAgICJ3ZWJwYWNrIjogIl40LjQzLjAiLAovLyAgICAid2VicGFjay1jbGkiOiAiXjMuMy4xMiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNvbWV0aGluZzogcCgnc29tZXRoaW5nJykK</text>
+        <text encoding="base64">ICAgIHNvbWV0aGluZzogKCdzb21ldGhpbmcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleHRlcm5hbHM6IHsKICAgIGNvbmZpZzogJ2NvbmZpZycsCiAgfSwK</text>
+        <text encoding="base64">ICAgIHNvbWV0aGluZzogcCgnc29tZXRoaW5nJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRldjogcCgnY29uZmlnL2Rldi50cycpLAogICAgcHJvZDogcCgnY29uZmlnL3Byb2QudHMnKSwKICAgIHN0YWdpbmc6IHAoJ2NvbmZpZy9zdGFnaW5nLnRzJyksCiAgICBkZWZhdWx0OiBwKCdjb25maWcvZGVmYXVsdC50cycpLAo=</text>
+        <text encoding="base64">ICBleHRlcm5hbHM6IHsKICAgIGNvbmZpZzogJ2NvbmZpZycsCiAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
