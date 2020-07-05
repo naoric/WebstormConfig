@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>scripts</entry>
         <entry>types</entry>
         <entry>pass</entry>
         <entry>auth</entry>
@@ -25,6 +24,7 @@
         <entry>module</entry>
         <entry>rules</entry>
         <entry>esmoduleinterop</entry>
+        <entry>node_config_env</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2action RenameElement</entry>
@@ -214,13 +214,6 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/.env" timestamp="1593012400804">
-        <mark key="'" line="12" column="12" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/.eslintrc.js" timestamp="1593761295182">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="54" column="0" />
@@ -247,6 +240,9 @@
         <mark key="." line="46" column="14" />
         <mark key="^" line="46" column="15" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" timestamp="1593930738916">
+        <mark key="'" line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/controllers/LoginAsController.ts" timestamp="1593760251858">
         <mark key="[" line="12" column="1" />
         <mark key="]" line="12" column="7" />
@@ -255,10 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="2" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
-      <jump line="138" column="4" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
-      <jump line="0" column="36" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/support/marketplace/consumer.ts" />
-      <jump line="86" column="0" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
       <jump line="87" column="33" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
       <jump line="91" column="26" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
       <jump line="95" column="17" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
@@ -355,6 +347,10 @@
       <jump line="9" column="3" filename="$USER_HOME$/development/otonomo/consumer/server/.eslintrc.js" />
       <jump line="35" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/.eslintrc.js" />
       <jump line="2" column="19" filename="$USER_HOME$/development/otonomo/consumer/tsconfig.json" />
+      <jump line="15" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" />
+      <jump line="13" column="14" filename="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" />
+      <jump line="7" column="14" filename="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" />
+      <jump line="52" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -366,7 +362,7 @@
         <text>server</text>
       </register>
       <register name="/" type="4">
-        <text>esmoduleinterop</text>
+        <text>node_config_env</text>
       </register>
       <register name="0" type="4">
         <text>'trial-mode-report-screen'</text>
@@ -405,9 +401,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>esmoduleinterop</last-search>
+      <last-search>node_config_env</last-search>
       <last-offset />
-      <last-pattern>esmoduleinterop</last-pattern>
+      <last-pattern>node_config_env</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
