@@ -176,7 +176,7 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" timestamp="1593950205893">
+      <file name="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" timestamp="1593952861694">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="11" column="31" />
         <mark key="]" line="13" column="19" />
@@ -358,8 +358,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBleHRlcm5hbHM6IHsKICAgIGNvbmZpZzogJ2NvbmZpZycsCiAgfSwK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -370,33 +370,33 @@
       <register name="0" type="4">
         <text>'trial-mode-report-screen'</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBleHRlcm5hbHM6IHsKICAgIGNvbmZpZzogJ2NvbmZpZycsCiAgfSwK</text>
+      </register>
+      <register name="2" type="4">
         <text>:
     } '[name].js',</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Y29uc3QgVHNDb25maWdQYXRoID0gcmVxdWlyZSgndHNjb25maWctcGF0aHMtd2VicGFjay1wbHVnaW4nKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBtb2R1bGVzOiBbXSwK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB1c2U6IHsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIGxvYWRlcjogJ3RzLWxvYWRlcicsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNjOiB7CiAgICAgICAgICAgICAgcGFyc2VyOiB7CiAgICAgICAgICAgICAgICBzeW50YXg6ICd0eXBlc2NyaXB0JywKICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9LAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAganNjOiB7CiAgICAgICAgICAgICAgcGFyc2VyOiB7CiAgICAgICAgICAgICAgICBzeW50YXg6ICd0eXBlc2NyaXB0JywKICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorPageDown</text>
