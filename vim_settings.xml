@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>handlebars</entry>
-        <entry>testing-li</entry>
         <entry>express</entry>
         <entry>routes</entry>
         <entry>lint</entry>
@@ -25,6 +23,8 @@
         <entry>clean</entry>
         <entry encoding="base64">XDxDbGVhbldlYnBhY2tQbHVnaW5cPg==</entry>
         <entry encoding="base64">XDxyZXNvbHZlXD4=</entry>
+        <entry>ts</entry>
+        <entry>process.env</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist searcheverywhere</entry>
@@ -155,6 +155,9 @@
         <mark key="." line="39" column="27" />
         <mark key="^" line="39" column="28" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/server/dist/config/default.js" timestamp="1593948912423">
+        <mark key="'" line="0" column="1335" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.json" timestamp="1593936161637">
         <mark key="'" line="5" column="19" />
         <mark key="[" line="14" column="0" />
@@ -167,9 +170,6 @@
         <mark key="]" line="43" column="21" />
         <mark key="." line="43" column="20" />
         <mark key="^" line="43" column="21" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/onboarding_new/package.json" timestamp="1593325363350">
-        <mark key="'" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.json" timestamp="1593942799125">
         <mark key="[" line="5" column="28" />
@@ -238,8 +238,8 @@
         <mark key="." line="46" column="14" />
         <mark key="^" line="46" column="15" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" timestamp="1593948527278">
-        <mark key="'" line="13" column="37" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" timestamp="1593948604087">
+        <mark key="'" line="19" column="34" />
         <mark key="[" line="13" column="46" />
         <mark key="]" line="13" column="46" />
         <mark key="^" line="15" column="43" />
@@ -254,10 +254,6 @@
       <file name="$USER_HOME$/development/otonomo/consumer/server/dist/index.js" timestamp="1593938985909" />
     </filemarks>
     <jumps>
-      <jump line="16" column="37" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
-      <jump line="17" column="35" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
-      <jump line="8427" column="12" filename="$USER_HOME$/development/otonomo/consumer/package-lock.json" />
-      <jump line="18" column="3" filename="$USER_HOME$/development/otonomo/consumer/package-lock.json" />
       <jump line="3" column="3" filename="$USER_HOME$/development/otonomo/consumer/package-lock.json" />
       <jump line="26" column="3" filename="$USER_HOME$/development/otonomo/consumer/package-lock.json" />
       <jump line="62" column="29" filename="$USER_HOME$/development/otonomo/e2e/fe/tests/cypress/integration/dev/consumer/create-report.spec.ts" />
@@ -354,6 +350,10 @@
       <jump line="3" column="6" filename="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" />
       <jump line="42" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" />
       <jump line="13" column="37" filename="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" />
+      <jump line="14" column="27" filename="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" />
+      <jump line="19" column="34" filename="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" />
+      <jump line="1" column="194" filename="$USER_HOME$/development/otonomo/consumer/server/dist/config/default.js" />
+      <jump line="0" column="1335" filename="$USER_HOME$/development/otonomo/consumer/server/dist/config/default.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -365,7 +365,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNvbHZlXD4=</text>
+        <text>process.env</text>
       </register>
       <register name="0" type="4">
         <text>'trial-mode-report-screen'</text>
@@ -405,9 +405,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZXNvbHZlXD4=</last-search>
+      <last-search>process.env</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNvbHZlXD4=</last-pattern>
+      <last-pattern>process.env</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
