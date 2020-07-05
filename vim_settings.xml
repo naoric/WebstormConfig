@@ -45,8 +45,8 @@
         <entry>action QuickImplementations</entry>
         <entry>action EditorPageDown</entry>
         <entry>action GotoAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -165,8 +165,8 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.json" timestamp="1593956934402">
-        <mark key="[" line="3" column="4" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.json" timestamp="1593975643950">
+        <mark key="[" line="12" column="6" />
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="6" />
@@ -387,7 +387,7 @@
         <text encoding="base64">ICBleHRlcm5hbHM6IHsKICAgIGNvbmZpZzogJ2NvbmZpZycsCiAgfSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
