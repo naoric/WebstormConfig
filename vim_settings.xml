@@ -176,12 +176,12 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" timestamp="1593945830032">
+      <file name="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" timestamp="1593945981833">
         <mark key="'" line="11" column="9" />
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-        <mark key="^" line="2" column="66" />
+        <mark key="[" line="24" column="73" />
+        <mark key="]" line="24" column="76" />
+        <mark key="." line="24" column="75" />
+        <mark key="^" line="24" column="76" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.eslint.json" timestamp="1593759771949">
         <mark key="[" line="2" column="15" />
@@ -358,8 +358,9 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgVHNDb25maWdQYXRoID0gcmVxdWlyZSgndHNjb25maWctcGF0aHMtd2VicGFjay1wbHVnaW4nKQo=</text>
+      <register name="&quot;" type="4">
+        <text>:
+    } '[name].js',</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -370,32 +371,33 @@
       <register name="0" type="4">
         <text>'trial-mode-report-screen'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgVHNDb25maWdQYXRoID0gcmVxdWlyZSgndHNjb25maWctcGF0aHMtd2VicGFjay1wbHVnaW4nKQo=</text>
+      <register name="1" type="4">
+        <text>:
+    } '[name].js',</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtb2R1bGVzOiBbXSwK</text>
+        <text encoding="base64">Y29uc3QgVHNDb25maWdQYXRoID0gcmVxdWlyZSgndHNjb25maWctcGF0aHMtd2VicGFjay1wbHVnaW4nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICBtb2R1bGVzOiBbXSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2U6IHsK</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2U6IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvYWRlcjogJ3RzLWxvYWRlcicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNjOiB7CiAgICAgICAgICAgICAgcGFyc2VyOiB7CiAgICAgICAgICAgICAgICBzeW50YXg6ICd0eXBlc2NyaXB0JywKICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxvYWRlcjogJ3RzLWxvYWRlcicsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAganNjOiB7CiAgICAgICAgICAgICAgcGFyc2VyOiB7CiAgICAgICAgICAgICAgICBzeW50YXg6ICd0eXBlc2NyaXB0JywKICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
