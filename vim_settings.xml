@@ -165,10 +165,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.json" timestamp="1593955085154">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.json" timestamp="1593956443224">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+        <mark key="^" line="3" column="6" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.eslint.json" timestamp="1593759771949">
         <mark key="[" line="2" column="15" />
@@ -342,10 +343,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
