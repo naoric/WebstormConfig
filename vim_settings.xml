@@ -228,12 +228,12 @@
         <mark key="." line="3" column="49" />
         <mark key="^" line="3" column="50" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" timestamp="1593978184091">
-        <mark key="'" line="19" column="34" />
-        <mark key="[" line="8" column="47" />
-        <mark key="]" line="8" column="55" />
-        <mark key="^" line="8" column="55" />
-        <mark key="." line="8" column="54" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" timestamp="1593981011392">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/controllers/LoginAsController.ts" timestamp="1593760251858">
         <mark key="[" line="12" column="1" />
@@ -243,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="4" filename="$USER_HOME$/development/otonomo/consumer/server/config/dev.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/development/otonomo/consumer/.env" />
       <jump line="44" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/middlewares/session-middleware.ts" />
       <jump line="5" column="40" filename="$USER_HOME$/development/otonomo/consumer/server/middlewares/session-middleware.ts" />
@@ -343,15 +342,16 @@
       <jump line="36" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
       <jump line="58" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
       <jump line="12" column="32" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
+      <jump line="9" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>webpack</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHBhdGggZnJvbSAncGF0aCcK</text>
       </register>
       <register name="-" type="4">
-        <text>webpack</text>
+        <text>nodeConfigDir</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
@@ -360,31 +360,31 @@
         <text>'trial-mode-report-screen'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0cyA9IHt9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBhdGggZnJvbSAncGF0aCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJvdXREaXIiOiAiZGlzdCIsCg==</text>
+        <text encoding="base64">ICBjb25zdCBub2RlQ29uZmlnRGlyID0gcGF0aC5yZXNvbHZlKF9fZGlybmFtZSkKICBjb25zb2xlLmxvZyhub2RlQ29uZmlnRGlyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgImNsZWFuLXdlYnBhY2stcGx1Z2luIjogIl4zLjAuMCIsCg==</text>
+        <text encoding="base64">ZXhwb3J0cyA9IHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgImVzbGludC1sb2FkZXIiOiAiXjQuMC4yIiwKLy8gICAgImZvcmstdHMtY2hlY2tlci13ZWJwYWNrLXBsdWdpbiI6ICJeNS4wLjYiLAo=</text>
+        <text encoding="base64">ICAgICJvdXREaXIiOiAiZGlzdCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgInRzLWxvYWRlciI6ICJeNy4wLjUiLAo=</text>
+        <text encoding="base64">Ly8gICAgImNsZWFuLXdlYnBhY2stcGx1Z2luIjogIl4zLjAuMCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgInRzY29uZmlnLXBhdGhzLXdlYnBhY2stcGx1Z2luIjogIl4zLjIuMCIsCi8vICAgICJ3ZWJwYWNrIjogIl40LjQzLjAiLAovLyAgICAid2VicGFjay1jbGkiOiAiXjMuMy4xMiIK</text>
+        <text encoding="base64">Ly8gICAgImVzbGludC1sb2FkZXIiOiAiXjQuMC4yIiwKLy8gICAgImZvcmstdHMtY2hlY2tlci13ZWJwYWNrLXBsdWdpbiI6ICJeNS4wLjYiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNvbWV0aGluZzogKCdzb21ldGhpbmcnKQo=</text>
+        <text encoding="base64">Ly8gICAgInRzLWxvYWRlciI6ICJeNy4wLjUiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNvbWV0aGluZzogcCgnc29tZXRoaW5nJykK</text>
+        <text encoding="base64">Ly8gICAgInRzY29uZmlnLXBhdGhzLXdlYnBhY2stcGx1Z2luIjogIl4zLjIuMCIsCi8vICAgICJ3ZWJwYWNrIjogIl40LjQzLjAiLAovLyAgICAid2VicGFjay1jbGkiOiAiXjMuMy4xMiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBleHRlcm5hbHM6IHsKICAgIGNvbmZpZzogJ2NvbmZpZycsCiAgfSwK</text>
+        <text encoding="base64">ICAgIHNvbWV0aGluZzogKCdzb21ldGhpbmcnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action FileStructurePopup</text>
