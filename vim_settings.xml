@@ -216,11 +216,11 @@
         <mark key="^" line="22" column="39" />
         <mark key="." line="22" column="38" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/build.sh" timestamp="1594051923747">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="36" />
-        <mark key="^" line="3" column="36" />
-        <mark key="." line="3" column="35" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/build.sh" timestamp="1594065601192">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/.npmignore" timestamp="1594051884953">
         <mark key="[" line="0" column="0" />
@@ -367,8 +367,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cm0gLSAuL3BhdGgvZmlsZQo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -380,31 +380,31 @@
         <text encoding="base64">Y29uZmlnUHJlbG9hZFNldHVwKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBTZWUgaHR0cHM6Ly9oZWxwLmdpdGh1Yi5jb20vYXJ0aWNsZXMvaWdub3JpbmctZmlsZXMvIGZvciBtb3JlIGFib3V0IGlnbm9yaW5nIGZpbGVzLgpzZXJ2ZXIvdHNjb25maWcuanNvbgoKIyBkZXBlbmRlbmNpZXMKbm9kZV9tb2R1bGVzLwpzdG9yeWJvb2stc3RhdGljLwovLnBucAoucG5wLmpzCgojIHRlc3RpbmcKL2NvdmVyYWdlCgojIHByb2R1Y3Rpb24KL2J1aWxkCgojIG1pc2MKLkRTX1N0b3JlCi5lbnYKLmVudi5sb2NhbAouZW52LmRldmVsb3BtZW50LmxvY2FsCi5lbnYudGVzdC5sb2NhbAouZW52LnByb2R1Y3Rpb24KLmVudi5wcm9kdWN0aW9uLmxvY2FsCgpucG0tZGVidWcubG9nKgp5YXJuLWRlYnVnLmxvZyoKeWFybi1lcnJvci5sb2cqCm91dHB1dC8KCiMgY3lwcmVzcwpjeXByZXNzL3ZpZGVvcy8KY3lwcmVzcy9zY3JlZW5zaG90cy8KCiMgRG9ja2VyCi90ZXN0cwoKIyBJREUKLmlkZWEvCi5pZGVhXy8KCiMgLm5wbWlnbm9yZQoqLnRzCioudHN4CmRpc3QvCg==</text>
+        <text encoding="base64">cm0gLSAuL3BhdGgvZmlsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">IyBTZWUgaHR0cHM6Ly9oZWxwLmdpdGh1Yi5jb20vYXJ0aWNsZXMvaWdub3JpbmctZmlsZXMvIGZvciBtb3JlIGFib3V0IGlnbm9yaW5nIGZpbGVzLgpzZXJ2ZXIvdHNjb25maWcuanNvbgoKIyBkZXBlbmRlbmNpZXMKbm9kZV9tb2R1bGVzLwpzdG9yeWJvb2stc3RhdGljLwovLnBucAoucG5wLmpzCgojIHRlc3RpbmcKL2NvdmVyYWdlCgojIHByb2R1Y3Rpb24KL2J1aWxkCgojIG1pc2MKLkRTX1N0b3JlCi5lbnYKLmVudi5sb2NhbAouZW52LmRldmVsb3BtZW50LmxvY2FsCi5lbnYudGVzdC5sb2NhbAouZW52LnByb2R1Y3Rpb24KLmVudi5wcm9kdWN0aW9uLmxvY2FsCgpucG0tZGVidWcubG9nKgp5YXJuLWRlYnVnLmxvZyoKeWFybi1lcnJvci5sb2cqCm91dHB1dC8KCiMgY3lwcmVzcwpjeXByZXNzL3ZpZGVvcy8KY3lwcmVzcy9zY3JlZW5zaG90cy8KCiMgRG9ja2VyCi90ZXN0cwoKIyBJREUKLmlkZWEvCi5pZGVhXy8KCiMgLm5wbWlnbm9yZQoqLnRzCioudHN4CmRpc3QvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFBhdGggZnJvbSAncGF0aCcK</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHR5cGUgSUNvbmZpZyBmcm9tICdjb25maWcnCg==</text>
+        <text encoding="base64">aW1wb3J0IFBhdGggZnJvbSAncGF0aCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHlwZSBJQ29uZmlnID0gaW1wb3J0KCdjb25maWcnKS5JQ29uZmlnCg==</text>
+        <text encoding="base64">aW1wb3J0IHR5cGUgSUNvbmZpZyBmcm9tICdjb25maWcnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">dHlwZSBJQ29uZmlnID0gaW1wb3J0KCdjb25maWcnKS5JQ29uZmlnCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGRvdGVudiBmcm9tICdkb3RlbnYnCg==</text>
+        <text encoding="base64">dHlwZSBJQ29uZmlnID0gaW1wb3J0KCdjb25maWcnKS5JQ29uZmlnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgZ2xvYmFsQ29uZmlnOiBJQ29uZmlnID0gcmVxdWlyZSgnY29uZmlnJykK</text>
+        <text encoding="base64">aW1wb3J0IGRvdGVudiBmcm9tICdkb3RlbnYnCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
