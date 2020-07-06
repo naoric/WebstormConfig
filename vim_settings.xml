@@ -23,8 +23,8 @@
         <entry>webpack</entry>
         <entry>load</entry>
         <entry>loader</entry>
-        <entry>out</entry>
         <entry>tsconfig</entry>
+        <entry>out</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorPageDown</entry>
@@ -165,10 +165,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.json" timestamp="1594031811906">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="3" column="4" />
-        <mark key="." line="3" column="4" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.json" timestamp="1594037102145">
+        <mark key="'" line="11" column="13" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="6" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.eslint.json" timestamp="1593759771949">
@@ -241,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="40" filename="$USER_HOME$/development/otonomo/consumer/server/middlewares/session-middleware.ts" />
       <jump line="48" column="41" filename="$USER_HOME$/development/otonomo/consumer/server/middlewares/session-middleware.ts" />
       <jump line="65" column="36" filename="$USER_HOME$/development/otonomo/consumer/server/middlewares/session-middleware.ts" />
       <jump line="2" column="26" filename="$USER_HOME$/development/otonomo/consumer/server/middlewares/session-middleware.ts" />
@@ -341,48 +341,49 @@
       <jump line="82" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
       <jump line="92" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
       <jump line="42" column="17" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
+      <jump line="11" column="13" filename="$USER_HOME$/development/otonomo/consumer/server/tsconfig.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJvdXREaXIiOiAiZGlzdCIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>tsconfig</text>
+        <text>out</text>
       </register>
       <register name="0" type="4">
         <text>'trial-mode-report-screen'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0OmN5IjogIm5wbSBydW4gdGVzdDpjeTpkZXYiLAo=</text>
+        <text encoding="base64">ICAgICJvdXREaXIiOiAiZGlzdCIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0OmUyZTpydW4iOiAic3RhcnQtc2VydmVyLWFuZC10ZXN0ICBcImNsaWVudCBlMmVcIiAzMDAwIGN5OnJ1biIsCg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0OmN5IjogIm5wbSBydW4gdGVzdDpjeTpkZXYiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0OmN5OmRldiI6ICJDWVBSRVNTX2Jhc2VVcmw9aHR0cDovL2xvY2FsaG9zdDozMDAwIHN0YXJ0LXNlcnZlci1hbmQtdGVzdCAgXCJucG0gcnVuIGNsaWVudCBlMmVcIiAzMDAwIGN5Om9wZW4iLAo=</text>
+        <text encoding="base64">ICAgICJ0ZXN0OmUyZTpydW4iOiAic3RhcnQtc2VydmVyLWFuZC10ZXN0ICBcImNsaWVudCBlMmVcIiAzMDAwIGN5OnJ1biIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJjeTpydW4iOiAiY3lwcmVzcyBydW4iLAogICAgImN5Om9wZW4iOiAiY3lwcmVzcyBvcGVuIiwK</text>
+        <text encoding="base64">ICAgICJ0ZXN0OmN5OmRldiI6ICJDWVBSRVNTX2Jhc2VVcmw9aHR0cDovL2xvY2FsaG9zdDozMDAwIHN0YXJ0LXNlcnZlci1hbmQtdGVzdCAgXCJucG0gcnVuIGNsaWVudCBlMmVcIiAzMDAwIGN5Om9wZW4iLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiYnJvd3NlciI6IHsKICAgICJmcyI6IGZhbHNlLAogICAgInBhdGgiOiBmYWxzZSwKICAgICJvcyI6IGZhbHNlCiAgfSwKICAiYnJvd3NlcnNsaXN0IjogWwogICAgIj4wLjIlIiwKICAgICJub3QgZGVhZCIsCiAgICAibm90IGllIDw9IDExIiwKICAgICJub3Qgb3BfbWluaSBhbGwiCiAgXSwK</text>
+        <text encoding="base64">ICAgICJjeTpydW4iOiAiY3lwcmVzcyBydW4iLAogICAgImN5Om9wZW4iOiAiY3lwcmVzcyBvcGVuIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZS1pbmRleCI6ICJeMS45LjEiLAo=</text>
+        <text encoding="base64">ICAiYnJvd3NlciI6IHsKICAgICJmcyI6IGZhbHNlLAogICAgInBhdGgiOiBmYWxzZSwKICAgICJvcyI6IGZhbHNlCiAgfSwKICAiYnJvd3NlcnNsaXN0IjogWwogICAgIj4wLjIlIiwKICAgICJub3QgZGVhZCIsCiAgICAibm90IGllIDw9IDExIiwKICAgICJub3Qgb3BfbWluaSBhbGwiCiAgXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ0cy1ub2RlLWRldiI6ICJeMS4wLjAtcHJlLjQxIiwK</text>
+        <text encoding="base64">ICAgICJzZXJ2ZS1pbmRleCI6ICJeMS45LjEiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJkb3RlbnYiOiAiXjguMi4wIiwK</text>
+        <text encoding="base64">ICAgICJ0cy1ub2RlLWRldiI6ICJeMS4wLjAtcHJlLjQxIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0cy1ub2RlIjogIl44LjYuMiIsCiAgICAidHlwZXNjcmlwdCI6ICJeMy45LjYiLAo=</text>
+        <text encoding="base64">ICAgICJkb3RlbnYiOiAiXjguMi4wIiwK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
@@ -391,9 +392,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>tsconfig</last-search>
+      <last-search>out</last-search>
       <last-offset />
-      <last-pattern>tsconfig</last-pattern>
+      <last-pattern>out</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
