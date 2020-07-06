@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>esmoduleinterop</entry>
         <entry>node_config_env</entry>
         <entry>esmodule</entry>
         <entry encoding="base64">XDxGb3JrVHNDaGVja2VyV2VicGFja1BsdWdpblw+</entry>
@@ -25,6 +24,7 @@
         <entry>out</entry>
         <entry encoding="base64">XDxnbG9iYWxDb25maWdcPg==</entry>
         <entry encoding="base64">XDxyZXNvbHZlQXN5bmNDb25maWdzXD4=</entry>
+        <entry>dirnam</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoAction</entry>
@@ -209,12 +209,12 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/server.ts" timestamp="1594043603907">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="15" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/server.ts" timestamp="1594046719411">
+        <mark key="'" line="22" column="51" />
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="39" />
+        <mark key="^" line="22" column="39" />
+        <mark key="." line="22" column="38" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.server.json" timestamp="1593546920126">
         <mark key="'" line="7" column="3" />
@@ -251,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/middlewares/session-middleware.ts" />
       <jump line="18" column="13" filename="$USER_HOME$/development/otonomo/consumer/src/state/api/endpoints.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
       <jump line="202" column="0" filename="$USER_HOME$/development/otonomo/consumer/src/components/Reports/GenerateReportComponent.tsx" />
@@ -348,21 +347,22 @@
       <jump line="12" column="48" filename="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" />
       <jump line="47" column="32" filename="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" />
       <jump line="2" column="9" filename="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" />
-      <jump line="6" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/server.ts" />
       <jump line="8" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" />
       <jump line="17" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/server.ts" />
+      <jump line="6" column="15" filename="$USER_HOME$/development/otonomo/consumer/server/server.ts" />
+      <jump line="22" column="51" filename="$USER_HOME$/development/otonomo/consumer/server/server.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFBhdGggZnJvbSAncGF0aCcK</text>
+      <register name="&quot;" type="4">
+        <text>__dirname</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>__dirname</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNvbHZlQXN5bmNDb25maWdzXD4=</text>
+        <text>dirnam</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uZmlnUHJlbG9hZFNldHVwKCkK</text>
@@ -401,9 +401,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZXNvbHZlQXN5bmNDb25maWdzXD4=</last-search>
+      <last-search>dirnam</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNvbHZlQXN5bmNDb25maWdzXD4=</last-pattern>
+      <last-pattern>dirnam</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
