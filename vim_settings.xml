@@ -146,7 +146,7 @@
       <file name="$USER_HOME$/development/otonomo/consumer/server/dist/config/default.js" timestamp="1593949337802">
         <mark key="'" line="0" column="1335" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.json" timestamp="1593936161637">
+      <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.json" timestamp="1594040068761">
         <mark key="'" line="5" column="19" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -165,12 +165,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.json" timestamp="1594037102145">
-        <mark key="'" line="11" column="13" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="3" column="6" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.json" timestamp="1594040702632">
+        <mark key="'" line="10" column="13" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="23" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.eslint.json" timestamp="1593759771949">
         <mark key="[" line="2" column="15" />
@@ -216,7 +216,7 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/.eslintrc.js" timestamp="1594035916975">
+      <file name="$USER_HOME$/development/otonomo/consumer/server/.eslintrc.js" timestamp="1594040681427">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="11" column="15" />
         <mark key="]" line="12" column="14" />
@@ -346,8 +346,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJvdXREaXIiOiAiZGlzdCIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -359,31 +359,31 @@
         <text>'trial-mode-report-screen'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJvdXREaXIiOiAiZGlzdCIsCg==</text>
+        <text encoding="base64">ICAgICJzdHJpY3QiOiB0cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0OmN5IjogIm5wbSBydW4gdGVzdDpjeTpkZXYiLAo=</text>
+        <text encoding="base64">ICAgICJvdXREaXIiOiAiZGlzdCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0OmUyZTpydW4iOiAic3RhcnQtc2VydmVyLWFuZC10ZXN0ICBcImNsaWVudCBlMmVcIiAzMDAwIGN5OnJ1biIsCg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0OmN5IjogIm5wbSBydW4gdGVzdDpjeTpkZXYiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0OmN5OmRldiI6ICJDWVBSRVNTX2Jhc2VVcmw9aHR0cDovL2xvY2FsaG9zdDozMDAwIHN0YXJ0LXNlcnZlci1hbmQtdGVzdCAgXCJucG0gcnVuIGNsaWVudCBlMmVcIiAzMDAwIGN5Om9wZW4iLAo=</text>
+        <text encoding="base64">ICAgICJ0ZXN0OmUyZTpydW4iOiAic3RhcnQtc2VydmVyLWFuZC10ZXN0ICBcImNsaWVudCBlMmVcIiAzMDAwIGN5OnJ1biIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJjeTpydW4iOiAiY3lwcmVzcyBydW4iLAogICAgImN5Om9wZW4iOiAiY3lwcmVzcyBvcGVuIiwK</text>
+        <text encoding="base64">ICAgICJ0ZXN0OmN5OmRldiI6ICJDWVBSRVNTX2Jhc2VVcmw9aHR0cDovL2xvY2FsaG9zdDozMDAwIHN0YXJ0LXNlcnZlci1hbmQtdGVzdCAgXCJucG0gcnVuIGNsaWVudCBlMmVcIiAzMDAwIGN5Om9wZW4iLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiYnJvd3NlciI6IHsKICAgICJmcyI6IGZhbHNlLAogICAgInBhdGgiOiBmYWxzZSwKICAgICJvcyI6IGZhbHNlCiAgfSwKICAiYnJvd3NlcnNsaXN0IjogWwogICAgIj4wLjIlIiwKICAgICJub3QgZGVhZCIsCiAgICAibm90IGllIDw9IDExIiwKICAgICJub3Qgb3BfbWluaSBhbGwiCiAgXSwK</text>
+        <text encoding="base64">ICAgICJjeTpydW4iOiAiY3lwcmVzcyBydW4iLAogICAgImN5Om9wZW4iOiAiY3lwcmVzcyBvcGVuIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZS1pbmRleCI6ICJeMS45LjEiLAo=</text>
+        <text encoding="base64">ICAiYnJvd3NlciI6IHsKICAgICJmcyI6IGZhbHNlLAogICAgInBhdGgiOiBmYWxzZSwKICAgICJvcyI6IGZhbHNlCiAgfSwKICAiYnJvd3NlcnNsaXN0IjogWwogICAgIj4wLjIlIiwKICAgICJub3QgZGVhZCIsCiAgICAibm90IGllIDw9IDExIiwKICAgICJub3Qgb3BfbWluaSBhbGwiCiAgXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ0cy1ub2RlLWRldiI6ICJeMS4wLjAtcHJlLjQxIiwK</text>
+        <text encoding="base64">ICAgICJzZXJ2ZS1pbmRleCI6ICJeMS45LjEiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJkb3RlbnYiOiAiXjguMi4wIiwK</text>
+        <text encoding="base64">ICAgICJ0cy1ub2RlLWRldiI6ICJeMS4wLjAtcHJlLjQxIiwK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoFile</text>
