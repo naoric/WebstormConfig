@@ -197,7 +197,7 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="/JavaScript Console" timestamp="1594072105355">
+      <file name="/JavaScript Console" timestamp="1594072168915">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/consumer-config/config-loader.ts" timestamp="1594071593884">
@@ -210,9 +210,9 @@
       <file name="buffer.js" timestamp="1594071820563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/package.json" timestamp="1594072050892">
+      <file name="$USER_HOME$/development/otonomo/consumer/server/package.json" timestamp="1594072152172">
         <mark key="'" line="76" column="3" />
-        <mark key="[" line="28" column="77" />
+        <mark key="[" line="31" column="26" />
         <mark key="]" line="28" column="77" />
         <mark key="." line="28" column="77" />
         <mark key="^" line="28" column="67" />
