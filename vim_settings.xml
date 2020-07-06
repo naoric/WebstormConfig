@@ -45,8 +45,8 @@
         <entry>action FindInPath</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yU29ydExpbmVz</entry>
         <entry>action GotoFile</entry>
-        <entry>action EditorSplitLine</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action EditorSplitLine</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -209,10 +209,8 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/server.ts" timestamp="1594041891817">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/server.ts" timestamp="1594042886867">
+        <mark key="]" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.server.json" timestamp="1593546920126">
         <mark key="'" line="7" column="3" />
@@ -234,10 +232,11 @@
         <mark key="." line="3" column="49" />
         <mark key="^" line="3" column="50" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" timestamp="1594042056238">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" timestamp="1594042930471">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/controllers/LoginAsController.ts" timestamp="1593760251858">
         <mark key="[" line="12" column="1" />
@@ -247,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="5" filename="$USER_HOME$/development/otonomo/consumer/server/config/prod.ts" />
       <jump line="7" column="33" filename="$USER_HOME$/development/otonomo/consumer/server/proxy/marketplace.ts" />
       <jump line="13" column="12" filename="$USER_HOME$/development/otonomo/consumer/.env" />
       <jump line="49" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/middlewares/session-middleware.ts" />
@@ -347,51 +345,52 @@
       <jump line="12" column="48" filename="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" />
       <jump line="47" column="32" filename="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" />
       <jump line="2" column="9" filename="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/server.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gKG5hbWVTdHJpbmc6IEZpZWxkTmFtZVN0cmluZykK</text>
+        <text encoding="base64">Y29uZmlnUHJlbG9hZFNldHVwKCkK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNvbHZlQXN5bmNDb25maWdzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>'trial-mode-report-screen'</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uZmlnUHJlbG9hZFNldHVwKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gKG5hbWVTdHJpbmc6IEZpZWxkTmFtZVN0cmluZykK</text>
+        <text encoding="base64">Y29uZmlnUHJlbG9hZFNldHVwKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVzb2x2ZUFzeW5jQ29uZmlncyB9IGZyb20gJ2NvbmZpZy9hc3luYycK</text>
+        <text encoding="base64">ZnVuY3Rpb24gY29uZmlnUHJlbG9hZFNldHVwKCkgewogIGRvdGVudi5jb25maWcoKQogIHByb2Nlc3MuZW52Lk5PREVfQ09ORklHX0RJUiA9IF9fZGlybmFtZQogIHByb2Nlc3MuZW52Lk5PREVfQ09ORklHX0VOViA9IHByb2Nlc3MuZW52LkVOVl9UWVBFCn0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gKG5hbWU6IHN0cmluZywgIG51bTogbnVtYmVyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gKG5hbWVTdHJpbmc6IEZpZWxkTmFtZVN0cmluZykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVzb2x2ZUFzeW5jQ29uZmlncyB9IGZyb20gJ2NvbmZpZy9hc3luYycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZ2xvYmFsQ29uZmlnOiBJQ29uZmlnID0gcmVxdWlyZSgnY29uZmlnJykKY29uc3QgeyByZXNvbHZlQXN5bmNDb25maWdzIH0gPSByZXF1aXJlKCdjb25maWcvYXN5bmMnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY29uZmlnUHJlbG9hZFNldHVwKCkgewogIGRvdGVudi5jb25maWcoKQogIHByb2Nlc3MuZW52Lk5PREVfQ09ORklHX0RJUiA9IF9fZGlybmFtZQogIHByb2Nlc3MuZW52Lk5PREVfQ09ORklHX0VOViA9IHByb2Nlc3MuZW52LkVOVl9UWVBFCn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwLnNldCgndHJ1c3QgcHJveHknLCAxKQo=</text>
+        <text encoding="base64">Y29uc3QgZ2xvYmFsQ29uZmlnOiBJQ29uZmlnID0gcmVxdWlyZSgnY29uZmlnJykKY29uc3QgeyByZXNvbHZlQXN5bmNDb25maWdzIH0gPSByZXF1aXJlKCdjb25maWcvYXN5bmMnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action EditorSplitLine</text>
       </register>
     </registers>
   </component>
