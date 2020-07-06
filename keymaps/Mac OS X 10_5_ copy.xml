@@ -43,6 +43,9 @@
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="SaveAll" />
   <action id="ViewSource" />
 </keymap>
