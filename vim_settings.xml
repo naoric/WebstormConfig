@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>runanything</entry>
         <entry>A-a</entry>
         <entry>(</entry>
         <entry>a-a</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxwcm92aWRlckFwcFJlcG9cPg==</entry>
         <entry encoding="base64">XDxidWlsZEZpbHRlckNvbmRpdGlvbnNcPg==</entry>
         <entry>express</entry>
+        <entry>cypress</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorCloneCaretBelow</entry>
@@ -154,6 +154,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/client/tsconfig.eslint.json" timestamp="1594153031496">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/permissions/src/app-attributes/repository/app-providers-repository.ts" timestamp="1594118863582">
         <mark key="'" line="43" column="68" />
       </file>
@@ -161,22 +166,15 @@
       <file name="$USER_HOME$/development/otonomo/permissions/src/resource-app/web/resource-app.controller.ts" timestamp="1594118715581" />
       <file name="$USER_HOME$/development/otonomo/accounts/ormconfig.ts" timestamp="1594118648790" />
       <file name="$USER_HOME$/development/otonomo/accounts/src/UserAccount/Account.entity.ts" timestamp="1594118575113" />
-      <file name="$USER_HOME$/development/otonomo/accounts/src/main.ts" timestamp="1594115343456" />
-      <file name="$USER_HOME$/development/otonomo/consumer/client/package.json" timestamp="1594152843333">
+      <file name="$USER_HOME$/development/otonomo/consumer/client/package.json" timestamp="1594153146441">
+        <mark key="'" line="90" column="15" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/accounts/src/service-config.ts" timestamp="1594115366303" />
-      <file name="$USER_HOME$/development/otonomo/accounts/management/commands/create-db.ts" timestamp="1594115377235" />
+      <file name="$USER_HOME$/development/otonomo/consumer/client/build.sh" timestamp="1594153018187" />
       <file name="$USER_HOME$/development/otonomo/permissions/src/app-attributes/repository/provider-app.entity.ts" timestamp="1594118843495">
         <mark key="'" line="0" column="21" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/accounts/.env" timestamp="1594114689506">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="16" />
       </file>
       <file name="$USER_HOME$/development/otonomo/accounts/compose/docker-compose.yml" timestamp="1594118621740" />
       <file name="$USER_HOME$/development/otonomo/accounts/package.json" timestamp="1594118584124">
@@ -198,17 +196,11 @@
         <mark key="." line="5" column="47" />
       </file>
       <file name="$USER_HOME$/development/otonomo/permissions/src/users/repository/user.entity.ts" timestamp="1594119460085" />
+      <file name="$USER_HOME$/development/otonomo/consumer/client/.prettierrc.yaml" timestamp="1594153000908" />
       <file name="$USER_HOME$/development/otonomo/permissions/src/resource-app/web/dto/find-by-resource.query.dto.ts" timestamp="1594119296793" />
+      <file name="$USER_HOME$/development/otonomo/consumer/client/.npmrc" timestamp="1594152998107" />
     </filemarks>
     <jumps>
-      <jump line="1" column="194" filename="$USER_HOME$/development/otonomo/consumer/server/dist/config/default.js" />
-      <jump line="0" column="1335" filename="$USER_HOME$/development/otonomo/consumer/server/dist/config/default.js" />
-      <jump line="14" column="21" filename="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/201.7223.93/WebStorm.app.vmoptions" />
-      <jump line="52" column="22" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
-      <jump line="1" column="0" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
-      <jump line="85" column="23" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
-      <jump line="43" column="14" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
-      <jump line="80" column="13" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
       <jump line="84" column="23" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
       <jump line="99" column="10" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
       <jump line="100" column="12" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
@@ -301,18 +293,26 @@
       <jump line="13" column="21" filename="$USER_HOME$/development/otonomo/permissions/src/app-attributes/repository/app-providers-repository.ts" />
       <jump line="18" column="17" filename="$USER_HOME$/development/otonomo/permissions/src/app-attributes/repository/app-providers-repository.ts" />
       <jump line="43" column="68" filename="$USER_HOME$/development/otonomo/permissions/src/app-attributes/repository/app-providers-repository.ts" />
+      <jump line="170" column="0" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="89" column="20" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="140" column="19" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="136" column="5" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="131" column="29" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="126" column="22" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="91" column="16" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
+      <jump line="90" column="15" filename="$USER_HOME$/development/otonomo/consumer/client/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJkb3RlbnYiOiAiXjguMi4wIiwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IiIsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>register</text>
+        <text encoding="base64">IiIsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>express</text>
+        <text>cypress</text>
       </register>
       <register name="0" type="4">
         <text>&quot;</text>
@@ -351,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>express</last-search>
+      <last-search>cypress</last-search>
       <last-offset />
-      <last-pattern>express</last-pattern>
+      <last-pattern>cypress</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
