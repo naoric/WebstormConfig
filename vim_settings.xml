@@ -45,8 +45,8 @@
         <entry>actionlist npm</entry>
         <entry>action run</entry>
         <entry>actionlist run</entry>
-        <entry>action GotoFile</entry>
         <entry>action ShowNpmScripts</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -183,7 +183,7 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/build.sh" timestamp="1594070507310">
+      <file name="$USER_HOME$/development/otonomo/consumer/server/build.sh" timestamp="1594103014221">
         <mark key="'" line="3" column="33" />
         <mark key="[" line="7" column="46" />
         <mark key="]" line="8" column="18" />
@@ -210,12 +210,12 @@
       <file name="buffer.js" timestamp="1594071820563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/package.json" timestamp="1594072152172">
+      <file name="$USER_HOME$/development/otonomo/consumer/server/package.json" timestamp="1594103039298">
         <mark key="'" line="76" column="3" />
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="28" column="77" />
-        <mark key="." line="28" column="77" />
-        <mark key="^" line="28" column="67" />
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="19" />
+        <mark key="." line="28" column="18" />
+        <mark key="^" line="28" column="19" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.json" timestamp="1594069256815">
         <mark key="'" line="11" column="13" />
@@ -364,10 +364,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.env</text>
+        <text encoding="base64">Tk9ERV9QQVRIPS4gRU5WX1RZUEU9ZGV2ICBucG0gcnVuIGNsZWFuICYmIGNwIC5lbnYgLi9kaXN0LyAmJiB0c2MgLXcgLXAgdHNjb25maWcuanNvbg==</text>
       </register>
       <register name="-" type="4">
-        <text>.env</text>
+        <text encoding="base64">Tk9ERV9QQVRIPS4gRU5WX1RZUEU9ZGV2ICBucG0gcnVuIGNsZWFuICYmIGNwIC5lbnYgLi9kaXN0LyAmJiB0c2MgLXcgLXAgdHNjb25maWcuanNvbg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
@@ -403,7 +403,7 @@
         <text encoding="base64">ZnVuY3Rpb24gY29uZmlnUHJlbG9hZFNldHVwKCkgewogIGRvdGVudi5jb25maWcoKQogIHByb2Nlc3MuZW52Lk5PREVfQ09ORklHX0RJUiA9IHJlc29sdmUoX19kaXJuYW1lLCAnY29uc3VtZXItY29uZmlnJykKICBjb25zb2xlLndhcm4ocHJvY2Vzcy5lbnYuTk9ERV9DT05GSUdfRElSKQogIHByb2Nlc3MuZW52Lk5PREVfQ09ORklHX0VOViA9IHByb2Nlc3MuZW52LkVOVl9UWVBFCn0K</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowNpmScripts</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
