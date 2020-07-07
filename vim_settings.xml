@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>out</entry>
         <entry>dirnam</entry>
         <entry encoding="base64">XDxyZXNvbHZlQXN5bmNDb25maWdzXD4=</entry>
         <entry>import</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDwiXD4=</entry>
         <entry>a-i</entry>
         <entry>console</entry>
+        <entry>concurrently</entry>
       </history-search>
       <history-cmd>
         <entry>action StringManipulation.Sort</entry>
@@ -155,8 +155,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/package.json" timestamp="1594111203469">
-        <mark key="'" line="37" column="32" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/package.json" timestamp="1594113803161">
+        <mark key="'" line="30" column="53" />
         <mark key="[" line="30" column="96" />
         <mark key="]" line="30" column="96" />
         <mark key="^" line="30" column="149" />
@@ -253,8 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="16" filename="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" />
-      <jump line="1" column="6" filename="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" />
       <jump line="60" column="17" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
       <jump line="19" column="37" filename="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" />
       <jump line="20" column="18" filename="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" />
@@ -353,6 +351,8 @@
       <jump line="20" column="6" filename="$USER_HOME$/development/otonomo/consumer/server/consumer-config/config-loader.ts" />
       <jump line="53" column="2" filename="$USER_HOME$/development/otonomo/consumer/server/consumer-config/config-loader.ts" />
       <jump line="21" column="6" filename="$USER_HOME$/development/otonomo/consumer/server/consumer-config/config-loader.ts" />
+      <jump line="21" column="22" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
+      <jump line="30" column="53" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -364,7 +364,7 @@
         <text>nodePath=./dist envType</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>concurrently</text>
       </register>
       <register name="0" type="4">
         <text>&quot;</text>
@@ -403,9 +403,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>console</last-search>
+      <last-search>concurrently</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>concurrently</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
