@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>dirnam</entry>
         <entry encoding="base64">XDxyZXNvbHZlQXN5bmNDb25maWdzXD4=</entry>
         <entry>import</entry>
         <entry encoding="base64">XDxwYWNrYWdlX2Rpclw+</entry>
@@ -25,16 +24,15 @@
         <entry>a-i</entry>
         <entry>console</entry>
         <entry>concurrently</entry>
+        <entry>migra</entry>
       </history-search>
       <history-cmd>
-        <entry>action StringManipulation.Sort</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action MoveStatementDown</entry>
         <entry>action EditorCloneCaretBelow</entry>
         <entry>actionlist debug</entry>
         <entry encoding="base64">bm1hcCA8Qy1kPiA6YWN0aW9uIERlYnVnPENSPg==</entry>
         <entry>action Debug</entry>
-        <entry>action SearchEverywhere</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yVW5pbmRlbnRTZWxlY3Rpb24=</entry>
         <entry>action EditorSplitLine</entry>
         <entry encoding="base64">bm1hcCA8QS1hPiA6YWN0aW9uIFNob3dOcG1TY3JpcHRzPENSPg==</entry>
@@ -47,6 +45,8 @@
         <entry>action GotoFile</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action EditorDuplicateLines</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -149,11 +149,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/development/otonomo/consumer/tsconfig.json" timestamp="1594040068761">
-        <mark key="'" line="5" column="19" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="/fragment.js" timestamp="1594071813515">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/accounts/src/main.ts" timestamp="1594115343456" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/build.sh" timestamp="1594103014221">
+        <mark key="'" line="3" column="33" />
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="17" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/accounts/src/service-config.ts" timestamp="1594115366303" />
+      <file name="/JavaScript Console" timestamp="1594106966425">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/accounts/management/commands/create-db.ts" timestamp="1594115377235" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/consumer-config/config-loader.ts" timestamp="1594110956183">
+        <mark key="'" line="21" column="6" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="buffer.js" timestamp="1594071820563">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/otonomo/accounts/.env" timestamp="1594114689506">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="16" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/package.json" timestamp="1594113803161">
         <mark key="'" line="30" column="53" />
@@ -162,32 +187,12 @@
         <mark key="^" line="30" column="149" />
         <mark key="." line="30" column="96" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" timestamp="1593954506693">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.json" timestamp="1594069256815">
         <mark key="'" line="11" column="13" />
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="21" />
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/tmp.js" timestamp="1594065748187">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="23" />
-      </file>
-      <file name="/fragment.js" timestamp="1594071813515">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/config/default.js" timestamp="1593956971242">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1594107102709">
         <mark key="'" line="99" column="0" />
@@ -206,29 +211,21 @@
         <mark key="^" line="11" column="74" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/build.sh" timestamp="1594103014221">
-        <mark key="'" line="3" column="33" />
-        <mark key="[" line="7" column="46" />
-        <mark key="]" line="8" column="18" />
-        <mark key="^" line="8" column="18" />
-        <mark key="." line="8" column="17" />
+      <file name="$USER_HOME$/development/otonomo/accounts/package.json" timestamp="1594114782012">
+        <mark key="'" line="85" column="9" />
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="44" />
+        <mark key="^" line="24" column="88" />
+        <mark key="." line="21" column="44" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/.npmignore" timestamp="1594067731127">
-        <mark key="'" line="0" column="5" />
+      <file name="/" timestamp="1594115518401">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/.eslintrc.js" timestamp="1594040681427">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="13" />
-        <mark key="^" line="12" column="14" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1594106966425">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/development/otonomo/accounts/src/UserAccount/invitations.controller.ts" timestamp="1594115535007">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="3" column="34" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/lib/paths.ts" timestamp="1594069924322">
         <mark key="[" line="0" column="26" />
@@ -236,26 +233,14 @@
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/consumer-config/config-loader.ts" timestamp="1594110956183">
-        <mark key="'" line="21" column="6" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" timestamp="1594069505478">
         <mark key="[" line="1" column="46" />
         <mark key="]" line="1" column="46" />
         <mark key="." line="1" column="45" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="buffer.js" timestamp="1594071820563">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="17" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
-      <jump line="19" column="37" filename="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" />
-      <jump line="20" column="18" filename="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" />
       <jump line="2" column="6" filename="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" />
       <jump line="11" column="9" filename="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" />
       <jump line="38" column="5" filename="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" />
@@ -353,18 +338,21 @@
       <jump line="21" column="6" filename="$USER_HOME$/development/otonomo/consumer/server/consumer-config/config-loader.ts" />
       <jump line="21" column="22" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
       <jump line="30" column="53" filename="$USER_HOME$/development/otonomo/consumer/server/package.json" />
+      <jump line="81" column="6" filename="$USER_HOME$/development/otonomo/accounts/package.json" />
+      <jump line="82" column="7" filename="$USER_HOME$/development/otonomo/accounts/package.json" />
+      <jump line="85" column="9" filename="$USER_HOME$/development/otonomo/accounts/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>nodePath=./dist envType</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>nodePath=./dist envType</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>concurrently</text>
+        <text>migra</text>
       </register>
       <register name="0" type="4">
         <text>&quot;</text>
@@ -397,15 +385,15 @@
         <text encoding="base64">aW1wb3J0IHsgcmVzb2x2ZSB9IGZyb20gJ3BhdGgnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDuplicateLines</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>concurrently</last-search>
+      <last-search>migra</last-search>
       <last-offset />
-      <last-pattern>concurrently</last-pattern>
+      <last-pattern>migra</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
