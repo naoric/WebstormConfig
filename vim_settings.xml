@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>config</entry>
         <entry>runanything</entry>
         <entry>A-a</entry>
         <entry>(</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxWaWV3RW50aXR5XD4=</entry>
         <entry encoding="base64">XDxwcm92aWRlckFwcFJlcG9cPg==</entry>
         <entry encoding="base64">XDxidWlsZEZpbHRlckNvbmRpdGlvbnNcPg==</entry>
+        <entry>express</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorCloneCaretBelow</entry>
@@ -42,11 +42,11 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action EditorDuplicateLines</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action SelectNextOccurrence</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action GotoFile</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -162,6 +162,11 @@
       <file name="$USER_HOME$/development/otonomo/accounts/ormconfig.ts" timestamp="1594118648790" />
       <file name="$USER_HOME$/development/otonomo/accounts/src/UserAccount/Account.entity.ts" timestamp="1594118575113" />
       <file name="$USER_HOME$/development/otonomo/accounts/src/main.ts" timestamp="1594115343456" />
+      <file name="$USER_HOME$/development/otonomo/consumer/client/package.json" timestamp="1594152843333">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/development/otonomo/accounts/src/service-config.ts" timestamp="1594115366303" />
       <file name="$USER_HOME$/development/otonomo/accounts/management/commands/create-db.ts" timestamp="1594115377235" />
       <file name="$USER_HOME$/development/otonomo/permissions/src/app-attributes/repository/provider-app.entity.ts" timestamp="1594118843495">
@@ -172,13 +177,6 @@
         <mark key="]" line="6" column="17" />
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="16" />
-      </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/package.json" timestamp="1594113803161">
-        <mark key="'" line="30" column="53" />
-        <mark key="[" line="30" column="96" />
-        <mark key="]" line="30" column="96" />
-        <mark key="^" line="30" column="149" />
-        <mark key="." line="30" column="96" />
       </file>
       <file name="$USER_HOME$/development/otonomo/accounts/compose/docker-compose.yml" timestamp="1594118621740" />
       <file name="$USER_HOME$/development/otonomo/accounts/package.json" timestamp="1594118584124">
@@ -308,54 +306,54 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QEVudGl0eSgpCg==</text>
+        <text encoding="base64">ICAgICJkb3RlbnYiOiAiXjguMi4wIiwK</text>
       </register>
       <register name="-" type="4">
         <text>register</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWlsZEZpbHRlckNvbmRpdGlvbnNcPg==</text>
+        <text>express</text>
       </register>
       <register name="0" type="4">
         <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEVudGl0eSgpCg==</text>
+        <text encoding="base64">ICAgICJkb3RlbnYiOiAiXjguMi4wIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5OT0RFX0NPTkZJR19ESVIpCg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvc2VyaWFsaXplLWphdmFzY3JpcHQiOiAiXjEuNS4wIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLndhcm4ocHJvY2Vzcy5lbnYuTk9ERV9DT05GSUdfRElSKQo=</text>
+        <text encoding="base64">QEVudGl0eSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJpZ25vcmUiOiBbImRpc3QvKiIsICJub2RlX21vZHVsZXMvKiJdLAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5OT0RFX0NPTkZJR19ESVIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLndhcm4ocHJvY2Vzcy5lbnYuTk9ERV9DT05GSUdfRElSKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJpZ25vcmUiOiBbImRpc3QvKiIsICJub2RlX21vZHVsZXMvKiJdLAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">zqkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cgp2bWFw</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxidWlsZEZpbHRlckNvbmRpdGlvbnNcPg==</last-search>
+      <last-search>express</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWlsZEZpbHRlckNvbmRpdGlvbnNcPg==</last-pattern>
+      <last-pattern>express</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
