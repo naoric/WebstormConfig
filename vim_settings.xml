@@ -210,12 +210,11 @@
       <file name="buffer.js" timestamp="1594071820563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/package.json" timestamp="1594103039298">
-        <mark key="'" line="76" column="3" />
-        <mark key="[" line="28" column="19" />
-        <mark key="]" line="28" column="19" />
-        <mark key="." line="28" column="18" />
-        <mark key="^" line="28" column="19" />
+      <file name="$USER_HOME$/development/otonomo/consumer/server/package.json" timestamp="1594105370506">
+        <mark key="'" line="80" column="3" />
+        <mark key="[" line="30" column="78" />
+        <mark key="]" line="30" column="78" />
+        <mark key="." line="30" column="78" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/tsconfig.json" timestamp="1594069256815">
         <mark key="'" line="11" column="13" />
@@ -364,10 +363,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Tk9ERV9QQVRIPS4gRU5WX1RZUEU9ZGV2ICBucG0gcnVuIGNsZWFuICYmIGNwIC5lbnYgLi9kaXN0LyAmJiB0c2MgLXcgLXAgdHNjb25maWcuanNvbg==</text>
+        <text encoding="base64">bnBtIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Tk9ERV9QQVRIPS4gRU5WX1RZUEU9ZGV2ICBucG0gcnVuIGNsZWFuICYmIGNwIC5lbnYgLi9kaXN0LyAmJiB0c2MgLXcgLXAgdHNjb25maWcuanNvbg==</text>
+        <text encoding="base64">bnBtIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
