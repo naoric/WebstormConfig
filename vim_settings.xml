@@ -27,8 +27,6 @@
         <entry>console</entry>
       </history-search>
       <history-cmd>
-        <entry>action FileStructurePopup</entry>
-        <entry>actionlist runanything</entry>
         <entry>action StringManipulation.Sort</entry>
         <entry>action MoveStatementUp</entry>
         <entry>action MoveStatementDown</entry>
@@ -47,6 +45,8 @@
         <entry>action GotoAction</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoFile</entry>
+        <entry>action SelectNextOccurrence</entry>
+        <entry>action EditorDuplicateLines</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -155,12 +155,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/package.json" timestamp="1594110766961">
+      <file name="$USER_HOME$/development/otonomo/consumer/server/package.json" timestamp="1594111203469">
         <mark key="'" line="37" column="32" />
-        <mark key="[" line="86" column="23" />
-        <mark key="]" line="86" column="38" />
-        <mark key="^" line="86" column="38" />
-        <mark key="." line="86" column="37" />
+        <mark key="[" line="30" column="96" />
+        <mark key="]" line="30" column="96" />
+        <mark key="^" line="30" column="149" />
+        <mark key="." line="30" column="96" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/webpack.config.js" timestamp="1593954506693">
         <mark key="'" line="45" column="0" />
@@ -236,11 +236,10 @@
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/consumer/server/consumer-config/config-loader.ts" timestamp="1594110731296">
+      <file name="$USER_HOME$/development/otonomo/consumer/server/consumer-config/config-loader.ts" timestamp="1594110956183">
         <mark key="'" line="21" column="6" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
-        <mark key="^" line="7" column="46" />
         <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/development/otonomo/consumer/server/config/config-loader.ts" timestamp="1594069505478">
@@ -359,25 +358,25 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>dist/server.js</text>
+        <text>nodePath=./dist envType</text>
       </register>
       <register name="-" type="4">
-        <text>dist/server.js</text>
+        <text>nodePath=./dist envType</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="4">
-        <text>\</text>
+        <text>&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLndhcm4ocHJvY2Vzcy5lbnYuTk9ERV9DT05GSUdfRElSKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5OT0RFX0NPTkZJR19ESVIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJpZ25vcmUiOiBbImRpc3QvKiIsICJub2RlX21vZHVsZXMvKiJdLAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLndhcm4ocHJvY2Vzcy5lbnYuTk9ERV9DT05GSUdfRElSKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJpZ25vcmUiOiBbImRpc3QvKiIsICJub2RlX21vZHVsZXMvKiJdLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -386,19 +385,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">zqkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Cgp2bWFw</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVzb2x2ZSB9IGZyb20gJ3BhdGgnCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IHsgcmVzb2x2ZSB9IGZyb20gJ3BhdGgnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action EditorDuplicateLines</text>
       </register>
     </registers>
   </component>
