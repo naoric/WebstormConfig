@@ -43,10 +43,10 @@
         <entry>action SelectNextOccurrence</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action GotoFile</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -162,11 +162,10 @@
       <file name="$USER_HOME$/development/otonomo/permissions/src/app-attributes/repository/app-providers-repository.ts" timestamp="1594118863582">
         <mark key="'" line="43" column="68" />
       </file>
-      <file name="$USER_HOME$/development/otonomo/accounts/src/UserAccount/UserToAccount.entity.ts" timestamp="1594118409487" />
       <file name="$USER_HOME$/development/otonomo/permissions/src/resource-app/web/resource-app.controller.ts" timestamp="1594118715581" />
       <file name="$USER_HOME$/development/otonomo/accounts/ormconfig.ts" timestamp="1594118648790" />
       <file name="$USER_HOME$/development/otonomo/accounts/src/UserAccount/Account.entity.ts" timestamp="1594118575113" />
-      <file name="$USER_HOME$/development/otonomo/consumer/client/package.json" timestamp="1594191463787">
+      <file name="$USER_HOME$/development/otonomo/consumer/client/package.json" timestamp="1594203576788">
         <mark key="'" line="108" column="3" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -181,6 +180,7 @@
       <file name="$USER_HOME$/development/otonomo/permissions/src/app-attributes/repository/provider-app.entity.ts" timestamp="1594118843495">
         <mark key="'" line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/development/otonomo/consumer/server/create-consumer-db.ts" timestamp="1594203501055" />
       <file name="$USER_HOME$/development/otonomo/accounts/compose/docker-compose.yml" timestamp="1594118621740" />
       <file name="$USER_HOME$/development/otonomo/accounts/package.json" timestamp="1594118584124">
         <mark key="'" line="53" column="5" />
@@ -347,7 +347,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
   </component>
