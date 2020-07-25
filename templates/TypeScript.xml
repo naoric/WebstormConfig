@@ -5,8 +5,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="kv" value="$KEY$: {$END$}," description="key value" toReformat="false" toShortenFQNames="true">
-    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="kv" value="{$END$}," description="key value" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="TypeScript" value="true" />
     </context>
