@@ -1,0 +1,9 @@
+<templateSet group="NestJS">
+  <template name="ov" value=".overrideProvider($provider$)&#10;.useValue($END$)" description="Override and SetValue" toReformat="false" toShortenFQNames="true">
+    <variable name="provider" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
