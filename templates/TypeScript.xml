@@ -5,7 +5,8 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="kv" value="{$END$}," description="key value" toReformat="false" toShortenFQNames="true">
+  <template name="kv" value="$KEY$: {$END$}," description="key value" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
@@ -32,12 +33,6 @@
   <template name="gn" value="function* $NAME$($ARGS$) {&#10;  $END$&#10;}" description="function generator" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="ef" value="export { $END$ } from '$MODULE$'" description="export from" toReformat="false" toShortenFQNames="true">
-    <variable name="MODULE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>

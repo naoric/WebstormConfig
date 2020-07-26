@@ -1,28 +1,20 @@
 <application>
   <component name="PostfixTemplates">
-    <template id="pp@userDefined" key=".pp" provider="builtin.js" language-level="ES5" topmost="true">
-      <conditions />
-      <template name="fakeKey" value="$END$($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
-    </template>
-    <template id="fp@userDefined" key=".fp" provider="builtin.js" language-level="ES5" topmost="false">
-      <conditions />
-      <template name="fakeKey" value="import $EXPR$ from 'lodash/fp/$EXPR$'" description="" toReformat="true" toShortenFQNames="true" />
-    </template>
-    <template id="as@userDefined" key=".as" provider="builtin.js" language-level="ES6" topmost="true">
-      <conditions />
-      <template name="fakeKey" value="assert($EXPR$)" toReformat="true" toShortenFQNames="true" />
-    </template>
     <template id="dd@userDefined" key=".df" provider="builtin.js" language-level="ES6" topmost="true">
       <conditions />
       <template name="fakeKey" value="const { $END$ } = $EXPR$" description="" toReformat="true" toShortenFQNames="true" />
     </template>
-    <template id="c@userDefined" key=".c" provider="builtin.js" language-level="ES6" topmost="true">
+    <template id="pp@userDefined" key=".pp" provider="builtin.js" language-level="ES5" topmost="true">
       <conditions />
-      <template name="fakeKey" value="const name$END$ = $EXPR$" description="" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="$END$($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
     </template>
     <template id="e@userDefined" key=".e" provider="builtin.js" language-level="ES5" topmost="true">
       <conditions />
-      <template name="fakeKey" value="expect($EXPR$).$END$" description="" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="expect($EXPR$).$END$" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="fp@userDefined" key=".fp" provider="builtin.js" language-level="ES5" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="import $EXPR$ from 'lodash/fp/$EXPR$'" description="" toReformat="true" toShortenFQNames="true" />
     </template>
     <template id="fp@userDefined" key=".fp" provider="builtin.ts" topmost="true">
       <conditions />

@@ -5,9 +5,5 @@
       <action id="ReformatWithPrettierAction" />
       <action id="SaveAll" />
     </macro>
-    <macro name="Set to UPPER_SCREAM">
-      <action id="osmedile.intellij.stringmanip.WordsAndCamelToConstantStyleCaseAction" />
-      <shortuct text="ESCAPE" />
-    </macro>
   </component>
 </application>
