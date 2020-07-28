@@ -29,7 +29,7 @@
       <option name="JSX_HTML" value="true" />
     </context>
   </template>
-  <template name="withs" value="import createStyles from '@material-ui/styles/createStyles'&#10;import withStyles, { WithStyles } from '@material-ui/styles/withStyles'" description="import material style" toReformat="false" toShortenFQNames="true">
+  <template name="withs" value="import createStyles from '@material-ui/styles/createStyles'&#10;import withStyles, { WithStyles } from '@material-ui/styles/withStyles'" description="import material style" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
