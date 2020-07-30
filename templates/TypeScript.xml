@@ -42,4 +42,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="a" value="assert($INVARIANT$, $END$)" description="assert" toReformat="false" toShortenFQNames="true">
+    <variable name="INVARIANT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TS_EXPRESSION" value="true" />
+      <option name="TS_STATEMENT" value="true" />
+      <option name="TS_TOP_LEVEL_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
