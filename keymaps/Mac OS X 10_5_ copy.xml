@@ -26,10 +26,6 @@
   <action id="Macro.Format and Save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
-  <action id="NextDiff">
-    <keyboard-shortcut first-keystroke="f7" />
-    <keyboard-shortcut first-keystroke="shift left_parenthesis" />
-  </action>
   <action id="QuickChangeScheme" />
   <action id="RunJsbtTask">
     <keyboard-shortcut first-keystroke="alt f11" />
